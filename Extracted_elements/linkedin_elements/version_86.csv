@@ -1,0 +1,65 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,nav__logo-link,html > body > nav > a,0,LinkedIn,0,LinkedIn,A,/html/body/nav/a,A,LinkedIn,1,135,36,15
+40,nav__button-tertiary,html > body > nav > a:nth-of-type(2),0,Join now,0,Join now,A,/html/body/nav/a[2],A,Join now,2,91,962,12
+40,nav__button-secondary,html > body > nav > a:nth-of-type(3),0,Sign in,0,Sign in,A,/html/body/nav/a[3],A,Sign in,3,99,1065,12
+24,banner__link,html > body > div > div > a,0,"Help and resources during the COVID-19 outbreak.
+                
+                  Learn more",0,Help and r,A,/html/body/div/div/a,A,"Help and resources during the COVID-19 outbreak.
+                
+                  Learn more",4,571,36,86
+60,intent-module__button,html > body > main > section > div:nth-of-type(2) > ul > li > a,0,Search for a job,0,Search for,A,/html/body/main/section/div[2]/ul/li/a,A,Search for a job,5,408,36,356
+60,intent-module__button,html > body > main > section > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Find a person you know,0,Find a per,A,/html/body/main/section/div[2]/ul/li[2]/a,A,Find a person you know,6,408,36,432
+60,intent-module__button,html > body > main > section > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Learn a new skill,0,Learn a ne,A,/html/body/main/section/div[2]/ul/li[3]/a,A,Learn a new skill,7,408,36,508
+124,related-content-card related-content-card--link,html > body > main > section:nth-of-type(2) > div > section > ul > li > a,0,Remote Working: Setting Yourself and Your Teams Up for Success,0,Remote Wor,A,/html/body/main/section[2]/div/section/ul/li/a,A,Remote Working: Setting Yourself and Your Teams Up for Success,8,284,534,965
+124,related-content-card related-content-card--link,html > body > main > section:nth-of-type(2) > div > section > ul > li:nth-of-type(2) > a,0,Finding a Job during Challenging Economic Times,0,Finding a ,A,/html/body/main/section[2]/div/section/ul/li[2]/a,A,Finding a Job during Challenging Economic Times,9,284,850,965
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li > a,0,Remote Jobs,0,Remote Job,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li/a,A,Remote Jobs,10,160,516,1374
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,Warehouse Jobs,0,Warehouse ,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[2]/a,A,Warehouse Jobs,11,193,682,1374
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3) > a,0,Amazon Jobs,0,Amazon Job,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[3]/a,A,Amazon Jobs,12,164,881,1374
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(4) > a,0,Engineering,0,Engineerin,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[4]/a,A,Engineering,13,150,516,1442
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(5) > a,0,Business Development,0,Business D,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[5]/a,A,Business Development,14,250,672,1442
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(6) > a,0,Finance,0,Finance,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[6]/a,A,Finance,15,112,927,1442
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(7) > a,0,Administrative Assistant,0,Administra,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[7]/a,A,Administrative Assistant,16,263,516,1510
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(8) > a,0,Retail Associate,0,Retail Ass,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[8]/a,A,Retail Associate,17,186,785,1510
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(9) > a,0,Customer Service,0,Customer S,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[9]/a,A,Customer Service,18,204,516,1578
+56,pill,html > body > main > section:nth-of-type(3) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(10) > a,0,Operations,0,Operations,A,/html/body/main/section[3]/div/div[2]/div/div/ul/li[10]/a,A,Operations,19,142,726,1578
+56,pill pill--transparent,html > body > main > section:nth-of-type(4) > div > a,0,Post a job,0,Post a job,A,/html/body/main/section[4]/div/a,A,Post a job,20,132,516,1831
+32,slide-list__nav-button,html > body > main > div > section > header > div > div > button,0,,0,,BUTTON,/html/body/main/div/section/header/div/div/button,BUTTON,Previous,21,74,46,2187
+32,slide-list__nav-button,html > body > main > div > section > header > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/main/div/section/header/div/div[2]/button,BUTTON,Next,22,43,140,2187
+56,pill pill--transparent,html > body > main > section:nth-of-type(5) > div > div > div > a,0,Find people you know,0,Find peopl,A,/html/body/main/section[5]/div/div/div/a,A,Find people you know,23,241,36,3105
+56,pill pill--blue pill--join-cta,html > body > main > section:nth-of-type(7) > div > a,0,Get started,0,Get starte,A,/html/body/main/section[7]/div/a,A,Get started,24,139,36,4393
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li > a,0,Sign Up,0,Sign Up,A,/html/body/main/section[8]/div/div/div/ul/li/a,A,Sign Up,25,53,300,5030
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(2) > a,0,Help Center,0,Help Cente,A,/html/body/main/section[8]/div/div/div/ul/li[2]/a,A,Help Center,26,81,300,5055
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(3) > a,0,About,0,About,A,/html/body/main/section[8]/div/div/div/ul/li[3]/a,A,About,27,41,300,5080
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(4) > a,0,Press,0,Press,A,/html/body/main/section[8]/div/div/div/ul/li[4]/a,A,Press,28,38,300,5105
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(5) > a,0,Blog,0,Blog,A,/html/body/main/section[8]/div/div/div/ul/li[5]/a,A,Blog,29,30,300,5130
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(6) > a,0,Careers,0,Careers,A,/html/body/main/section[8]/div/div/div/ul/li[6]/a,A,Careers,30,53,300,5155
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div > ul > li:nth-of-type(7) > a,0,Developers,0,Developers,A,/html/body/main/section[8]/div/div/div/ul/li[7]/a,A,Developers,31,76,300,5180
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(2) > ul > li > a,0,Learning,0,Learning,A,/html/body/main/section[8]/div/div/div[2]/ul/li/a,A,Learning,32,59,516,5030
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/main/section[8]/div/div/div[2]/ul/li[2]/a,A,Jobs,33,33,516,5055
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Salary,0,Salary,A,/html/body/main/section[8]/div/div/div[2]/ul/li[3]/a,A,Salary,34,42,516,5080
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Mobile,0,Mobile,A,/html/body/main/section[8]/div/div/div[2]/ul/li[4]/a,A,Mobile,35,45,516,5105
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,ProFinder,0,ProFinder,A,/html/body/main/section[8]/div/div/div[2]/ul/li[5]/a,A,ProFinder,36,66,516,5130
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(3) > ul > li > a,0,Talent,0,Talent,A,/html/body/main/section[8]/div/div/div[3]/ul/li/a,A,Talent,37,41,732,5030
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Marketing,0,Marketing,A,/html/body/main/section[8]/div/div/div[3]/ul/li[2]/a,A,Marketing,38,68,732,5055
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Sales,0,Sales,A,/html/body/main/section[8]/div/div/div[3]/ul/li[3]/a,A,Sales,39,36,732,5080
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Learning,0,Learning,A,/html/body/main/section[8]/div/div/div[3]/ul/li[4]/a,A,Learning,40,59,732,5105
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li > a,0,Members,0,Members,A,/html/body/main/section[8]/div/div/div[4]/ul/li/a,A,Members,41,63,948,5030
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/main/section[8]/div/div/div[4]/ul/li[2]/a,A,Jobs,42,33,948,5055
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Companies,0,Companies,A,/html/body/main/section[8]/div/div/div[4]/ul/li[3]/a,A,Companies,43,76,948,5080
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Salaries,0,Salaries,A,/html/body/main/section[8]/div/div/div[4]/ul/li[4]/a,A,Salaries,44,54,948,5105
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Featured,0,Featured,A,/html/body/main/section[8]/div/div/div[4]/ul/li[5]/a,A,Featured,45,60,948,5130
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Learning,0,Learning,A,/html/body/main/section[8]/div/div/div[4]/ul/li[6]/a,A,Learning,46,59,948,5155
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Posts,0,Posts,A,/html/body/main/section[8]/div/div/div[4]/ul/li[7]/a,A,Posts,47,38,948,5180
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Articles,0,Articles,A,/html/body/main/section[8]/div/div/div[4]/ul/li[8]/a,A,Articles,48,52,948,5205
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Schools,0,Schools,A,/html/body/main/section[8]/div/div/div[4]/ul/li[9]/a,A,Schools,49,54,948,5230
+17,directory__link,html > body > main > section:nth-of-type(8) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,News,0,News,A,/html/body/main/section[8]/div/div/div[4]/ul/li[10]/a,A,News,50,37,948,5255
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(2) > a,0,About,0,About,A,/html/body/footer/ul/li[2]/a,A,About,51,36,168,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(3) > a,0,Accessibility,0,Accessibil,A,/html/body/footer/ul/li[3]/a,A,Accessibility,52,75,219,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(4) > a,0,User Agreement,0,User Agree,A,/html/body/footer/ul/li[4]/a,A,User Agreement,53,96,310,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(5) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/footer/ul/li[5]/a,A,Privacy Policy,54,82,422,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(6) > a,0,Cookie Policy,0,Cookie Pol,A,/html/body/footer/ul/li[6]/a,A,Cookie Policy,55,80,521,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(7) > a,0,Copyright Policy,0,Copyright ,A,/html/body/footer/ul/li[7]/a,A,Copyright Policy,56,97,616,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(8) > a,0,Brand Policy,0,Brand Poli,A,/html/body/footer/ul/li[8]/a,A,Brand Policy,57,74,730,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(9) > a,0,Guest Controls,0,Guest Cont,A,/html/body/footer/ul/li[9]/a,A,Guest Controls,58,88,819,5306
+34,li-footer__item-link,html > body > footer > ul > li:nth-of-type(10) > a,0,Community Guidelines,0,Community ,A,/html/body/footer/ul/li[10]/a,A,Community Guidelines,59,133,924,5306
+18,language-selector__button,html > body > footer > ul > li:nth-of-type(11) > div > button,0,,0,,BUTTON,/html/body/footer/ul/li[11]/div/button,BUTTON,Language,60,80,1073,5314

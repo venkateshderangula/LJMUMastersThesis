@@ -1,0 +1,43 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+1,u-hiddenVisually focusable,html > body > a,0,Passer au contenu,0,Passer au ,A,/html/body/a,A,Passer au contenu,1,1,0,0
+48,js-nav js-tooltip js-dynamic-tooltip,li#global-nav-home > a,0,"Accueil
+      Accueil
+      Accueil, page courante.",0,"Accueil
+  ",A,/html/body/div/div/div/div/div/ul/li/a,A,"Accueil
+      Accueil
+      Accueil, page courante.",2,102,155,0
+48,js-nav js-tooltip js-dynamic-tooltip,li#global-nav-moments > a,0,"Moments
+        Moments
+        Moments, page courante.",0,"Moments
+  ",A,/html/body/div/div/div/div/div/ul/li[2]/a,A,"Moments
+        Moments
+        Moments, page courante.",3,112,257,0
+13,dropdown-toggle js-dropdown-toggle,div#doc > div > div > div > div > div > ul > li > a,0,Langue : français,0,Langue : f,A,/html/body/div/div/div/div/div/div/ul/li/a,A,Langue : français,4,114,901,17
+37,tweet-text,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > p > a,0,#2014 Flashback: Paying tribute to the late + great Lou Reed. @TheGRAMMYs  #NFTO,0,#2014 Flas,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/p/a,A,#2014 Flashback: Paying tribute to the late + great Lou Reed. @TheGRAMMYs  #NFTO,5,384,182,467
+17,tweet-username,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(2) > a,0,Tweet et photo par @JaredLeto,0,Tweet et p,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/p[2]/a,A,Tweet et photo par @JaredLeto,6,195,182,527
+20,time tweet-time,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > a,0,12:40 AM - 30 Dec 2014,0,12:40 AM -,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/a,A,12:40 AM - 30 Dec 2014,7,153,182,552
+30,text-input email-input,input#signin-email,signin-email,,session[username_or_email],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div/input,INPUT,,8,276,731,130
+30,text-input flex-table-input,input#signin-password,signin-password,,session[password],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/table/tbody/tr/td/div/input,INPUT,,9,145,731,175
+30,submit EdgeButton EdgeButton--medium EdgeButton--secondary flex-table-btn js-submit,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > table > tbody > tr > td:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div/div[2]/div/div/div[2]/div[2]/form/table/tbody/tr/td[2]/button,BUTTON,Se connecter,10,123,884,175
+13,0,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > div:nth-of-type(2) > label > input,0,,remember_me,,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div[2]/label/input,INPUT,,11,13,731,211
+14,forgot,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > div:nth-of-type(2) > a,0,Mot de passe oublié ?,0,Mot de pas,A,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div[2]/a,A,Mot de passe oublié ?,12,119,864,213
+30,text-input,form#frontpage-signup-form > div > input,0,,user[name],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div/input,INPUT,,13,276,731,326
+30,text-input email-input,form#frontpage-signup-form > div:nth-of-type(2) > input,0,,user[email],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div[2]/input,INPUT,,14,276,731,362
+30,text-input,form#frontpage-signup-form > div:nth-of-type(3) > input,0,,user[user_password],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div[3]/input,INPUT,,15,276,731,398
+34,EdgeButton EdgeButton--medium EdgeButton--primary u-floatRight submit,form#frontpage-signup-form > button,0,,0,,BUTTON,/html/body/div/div[2]/div/div/div[2]/div[3]/form/button,BUTTON,S'inscrire sur Twitter,16,171,836,434
+14,0,div#front-container > div:nth-of-type(4) > ul > li > a,0,À propos,0,À propos,A,/html/body/div/div[2]/div/div/div[4]/ul/li/a,A,À propos,17,49,23,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Centre d'assistance,0,Centre d'a,A,/html/body/div/div[2]/div/div/div[4]/ul/li[2]/a,A,Centre d'assistance,18,106,81,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Blog,0,Blog,A,/html/body/div/div[2]/div/div/div[4]/ul/li[3]/a,A,Blog,19,25,197,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,État du service,0,État du se,A,/html/body/div/div[2]/div/div/div[4]/ul/li[4]/a,A,État du service,20,80,231,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Offres d'emploi,0,Offres d'e,A,/html/body/div/div[2]/div/div/div[4]/ul/li[5]/a,A,Offres d'emploi,21,82,320,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Conditions,0,Conditions,A,/html/body/div/div[2]/div/div/div[4]/ul/li[6]/a,A,Conditions,22,58,411,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Politique de confidentialité,0,Politique ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[7]/a,A,Politique de confidentialité,23,142,479,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Cookies,0,Cookies,A,/html/body/div/div[2]/div/div/div[4]/ul/li[8]/a,A,Cookies,24,44,630,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Informations sur la publicité,0,Informatio,A,/html/body/div/div[2]/div/div/div[4]/ul/li[9]/a,A,Informations sur la publicité,25,148,683,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,Marque,0,Marque,A,/html/body/div/div[2]/div/div/div[4]/ul/li[10]/a,A,Marque,26,41,841,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,Publicité,0,Publicité,A,/html/body/div/div[2]/div/div/div[4]/ul/li[11]/a,A,Publicité,27,46,891,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Marketing,0,Marketing,A,/html/body/div/div[2]/div/div/div[4]/ul/li[12]/a,A,Marketing,28,54,946,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,Professionnels,0,Profession,A,/html/body/div/div[2]/div/div/div[4]/ul/li[13]/a,A,Professionnels,29,78,1009,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,Développeurs,0,Développeu,A,/html/body/div/div[2]/div/div/div[4]/ul/li[14]/a,A,Développeurs,30,74,1097,623
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,Annuaire,0,Annuaire,A,/html/body/div/div[2]/div/div/div[4]/ul/li[15]/a,A,Annuaire,31,47,494,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(16) > a,0,Paramètres,0,Paramètres,A,/html/body/div/div[2]/div/div/div[4]/ul/li[16]/a,A,Paramètres,32,61,551,643

@@ -1,0 +1,273 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+55,nav-a,div#nav-upnav > a,0,Interesting Finds Updated Daily,0,Interestin,A,/html/body/div/div/a,A,Interesting Finds Updated Daily,1,1200,0,0
+30,nav-logo-link,div#nav-logo > a,0,Amazon,0,Amazon,A,/html/body/div/header/div/div/div/div/a,A,Amazon,2,97,27,68
+11,nav-logo-tagline nav-sprite nav-prime-try,div#nav-logo > a:nth-of-type(2),0,Try Prime,0,Try Prime,A,/html/body/div/header/div/div/div/div/a[2],A,Try Prime,3,50,93,86
+39,nav-imageHref,div#navSwmHoliday > a,0,,0,,A,/html/body/div/header/div/div/div[2]/div/div/a,A,,4,400,800,64
+35,nav-search-dropdown searchSelect,select#searchDropdownBox,searchDropdownBox,,url,,SELECT,/html/body/div/header/div/div/div[3]/div/form/div/div/select,SELECT,"All Departments
+Alexa Skills
+Amazon Devices
+Amazon Warehouse Deals
+Appliances
+Apps & Games
+Arts, Crafts & Sewing
+Automotive Parts & Accessories
+Baby
+Beauty & Personal Care
+Books
+CDs & Vinyl
+Cell Phones & Accessories
+Prime Video
+Clothing, Shoes & Jewelry
+   Women
+   Men
+   Girls
+   Boys
+   Baby
+Collectibles & Fine Art
+Computers
+Courses
+Credit and Payment Cards
+Digital Music
+Electronics
+Garden & Outdoor
+Gift Cards
+Grocery & Gourmet Food
+Handmade
+Health, Household & Baby Care
+Home & Business Services
+Home & Kitchen
+Industrial & Scientific
+Kindle Store
+Luggage & Travel Gear
+Luxury Beauty
+Magazine Subscriptions
+Movies & TV
+Musical Instruments
+Office Products
+Pet Supplies
+Prime Exclusive Savings
+Prime Pantry
+Software
+Sports & Outdoors
+Tools & Home Improvement
+Toys & Games
+Vehicles
+Video Games",5,220,193,67
+35,nav-input,div#nav-search > form > div:nth-of-type(2) > div > input,0,,0,,INPUT,/html/body/div/header/div/div/div[3]/div/form/div[2]/div/input,INPUT,,6,45,730,66
+33,nav-input,input#twotabsearchtextbox,twotabsearchtextbox,,field-keywords,,INPUT,/html/body/div/header/div/div/div[3]/div/form/div[3]/div/input,INPUT,,7,492,238,67
+44,nav-a nav-a-2 icp-link-style-2,a#icp-nav-flyout,icp-nav-flyout,EN,0,EN,A,/html/body/div/header/div/div[2]/div[2]/div/a,A,EN,8,51,738,108
+44,nav-a nav-a-2,a#nav-link-accountList,nav-link-accountList,Hello. Sign inAccount & ListsSign inAccount & Lists,0,Hello. Sig,A,/html/body/div/header/div/div[2]/div[2]/div/a[2],A,Hello. Sign inAccount & ListsSign inAccount & Lists,9,138,792,108
+26,nav-a nav-a-2 nav-single-row-link,a#nav-orders,nav-orders,Orders,0,Orders,A,/html/body/div/header/div/div[2]/div[2]/div/a[3],A,Orders,10,64,931,126
+26,nav-a nav-a-2 nav-single-row-link,a#nav-link-prime,nav-link-prime,Try Prime,0,Try Prime,A,/html/body/div/header/div/div[2]/div[2]/div/a[4],A,Try Prime,11,95,997,126
+44,nav-a nav-a-2,a#nav-cart,nav-cart,Cart,0,Cart,A,/html/body/div/header/div/div[2]/div[2]/div/a[5],A,Cart,12,98,1094,108
+26,nav-a nav-a-2 nav-single-row-link,a#nav-link-shopall,nav-link-shopall,Departments,0,Department,A,/html/body/div/header/div/div[2]/div[3]/div/a,A,Departments,13,124,1,124
+12,nav-a nav_a,a#nav-your-amazon,nav-your-amazon,Your Amazon.com,0,Your Amazo,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a,A,Your Amazon.com,14,114,141,133
+12,nav-a,div#nav-xshop > a:nth-of-type(2),0,Today's Deals,0,Today's De,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[2],A,Today's Deals,15,99,255,133
+12,nav-a,div#nav-xshop > a:nth-of-type(3),0,Gift Cards,0,Gift Cards,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[3],A,Gift Cards,16,77,353,133
+12,nav-a,div#nav-xshop > a:nth-of-type(4),0,Registry,0,Registry,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[4],A,Registry,17,66,430,133
+12,nav-a,div#nav-xshop > a:nth-of-type(5),0,Sell,0,Sell,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[5],A,Sell,18,40,495,133
+12,nav-a,div#nav-xshop > a:nth-of-type(6),0,Help,0,Help,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[6],A,Help,19,45,535,133
+1,nav-hidden-aria,div#nav-xshop > a:nth-of-type(7),0,Disability Customer Support,0,Disability,A,/html/body/div/header/div/div[2]/div[3]/div[2]/div/a[7],A,Disability Customer Support,20,1,-10000,133
+813,0,div#pageContent > div > a,0,"Welcome to Amazon.com. If you prefer a simplified shopping experience, try the mobile web version of Amazon at www.amazon.com/access. The mobile web version is similar to the mobile app. Stay on Amazon.com for access to all the features of the main Amazon website.",0,Welcome to,A,/html/body/div/div[2]/div/a,A,"Welcome to Amazon.com. If you prefer a simplified shopping experience, try the mobile web version of Amazon at www.amazon.com/access. The mobile web version is similar to the mobile app. Stay on Amazon.com for access to all the features of the main Amazon website.",21,153,0,-498
+300,a-carousel-goto-prevpage,div#gw-desktop-herotator > div > div > div > div > a,0,Previous page,0,Previous p,A,/html/body/div/div[2]/div[2]/div/div/div/div/div/a,A,Previous page,22,80,0,154
+300,a-link-normal aok-inline-block,div#b91rwcxmhpm3es02w510v0a4 > div > div > span > a,0,,0,,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[2]/div/ol/li/div/div/div/div/span/a,A,,23,1500,-2550,154
+300,a-link-normal aok-inline-block,div#p7h5ahdc55nm0dlhoawi2j4i > div > div > span > a,0,,0,,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[2]/div/ol/li[2]/div/div/div/div/span/a,A,,24,1500,-1350,154
+300,a-link-normal aok-inline-block,div#pwpcvwvnlmbe14b2620hvkj4 > div > div > span > a,0,,0,,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[2]/div/ol/li[3]/div/div/div/div/span/a,A,,25,1500,-150,154
+300,a-link-normal aok-inline-block,div#t5xt0mhdlbxsczs6vdv7k3xr > div > div > span > a,0,,0,,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[2]/div/ol/li[4]/div/div/div/div/span/a,A,,26,1500,1050,154
+300,a-link-normal aok-inline-block,div#naoh543h1hziz4yf9t2vb1em > div > div > span > a,0,,0,,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[2]/div/ol/li[5]/div/div/div/div/span/a,A,,27,1500,2250,154
+300,a-carousel-goto-nextpage,div#gw-desktop-herotator > div > div > div > div:nth-of-type(3) > a,0,Next page,0,Next page,A,/html/body/div/div[2]/div[2]/div/div/div/div/div[3]/a,A,Next page,28,80,1120,154
+16,a-link-normal,div#deals-shoveler-ns_EWR573VPV9P4HQ25SZYG_3429_ > div > span > a,0,See all deals,0,See all de,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div/span/a,A,See all deals,29,80,319,489
+200,a-link-normal  a-inline-block,li#922cfb3e > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li/span/div/div/a,A,,30,203,40,514
+176,a-link-normal  a-inline-block,li#da7ecdbf > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[2]/span/div/div/a,A,,31,270,253,526
+200,a-link-normal  a-inline-block,li#01105ec0 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[3]/span/div/div/a,A,,32,170,533,514
+200,a-link-normal  a-inline-block,li#aa85888b > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[4]/span/div/div/a,A,,33,250,713,514
+200,a-link-normal  a-inline-block,li#74bb40b8 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[5]/span/div/div/a,A,,34,209,973,514
+128,a-link-normal  a-inline-block,li#9cb4a488 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[6]/span/div/div/a,A,,35,270,1192,550
+200,a-link-normal  a-inline-block,li#7d2b0736 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[7]/span/div/div/a,A,,36,247,1472,514
+157,a-link-normal  a-inline-block,li#b3eb43e8 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[8]/span/div/div/a,A,,37,270,1733,535
+200,a-link-normal  a-inline-block,li#71aaec60 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[9]/span/div/div/a,A,,38,134,2028,514
+153,a-link-normal  a-inline-block,li#8ccb9cc0 > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[10]/span/div/div/a,A,,39,270,2188,538
+200,a-link-normal  a-inline-block,li#4324612d > span > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/div/ul/li[11]/span/div/div/a,A,,40,79,2511,514
+100,feed-carousel-control feed-left feed-control-disabled,div#deals-shoveler-ns_EWR573VPV9P4HQ25SZYG_3429_ > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/a,A,,41,45,40,569
+100,feed-carousel-control feed-right,div#deals-shoveler-ns_EWR573VPV9P4HQ25SZYG_3429_ > div:nth-of-type(2) > a:nth-of-type(2),0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div/div/div[2]/a[2],A,,42,45,805,569
+16,a-link-normal,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div/span/a,A,See more,43,61,353,853
+189,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li/span/a,A,,44,270,40,883
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[2]/span/a,A,,45,169,320,878
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[3]/span/a,A,,46,104,520,878
+192,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[4]/span/a,A,,47,270,654,882
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[5]/span/a,A,,48,73,970,878
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[6]/span/a,A,,49,160,1089,878
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[7]/span/a,A,,50,198,1259,878
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[8]/span/a,A,,51,116,1485,878
+146,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[9]/span/a,A,,52,270,1626,905
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[10]/span/a,A,,53,113,1922,878
+194,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[11]/span/a,A,,54,270,2061,881
+165,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[12]/span/a,A,,55,270,2341,895
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[13]/span/a,A,,56,157,2621,878
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(14) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[14]/span/a,A,,57,228,2788,878
+159,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(15) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[15]/span/a,A,,58,270,3026,899
+140,a-link-normal  a-inline-block,div#asin-shoveler-ns_ZRSWQGVR80W4W9VEHTJZ_4046_ > div:nth-of-type(2) > div > ul > li:nth-of-type(16) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[2]/div/div[2]/div/ul/li[16]/span/a,A,,59,270,3306,908
+180,a-link-normal,div#d3g8wxblf0t8zu5s50n5ng66 > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[3]/div/div/div/div/a,A,,60,396,30,1120
+180,a-link-normal,div#6ocn99wgps0xv25c11hsemi > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[3]/div/div[2]/div/div/a,A,,61,396,464,1120
+16,a-link-normal,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div/span/a,A,See more,62,61,374,1378
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li/span/a,A,,63,116,55,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[2]/span/a,A,,64,125,205,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[3]/span/a,A,,65,129,358,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[4]/span/a,A,,66,113,521,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[5]/span/a,A,,67,119,673,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[6]/span/a,A,,68,78,849,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[7]/span/a,A,,69,122,982,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[8]/span/a,A,,70,118,1142,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[9]/span/a,A,,71,120,1296,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[10]/span/a,A,,72,130,1446,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[11]/span/a,A,,73,143,1595,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[12]/span/a,A,,74,107,1768,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[13]/span/a,A,,75,90,1931,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(14) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[14]/span/a,A,,76,107,2078,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(15) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[15]/span/a,A,,77,114,2229,1403
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_PMESFPSG027XSRYF6R0C_2256_ > div:nth-of-type(2) > div > ul > li:nth-of-type(16) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[4]/div/div[2]/div/ul/li[16]/span/a,A,,78,116,2383,1403
+16,a-link-normal,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div/span/a,A,See more,79,61,389,1663
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li/span/a,A,,80,98,64,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[2]/span/a,A,,81,152,195,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[3]/span/a,A,,82,197,357,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[4]/span/a,A,,83,114,580,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[5]/span/a,A,,84,132,726,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[6]/span/a,A,,85,178,874,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[7]/span/a,A,,86,243,1062,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[8]/span/a,A,,87,126,1328,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[9]/span/a,A,,88,101,1496,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[10]/span/a,A,,89,139,1632,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[11]/span/a,A,,90,114,1799,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[12]/span/a,A,,91,79,1972,1688
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_DT59WRERZ01ZG2GFYTAH_4778_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/div[5]/div/div[2]/div/ul/li[13]/span/a,A,,92,152,2094,1688
+180,a-link-normal,div#ggly3e3r6ugc7pem8q0u7syv > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[2]/div/div/div/div/a,A,,93,396,30,1980
+180,a-link-normal,div#899b34gvyj9w0mci7royfogv > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[2]/div/div[2]/div/div/a,A,,94,396,464,1980
+16,a-link-normal,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div/span/a,A,See more,95,61,432,2238
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li/span/a,A,,96,111,57,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[2]/span/a,A,,97,230,195,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[3]/span/a,A,,98,201,435,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[4]/span/a,A,,99,267,646,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[5]/span/a,A,,100,213,923,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[6]/span/a,A,,101,122,1158,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[7]/span/a,A,,102,204,1301,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[8]/span/a,A,,103,102,1540,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[9]/span/a,A,,104,238,1674,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[10]/span/a,A,,105,204,1922,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[11]/span/a,A,,106,227,2136,2263
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[12]/span/a,A,,107,198,2373,2263
+163,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[13]/span/a,A,,108,270,2581,2281
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_E0B7PC8JZ6MCBG99PNHH_4174_ > div:nth-of-type(2) > div > ul > li:nth-of-type(14) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[3]/div/div[2]/div/ul/li[14]/span/a,A,,109,200,2861,2263
+16,a-link-normal,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div/span/a,A,See more,110,61,375,2523
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li/span/a,A,,111,99,63,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[2]/span/a,A,,112,259,195,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[3]/span/a,A,,113,111,481,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[4]/span/a,A,,114,109,637,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[5]/span/a,A,,115,228,774,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[6]/span/a,A,,116,230,1012,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[7]/span/a,A,,117,87,1281,2548
+181,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[8]/span/a,A,,118,270,1411,2557
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[9]/span/a,A,,119,111,1708,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[10]/span/a,A,,120,230,1846,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[11]/span/a,A,,121,104,2106,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[12]/span/a,A,,122,209,2241,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[13]/span/a,A,,123,204,2460,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(14) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[14]/span/a,A,,124,101,2696,2548
+109,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(15) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[15]/span/a,A,,125,270,2829,2594
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(16) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[16]/span/a,A,,126,214,3109,2548
+200,a-link-normal  a-inline-block,div#asin-shoveler-ns_VNX2906KF573EN932R2P_390_ > div:nth-of-type(2) > div > ul > li:nth-of-type(17) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[4]/div/div[2]/div/ul/li[17]/span/a,A,,127,59,3376,2548
+180,a-link-normal,div#65incvxpax7ky71g8fco7uv7 > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[5]/div/div/div/div/a,A,,128,396,30,2790
+180,a-link-normal,div#729vdvxt9wly8tasmq2n019k > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[5]/div/div[2]/div/div/a,A,,129,396,464,2790
+16,a-link-normal,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div > span > a,0,See more,0,See more,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div/span/a,A,See more,130,61,304,3048
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li/span/a,A,,131,165,40,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[2]/span/a,A,,132,184,215,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[3]/span/a,A,,133,187,409,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[4]/span/a,A,,134,128,615,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[5]/span/a,A,,135,86,791,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[6]/span/a,A,,136,169,916,3073
+132,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[7]/span/a,A,,137,270,1095,3107
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[8]/span/a,A,,138,250,1379,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[9]/span/a,A,,139,187,1639,3073
+165,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[10]/span/a,A,,140,270,1836,3091
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[11]/span/a,A,,141,118,2129,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(12) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[12]/span/a,A,,142,119,2284,3073
+187,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(13) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[13]/span/a,A,,143,270,2426,3080
+181,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(14) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[14]/span/a,A,,144,270,2706,3082
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(15) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[15]/span/a,A,,145,108,3004,3073
+90,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(16) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[16]/span/a,A,,146,270,3141,3128
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(17) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[17]/span/a,A,,147,194,3421,3073
+200,a-link-normal  a-inline-block,div#uber-widget-ns_EWR573VPV9P4HQ25SZYG_1969_ > div:nth-of-type(2) > div > ul > li:nth-of-type(18) > span > a,0,,0,,A,/html/body/div/div[2]/div[7]/div/div/div/div/div[6]/div/div[2]/div/ul/li[18]/span/a,A,,148,226,3625,3073
+15,a-link-normal,a#dmimglnch_1520187382,dmimglnch_1520187382,,0,,A,/html/body/div/div[2]/div[7]/div/div/div[2]/div/div/a,A,,149,264,913,486
+49,0,a#navBackToTop,navBackToTop,Back to top,0,Back to to,A,/html/body/div/div[3]/a,A,Back to top,150,1200,0,3333
+15,nav_a,div#navFooter > div > div > div > ul > li > a,0,Careers,0,Careers,A,/html/body/div/div[3]/div/div/div/ul/li/a,A,Careers,151,46,110,3458
+15,nav_a,div#navFooter > div > div > div > ul > li:nth-of-type(2) > a,0,About Amazon,0,About Amaz,A,/html/body/div/div[3]/div/div/div/ul/li[2]/a,A,About Amazon,152,85,110,3483
+15,nav_a,div#navFooter > div > div > div > ul > li:nth-of-type(3) > a,0,Investor Relations,0,Investor R,A,/html/body/div/div[3]/div/div/div/ul/li[3]/a,A,Investor Relations,153,104,110,3509
+15,nav_a,div#navFooter > div > div > div > ul > li:nth-of-type(4) > a,0,Amazon Devices,0,Amazon Dev,A,/html/body/div/div[3]/div/div/div/ul/li[4]/a,A,Amazon Devices,154,98,110,3534
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li > a,0,Sell on Amazon,0,Sell on Am,A,/html/body/div/div[3]/div/div/div[3]/ul/li/a,A,Sell on Amazon,155,90,315,3458
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Sell Your Services on Amazon,0,Sell Your ,A,/html/body/div/div[3]/div/div/div[3]/ul/li[2]/a,A,Sell Your Services on Amazon,156,173,315,3483
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Sell on Amazon Business,0,Sell on Am,A,/html/body/div/div[3]/div/div/div[3]/ul/li[3]/a,A,Sell on Amazon Business,157,147,315,3509
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Sell Your Apps on Amazon,0,Sell Your ,A,/html/body/div/div[3]/div/div/div[3]/ul/li[4]/a,A,Sell Your Apps on Amazon,158,153,315,3534
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Become an Affiliate,0,Become an ,A,/html/body/div/div[3]/div/div/div[3]/ul/li[5]/a,A,Become an Affiliate,159,111,315,3560
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Advertise Your Products,0,Advertise ,A,/html/body/div/div[3]/div/div/div[3]/ul/li[6]/a,A,Advertise Your Products,160,139,315,3586
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Self-Publish with Us,0,Self-Publi,A,/html/body/div/div[3]/div/div/div[3]/ul/li[7]/a,A,Self-Publish with Us,161,116,315,3611
+15,nav_a,div#navFooter > div > div > div:nth-of-type(3) > ul > li:nth-of-type(8) > a,0,See all,0,See all,A,/html/body/div/div[3]/div/div/div[3]/ul/li[8]/a,A,See all,162,44,320,3637
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li > a,0,Amazon Rewards Visa Signature Cards,0,Amazon Rew,A,/html/body/div/div[3]/div/div/div[5]/ul/li/a,A,Amazon Rewards Visa Signature Cards,163,229,574,3458
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Amazon.com Store Card,0,Amazon.com,A,/html/body/div/div[3]/div/div/div[5]/ul/li[2]/a,A,Amazon.com Store Card,164,142,574,3483
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Amazon.com Corporate Credit Line,0,Amazon.com,A,/html/body/div/div[3]/div/div/div[5]/ul/li[3]/a,A,Amazon.com Corporate Credit Line,165,204,574,3509
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,Shop with Points,0,Shop with ,A,/html/body/div/div[3]/div/div/div[5]/ul/li[4]/a,A,Shop with Points,166,97,574,3534
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,Credit Card Marketplace,0,Credit Car,A,/html/body/div/div[3]/div/div/div[5]/ul/li[5]/a,A,Credit Card Marketplace,167,141,574,3560
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(6) > a,0,Reload Your Balance,0,Reload You,A,/html/body/div/div[3]/div/div/div[5]/ul/li[6]/a,A,Reload Your Balance,168,121,574,3586
+15,nav_a,div#navFooter > div > div > div:nth-of-type(5) > ul > li:nth-of-type(7) > a,0,Amazon Currency Converter,0,Amazon Cur,A,/html/body/div/div[3]/div/div/div[5]/ul/li[7]/a,A,Amazon Currency Converter,169,165,574,3611
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li > a,0,Your Account,0,Your Accou,A,/html/body/div/div[3]/div/div/div[7]/ul/li/a,A,Your Account,170,76,889,3458
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(2) > a,0,Your Orders,0,Your Order,A,/html/body/div/div[3]/div/div/div[7]/ul/li[2]/a,A,Your Orders,171,70,889,3483
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(3) > a,0,Shipping Rates & Policies,0,Shipping R,A,/html/body/div/div[3]/div/div/div[7]/ul/li[3]/a,A,Shipping Rates & Policies,172,149,889,3509
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(4) > a,0,Amazon Prime,0,Amazon Pri,A,/html/body/div/div[3]/div/div/div[7]/ul/li[4]/a,A,Amazon Prime,173,85,889,3534
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(5) > a,0,Returns & Replacements,0,Returns & ,A,/html/body/div/div[3]/div/div/div[7]/ul/li[5]/a,A,Returns & Replacements,174,145,889,3560
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(6) > a,0,Manage Your Content and Devices,0,Manage You,A,/html/body/div/div[3]/div/div/div[7]/ul/li[6]/a,A,Manage Your Content and Devices,175,201,889,3586
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(7) > a,0,Amazon Assistant,0,Amazon Ass,A,/html/body/div/div[3]/div/div/div[7]/ul/li[7]/a,A,Amazon Assistant,176,103,889,3611
+15,nav_a,div#navFooter > div > div > div:nth-of-type(7) > ul > li:nth-of-type(8) > a,0,Help,0,Help,A,/html/body/div/div[3]/div/div/div[7]/ul/li[8]/a,A,Help,177,27,889,3637
+37,0,div#navFooter > div:nth-of-type(3) > span > div > a,0,,0,,A,/html/body/div/div[3]/div[3]/span/div/a,A,,178,76,386,3737
+34,icp-button a-declarative,a#icp-touch-link-language,icp-touch-link-language,English,0,English,A,/html/body/div/div[3]/div[3]/span[2]/div/a,A,English,179,117,546,3732
+34,icp-button a-declarative,a#icp-touch-link-country,icp-touch-link-country,United States,0,United Sta,A,/html/body/div/div[3]/div[3]/span[2]/div/a[2],A,United States,180,140,670,3732
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td > a,0,Amazon Music Stream millions of songs,0,Amazon Mus,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td/a,A,Amazon Music Stream millions of songs,181,72,108,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3) > a,0,Amazon Drive Cloud storage from Amazon,0,Amazon Dri,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[3]/a,A,Amazon Drive Cloud storage from Amazon,182,69,267,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(5) > a,0,6pm Score deals on fashion brands,0,6pm Score ,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[5]/a,A,6pm Score deals on fashion brands,183,80,409,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(7) > a,0,"AbeBooks Books, art & collectibles",0,AbeBooks B,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[7]/a,A,"AbeBooks Books, art & collectibles",184,58,560,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(9) > a,0,ACX  Audiobook Publishing Made Easy,0,ACX  Audio,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[9]/a,A,ACX  Audiobook Publishing Made Easy,185,96,692,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(11) > a,0,Alexa Actionable Analytics for the Web,0,Alexa Acti,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[11]/a,A,Alexa Actionable Analytics for the Web,186,89,831,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(13) > a,0,Amazon Business Everything For Your Business,0,Amazon Bus,A,/html/body/div/div[3]/div[4]/table/tbody/tr/td[13]/a,A,Amazon Business Everything For Your Business,187,88,989,3842
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td > a,0,AmazonFresh Groceries & More Right To Your Door,0,AmazonFres,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td/a,A,AmazonFresh Groceries & More Right To Your Door,188,84,108,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3) > a,0,AmazonGlobal Ship Orders Internationally,0,AmazonGlob,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[3]/a,A,AmazonGlobal Ship Orders Internationally,189,72,267,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(5) > a,0,Home Services Handpicked Pros Happiness Guarantee,0,Home Servi,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[5]/a,A,Home Services Handpicked Pros Happiness Guarantee,190,97,409,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(7) > a,0,Amazon Inspire Digital Educational  Resources,0,Amazon Ins,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[7]/a,A,Amazon Inspire Digital Educational  Resources,191,83,560,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(9) > a,0,Amazon Rapids Fun stories for  kids on the go,0,Amazon Rap,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[9]/a,A,Amazon Rapids Fun stories for  kids on the go,192,78,692,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(11) > a,0,Amazon Restaurants Food delivery from local restaurants,0,Amazon Res,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[11]/a,A,Amazon Restaurants Food delivery from local restaurants,193,103,831,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(3) > td:nth-of-type(13) > a,0,Amazon Video Direct Video Distribution Made Easy,0,Amazon Vid,A,/html/body/div/div[3]/div[4]/table/tbody/tr[3]/td[13]/a,A,Amazon Video Direct Video Distribution Made Easy,194,103,989,3893
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td > a,0,Amazon Web Services Scalable Cloud Computing Services,0,Amazon Web,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td/a,A,Amazon Web Services Scalable Cloud Computing Services,195,111,108,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(3) > a,0,Audible Download Audio Books,0,Audible Do,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[3]/a,A,Audible Download Audio Books,196,56,267,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(5) > a,0,AudiobookStand Discount Audiobooks on Disc,0,AudiobookS,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[5]/a,A,AudiobookStand Discount Audiobooks on Disc,197,93,409,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(7) > a,0,Book Depository Books With Free Delivery Worldwide,0,Book Depos,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[7]/a,A,Book Depository Books With Free Delivery Worldwide,198,85,560,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(9) > a,0,Box Office Mojo Find Movie Box Office Data,0,Box Office,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[9]/a,A,Box Office Mojo Find Movie Box Office Data,199,77,692,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(11) > a,0,ComiXology Thousands of Digital Comics,0,ComiXology,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[11]/a,A,ComiXology Thousands of Digital Comics,200,64,831,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(5) > td:nth-of-type(13) > a,0,CreateSpace Indie Print Publishing Made Easy,0,CreateSpac,A,/html/body/div/div[3]/div[4]/table/tbody/tr[5]/td[13]/a,A,CreateSpace Indie Print Publishing Made Easy,201,94,989,3944
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td > a,0,DPReview Digital Photography,0,DPReview D,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td/a,A,DPReview Digital Photography,202,57,108,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(3) > a,0,East Dane Designer Men's Fashion,0,East Dane ,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[3]/a,A,East Dane Designer Men's Fashion,203,69,267,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(5) > a,0,"Fabric Sewing, Quilting & Knitting",0,Fabric Sew,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[5]/a,A,"Fabric Sewing, Quilting & Knitting",204,72,409,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(7) > a,0,Goodreads Book reviews & recommendations,0,Goodreads ,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[7]/a,A,Goodreads Book reviews & recommendations,205,89,560,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(9) > a,0,"IMDb Movies, TV & Celebrities",0,IMDb Movie,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[9]/a,A,"IMDb Movies, TV & Celebrities",206,57,692,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(11) > a,0,IMDbPro Get Info Entertainment Professionals Need,0,IMDbPro Ge,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[11]/a,A,IMDbPro Get Info Entertainment Professionals Need,207,101,831,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(13) > a,0,Junglee.com Shop Online in India,0,Junglee.co,A,/html/body/div/div[3]/div[4]/table/tbody/tr[7]/td[13]/a,A,Junglee.com Shop Online in India,208,62,989,3995
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td > a,0,Kindle Direct Publishing Indie Digital Publishing Made Easy,0,Kindle Dir,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td/a,A,Kindle Direct Publishing Indie Digital Publishing Made Easy,209,116,108,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a,0,Prime Now FREE 2-Hour Delivery on Everyday Items,0,Prime Now ,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[3]/a,A,Prime Now FREE 2-Hour Delivery on Everyday Items,210,99,267,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(5) > a,0,Prime Photos Unlimited Photo Storage Free With Prime,0,Prime Phot,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[5]/a,A,Prime Photos Unlimited Photo Storage Free With Prime,211,108,409,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(7) > a,0,Shopbop Designer Fashion Brands,0,Shopbop De,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[7]/a,A,Shopbop Designer Fashion Brands,212,70,560,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(9) > a,0,TenMarks.com Math Activities for Kids & Schools,0,TenMarks.c,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[9]/a,A,TenMarks.com Math Activities for Kids & Schools,213,82,692,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(11) > a,0,Warehouse Deals Open-Box Discounts,0,Warehouse ,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[11]/a,A,Warehouse Deals Open-Box Discounts,214,87,831,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(13) > a,0,Whole Foods Market America’s Healthiest Grocery Store,0,Whole Food,A,/html/body/div/div[3]/div[4]/table/tbody/tr[9]/td[13]/a,A,Whole Foods Market America’s Healthiest Grocery Store,215,101,989,4046
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(11) > td:nth-of-type(3) > a,0,Withoutabox Submit to Film Festivals,0,Withoutabo,A,/html/body/div/div[3]/div[4]/table/tbody/tr[11]/td[3]/a,A,Withoutabox Submit to Film Festivals,216,61,267,4096
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(11) > td:nth-of-type(5) > a,0,Woot! Deals and  Shenanigans,0,Woot! Deal,A,/html/body/div/div[3]/div[4]/table/tbody/tr[11]/td[5]/a,A,Woot! Deals and  Shenanigans,217,58,409,4096
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(11) > td:nth-of-type(7) > a,0,Zappos Shoes & Clothing,0,Zappos Sho,A,/html/body/div/div[3]/div[4]/table/tbody/tr[11]/td[7]/a,A,Zappos Shoes & Clothing,218,38,560,4096
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(11) > td:nth-of-type(9) > a,0,Souq.com Shop Online in the Middle East,0,Souq.com S,A,/html/body/div/div[3]/div[4]/table/tbody/tr[11]/td[9]/a,A,Souq.com Shop Online in the Middle East,219,69,692,4096
+35,nav_a,div#navFooter > div:nth-of-type(4) > table > tbody > tr:nth-of-type(11) > td:nth-of-type(11) > a,0,Subscribe with Amazon Discover & try subscription services,0,Subscribe ,A,/html/body/div/div[3]/div[4]/table/tbody/tr[11]/td[11]/a,A,Subscribe with Amazon Discover & try subscription services,220,114,831,4096
+14,nav_a,div#navFooter > div:nth-of-type(5) > ul > li > a,0,Conditions of Use,0,Conditions,A,/html/body/div/div[3]/div[5]/ul/li/a,A,Conditions of Use,221,109,318,4174
+14,nav_a,div#navFooter > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Privacy Notice,0,Privacy No,A,/html/body/div/div[3]/div[5]/ul/li[2]/a,A,Privacy Notice,222,91,427,4174
+14,nav_a,div#navFooter > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Interest-Based Ads,0,Interest-B,A,/html/body/div/div[3]/div[5]/ul/li[3]/a,A,Interest-Based Ads,223,116,518,4174

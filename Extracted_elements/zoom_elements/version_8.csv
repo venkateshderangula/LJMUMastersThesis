@@ -1,0 +1,95 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+12,0,div#skiptocontent > a,0,Skip to main content,0,Skip to ma,A,/html/body/div/div/a,A,Skip to main content,1,12,0,0
+15,0,div#black-topbar > div > ul > li > a,0,Request a Demo,0,Request a ,A,/html/body/div/div[2]/div/div/div/div/ul/li/a,A,Request a Demo,2,91,832,13
+15,support-phone,div#black-topbar > div > ul > li:nth-of-type(2) > a,0,1.888.799.9666,0,1.888.799.,A,/html/body/div/div[2]/div/div/div/div/ul/li[2]/a,A,1.888.799.9666,3,77,946,13
+15,dropdown-toggle,a#btnResouces,btnResouces,Resources,0,Resources,A,/html/body/div/div[2]/div/div/div/div/ul/li[3]/a,A,Resources,4,73,1046,13
+15,0,div#black-topbar > div > ul > li:nth-of-type(4) > a,0,Support,0,Support,A,/html/body/div/div[2]/div/div/div/div/ul/li[4]/a,A,Support,5,47,1143,13
+17,imglink,div#header > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div/div[2]/div/div/div[2]/div/div/a,A,,6,160,0,62
+64,dropdown-toggle,a#btnSolutions,btnSolutions,SOLUTIONS,0,SOLUTIONS,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul/li[2]/a,A,SOLUTIONS,7,110,160,40
+64,top-pricing,div#navbar > ul > li:nth-of-type(7) > a,0,Plans & Pricing,0,Plans & Pr,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul/li[7]/a,A,Plans & Pricing,8,131,270,40
+64,top-contactsales,div#navbar > ul > li:nth-of-type(9) > a,0,Contact Sales,0,Contact Sa,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul/li[9]/a,A,Contact Sales,9,123,402,40
+64,hidden-xs,a#btnJoinMeeting,btnJoinMeeting,JOIN A MEETING,0,JOIN A MEE,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul[2]/li/a,A,JOIN A MEETING,10,123,704,40
+17,hostmeeting,a#btnHostMeeting,btnHostMeeting,HOST A MEETING,0,HOST A MEE,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul[2]/li[2]/div/a,A,HOST A MEETING,11,112,843,64
+64,link,div#navbar > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,SIGN IN,0,SIGN IN,A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul[2]/li[5]/a,A,SIGN IN,12,75,970,40
+32,btn btn-primary signupfree,div#signupfree > a,0,"SIGN UP, IT'S FREE",0,"SIGN UP, I",A,/html/body/div/div[2]/div/div/div[2]/nav/div/ul[2]/li[7]/div/a,A,"SIGN UP, IT'S FREE",13,131,1059,56
+52,form-control email,input#email,email,,email,,INPUT,/html/body/div/div[3]/div/div[2]/form/div/div/div/input,INPUT,,14,325,10,506
+52,btn btn-primary btn-home submit,div#signup_form_body > div > div > button,0,,0,,BUTTON,/html/body/div/div[3]/div/div[2]/form/div/div/div/button,BUTTON,Sign Up Free,15,140,341,506
+19,0,div#signup_form_body > div:nth-of-type(2) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div/div[3]/div/div[2]/form/div/div[2]/a,A,Privacy Policy,16,88,105,574
+666,left carousel-control,div#mainbg_container > div > div:nth-of-type(4) > div > a,0,Previous,0,Previous,A,/html/body/div/div[3]/div/div[2]/div/div[4]/div/a,A,Previous,17,96,0,104
+666,right carousel-control,div#mainbg_container > div > div:nth-of-type(4) > div > a:nth-of-type(2),0,Next,0,Next,A,/html/body/div/div[3]/div/div[2]/div/div[4]/div/a[2],A,Next,18,96,1104,104
+47,btn btn-default,div#view_gartner_report > div > div:nth-of-type(3) > a,0,Read the Report,0,Read the R,A,/html/body/div/div[3]/div/div[2]/div/div[4]/div/div[4]/div/div[3]/a,A,Read the Report,19,147,1050,702
+19,0,div#screen2_container > div:nth-of-type(2) > div > div > div > a,0,Meetings,0,Meetings,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div/div/a,A,Meetings,20,100,41,970
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div > a,0,Watch Video,0,Watch Vide,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div/a,A,Watch Video,21,182,0,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div/a[2],A,Learn More,22,182,0,1179
+19,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a,0,Video Webinar,0,Video Webi,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[2]/div/a,A,Video Webinar,23,100,241,970
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,Watch Video,0,Watch Vide,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[2]/a,A,Watch Video,24,182,200,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[2]/a[2],A,Learn More,25,182,200,1179
+19,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > div > a,0,Zoom Rooms,0,Zoom Rooms,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[3]/div/a,A,Zoom Rooms,26,100,441,970
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > a,0,Watch Video,0,Watch Vide,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[3]/a,A,Watch Video,27,182,400,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[3]/a[2],A,Learn More,28,182,400,1179
+19,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(4) > div > a,0,Business IM,0,Business I,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[4]/div/a,A,Business IM,29,100,641,970
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(4) > a,0,Watch Video,0,Watch Vide,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[4]/a,A,Watch Video,30,182,600,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(4) > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[4]/a[2],A,Learn More,31,182,600,1179
+19,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > div > a,0,H.323/SIP Connector,0,H.323/SIP ,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[5]/div/a,A,H.323/SIP Connector,32,100,841,970
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > a,0,Watch Video,0,Watch Vide,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[5]/a,A,Watch Video,33,182,800,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[5]/a[2],A,Learn More,34,182,800,1179
+19,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(6) > div > a,0,Developer Platform,0,Developer ,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[6]/div/a,A,Developer Platform,35,100,1050,970
+29,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(6) > a,0,Customer Spotlight,0,Customer S,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[6]/a,A,Customer Spotlight,36,200,1000,1150
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(6) > a:nth-of-type(2),0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[3]/div[2]/div/div[6]/a[2],A,Learn More,37,200,1000,1179
+19,learn,div#screen6a_container > div > div > div > div > a,0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[4]/div/div/div/div/a,A,Learn More,38,95,153,1589
+19,learn,div#screen6a_container > div > div > div:nth-of-type(2) > div > a,0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[4]/div/div/div[2]/div/a,A,Learn More,39,95,552,1583
+19,learn,div#screen6a_container > div > div > div:nth-of-type(3) > div > a,0,Learn More,0,Learn More,A,/html/body/div/div[3]/div/div[4]/div/div/div[3]/div/a,A,Learn More,40,95,952,1591
+41,0,div#screen4a_container > div > div > a,0,Why Zoom?,0,Why Zoom?,A,/html/body/div/div[3]/div/div[5]/div/div/a,A,Why Zoom?,41,158,521,1780
+71,home-video-link,div#myCarousel > div > div > div > div > a,0,Play Video,0,Play Video,A,/html/body/div/div[3]/div/div[6]/div/div/div/div/div/a,A,Play Video,42,71,565,2738
+720,left carousel-control,div#myCarousel > a,0,Previous,0,Previous,A,/html/body/div/div[3]/div/div[6]/div/a,A,Previous,43,30,120,2159
+720,right carousel-control,div#myCarousel > a:nth-of-type(2),0,Next,0,Next,A,/html/body/div/div[3]/div/div[6]/div/a[2],A,Next,44,30,1050,2159
+16,play-btn home-video-link,div#screen6_container > div > div > div:nth-of-type(2) > div > a,0,Play Video,0,Play Video,A,/html/body/div/div[3]/div/div[7]/div/div/div[2]/div/a,A,Play Video,45,14,290,2951
+16,play-btn home-video-link,div#screen6_container > div > div > div:nth-of-type(3) > div > a,0,Play Video,0,Play Video,A,/html/body/div/div[3]/div/div[7]/div/div/div[3]/div/a,A,Play Video,46,14,530,2951
+16,play-btn home-video-link,div#screen6_container > div > div > div:nth-of-type(4) > div > a,0,Play Video,0,Play Video,A,/html/body/div/div[3]/div/div[7]/div/div/div[4]/div/a,A,Play Video,47,14,768,2951
+16,play-btn home-video-link,div#screen6_container > div > div > div:nth-of-type(5) > div > a,0,Play Video,0,Play Video,A,/html/body/div/div[3]/div/div[7]/div/div/div[5]/div/a,A,Play Video,48,14,1007,2951
+41,lovezoom-num,div#screen7_container > div > div > h3 > a,0,Our Customers Love Us,0,Our Custom,A,/html/body/div/div[3]/div/div[8]/div/div/h3/a,A,Our Customers Love Us,49,320,440,3126
+46,btn-cta cta-bg cta-bgwhite,div#screen8_container > div > div > a,0,Request a Demo,0,Request a ,A,/html/body/div/div[3]/div/div[9]/div/div/a,A,Request a Demo,50,200,390,3397
+46,btn-cta cta-bg cta-bgyellow,div#screen8_container > div > div > a:nth-of-type(2),0,Buy Now,0,Buy Now,A,/html/body/div/div[3]/div/div[9]/div/div/a[2],A,Buy Now,51,200,610,3397
+17,0,div#footer-new > div > div > div > div > a,0,About,0,About,A,/html/body/div/div[5]/div/div/div/div/div/div/a,A,About,52,35,90,3647
+15,0,div#footer-new > div > div > div > ul > li > a,0,Zoom Blog,0,Zoom Blog,A,/html/body/div/div[5]/div/div/div/div/div/ul/li/a,A,Zoom Blog,53,55,90,3674
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(2) > a,0,Customers,0,Customers,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[2]/a,A,Customers,54,56,90,3690
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(3) > a,0,Our Team,0,Our Team,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[3]/a,A,Our Team,55,51,90,3706
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(4) > a,0,Why Zoom,0,Why Zoom,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[4]/a,A,Why Zoom,56,55,90,3721
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(5) > a,0,Features,0,Features,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[5]/a,A,Features,57,45,90,3737
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(6) > a,0,Careers,0,Careers,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[6]/a,A,Careers,58,40,90,3753
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(7) > a,0,Integrations,0,Integratio,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[7]/a,A,Integrations,59,62,90,3768
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(8) > a,0,Partners,0,Partners,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[8]/a,A,Partners,60,44,90,3784
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(9) > a,0,How to Videos,0,How to Vid,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[9]/a,A,How to Videos,61,74,90,3800
+15,0,div#footer-new > div > div > div > ul > li:nth-of-type(10) > a,0,Press,0,Press,A,/html/body/div/div[5]/div/div/div/div/div/ul/li[10]/a,A,Press,62,28,90,3816
+17,0,div#footer-new > div > div > div:nth-of-type(2) > div > a,0,Download,0,Download,A,/html/body/div/div[5]/div/div/div/div/div[2]/div/a,A,Download,63,59,280,3647
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li > a,0,Meetings Client,0,Meetings C,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li/a,A,Meetings Client,64,79,280,3674
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Zoom Rooms Client,0,Zoom Rooms,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[2]/a,A,Zoom Rooms Client,65,100,280,3690
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Browser Extension,0,Browser Ex,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[3]/a,A,Browser Extension,66,96,280,3706
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Outlook Plug-in,0,Outlook Pl,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[4]/a,A,Outlook Plug-in,67,79,280,3721
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Lync Plug-in,0,Lync Plug-,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[5]/a,A,Lync Plug-in,68,61,280,3737
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,iPhone/iPad App,0,iPhone/iPa,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[6]/a,A,iPhone/iPad App,69,85,280,3753
+15,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Android App,0,Android Ap,A,/html/body/div/div[5]/div/div/div/div/div[2]/ul/li[7]/a,A,Android App,70,64,280,3768
+17,0,div#footer-new > div > div > div:nth-of-type(3) > div > a,0,Sales,0,Sales,A,/html/body/div/div[5]/div/div/div/div/div[3]/div/a,A,Sales,71,30,490,3647
+15,support-phone,div#footer-new > div > div > div:nth-of-type(3) > ul > li > a,0,1.888.799.9666,0,1.888.799.,A,/html/body/div/div[5]/div/div/div/div/div[3]/ul/li/a,A,1.888.799.9666,72,78,490,3674
+15,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Contact Sales,0,Contact Sa,A,/html/body/div/div[5]/div/div/div/div/div[3]/ul/li[2]/a,A,Contact Sales,73,69,490,3690
+15,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Plans & Pricing,0,Plans & Pr,A,/html/body/div/div[5]/div/div/div/div/div[3]/ul/li[3]/a,A,Plans & Pricing,74,76,490,3706
+15,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Request a Demo,0,Request a ,A,/html/body/div/div[5]/div/div/div/div/div[3]/ul/li[4]/a,A,Request a Demo,75,85,490,3721
+15,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Webinars and Events,0,Webinars a,A,/html/body/div/div[5]/div/div/div/div/div[3]/ul/li[5]/a,A,Webinars and Events,76,107,490,3737
+17,0,div#footer-new > div > div > div:nth-of-type(4) > div > a,0,Support,0,Support,A,/html/body/div/div[5]/div/div/div/div/div[4]/div/a,A,Support,77,46,690,3647
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li > a,0,Test Zoom,0,Test Zoom,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li/a,A,Test Zoom,78,54,690,3674
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Account,0,Account,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[2]/a,A,Account,79,41,690,3690
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Support Center,0,Support Ce,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[3]/a,A,Support Center,80,79,690,3706
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Live Training,0,Live Train,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[4]/a,A,Live Training,81,65,690,3721
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Feedback,0,Feedback,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[5]/a,A,Feedback,82,49,690,3737
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Contact Us,0,Contact Us,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[6]/a,A,Contact Us,83,56,690,3753
+15,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Accessibility,0,Accessibil,A,/html/body/div/div[5]/div/div/div/div/div[4]/ul/li[7]/a,A,Accessibility,84,61,690,3768
+26,dropdown-toggle,div#footer-new > div > div > div:nth-of-type(5) > ul > li > div > a,0,English,0,English,A,/html/body/div/div[5]/div/div/div/div/div[5]/ul/li/div/a,A,English,85,81,890,3674
+26,dropdown-toggle,div#footer-new > div > div > div:nth-of-type(5) > ul:nth-of-type(2) > li > div > a,0,US Dollars $,0,US Dollars,A,/html/body/div/div[5]/div/div/div/div/div[5]/ul[2]/li/div/a,A,US Dollars $,86,107,890,3755
+19,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a,0,Blog,0,Blog,A,/html/body/div/div[5]/div/div/div/div/div[5]/div[3]/a,A,Blog,87,41,890,3818
+19,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(2),0,LinkedIn,0,LinkedIn,A,/html/body/div/div[5]/div/div/div/div/div[5]/div[3]/a[2],A,LinkedIn,88,41,935,3818
+19,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(3),0,Twitter,0,Twitter,A,/html/body/div/div[5]/div/div/div/div/div[5]/div[3]/a[3],A,Twitter,89,41,979,3818
+19,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(4),0,Youtube,0,Youtube,A,/html/body/div/div[5]/div/div/div/div/div[5]/div[3]/a[4],A,Youtube,90,41,1024,3818
+19,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(5),0,Facebook,0,Facebook,A,/html/body/div/div[5]/div/div/div/div/div[5]/div[3]/a[5],A,Facebook,91,41,1069,3818
+15,0,div#footer-new > div > div:nth-of-type(2) > div > a,0,Privacy & Legal Policies,0,Privacy & ,A,/html/body/div/div[5]/div/div/div/div[2]/div/a,A,Privacy & Legal Policies,92,130,456,3903
+15,0,div#footer-new > div > div:nth-of-type(2) > div > a:nth-of-type(2),0,About Ads,0,About Ads,A,/html/body/div/div[5]/div/div/div/div[2]/div/a[2],A,About Ads,93,66,586,3903
+30,truste-button1,a#truste-show-consent,truste-show-consent,Want to know more?,0,Want to kn,A,/html/body/div/div[5]/div[2]/div/div/div/div[2]/a,A,Want to know more?,94,140,412,547

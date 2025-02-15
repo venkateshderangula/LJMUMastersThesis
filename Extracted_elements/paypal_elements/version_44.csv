@@ -1,0 +1,41 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,paypal-img-logo,div#body > header > div > div > a:nth-of-type(2),0,PayPal,0,PayPal,A,/html/body/div/header/div/div/a[2],A,PayPal,1,136,25,13
+67,0,nav#main-menu > ul > li > a,0,Privatkunden,0,Privatkund,A,/html/body/div/header/div/div/nav/ul/li/a,A,Privatkunden,2,147,300,3
+67,0,nav#main-menu > ul > li:nth-of-type(2) > a,0,Geschäftskunden,0,Geschäftsk,A,/html/body/div/header/div/div/nav/ul/li[2]/a,A,Geschäftskunden,3,176,448,3
+67,no-drop,nav#main-menu > ul > li:nth-of-type(3) > a,0,Partner & Entwickler,0,Partner & ,A,/html/body/div/header/div/div/nav/ul/li[3]/a,A,Partner & Entwickler,4,202,628,3
+36,btn btn-small btn-secondary,a#ul-btn,ul-btn,Einloggen,0,Einloggen,A,/html/body/div/header/div/div/div/a,A,Einloggen,5,84,947,18
+36,btn btn-small btn-signup,a#signup-button,signup-button,Neu anmelden,0,Neu anmeld,A,/html/body/div/header/div/div/div/a[2],A,Neu anmelden,6,109,1043,18
+49,btn btn-white,div#left-hero > div > div > div > p:nth-of-type(2) > a,0,Konto eröffnen,0,Konto eröf,A,/html/body/div/div/section/div[2]/div/div/div/div/p[2]/a,A,Konto eröffnen,7,200,208,364
+49,btn btn-white,div#right-hero > div > div > div > p:nth-of-type(2) > a,0,Konto eröffnen,0,Konto eröf,A,/html/body/div/div/section/div[2]/div[2]/div/div/div/p[2]/a,A,Konto eröffnen,8,200,784,364
+53,contentLink btn blue-border-button,section#n1 > div > div > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/div/div/section[2]/div/div/a,A,Mehr erfahren,9,200,102,1149
+53,contentLink btn blue-border-button,section#n1 > div > div:nth-of-type(2) > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/div/div/section[2]/div/div[2]/a,A,Mehr erfahren,10,200,486,1149
+53,contentLink btn blue-border-button,section#n1 > div > div:nth-of-type(3) > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/div/div/section[2]/div/div[3]/a,A,Mehr erfahren,11,200,880,1149
+40,buyers selected,section#buyers > header > div > a,0,Für Käufer,0,Für Käufer,A,/html/body/div/div/section[3]/header/div/a,A,Für Käufer,12,87,501,1457
+39,sellers,section#buyers > header > div > a:nth-of-type(2),0,Für Verkäufer,0,Für Verkäu,A,/html/body/div/div/section[3]/header/div/a[2],A,Für Verkäufer,13,107,612,1457
+19,0,section#buyers > div > div > p:nth-of-type(2) > a,0,Melden Sie sich,0,Melden Sie,A,/html/body/div/div/section[3]/div/div/p[2]/a,A,Melden Sie sich,14,101,112,1712
+53,btn blue-border-button,section#buyers > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/div/div/section[3]/a,A,Mehr erfahren,15,200,500,1812
+23,contentLink,section#rtb3 > div > div > a,0,Details zum Käuferschutz,0,Details zu,A,/html/body/div/div/section[5]/div/div/a,A,Details zum Käuferschutz,16,183,36,2323
+23,contentLink,section#rtb3 > div > div:nth-of-type(2) > a,0,One Touch™ entdecken,0,One Touch™,A,/html/body/div/div/section[5]/div/div[2]/a,A,One Touch™ entdecken,17,160,324,2370
+23,contentLink,section#rtb3 > div > div:nth-of-type(4) > a,0,App herunterladen,0,App herunt,A,/html/body/div/div/section[5]/div/div[4]/a,A,App herunterladen,18,135,611,2393
+23,contentLink,section#rtb3 > div > div:nth-of-type(5) > a,0,Mehr über Gebühren,0,Mehr über ,A,/html/body/div/div/section[5]/div/div[5]/a,A,Mehr über Gebühren,19,145,899,2348
+51,btn closing-cta center-block ,div#main > section:nth-of-type(6) > div > div > a,0,Kostenlos anmelden,0,Kostenlos ,A,/html/body/div/div/section[6]/div/div/a,A,Kostenlos anmelden,20,338,431,2658
+44,0,div#body > footer > div > ul > li > a,0,Hilfe und Kontakt,0,Hilfe und ,A,/html/body/div/footer/div/ul/li/a,A,Hilfe und Kontakt,21,111,71,2839
+44,0,div#body > footer > div > ul > li:nth-of-type(2) > a,0,Gebühren,0,Gebühren,A,/html/body/div/footer/div/ul/li[2]/a,A,Gebühren,22,59,212,2839
+44,0,div#body > footer > div > ul > li:nth-of-type(3) > a,0,Sicherheit,0,Sicherheit,A,/html/body/div/footer/div/ul/li[3]/a,A,Sicherheit,23,62,301,2839
+44,0,div#body > footer > div > ul > li:nth-of-type(4) > a,0,Vorteile,0,Vorteile,A,/html/body/div/footer/div/ul/li[4]/a,A,Vorteile,24,49,393,2839
+44,0,div#body > footer > div > ul > li:nth-of-type(5) > a,0,Apps,0,Apps,A,/html/body/div/footer/div/ul/li[5]/a,A,Apps,25,31,472,2839
+44,0,div#body > footer > div > ul > li:nth-of-type(6) > a,0,Einkaufswelt,0,Einkaufswe,A,/html/body/div/footer/div/ul/li[6]/a,A,Einkaufswelt,26,80,532,2839
+24,country germany,div#body > footer > div > ul > li:nth-of-type(7) > a,0,Alle Länder,0,Alle Lände,A,/html/body/div/footer/div/ul/li[7]/a,A,Alle Länder,27,32,1132,2850
+36,search-icon,div#body > footer > div > ul > li:nth-of-type(8) > a,0,Suchen,0,Suchen,A,/html/body/div/footer/div/ul/li[8]/a,A,Suchen,28,30,36,2844
+26,0,div#body > footer > div > ul:nth-of-type(2) > li > a,0,Über PayPal,0,Über PayPa,A,/html/body/div/footer/div/ul[2]/li/a,A,Über PayPal,29,64,36,2892
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Blog,0,Blog,A,/html/body/div/footer/div/ul[2]/li[2]/a,A,Blog,30,23,122,2892
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Jobs,0,Jobs,A,/html/body/div/footer/div/ul[2]/li[3]/a,A,Jobs,31,22,167,2892
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Sitemap,0,Sitemap,A,/html/body/div/footer/div/ul[2]/li[4]/a,A,Sitemap,32,44,211,2892
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,Integration Center,0,Integratio,A,/html/body/div/footer/div/ul[2]/li[5]/a,A,Integration Center,33,98,277,2892
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,Presse,0,Presse,A,/html/body/div/footer/div/ul[2]/li[6]/a,A,Presse,34,34,397,2892
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(2) > a,0,Impressum,0,Impressum,A,/html/body/div/footer/div/ul[3]/li[2]/a,A,Impressum,35,59,836,2892
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,Datenschutz,0,Datenschut,A,/html/body/div/footer/div/ul[3]/li[3]/a,A,Datenschutz,36,67,916,2892
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(4) > a,0,AGB,0,AGB,A,/html/body/div/footer/div/ul[3]/li[4]/a,A,AGB,37,22,1005,2892
+26,0,li#siteFeedback > a,0,Feedback zur Website,0,Feedback z,A,/html/body/div/footer/div/ul[3]/li[5]/a,A,Feedback zur Website,38,115,1049,2892
+19,0,a#manageCookiesLink,manageCookiesLink,Cookie-Einstellungen ändern,0,Cookie-Ein,A,/html/body/div/div[2]/div/div/p/a,A,Cookie-Einstellungen ändern,39,193,420,466
+44,gdpr_btn gdpr_btn_reversed gdprCookieBanner_button gdprCookieBanner_button-custom,a#acceptAllButton,acceptAllButton,Cookies akzeptieren,0,Cookies ak,A,/html/body/div/div[2]/div/div/div/a,A,Cookies akzeptieren,40,244,478,527

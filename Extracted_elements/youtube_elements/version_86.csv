@@ -1,0 +1,287 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/yt-icon-button[2]/button,BUTTON,,1,24,24,16
+24,yt-simple-endpoint style-scope ytd-topbar-logo-renderer,a#logo,logo,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/ytd-topbar-logo-renderer/a,A,,2,80,72,16
+37,yt-simple-endpoint style-scope ytd-button-renderer,div#skip-navigation > ytd-button-renderer > a,0,Пропустить,0,Пропустить,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/div/ytd-button-renderer/a,A,Пропустить,3,124,16,-1000
+26,0,input#search,search,,search_query,,INPUT,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div/input,INPUT,,4,566,260,15
+32,style-scope ytd-searchbox,button#search-icon-legacy,search-icon-legacy,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/button,BUTTON,Введите запрос,5,65,824,12
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a,A,,6,40,937,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button,BUTTON,,7,24,945,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a,A,,8,40,985,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a/yt-icon-button/button,BUTTON,,9,24,993,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a,A,,10,40,1033,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a/yt-icon-button/button,BUTTON,,11,24,1041,16
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#buttons > ytd-button-renderer > a,0,Войти,0,Войти,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a,A,Войти,12,103,1081,8
+40,yt-simple-endpoint style-scope ytd-toggle-button-renderer,div#mute-button > ytd-toggle-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a,A,,13,40,96,271
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a/yt-icon-button/button,BUTTON,,14,24,104,279
+239,yt-simple-endpoint style-scope ytd-video-masthead-ad-primary-video-renderer,a#click-target,click-target,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div[2]/a,A,,15,628,96,72
+119,yt-simple-endpoint style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#banner,banner,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/a,A,,16,436,740,72
+80,yt-simple-endpoint inline-block style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#thumbnail-endpoint,thumbnail-endpoint,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div/a,A,,17,80,760,211
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div/div/ytd-menu-renderer/yt-icon-button/button,BUTTON,,18,24,1152,206
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#byline > a,0,Walmart,0,Walmart,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[2]/yt-formatted-string/a,A,Walmart,19,50,922,232
+37,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#cta-button > a,0,Start free trial,0,Start free,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[3]/ytd-button-renderer/a,A,Start free trial,20,151,860,256
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:02
+
+Текущее видео",0,"3:02
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:02
+
+Текущее видео",21,258,96,367
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/a,A,,22,36,96,524
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Gato escuchando Crazy - Gnarls Barkley,0,Gato escuc,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/h3/a,A,Gato escuchando Crazy - Gnarls Barkley,23,186,144,524
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,AleCx,0,AleCx,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,AleCx,24,37,144,570
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,25,24,330,524
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:35
+
+Текущее видео",0,"11:35
+
+Тек",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"11:35
+
+Текущее видео",26,258,370,367
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/a,A,,27,36,370,524
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,AMONG US: TE HE PILLADO!!!,0,AMONG US: ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/h3/a,A,AMONG US: TE HE PILLADO!!!,28,186,418,524
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,VEGETTA777,0,VEGETTA777,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,VEGETTA777,29,85,418,570
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,30,24,604,524
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:00
+
+Текущее видео",0,"3:00
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:00
+
+Текущее видео",31,258,644,367
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/a,A,,32,36,644,524
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Camilo - Vida de Rico (Concierto en Casa),0,Camilo - V,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Camilo - Vida de Rico (Concierto en Casa),33,186,692,524
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Camilo,0,Camilo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Camilo,34,45,692,570
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,35,24,878,524
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:30
+
+Текущее видео",0,"0:30
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:30
+
+Текущее видео",36,258,918,367
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/a,A,,37,36,918,524
+20,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Windmill destructed in storm,0,Windmill d,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Windmill destructed in storm,38,186,966,524
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,sneaker65,0,sneaker65,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,sneaker65,39,66,966,550
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,40,24,1152,524
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:18
+
+Текущее видео",0,"0:18
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:18
+
+Текущее видео",41,258,96,664
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/a,A,,42,36,96,821
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Army Soldier dual-wields some M249's,0,Army Soldi,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Army Soldier dual-wields some M249's,43,186,144,821
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,qwap0,0,qwap0,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,qwap0,44,43,144,867
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,45,24,330,821
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,Текущее видео,0,Текущее ви,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,Текущее видео,46,258,370,664
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/a,A,,47,36,370,821
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,🔴 LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS,0,🔴 LIVE! B,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div/h3/a,A,🔴 LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS,48,186,418,821
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,WB Kids,0,WB Kids,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,WB Kids,49,53,418,867
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,50,24,604,821
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:20:29
+
+Текущее видео",0,"8:20:29
+
+Т",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"8:20:29
+
+Текущее видео",51,258,644,664
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/a,A,,52,36,644,821
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,おやすみジブリ・夏夜のピアノメドレー【睡眠用BGM】Studio Ghibli Summer Night Piano Collection Piano Covered Minan,0,おやすみジブリ・夏夜,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div/h3/a,A,おやすみジブリ・夏夜のピアノメドレー【睡眠用BGM】Studio Ghibli Summer Night Piano Collection Piano Covered Minan,53,186,692,821
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Minan,0,Minan,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Minan,54,40,692,867
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,55,24,878,821
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:28
+
+Текущее видео",0,"0:28
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:28
+
+Текущее видео",56,258,918,664
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/a,A,,57,36,918,821
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,German Shepherd suddenly realizes he is at the vet,0,German She,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div/h3/a,A,German Shepherd suddenly realizes he is at the vet,58,186,966,821
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,xDBA3x,0,xDBA3x,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,xDBA3x,59,50,966,867
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,60,24,1152,821
+24,yt-simple-endpoint style-scope ytd-rich-shelf-renderer,div#title-text > a,0,В тренде,0,В тренде,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div/h2/div/div/div/a,A,В тренде,61,84,104,995
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:20
+
+Текущее видео",0,"3:20
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:20
+
+Текущее видео",62,258,96,1043
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/a,A,,63,36,96,1200
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Juegos del Pasado | Casi Creativo,0,Juegos del,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/h3/a,A,Juegos del Pasado | Casi Creativo,64,186,144,1200
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Fred Lammie,0,Fred Lammi,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Fred Lammie,65,83,144,1246
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,66,24,330,1200
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"4:00
+
+Текущее видео",0,"4:00
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"4:00
+
+Текущее видео",67,258,370,1043
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/a,A,,68,36,370,1200
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Ana Bárbara y Paquita La Del Barrio - El Consejo (Video Oficial),0,Ana Bárbar,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Ana Bárbara y Paquita La Del Barrio - El Consejo (Video Oficial),69,186,418,1200
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Ana Bárbara,0,Ana Bárbar,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Ana Bárbara,70,78,418,1246
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,71,24,604,1200
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:03
+
+Текущее видео",0,"3:03
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:03
+
+Текущее видео",72,258,644,1043
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/a,A,,73,36,644,1200
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"Farina, Thalía - Ten Cuidao (Official Video)",0,"Farina, Th",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"Farina, Thalía - Ten Cuidao (Official Video)",74,186,692,1200
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Farina,0,Farina,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Farina,75,40,692,1246
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,76,24,878,1200
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"7:12
+
+Текущее видео",0,"7:12
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"7:12
+
+Текущее видео",77,258,918,1043
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/a,A,,78,36,918,1200
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,PS5 Teardown: An up-close and personal look at the console hardware,0,PS5 Teardo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/h3/a,A,PS5 Teardown: An up-close and personal look at the console hardware,79,186,966,1200
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,PlayStation,0,PlayStatio,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,PlayStation,80,72,966,1246
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,81,24,1152,1200
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#show-more-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a,A,,82,40,616,1322
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,83,24,624,1330
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"4:30
+
+Текущее видео",0,"4:30
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"4:30
+
+Текущее видео",84,258,96,1408
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/a,A,,85,36,96,1565
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"Hey Mama - David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack / Beginner's Class",0,Hey Mama -,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"Hey Mama - David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack / Beginner's Class",86,186,144,1565
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,1MILLION Dance Studio,0,1MILLION D,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,1MILLION Dance Studio,87,150,144,1611
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,88,24,330,1565
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:15
+
+Текущее видео",0,"1:15
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:15
+
+Текущее видео",89,258,370,1408
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/a,A,,90,36,370,1565
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,putin tells why he stood under the  rain without umbrella,0,putin tell,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div/h3/a,A,putin tells why he stood under the  rain without umbrella,91,186,418,1565
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,MM Productions,0,MM Product,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,MM Productions,92,105,418,1611
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,93,24,604,1565
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"58:41
+
+Текущее видео",0,"58:41
+
+Тек",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"58:41
+
+Текущее видео",94,258,644,1408
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/a,A,,95,36,644,1565
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,INFAMES #4 || EMPEZANDO A TRABAJAR,0,INFAMES #4,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div/h3/a,A,INFAMES #4 || EMPEZANDO A TRABAJAR,96,186,692,1565
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Auron,0,Auron,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Auron,97,38,692,1611
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,98,24,878,1565
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:48
+
+Текущее видео",0,"0:48
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:48
+
+Текущее видео",99,258,918,1408
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/a,A,,100,36,918,1565
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym,0,Fresh Prin,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym,101,186,966,1565
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,NastyD91,0,NastyD91,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,NastyD91,102,62,966,1611
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,103,24,1152,1565
+100,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/ytd-thumbnail/a,A,,104,100,96,1733
+36,yt-simple-endpoint style-scope ytd-button-renderer,div#button > ytd-button-renderer > a,0,Узнать больше,0,Узнать бол,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div/div[2]/ytd-button-renderer/a,A,Узнать больше,105,179,212,1798
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#dismiss-button > ytd-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a,A,,106,40,1136,1725
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,107,24,1144,1733
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:34
+
+Текущее видео",0,"0:34
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:34
+
+Текущее видео",108,258,96,1902
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/a,A,,109,36,96,2060
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Sheep Discovers How To Use A Trampoline,0,Sheep Disc,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Sheep Discovers How To Use A Trampoline,110,186,144,2060
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Aww Network,0,Aww Networ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Aww Network,111,87,144,2106
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,112,24,330,2060
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:40
+
+Текущее видео",0,"14:40
+
+Тек",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"14:40
+
+Текущее видео",113,258,370,1902
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/a,A,,114,36,370,2060
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"Ronaldinho 2006 👑 Ballon d'Or Level: Dribbling Skills, Goals, Passes",0,Ronaldinho,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"Ronaldinho 2006 👑 Ballon d'Or Level: Dribbling Skills, Goals, Passes",115,186,418,2060
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,mr bundesteam,0,mr bundest,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,mr bundesteam,116,100,418,2106
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,117,24,604,2060
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:01
+
+Текущее видео",0,"1:01
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:01
+
+Текущее видео",118,258,644,1902
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/a,A,,119,36,644,2060
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Boy Surprises Childhood Best Friend Dressed As FedEx Driver,0,Boy Surpri,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Boy Surprises Childhood Best Friend Dressed As FedEx Driver,120,186,692,2060
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Happily,0,Happily,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Happily,121,48,692,2106
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,122,24,878,2060
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:43
+
+Текущее видео",0,"0:43
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"0:43
+
+Текущее видео",123,258,918,1902
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/a,A,,124,36,918,2060
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Tattooed bully acts cocky and gets knocked out by Ben Nguyen in 20 seconds!(Original official video),0,Tattooed b,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Tattooed bully acts cocky and gets knocked out by Ben Nguyen in 20 seconds!(Original official video),125,186,966,2060
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,For Great Justice,0,For Great ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,For Great Justice,126,108,966,2106
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,127,24,1152,2060
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:02
+
+Текущее видео",0,"10:02
+
+Тек",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"10:02
+
+Текущее видео",128,258,96,2200
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/a,A,,129,36,96,2357
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,McLaren P1 - Forza Horizon 4 | Logitech g29 gameplay,0,McLaren P1,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div/h3/a,A,McLaren P1 - Forza Horizon 4 | Logitech g29 gameplay,130,186,144,2357
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Xpertgamingtech,0,Xpertgamin,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Xpertgamingtech,131,109,144,2403
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,132,24,330,2357
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"2:32:11
+
+Текущее видео",0,"2:32:11
+
+Т",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"2:32:11
+
+Текущее видео",133,258,370,2200
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/a,A,,134,36,370,2357
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - Feeling Me #38",0,"Dua Lipa, ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - Feeling Me #38",135,186,418,2357
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Miracle Music,0,Miracle Mu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Miracle Music,136,89,418,2403
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,137,24,604,2357
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"6:31
+
+Текущее видео",0,"6:31
+
+Теку",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"6:31
+
+Текущее видео",138,258,644,2200
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/a,A,,139,36,644,2357
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,The Pink Panther Show Episode 18 - The Pink Blueprint,0,The Pink P,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div/h3/a,A,The Pink Panther Show Episode 18 - The Pink Blueprint,140,186,692,2357
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,PinkPanthersShow,0,PinkPanthe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,PinkPanthersShow,141,119,692,2403
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,142,24,878,2357
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:34:55
+
+Текущее видео",0,"1:34:55
+
+Т",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:34:55
+
+Текущее видео",143,258,918,2200
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/a,A,,144,36,918,2357
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,акустический классический рок 80-х 90-х | лучшие классические рок-песни,0,акустическ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div/h3/a,A,акустический классический рок 80-х 90-х | лучшие классические рок-песни,145,186,966,2357
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Acoustic Music Collection,0,Acoustic M,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Acoustic Music Collection,146,163,966,2403
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[5]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,147,24,1152,2357
+44,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/ytd-miniplayer/div[2]/div/ytd-miniplayer-toast/ytd-thumbnail/a,A,,148,78,788,622

@@ -1,0 +1,77 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,0,html > body > header > div > h1 > a,0,Okta,0,Okta,A,/html/body/header/div/h1/a,A,Okta,1,100,25,35
+19,0,html > body > header > div > nav > ul > li > a,0,Customers,0,Customers,A,/html/body/header/div/nav/ul/li/a,A,Customers,2,76,150,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(2) > a,0,Solutions,0,Solutions,A,/html/body/header/div/nav/ul/li[2]/a,A,Solutions,3,90,255,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(3) > a,0,Products,0,Products,A,/html/body/header/div/nav/ul/li[3]/a,A,Products,4,87,364,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(4) > a,0,Services,0,Services,A,/html/body/header/div/nav/ul/li[4]/a,A,Services,5,84,471,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(5) > a,0,Resources,0,Resources,A,/html/body/header/div/nav/ul/li[5]/a,A,Resources,6,98,575,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(6) > a,0,Company,0,Company,A,/html/body/header/div/nav/ul/li[6]/a,A,Company,7,92,692,43
+19,0,html > body > header > div > nav > ul > li:nth-of-type(7) > a,0,Contact Sales,0,Contact Sa,A,/html/body/header/div/nav/ul/li[7]/a,A,Contact Sales,8,97,804,43
+34,Button--green,html > body > header > div > div:nth-of-type(2) > a,0,Try Okta,0,Try Okta,A,/html/body/header/div/div[2]/a,A,Try Okta,9,98,926,35
+34,Button--blueOutline,a#myokta-signin,myokta-signin,Sign In,0,Sign In,A,/html/body/header/div/div[3]/a,A,Sign In,10,88,1038,35
+34,Header-search Button--search,a#searchToggle,searchToggle,,0,,A,/html/body/header/div/a,A,,11,34,1141,35
+44,Button--large Button--whiteOutline,div#content > div > section > header > div > div > a,0,Learn More,0,Learn More,A,/html/body/div/div/section/header/div/div/a,A,Learn More,12,191,80,414
+25,QuickLinksGridBlock-link ,div#content > section > section > div > div > div > div > div > a,0,Register now,0,Register n,A,/html/body/div/section/section/div/div/div/div/div/a,A,Register now,13,95,110,894
+25,QuickLinksGridBlock-link ,div#content > section > section > div > div > div:nth-of-type(2) > div > div > a,0,Read now,0,Read now,A,/html/body/div/section/section/div/div/div[2]/div/div/a,A,Read now,14,73,375,894
+25,QuickLinksGridBlock-link ,div#content > section > section > div > div > div:nth-of-type(3) > div > div > a,0,Learn how,0,Learn how,A,/html/body/div/section/section/div/div/div[3]/div/div/a,A,Learn how,15,76,640,894
+25,QuickLinksGridBlock-link ,div#content > section > section > div > div > div:nth-of-type(4) > div > div > a,0,Watch now,0,Watch now,A,/html/body/div/section/section/div/div/div[4]/div/div/a,A,Watch now,16,80,905,894
+34,Button--whiteOutline,div#content > section:nth-of-type(2) > section > div > div > div > div:nth-of-type(2) > a,0,Explore our products,0,Explore ou,A,/html/body/div/section[2]/section/div/div/div/div[2]/a,A,Explore our products,17,176,80,1426
+34,Button--whiteOutline,div#content > section:nth-of-type(3) > section > div > div > div > div:nth-of-type(2) > a,0,Explore our solutions,0,Explore ou,A,/html/body/div/section[3]/section/div/div/div/div[2]/a,A,Explore our solutions,18,178,80,2037
+460,FeaturedCustomerBlock has-leftAura,div#content > section:nth-of-type(4) > section > div > div > div > a,0,"Enabling global collaboration and rapid growth
+						Learn more",0,Enabling g,A,/html/body/div/section[4]/section/div/div/div/a,A,"Enabling global collaboration and rapid growth
+						Learn more",19,333,80,2375
+460,FeaturedCustomerBlock,div#content > section:nth-of-type(4) > section > div > div > div:nth-of-type(2) > a,0,"Securing access to APIs in the Pitney Bowes Commerce Cloud
+						Learn more",0,Securing a,A,/html/body/div/section[4]/section/div/div/div[2]/a,A,"Securing access to APIs in the Pitney Bowes Commerce Cloud
+						Learn more",20,333,433,2375
+460,FeaturedCustomerBlock has-rightAura,div#content > section:nth-of-type(4) > section > div > div > div:nth-of-type(3) > a,0,"Building an intelligent, connected world
+						Learn more",0,Building a,A,/html/body/div/section[4]/section/div/div/div[3]/a,A,"Building an intelligent, connected world
+						Learn more",21,333,787,2375
+34,Button--blueOutline,div#content > section:nth-of-type(5) > section > div > div > div > div:nth-of-type(2) > a,0,See our stats,0,See our st,A,/html/body/div/section[5]/section/div/div/div/div[2]/a,A,See our stats,22,127,537,3308
+19,0,div#content > aside > div > section > div > ul > li > a,0,Enable Digital Business with IAM,0,Enable Dig,A,/html/body/div/aside/div/section/div/ul/li/a,A,Enable Digital Business with IAM,23,228,58,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(2) > a,0,A Cloud Service for Secure Digital Experiences,0,A Cloud Se,A,/html/body/div/aside/div/section/div/ul/li[2]/a,A,A Cloud Service for Secure Digital Experiences,24,328,326,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(3) > a,0,Office 365 Adoption eGuide,0,Office 365,A,/html/body/div/aside/div/section/div/ul/li[3]/a,A,Office 365 Adoption eGuide,25,197,694,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(4) > a,0,Consumer Identity Management,0,Consumer I,A,/html/body/div/aside/div/section/div/ul/li[4]/a,A,Consumer Identity Management,26,224,931,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(5) > a,0,Automate Identity Lifecycle,0,Automate I,A,/html/body/div/aside/div/section/div/ul/li[5]/a,A,Automate Identity Lifecycle,27,190,1196,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(6) > a,0,Okta vs. ADFS,0,Okta vs. A,A,/html/body/div/aside/div/section/div/ul/li[6]/a,A,Okta vs. ADFS,28,101,1426,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(7) > a,0,Enable Digital Business with IAM,0,Enable Dig,A,/html/body/div/aside/div/section/div/ul/li[7]/a,A,Enable Digital Business with IAM,29,228,1566,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(8) > a,0,A Cloud Service for Secure Digital Experiences,0,A Cloud Se,A,/html/body/div/aside/div/section/div/ul/li[8]/a,A,A Cloud Service for Secure Digital Experiences,30,328,1834,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(9) > a,0,Office 365 Adoption eGuide,0,Office 365,A,/html/body/div/aside/div/section/div/ul/li[9]/a,A,Office 365 Adoption eGuide,31,197,2202,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(10) > a,0,Consumer Identity Management,0,Consumer I,A,/html/body/div/aside/div/section/div/ul/li[10]/a,A,Consumer Identity Management,32,224,2439,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(11) > a,0,Automate Identity Lifecycle,0,Automate I,A,/html/body/div/aside/div/section/div/ul/li[11]/a,A,Automate Identity Lifecycle,33,190,2704,3624
+19,0,div#content > aside > div > section > div > ul > li:nth-of-type(12) > a,0,Okta vs. ADFS,0,Okta vs. A,A,/html/body/div/aside/div/section/div/ul/li[12]/a,A,Okta vs. ADFS,34,101,2933,3624
+24,0,div#content > footer > div > div > section > ul > li > a,0,Partners,0,Partners,A,/html/body/div/footer/div/div/section/ul/li/a,A,Partners,35,71,80,3825
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(2) > a,0,Pricing,0,Pricing,A,/html/body/div/footer/div/div/section/ul/li[2]/a,A,Pricing,36,58,80,3876
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(3) > a,0,Careers,0,Careers,A,/html/body/div/footer/div/div/section/ul/li[3]/a,A,Careers,37,68,80,3927
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(4) > a,0,Support,0,Support,A,/html/body/div/footer/div/div/section/ul/li[4]/a,A,Support,38,68,80,3978
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(5) > a,0,Press Room,0,Press Room,A,/html/body/div/footer/div/div/section/ul/li[5]/a,A,Press Room,39,103,80,4029
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(6) > a,0,Trust,0,Trust,A,/html/body/div/footer/div/div/section/ul/li[6]/a,A,Trust,40,41,80,4080
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(7) > a,0,Blog,0,Blog,A,/html/body/div/footer/div/div/section/ul/li[7]/a,A,Blog,41,39,80,4131
+24,0,div#content > footer > div > div > section > ul > li:nth-of-type(8) > a,0,Contact Us,0,Contact Us,A,/html/body/div/footer/div/div/section/ul/li[8]/a,A,Contact Us,42,95,80,4182
+74,0,div#content > footer > div > div > section > ul > li:nth-of-type(9) > a,0,Executive Briefing Center,0,Executive ,A,/html/body/div/footer/div/div/section/ul/li[9]/a,A,Executive Briefing Center,43,154,80,4233
+24,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > a,0,Solutions,0,Solutions,A,/html/body/div/footer/div/div/section[2]/ul/li/a,A,Solutions,44,79,392,3771
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li > a,0,Protect Against Data Breaches,0,Protect Ag,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li/a,A,Protect Against Data Breaches,45,187,392,3819
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(2) > a,0,"Secure, Seamless Customer Experience",0,"Secure, Se",A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[2]/a,A,"Secure, Seamless Customer Experience",46,245,392,3851
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(3) > a,0,Collaborate with Partners,0,Collaborat,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[3]/a,A,Collaborate with Partners,47,154,392,3883
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(4) > a,0,Enable a Mobile Workforce,0,Enable a M,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[4]/a,A,Enable a Mobile Workforce,48,165,392,3915
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(5) > a,0,Reduce IT Friction,0,Reduce IT ,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[5]/a,A,Reduce IT Friction,49,110,392,3947
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(6) > a,0,Increase M&A Agility,0,Increase M,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[6]/a,A,Increase M&A Agility,50,127,392,3979
+17,0,div#content > footer > div > div > section:nth-of-type(2) > ul > li > ul > li:nth-of-type(7) > a,0,View All ›,0,View All ›,A,/html/body/div/footer/div/div/section[2]/ul/li/ul/li[7]/a,A,View All ›,51,57,392,4011
+24,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > a,0,Products,0,Products,A,/html/body/div/footer/div/div/section[3]/ul/li/a,A,Products,52,76,808,3771
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > a,0,Okta IT Products,0,Okta IT Pr,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/a,A,Okta IT Products,53,102,808,3819
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > ul > li > a,0,Single Sign-On,0,Single Sig,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/ul/li/a,A,Single Sign-On,54,91,837,3851
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > ul > li:nth-of-type(2) > a,0,Multi-Factor Authentication,0,Multi-Fact,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/ul/li[2]/a,A,Multi-Factor Authentication,55,165,837,3883
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > ul > li:nth-of-type(3) > a,0,Lifecycle Management,0,Lifecycle ,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/ul/li[3]/a,A,Lifecycle Management,56,138,837,3915
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > ul > li:nth-of-type(4) > a,0,Universal Directory,0,Universal ,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/ul/li[4]/a,A,Universal Directory,57,117,837,3947
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li > ul > li:nth-of-type(5) > a,0,API Access Management,0,API Access,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li/ul/li[5]/a,A,API Access Management,58,153,837,3979
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li:nth-of-type(2) > a,0,Okta API Products,0,Okta API P,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li[2]/a,A,Okta API Products,59,112,808,4011
+17,0,div#content > footer > div > div > section:nth-of-type(3) > ul > li > ul > li:nth-of-type(3) > a,0,Okta Integration Network,0,Okta Integ,A,/html/body/div/footer/div/div/section[3]/ul/li/ul/li[3]/a,A,Okta Integration Network,60,155,808,4043
+15,0,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(2) > ul > li > a,0,Privacy,0,Privacy,A,/html/body/div/footer/div/div[2]/section[2]/ul/li/a,A,Privacy,61,38,833,4368
+15,0,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Security,0,Security,A,/html/body/div/footer/div/div[2]/section[2]/ul/li[2]/a,A,Security,62,42,891,4368
+15,0,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,FAQ,0,FAQ,A,/html/body/div/footer/div/div[2]/section[2]/ul/li[3]/a,A,FAQ,63,23,953,4368
+15,0,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Visit our Developer Site,0,Visit our ,A,/html/body/div/footer/div/div[2]/section[2]/ul/li[4]/a,A,Visit our Developer Site,64,124,996,4368
+26,active,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(3) > ul > li > a,0,English,0,English,A,/html/body/div/footer/div/div[2]/section[3]/ul/li/a,A,English,65,87,84,4466
+26,0,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,French,0,French,A,/html/body/div/footer/div/div[2]/section[3]/ul/li[2]/a,A,French,66,94,181,4466
+32,SocialIcons-twitter,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(4) > ul > li > a,0,Twitter,0,Twitter,A,/html/body/div/footer/div/div[2]/section[4]/ul/li/a,A,Twitter,67,32,932,4453
+32,SocialIcons-facebook,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Facebook,0,Facebook,A,/html/body/div/footer/div/div[2]/section[4]/ul/li[2]/a,A,Facebook,68,32,984,4453
+32,SocialIcons-linkedin,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,LinkedIn,0,LinkedIn,A,/html/body/div/footer/div/div[2]/section[4]/ul/li[3]/a,A,LinkedIn,69,32,1036,4453
+32,SocialIcons-youtube,div#content > footer > div > div:nth-of-type(2) > section:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Youtube,0,Youtube,A,/html/body/div/footer/div/div[2]/section[4]/ul/li[4]/a,A,Youtube,70,32,1088,4453

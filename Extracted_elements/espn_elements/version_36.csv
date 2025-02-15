@@ -1,0 +1,26 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+6,scoreboard-hidden-skipnav,section#global-scoreboard > button,0,,0,,BUTTON,/html/body/div[4]/div[2]/section/button,BUTTON,Skip to navigation,1,16,-10000,0
+30,button button-filter sm dropdown-toggle current-league-name,section#global-scoreboard > div > div > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[4]/div[2]/section/div/div/div/div[2]/button,BUTTON,Top Events,2,114,10,18
+65,scoreEvent__content gamecast-link,ul#leagues > li > div > div:nth-of-type(2) > a,0,"2020 Sports Calendar
+            
+
+			
+
+        
+
+        
+            
+                See how the coronavirus is affecting sports and when we might see action again.",0,2020 Sport,A,/html/body/div[4]/div[2]/section/div/div/div[8]/ul/li/div/div[2]/a,A,"2020 Sports Calendar
+            
+
+			
+
+        
+
+        
+            
+                See how the coronavirus is affecting sports and when we might see action again.",3,228,203,0
+44,0,header#global-header > div:nth-of-type(2) > h1 > a,0,ESPN,&lpos=sitenavdefault&lid=sitenav_main-logo,ESPN,A,/html/body/div[4]/div[2]/header/div[2]/h1/a,A,ESPN,4,88,10,65
+44,icon-font-after icon-search-solid-after,a#global-search-trigger,global-search-trigger,,0,,A,/html/body/div[4]/div[2]/header/div[2]/ul/li/a,A,,5,44,1112,65
+40,search-box,div#global-search > input,0,,0,,INPUT,/html/body/div[4]/div[2]/header/div[2]/ul/li/div/input,INPUT,,6,300,1112,67
+40,btn-search,div#global-search > input:nth-of-type(2),0,,0,,INPUT,/html/body/div[4]/div[2]/header/div[2]/ul/li/div/input[2],INPUT,,7,40,1072,67

@@ -1,0 +1,23 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+29,gbzt gbz0l gbp1,a#gb_1,gb_1,Αναζήτηση,0,Αναζήτηση,A,/html/body/div/div/div/div/ol/li/a,A,Αναζήτηση,1,80,4,0
+29,gbzt,a#gb_2,gb_2,Εικόνες,0,Εικόνες,A,/html/body/div/div/div/div/ol/li[2]/a,A,Εικόνες,2,56,84,0
+29,gbzt,a#gb_8,gb_8,Χάρτες,0,Χάρτες,A,/html/body/div/div/div/div/ol/li[3]/a,A,Χάρτες,3,53,140,0
+29,gbzt,a#gb_78,gb_78,Play,0,Play,A,/html/body/div/div/div/div/ol/li[4]/a,A,Play,4,37,193,0
+29,gbzt,a#gb_36,gb_36,YouTube,0,YouTube,A,/html/body/div/div/div/div/ol/li[5]/a,A,YouTube,5,63,230,0
+29,gbzt,a#gb_5,gb_5,Ειδήσεις,0,Ειδήσεις,A,/html/body/div/div/div/div/ol/li[6]/a,A,Ειδήσεις,6,61,293,0
+29,gbzt,a#gb_23,gb_23,Gmail,0,Gmail,A,/html/body/div/div/div/div/ol/li[7]/a,A,Gmail,7,46,354,0
+29,gbzt,a#gb_49,gb_49,Drive,0,Drive,A,/html/body/div/div/div/div/ol/li[8]/a,A,Drive,8,42,400,0
+29,gbgt,a#gbztm,gbztm,Περισσότερα,0,Περισσότερ,A,/html/body/div/div/div/div/ol/li[9]/a,A,Περισσότερα,9,96,442,0
+29,gbgt,a#gb_70,gb_70,Είσοδος,0,Είσοδος,A,/html/body/div/div/div/div[2]/ol/li/a,A,Είσοδος,10,64,1102,0
+29,gbgt,a#gbg5,gbg5,,0,,A,/html/body/div/div/div/div[2]/ol/li[3]/a,A,,11,28,1167,0
+34,lst tiah,html > body > center > form > table > tbody > tr > td:nth-of-type(2) > div > div > input,0,,q,,INPUT,/html/body/center/form/table/tbody/tr/td[2]/div/div/input,INPUT,,12,506,347,209
+30,lsb,html > body > center > form > table > tbody > tr > td:nth-of-type(2) > span > span > input,0,,btnG,,INPUT,/html/body/center/form/table/tbody/tr/td[2]/span/span/input,INPUT,,13,137,458,249
+30,lsb,html > body > center > form > table > tbody > tr > td:nth-of-type(2) > span:nth-of-type(2) > span > input,0,,btnI,,INPUT,/html/body/center/form/table/tbody/tr/td[2]/span[2]/span/input,INPUT,,14,145,601,249
+13,0,html > body > center > form > table > tbody > tr > td:nth-of-type(3) > a,0,Σύνθετη αναζήτηση,0,Σύνθετη αν,A,/html/body/center/form/table/tbody/tr/td[3]/a,A,Σύνθετη αναζήτηση,15,240,866,212
+13,0,html > body > center > form > table > tbody > tr > td:nth-of-type(3) > a:nth-of-type(2),0,Εργ. γλώσσας,0,Εργ. γλώσσ,A,/html/body/center/form/table/tbody/tr/td[3]/a[2],A,Εργ. γλώσσας,16,240,866,227
+15,0,div#SIvCob > a,0,English,0,English,A,/html/body/center/div[3]/div/div/a,A,English,17,49,657,326
+16,0,div#fll > a,0,Προγράμματα διαφήμισης,0,Προγράμματ,A,/html/body/center/span/div/div/a,A,Προγράμματα διαφήμισης,18,153,371,369
+16,0,div#fll > a:nth-of-type(2),0,Σχετικά με τη Google,0,Σχετικά με,A,/html/body/center/span/div/div/a[2],A,Σχετικά με τη Google,19,124,548,369
+16,0,a#fehl,fehl,Google.com in English,0,Google.com,A,/html/body/center/span/div/div/a[3],A,Google.com in English,20,133,696,369
+12,0,span#footer > p > a,0,Απόρρητο,0,Απόρρητο,A,/html/body/center/span/p/a,A,Απόρρητο,21,48,581,404
+12,0,span#footer > p > a:nth-of-type(2),0,Όροι,0,Όροι,A,/html/body/center/span/p/a[2],A,Όροι,22,23,639,404

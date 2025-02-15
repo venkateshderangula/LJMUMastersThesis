@@ -1,0 +1,94 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+48,m-skip-to-main,a#uhfSkipToMain,uhfSkipToMain,Skip to main content,0,Skip to ma,A,/html/body/div/div/div/a,A,Skip to main content,1,1,-999,0
+54,c-logo c-sgl-stk-uhfLogo,a#uhfLogo,uhfLogo,Microsoft,0,Microsoft,A,/html/body/div/div/div/header/div/div/a,A,Microsoft,2,137,60,1
+48,c-uhf-nav-link,a#shellmenu_0,shellmenu_0,Office,0,Office,A,/html/body/div/div/div/header/div/div/nav/ul/li/a,A,Office,3,52,198,1
+48,c-uhf-nav-link,a#shellmenu_1,shellmenu_1,Windows,0,Windows,A,/html/body/div/div/div/header/div/div/nav/ul/li[2]/a,A,Windows,4,71,253,1
+48,c-uhf-nav-link,a#shellmenu_2,shellmenu_2,Surface,0,Surface,A,/html/body/div/div/div/header/div/div/nav/ul/li[3]/a,A,Surface,5,60,328,1
+48,c-uhf-nav-link,a#shellmenu_3,shellmenu_3,Xbox,0,Xbox,A,/html/body/div/div/div/header/div/div/nav/ul/li[4]/a,A,Xbox,6,47,392,1
+48,c-uhf-nav-link,a#shellmenu_4,shellmenu_4,Deals,0,Deals,A,/html/body/div/div/div/header/div/div/nav/ul/li[5]/a,A,Deals,7,49,442,1
+48,c-uhf-nav-link,a#l1_support,l1_support,Support,0,Support,A,/html/body/div/div/div/header/div/div/nav/ul/li[6]/a,A,Support,8,64,495,1
+52,c-button-logo all-ms-nav,nav#uhf-c-nav > ul > li > div > button,0,,0,,BUTTON,/html/body/div/div/div/header/div/div/div[2]/div/nav/ul/li/div/button,BUTTON,All Microsoft,9,110,877,1
+43,c-glyph,button#search,search,,0,,BUTTON,/html/body/div/div/div/header/div/div/div[2]/form/button,BUTTON,Search,10,36,1011,3
+47,c-action-trigger c-glyph c-uhf-nav-link glyph-shopping-cart,a#uhf-shopping-cart,uhf-shopping-cart,"0
+			Cart",0,"0
+			Cart",A,/html/body/div/div/div/header/div/div/div[2]/a,A,"0
+			Cart",11,16,1060,0
+48,mectrl_resetStyle mectrl_trigger,a#mectrl_main_trigger,mectrl_main_trigger,,0,,A,/html/body/div/div/div/header/div/div/div[2]/div[2]/div/a,A,,12,54,1086,1
+42,m-sitebanner m-sitebanner-regular m-sitebanner-glyph,div#coreui-sitebanner-s2vf3p3 > a,0,"Save big on digital Xbox and PC games, TV, movies, Office, and more. SHOP COUNTDOWN DEALS",0,Save big o,A,/html/body/section/div/div/a,A,"Save big on digital Xbox and PC games, TV, movies, Office, and more. SHOP COUNTDOWN DEALS",13,1080,60,54
+14,0,div#coreui-hero-q4ifivk > div > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[2]/div/div/div/div/div/button,BUTTON,,14,16,553,464
+14,f-active,div#coreui-hero-q4ifivk > div > div > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[2]/div/div/div/div/div/button[2],BUTTON,,15,16,569,464
+40,c-action-toggle c-glyph f-toggle glyph-pause,div#coreui-hero-q4ifivk > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[2]/div/div/div/div/button,BUTTON,,16,40,597,451
+44,c-flipper f-previous,div#coreui-hero-q4ifivk > div > div > button,0,,0,,BUTTON,/html/body/section/div[2]/div/div/div/button,BUTTON,,17,44,60,275
+44,c-flipper f-next,div#coreui-hero-q4ifivk > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[2]/div/div/div/button[2],BUTTON,,18,44,1096,275
+40,c-call-to-action c-glyph,li#coreui-hero-q4ifivk-item-2 > section > div > div > div:nth-of-type(2) > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[2]/div/div/div/div[2]/ul/li[2]/section/div/div/div[2]/a,A,SHOP NOW,19,147,529,408
+41,c-call-to-action c-glyph,div#coreui-contentplacement-92ym2zt > div:nth-of-type(2) > div > div > div > section > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[3]/div/div[2]/div/div/div/section/a,A,SHOP NOW,20,108,60,816
+41,c-call-to-action c-glyph,div#coreui-contentplacement-92ym2zt > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[3]/div/div[2]/div/div/div[2]/section/a,A,SHOP NOW,21,108,336,856
+41,c-call-to-action c-glyph,div#coreui-contentplacement-92ym2zt > div:nth-of-type(2) > div > div:nth-of-type(2) > div > section > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[3]/div/div[2]/div/div[2]/div/section/a,A,SHOP NOW,22,108,612,792
+41,c-call-to-action c-glyph,div#coreui-contentplacement-92ym2zt > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > a,0,SIGN IN TO SAVE,0,SIGN IN TO,A,/html/body/section/div[3]/div/div[2]/div/div[2]/div[2]/section/a,A,SIGN IN TO SAVE,23,147,888,812
+40,c-call-to-action c-glyph,div#coreui-hero-q9mxzlf > div > div > section > div > div > div:nth-of-type(2) > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[4]/div/div/div/section/div/div/div[2]/a,A,SHOP NOW,24,147,127,1174
+41,c-call-to-action c-glyph,div#coreui-contentplacement-yi3ekbv > div:nth-of-type(2) > div > div > div > section > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[5]/div/div[2]/div/div/div/section/a,A,SHOP NOW,25,108,60,1716
+41,c-call-to-action c-glyph,div#coreui-contentplacement-yi3ekbv > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a,0,DOWNLOAD NOW,0,DOWNLOAD N,A,/html/body/section/div[5]/div/div[2]/div/div/div[2]/section/a,A,DOWNLOAD NOW,26,158,336,1696
+41,c-call-to-action c-glyph,div#coreui-contentplacement-yi3ekbv > div:nth-of-type(2) > div > div:nth-of-type(2) > div > section > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[5]/div/div[2]/div/div[2]/div/section/a,A,SHOP NOW,27,108,612,1696
+41,c-call-to-action c-glyph,div#coreui-contentplacement-yi3ekbv > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[5]/div/div[2]/div/div[2]/div[2]/section/a,A,LEARN MORE,28,121,888,1696
+14,f-active,div#coreui-hero-sjv0ptg > div > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[6]/div/div/div/div/div/button,BUTTON,,29,16,553,2177
+14,0,div#coreui-hero-sjv0ptg > div > div > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[6]/div/div/div/div/div/button[2],BUTTON,,30,16,569,2177
+40,c-action-toggle c-glyph f-toggle glyph-pause,div#coreui-hero-sjv0ptg > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[6]/div/div/div/div/button,BUTTON,,31,40,597,2164
+44,c-flipper f-previous,div#coreui-hero-sjv0ptg > div > div > button,0,,0,,BUTTON,/html/body/section/div[6]/div/div/div/button,BUTTON,,32,44,60,1988
+44,c-flipper f-next,div#coreui-hero-sjv0ptg > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[6]/div/div/div/button[2],BUTTON,,33,44,1096,1988
+40,c-call-to-action c-glyph,li#coreui-hero-sjv0ptg-item-1 > section > div > div > div:nth-of-type(2) > a,0,WATCH NOW,0,WATCH NOW,A,/html/body/section/div[6]/div/div/div/div[2]/ul/li/section/div/div/div[2]/a,A,WATCH NOW,34,162,637,1976
+32,0,div#coreui-social-ry2pnh0 > section > ul > li > a,0,,0,,A,/html/body/section/div[7]/div/section/ul/li/a,A,,35,32,182,2260
+32,0,div#coreui-social-ry2pnh0 > section > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/section/div[7]/div/section/ul/li[2]/a,A,,36,32,226,2260
+32,0,div#coreui-social-ry2pnh0 > section > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/section/div[7]/div/section/ul/li[3]/a,A,,37,32,270,2260
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li > a,0,NEW Surface Pro 6,0,NEW Surfac,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li/a,A,NEW Surface Pro 6,38,91,60,2409
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(2) > a,0,NEW Surface Laptop 2,0,NEW Surfac,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[2]/a,A,NEW Surface Laptop 2,39,109,60,2441
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(3) > a,0,NEW Surface Go,0,NEW Surfac,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[3]/a,A,NEW Surface Go,40,80,60,2473
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(4) > a,0,Xbox One X,0,Xbox One X,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[4]/a,A,Xbox One X,41,57,60,2505
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(5) > a,0,Xbox One S,0,Xbox One S,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[5]/a,A,Xbox One S,42,57,60,2537
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(6) > a,0,VR & mixed reality,0,VR & mixed,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[6]/a,A,VR & mixed reality,43,90,60,2569
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(7) > a,0,Windows 10 apps,0,Windows 10,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[7]/a,A,Windows 10 apps,44,86,60,2601
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(8) > a,0,Office apps,0,Office app,A,/html/body/div[2]/div/div/footer/nav/div/div/ul/li[8]/a,A,Office apps,45,55,60,2633
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li > a,0,Account profile,0,Account pr,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li/a,A,Account profile,46,74,252,2409
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Download Center,0,Download C,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[2]/a,A,Download Center,47,85,252,2441
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Sales & support,0,Sales & su,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[3]/a,A,Sales & support,48,77,252,2473
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Returns,0,Returns,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[4]/a,A,Returns,49,37,252,2505
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Order tracking,0,Order trac,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[5]/a,A,Order tracking,50,70,252,2537
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Store locations,0,Store loca,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[6]/a,A,Store locations,51,72,252,2569
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Support,0,Support,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[7]/a,A,Support,52,39,252,2601
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(8) > a,0,"Buy online, pick up in store",0,Buy online,A,/html/body/div[2]/div/div/footer/nav/div/div[2]/ul/li[8]/a,A,"Buy online, pick up in store",53,131,252,2633
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li > a,0,Microsoft in education,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div/div[3]/ul/li/a,A,Microsoft in education,54,109,432,2409
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Office for students,0,Office for,A,/html/body/div[2]/div/div/footer/nav/div/div[3]/ul/li[2]/a,A,Office for students,55,90,432,2441
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Office 365 for schools,0,Office 365,A,/html/body/div[2]/div/div/footer/nav/div/div[3]/ul/li[3]/a,A,Office 365 for schools,56,105,432,2473
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Deals for students & parents,0,Deals for ,A,/html/body/div[2]/div/div/footer/nav/div/div[3]/ul/li[4]/a,A,Deals for students & parents,57,139,432,2505
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Microsoft Azure in education,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div/div[3]/ul/li[5]/a,A,Microsoft Azure in education,58,140,432,2537
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li > a,0,Microsoft Azure,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li/a,A,Microsoft Azure,59,77,600,2409
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Enterprise,0,Enterprise,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[2]/a,A,Enterprise,60,48,600,2441
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,Data platform,0,Data platf,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[3]/a,A,Data platform,61,67,600,2473
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Find a solution provider,0,Find a sol,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[4]/a,A,Find a solution provider,62,115,600,2505
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Microsoft partner resources,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[5]/a,A,Microsoft partner resources,63,134,600,2537
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,Microsoft AppSource,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[6]/a,A,Microsoft AppSource,64,102,600,2569
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,Manufacturing & resources,0,Manufactur,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[7]/a,A,Manufacturing & resources,65,132,600,2601
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > a,0,Financial services,0,Financial ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div/ul/li[8]/a,A,Financial services,66,83,600,2633
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Microsoft Visual Studio,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li/a,A,Microsoft Visual Studio,67,112,792,2409
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Windows Dev Center,0,Windows De,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a,A,Windows Dev Center,68,102,792,2441
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Developer Network,0,Developer ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a,A,Developer Network,69,94,792,2473
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,TechNet,0,TechNet,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a,A,TechNet,70,41,792,2505
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Microsoft developer program,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a,A,Microsoft developer program,71,143,792,2537
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Channel 9,0,Channel 9,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a,A,Channel 9,72,48,792,2569
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Office Dev Center,0,Office Dev,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a,A,Office Dev Center,73,86,792,2601
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(8) > a,0,Microsoft Garage,0,Microsoft ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[2]/ul/li[8]/a,A,Microsoft Garage,74,84,792,2633
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li > a,0,Careers,0,Careers,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li/a,A,Careers,75,36,972,2409
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,About Microsoft,0,About Micr,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a,A,About Microsoft,76,79,972,2441
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Company news,0,Company ne,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a,A,Company news,77,74,972,2473
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Privacy at Microsoft,0,Privacy at,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[4]/a,A,Privacy at Microsoft,78,95,972,2505
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Investors,0,Investors,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a,A,Investors,79,44,972,2537
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Diversity and inclusion,0,Diversity ,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[6]/a,A,Diversity and inclusion,80,109,972,2569
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Accessibility,0,Accessibil,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[7]/a,A,Accessibility,81,59,972,2601
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(8) > a,0,Security,0,Security,A,/html/body/div[2]/div/div/footer/nav/div[2]/div[3]/ul/li[8]/a,A,Security,82,38,972,2633
+24,c-uhff-link c-uhff-lang-selector c-glyph glyph-world,a#locale-picker-link,locale-picker-link,English (United States),0,English (U,A,/html/body/div[2]/div/div/footer/div/a,A,English (United States),83,163,60,2694
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li > a,0,Sitemap,0,Sitemap,A,/html/body/div[2]/div/div/footer/div/nav/ul/li/a,A,Sitemap,84,40,380,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(2) > a,0,Contact Microsoft,0,Contact Mi,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[2]/a,A,Contact Microsoft,85,87,447,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(3) > a,0,Privacy & cookies,0,Privacy & ,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[3]/a,A,Privacy & cookies,86,85,560,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(4) > a,0,Terms of use,0,Terms of u,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[4]/a,A,Terms of use,87,62,673,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(5) > a,0,Trademarks,0,Trademarks,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[5]/a,A,Trademarks,88,56,762,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(6) > a,0,Safety & eco,0,Safety & e,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[6]/a,A,Safety & eco,89,62,845,2698
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(7) > a,0,About our ads,0,About our ,A,/html/body/div[2]/div/div/footer/div/nav/ul/li[7]/a,A,About our ads,90,69,934,2698

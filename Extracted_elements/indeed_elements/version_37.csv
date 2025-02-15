@@ -1,0 +1,26 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li > a,0,Find Jobs,0,Find Jobs,A,/html/body/div/div/nav/ul/li/a,A,Find Jobs,1,55,32,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(2) > a,0,Company Reviews,0,Company Re,A,/html/body/div/div/nav/ul/li[2]/a,A,Company Reviews,2,103,111,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(3) > a,0,Find Salaries,0,Find Salar,A,/html/body/div/div/nav/ul/li[3]/a,A,Find Salaries,3,72,238,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(4) > a,0,Find Resumes,0,Find Resum,A,/html/body/div/div/nav/ul/li[4]/a,A,Find Resumes,4,79,333,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(5) > a,0,Employers / Post Job,0,Employers ,A,/html/body/div/div/nav/ul/li[5]/a,A,Employers / Post Job,5,119,437,2
+36,icl-DesktopGlobalHeader-link icl-DesktopGlobalHeader-link--promo,div#desktopGlobalHeader > nav > ul:nth-of-type(2) > li > a,0,Upload your resume,0,Upload you,A,/html/body/div/div/nav/ul[2]/li/a,A,Upload your resume,6,112,994,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Sign in,0,Sign in,A,/html/body/div/div/nav/ul[2]/li[2]/a,A,Sign in,7,38,1130,2
+44,icl-TextInput-control icl-TextInput-control--whatWhere,input#text-input-what,text-input-what,,q,,INPUT,/html/body/div/div[2]/div[2]/div/form/div/div/div/div/div[2]/input,INPUT,,8,329,275,168
+44,icl-TextInput-control icl-TextInput-control--whatWhere,input#text-input-where,text-input-where,,l,,INPUT,/html/body/div/div[2]/div[2]/div/form/div[2]/div/div/div/div[2]/input,INPUT,,9,329,608,168
+44,icl-Button icl-Button--primary icl-Button--md icl-WhatWhere-button,div#whatWhere > form > div:nth-of-type(3) > button,0,,0,,BUTTON,/html/body/div/div[2]/div[2]/div/form/div[3]/button,BUTTON,Find Jobs,10,117,953,168
+14,icl-TextPromo-link,html > body > div > div:nth-of-type(2) > div:nth-of-type(4) > div > div > a,0,Post your resume,0,Post your ,A,/html/body/div/div[2]/div[4]/div/div/a,A,Post your resume,11,134,376,241
+14,icl-TextPromo-link,html > body > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > a,0,Employers: Post a job,0,Employers:,A,/html/body/div/div[2]/div[5]/div/div/a,A,Employers: Post a job,12,167,436,278
+17,0,html > body > div > div:nth-of-type(2) > div:nth-of-type(8) > div > div > a,0,jobs,0,jobs,A,/html/body/div/div[2]/div[8]/div/div/a,A,jobs,13,26,574,411
+17,jobsearch-TextLink-link,html > body > div > div:nth-of-type(3) > div > bidi > p > a,0,Over 10 million stories shared,0,Over 10 mi,A,/html/body/div/div[3]/div/bidi/p/a,A,Over 10 million stories shared,14,185,602,505
+17,jobsearch-TextLink-link,html > body > div > div:nth-of-type(3) > div > bidi:nth-of-type(2) > p > a,0,español,0,español,A,/html/body/div/div[3]/div/bidi[2]/p/a,A,español,15,49,685,534
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li > a,0,Browse Companies,0,Browse Com,A,/html/body/div/div[3]/footer/nav/ul/li/a,A,Browse Companies,16,108,16,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(2) > a,0,Salaries,0,Salaries,A,/html/body/div/div[3]/footer/nav/ul/li[2]/a,A,Salaries,17,44,135,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(3) > a,0,Career Advice,0,Career Adv,A,/html/body/div/div[3]/footer/nav/ul/li[3]/a,A,Career Advice,18,78,191,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(4) > a,0,Browse Jobs,0,Browse Job,A,/html/body/div/div[3]/footer/nav/ul/li[4]/a,A,Browse Jobs,19,72,280,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(5) > a,0,Work at Indeed,0,Work at In,A,/html/body/div/div[3]/footer/nav/ul/li[5]/a,A,Work at Indeed,20,84,364,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(6) > a,0,Countries,0,Countries,A,/html/body/div/div[3]/footer/nav/ul/li[6]/a,A,Countries,21,54,460,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(7) > a,0,About,0,About,A,/html/body/div/div[3]/footer/nav/ul/li[7]/a,A,About,22,33,525,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(8) > a,0,Help Center,0,Help Cente,A,/html/body/div/div[3]/footer/nav/ul/li[8]/a,A,Help Center,23,66,569,572
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > small > a,0,"Cookies, Privacy and Terms",0,"Cookies, P",A,/html/body/div/div[3]/footer/small/a,A,"Cookies, Privacy and Terms",24,154,1030,572
+44,icl-Button icl-Button--primary icl-Button--md,html > body > div > div:nth-of-type(3) > div:nth-of-type(2) > span:nth-of-type(2) > a,0,Upload Your Resume,0,Upload You,A,/html/body/div/div[3]/div[2]/span[2]/a,A,Upload Your Resume,25,192,498,649

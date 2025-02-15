@@ -1,0 +1,71 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,0,div#skiptocontent > a,0,Pase al contenido principal,0,Pase al co,A,/html/body/div/div/a,A,Pase al contenido principal,1,253,0,-40
+15,signIn signLockImg,div#topSearch > ul > li > a,0,Inscríbase,0,Inscríbase,A,/html/body/div/header/div/div/div/div[2]/ul/li/a,A,Inscríbase,2,62,626,23
+15,0,div#topSearch > ul > li:nth-of-type(2) > a,0,Servicio al cliente,0,Servicio a,A,/html/body/div/header/div/div/div/div[2]/ul/li[2]/a,A,Servicio al cliente,3,106,703,23
+15,0,div#topSearch > ul > li:nth-of-type(3) > a,0,ATM/Sucursales,0,ATM/Sucurs,A,/html/body/div/header/div/div/div/div[2]/ul/li[3]/a,A,ATM/Sucursales,4,95,826,23
+15,0,div#topSearch > ul > li:nth-of-type(4) > a,0,English,0,English,A,/html/body/div/header/div/div/div/div[2]/ul/li[4]/a,A,English,5,43,937,23
+36,0,button#nxgSearchButton,nxgSearchButton,,0,,BUTTON,/html/body/div/header/div/div/div/div[2]/div/button,BUTTON,"Buscar 
+							Iniciar contenido de ventana emergente.",6,89,996,10
+28,tabNavLink,a#tabNavPersonal,tabNavPersonal,"Seleccionado
+					 Personal",tabNavPersonal,Selecciona,A,/html/body/div/header/div/div[2]/nav/div/ul/li/a,A,"Seleccionado
+					 Personal",7,73,120,72
+18,tabNavLink,a#tabNavSmallBusiness,tabNavSmallBusiness,Pequeñas empresas,tabNavSmallBusiness,Pequeñas e,A,/html/body/div/header/div/div[2]/nav/div/ul/li[2]/a,A,Pequeñas empresas,8,150,233,72
+18,tabNavLink,a#tabNavCommercial,tabNavCommercial,Comercial (en inglés),tabNavCommercial,Comercial ,A,/html/body/div/header/div/div[2]/nav/div/ul/li[3]/a,A,Comercial (en inglés),9,161,423,72
+17,0,div#headerTools > nav > ul > li > a,0,Educación financiera,0,Educación ,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li/a,A,Educación financiera,10,144,741,72
+17,0,div#headerTools > nav > ul > li:nth-of-type(2) > a,0,Acerca de Wells Fargo,0,Acerca de ,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li[2]/a,A,Acerca de Wells Fargo,11,154,931,72
+40,navLevel1,a#bankingTab,bankingTab,Serv. bancarios/tarjetas de crédito,0,Serv. banc,A,/html/body/div/nav/ul/li/a,A,Serv. bancarios/tarjetas de crédito,12,251,105,98
+40,navLevel1,a#loansTab,loansTab,Préstamos y crédito,0,Préstamos ,A,/html/body/div/nav/ul/li[2]/a,A,Préstamos y crédito,13,154,361,98
+40,navLevel1,a#investingTab,investingTab,Inversiones y jubilación,0,Inversione,A,/html/body/div/nav/ul/li[3]/a,A,Inversiones y jubilación,14,178,519,98
+40,navLevel1,a#wealthTab,wealthTab,Gestión patrimonial,0,Gestión pa,A,/html/body/div/nav/ul/li[4]/a,A,Gestión patrimonial,15,152,703,98
+40,navLevel1,a#rewardsTab,rewardsTab,Recompensas y beneficios,0,Recompensa,A,/html/body/div/nav/ul/li[5]/a,A,Recompensas y beneficios,16,195,860,98
+15,c13,div#mainContent > div > p > a,0,Más información,0,Más inform,A,/html/body/div/div[2]/div/p/a,A,Más información,17,131,894,156
+48,formElement formElementText login_field,input#userid,userid,,j_username,,INPUT,/html/body/div/div[2]/div[2]/div/div/div/form/div/input,INPUT,,18,184,135,255
+48,formElement formElementPassword login_field pmask,input#password,password,,j_password,,INPUT,/html/body/div/div[2]/div[2]/div/div/div/form/div[2]/input,INPUT,,19,184,135,315
+13,c29link formElement formElementCheckbox,input#saveusername,saveusername,,saveusername,,INPUT,/html/body/div/div[2]/div[2]/div/div/div/form/div[3]/input,INPUT,,20,12,131,367
+40,c7,input#btnSignon,btnSignon,,btnSignon,,INPUT,/html/body/div/div[2]/div[2]/div/div/div/form/div[4]/input,INPUT,,21,184,135,403
+14,0,form#frmSignon > div:nth-of-type(5) > a,0,¿Olvidó su contraseña/usuario?,0,¿Olvidó su,A,/html/body/div/div[2]/div[2]/div/div/div/form/div[5]/a,A,¿Olvidó su contraseña/usuario?,22,188,135,451
+17,0,div#signUp > a,0,Inscríbase ahora,0,Inscríbase,A,/html/body/div/div[2]/div[2]/div/div/div[2]/a,A,Inscríbase ahora,23,184,135,477
+17,0,div#signUp > a:nth-of-type(2),0,Centro de seguridad,0,Centro de ,A,/html/body/div/div[2]/div[2]/div/div/div[2]/a[2],A,Centro de seguridad,24,184,135,494
+17,0,div#signUp > a:nth-of-type(3),0,"Privacidad, cookies y seguridad",0,Privacidad,A,/html/body/div/div[2]/div[2]/div/div/div[2]/a[3],A,"Privacidad, cookies y seguridad",25,184,135,511
+38,left,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div/div[2]/div[2]/div[2]/div/div/a,A,,26,22,60,347
+193,c7,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div > div > a,0,Obtenga más información (en inglés),0,Obtenga má,A,/html/body/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div/div/a,A,Obtenga más información (en inglés),27,351,685,350
+114,c7,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(5) > div > div:nth-of-type(2) > div > div > a,0,Más información,0,Más inform,A,/html/body/div/div[2]/div[2]/div[2]/div/div[5]/div/div[2]/div/div/a,A,Más información,28,351,1263,429
+20,show1,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(6) > a,0,Promoción 1 de 3,0,Promoción ,A,/html/body/div/div[2]/div[2]/div[2]/div/div[6]/a,A,Promoción 1 de 3,29,20,563,533
+20,show2,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(6) > a:nth-of-type(2),0,Promoción 2 de 3,0,Promoción ,A,/html/body/div/div[2]/div[2]/div[2]/div/div[6]/a[2],A,Promoción 2 de 3,30,20,590,533
+20,show3,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(6) > a:nth-of-type(3),0,Promoción 3 de 3,0,Promoción ,A,/html/body/div/div[2]/div[2]/div[2]/div/div[6]/a[3],A,Promoción 3 de 3,31,20,617,533
+38,right,div#mainContent > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(7) > a,0,,0,,A,/html/body/div/div[2]/div[2]/div[2]/div/div[7]/a,A,,32,22,1121,347
+94,i7,div#taskbar > div > ul > li > div > div > a,0,Calcule cuánto pedir en préstamo,0,Calcule cu,A,/html/body/div/div[2]/div[2]/div[3]/div/ul/li/div/div/a,A,Calcule cuánto pedir en préstamo,33,173,125,594
+94,i7,div#taskbar > div > ul > li:nth-of-type(2) > div > div > a,0,Busque su tarjeta de crédito,0,Busque su ,A,/html/body/div/div[2]/div[2]/div[3]/div/ul/li[2]/div/div/a,A,Busque su tarjeta de crédito,34,173,319,594
+116,i7,div#taskbar > div > ul > li:nth-of-type(3) > div > div > a,0,Herramientas gratis para presupuesto por Internet,0,Herramient,A,/html/body/div/div[2]/div[2]/div[3]/div/ul/li[3]/div/div/a,A,Herramientas gratis para presupuesto por Internet,35,173,513,594
+32,paddle prevPaddle,div#mainContent > div:nth-of-type(3) > a,0,,0,,A,/html/body/div/div[2]/div[3]/a,A,,36,38,931,786
+32,paddle nextPaddle,div#mainContent > div:nth-of-type(3) > a:nth-of-type(2),0,,0,,A,/html/body/div/div[2]/div[3]/a[2],A,,37,38,931,1183
+382,0,div#nbaDefaultPanels1 > div > div > ul > li > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li/div/div/div/a,A,,38,314,155,942
+20,0,div#nbaDefaultPanels1 > div > div > ul > li > div > span > a,0,Mejore su crédito >,0,Mejore su ,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li/div/span/a,A,Mejore su crédito >,39,158,217,955
+382,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(2) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li[2]/div/div/div/a,A,,40,314,155,998
+40,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(2) > div > span > a,0,Calcule su relación entre deudas e ingresos >,0,Calcule su,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li[2]/div/span/a,A,Calcule su relación entre deudas e ingresos >,41,263,217,1001
+382,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li[3]/div/div/div/a,A,,42,314,155,1054
+20,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(3) > div > span > a,0,Consolide sus deudas >,0,Consolide ,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/ul/li[3]/div/span/a,A,Consolide sus deudas >,43,192,217,1067
+37,c7,div#nbaDefaultPanels1 > div > div > p > a,0,Vaya a Préstamos y crédito,0,Vaya a Pré,A,/html/body/div/div[2]/div[3]/div[2]/div/div/div/p/a,A,Vaya a Préstamos y crédito,44,269,155,1115
+234,i7,div#mainContent > div:nth-of-type(4) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[4]/div/div/div/a,A,,45,489,115,1283
+33,c7,div#mainContent > div:nth-of-type(4) > div > div > div:nth-of-type(2) > a,0,Comience ahora mismo,0,Comience a,A,/html/body/div/div[2]/div[4]/div/div/div[2]/a,A,Comience ahora mismo,46,240,654,1441
+35,0,ul#communityLinks > li > a,0,Quiénes somos (en inglés),0,Quiénes so,A,/html/body/div/div[2]/div[7]/div/div/ul/li/a,A,Quiénes somos (en inglés),47,212,607,1994
+35,0,ul#communityLinks > li:nth-of-type(2) > a,0,Hacer lo correcto – Resarcimiento a los clientes,0,Hacer lo c,A,/html/body/div/div[2]/div[7]/div/div/ul/li[2]/a,A,Hacer lo correcto – Resarcimiento a los clientes,48,359,607,2020
+35,0,ul#communityLinks > li:nth-of-type(3) > a,0,Responsabilidad corporativa (en inglés),0,Responsabi,A,/html/body/div/div[2]/div[7]/div/div/ul/li[3]/a,A,Responsabilidad corporativa (en inglés),49,302,607,2046
+35,0,ul#communityLinks > li:nth-of-type(4) > a,0,Relatos de Wells Fargo (en inglés),0,Relatos de,A,/html/body/div/div[2]/div[7]/div/div/ul/li[4]/a,A,Relatos de Wells Fargo (en inglés),50,264,607,2072
+15,0,div#pageFooter > div > nav > div > ul > li > a,0,Acerca de Wells Fargo,0,Acerca de ,A,/html/body/div/footer/div/div/nav/div/ul/li/a,A,Acerca de Wells Fargo,51,132,115,2310
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(2) > a,0,Empleo (en inglés),0,Empleo (en,A,/html/body/div/footer/div/div/nav/div/ul/li[2]/a,A,Empleo (en inglés),52,114,277,2310
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(3) > a,0,"PRIVACIDAD, cookies, seguridad y asuntos legales",0,PRIVACIDAD,A,/html/body/div/footer/div/div/nav/div/ul/li[3]/a,A,"PRIVACIDAD, cookies, seguridad y asuntos legales",53,306,421,2310
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(4) > a,0,Términos generales de uso,0,Términos g,A,/html/body/div/footer/div/div/nav/div/ul/li[4]/a,A,Términos generales de uso,54,162,757,2310
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(5) > a,0,Reporte el fraude,0,Reporte el,A,/html/body/div/footer/div/div/nav/div/ul/li[5]/a,A,Reporte el fraude,55,104,949,2310
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(6) > a,0,Mapa del sitio,0,Mapa del s,A,/html/body/div/footer/div/div/nav/div/ul/li[6]/a,A,Mapa del sitio,56,83,115,2333
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(7) > a,0,Diversidad y accesibilidad,0,Diversidad,A,/html/body/div/footer/div/div/nav/div/ul/li[7]/a,A,Diversidad y accesibilidad,57,155,228,2333
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(8) > a,0,Contrato de Acceso por Internet,0,Contrato d,A,/html/body/div/footer/div/div/nav/div/ul/li[8]/a,A,Contrato de Acceso por Internet,58,194,413,2333
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(9) > a,0,Opciones de anuncios,0,Opciones d,A,/html/body/div/footer/div/div/nav/div/ul/li[9]/a,A,Opciones de anuncios,59,131,637,2333
+24,iconFacebook,div#pageFooter > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a,A,,60,38,115,2377
+24,iconLinkedIn,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[2],A,,61,24,153,2377
+24,iconInstagram,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(3),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[3],A,,62,24,193,2377
+24,iconPinterest,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(4),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[4],A,,63,24,233,2377
+24,iconYoutube,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(5),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[5],A,,64,24,273,2377
+24,iconTwitter,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(6),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[6],A,,65,34,313,2377
+31,0,div#pageFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Política de privacidad digital y de cookies.,0,Política d,A,/html/body/div/footer/div/div[2]/div/div[2]/p[2]/a,A,Política de privacidad digital y de cookies.,66,958,115,2475
+15,0,div#pageFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(3) > a,0,SIPC,0,SIPC,A,/html/body/div/footer/div/div[2]/div/div[2]/p[3]/a,A,SIPC,67,29,652,2548

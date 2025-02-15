@@ -1,0 +1,73 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+32,login-email,input#login-email,login-email,,session_key,,INPUT,/html/body/div/main/div/div/div/form/input,INPUT,,1,216,488,10
+32,login-password,input#login-password,login-password,,session_password,,INPUT,/html/body/div/main/div/div/div/form/input[2],INPUT,,2,216,712,10
+32,login submit-button,input#login-submit,login-submit,,0,,INPUT,/html/body/div/main/div/div/div/form/input[3],INPUT,,3,91,936,10
+52,link-forgot-password,main#layout-main > div > div > div > form > a,0,Forgot password?,0,Forgot pas,A,/html/body/div/main/div/div/div/form/a,A,Forgot password?,4,101,1047,0
+32,reg-firstname,input#reg-firstname,reg-firstname,,firstName,,INPUT,/html/body/div/main/div/div[2]/form/section/input,INPUT,,5,352,424,237
+32,reg-lastname,input#reg-lastname,reg-lastname,,lastName,,INPUT,/html/body/div/main/div/div[2]/form/section/input[2],INPUT,,6,352,424,301
+32,reg-email,input#reg-email,reg-email,,session_key,,INPUT,/html/body/div/main/div/div[2]/form/section/input[3],INPUT,,7,352,424,365
+32,reg-password,input#reg-password,reg-password,,session_password,,INPUT,/html/body/div/main/div/div[2]/form/section/input[4],INPUT,,8,352,424,429
+30,0,form#regForm > section > span > a,0,User Agreement,0,User Agree,A,/html/body/div/main/div/div[2]/form/section/span/a,A,User Agreement,9,285,472,478
+14,0,form#regForm > section > span > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div/main/div/div[2]/form/section/span/a[2],A,Privacy Policy,10,78,540,494
+14,0,form#regForm > section > span > a:nth-of-type(3),0,Cookie Policy,0,Cookie Pol,A,/html/body/div/main/div/div[2]/form/section/span/a[3],A,Cookie Policy,11,75,649,494
+32,registration submit-button,input#registration-submit,registration-submit,,0,,INPUT,/html/body/div/main/div/div[2]/form/section/input[5],INPUT,,12,352,424,525
+32,0,main#layout-main > div > div:nth-of-type(3) > form > input,0,,first,,INPUT,/html/body/div/main/div/div[3]/form/input,INPUT,,13,232,375,630
+32,0,main#layout-main > div > div:nth-of-type(3) > form > input:nth-of-type(2),0,,last,,INPUT,/html/body/div/main/div/div[3]/form/input[2],INPUT,,14,232,615,630
+32,submit-btn,main#layout-main > div > div:nth-of-type(3) > form > input:nth-of-type(4),0,,search,,INPUT,/html/body/div/main/div/div[3]/form/input[4],INPUT,,15,83,855,630
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li > a,0,A,0,A,A,/html/body/div/main/div/div[3]/div/ol/li/a,A,A,16,9,368,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(2) > a,0,B,0,B,A,/html/body/div/main/div/div[3]/div/ol/li[2]/a,A,B,17,8,385,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(3) > a,0,C,0,C,A,/html/body/div/main/div/div[3]/div/ol/li[3]/a,A,C,18,9,401,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(4) > a,0,D,0,D,A,/html/body/div/main/div/div[3]/div/ol/li[4]/a,A,D,19,9,418,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(5) > a,0,E,0,E,A,/html/body/div/main/div/div[3]/div/ol/li[5]/a,A,E,20,7,435,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(6) > a,0,F,0,F,A,/html/body/div/main/div/div[3]/div/ol/li[6]/a,A,F,21,7,450,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(7) > a,0,G,0,G,A,/html/body/div/main/div/div[3]/div/ol/li[7]/a,A,G,22,9,465,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(8) > a,0,H,0,H,A,/html/body/div/main/div/div[3]/div/ol/li[8]/a,A,H,23,9,482,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(9) > a,0,I,0,I,A,/html/body/div/main/div/div[3]/div/ol/li[9]/a,A,I,24,4,500,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(10) > a,0,J,0,J,A,/html/body/div/main/div/div[3]/div/ol/li[10]/a,A,J,25,7,511,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(11) > a,0,K,0,K,A,/html/body/div/main/div/div[3]/div/ol/li[11]/a,A,K,26,8,526,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(12) > a,0,L,0,L,A,/html/body/div/main/div/div[3]/div/ol/li[12]/a,A,L,27,7,543,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(13) > a,0,M,0,M,A,/html/body/div/main/div/div[3]/div/ol/li[13]/a,A,M,28,11,558,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(14) > a,0,N,0,N,A,/html/body/div/main/div/div[3]/div/ol/li[14]/a,A,N,29,9,576,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(15) > a,0,O,0,O,A,/html/body/div/main/div/div[3]/div/ol/li[15]/a,A,O,30,9,593,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(16) > a,0,P,0,P,A,/html/body/div/main/div/div[3]/div/ol/li[16]/a,A,P,31,8,611,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(17) > a,0,Q,0,Q,A,/html/body/div/main/div/div[3]/div/ol/li[17]/a,A,Q,32,9,627,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(18) > a,0,R,0,R,A,/html/body/div/main/div/div[3]/div/ol/li[18]/a,A,R,33,8,644,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(19) > a,0,S,0,S,A,/html/body/div/main/div/div[3]/div/ol/li[19]/a,A,S,34,8,660,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(20) > a,0,T,0,T,A,/html/body/div/main/div/div[3]/div/ol/li[20]/a,A,T,35,8,676,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(21) > a,0,U,0,U,A,/html/body/div/main/div/div[3]/div/ol/li[21]/a,A,U,36,9,692,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(22) > a,0,V,0,V,A,/html/body/div/main/div/div[3]/div/ol/li[22]/a,A,V,37,8,709,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(23) > a,0,W,0,W,A,/html/body/div/main/div/div[3]/div/ol/li[23]/a,A,W,38,12,726,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(24) > a,0,X,0,X,A,/html/body/div/main/div/div[3]/div/ol/li[24]/a,A,X,39,9,745,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(25) > a,0,Y,0,Y,A,/html/body/div/main/div/div[3]/div/ol/li[25]/a,A,Y,40,8,762,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(26) > a,0,Z,0,Z,A,/html/body/div/main/div/div[3]/div/ol/li[26]/a,A,Z,41,8,778,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(27) > a,0,More,0,More,A,/html/body/div/main/div/div[3]/div/ol/li[27]/a,A,More,42,30,794,679
+14,0,main#layout-main > div > div:nth-of-type(3) > div > ol > li:nth-of-type(28) > a,0,Browse by country/region,0,Browse by ,A,/html/body/div/main/div/div[3]/div/ol/li[28]/a,A,Browse by country/region,43,144,849,679
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li > a,0,Sign Up,0,Sign Up,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li/a,A,Sign Up,44,52,36,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Help Center,0,Help Cente,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[2]/a,A,Help Center,45,76,99,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,About,0,About,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[3]/a,A,About,46,42,186,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Press,0,Press,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[4]/a,A,Press,47,39,239,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Blog,0,Blog,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[5]/a,A,Blog,48,33,289,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,Careers,0,Careers,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[6]/a,A,Careers,49,52,334,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,Developers,0,Developers,A,/html/body/div/main/div/div[3]/div[2]/div/ul/li[7]/a,A,Developers,50,72,397,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Talent,0,Talent,A,/html/body/div/main/div/div[3]/div[2]/div[2]/ul/li/a,A,Talent,51,42,600,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Marketing,0,Marketing,A,/html/body/div/main/div/div[3]/div[2]/div[2]/ul/li[2]/a,A,Marketing,52,64,653,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Sales,0,Sales,A,/html/body/div/main/div/div[3]/div[2]/div[2]/ul/li[3]/a,A,Sales,53,38,729,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Learning,0,Learning,A,/html/body/div/main/div/div[3]/div[2]/div[2]/ul/li[4]/a,A,Learning,54,57,778,767
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > ul > li > a,0,Learning,0,Learning,A,/html/body/div/main/div/div[3]/div[2]/div[3]/ul/li/a,A,Learning,55,57,36,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/div/main/div/div[3]/div[2]/div[3]/ul/li[2]/a,A,Jobs,56,35,104,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Salary,0,Salary,A,/html/body/div/main/div/div[3]/div[2]/div[3]/ul/li[3]/a,A,Salary,57,43,150,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Mobile,0,Mobile,A,/html/body/div/main/div/div[3]/div[2]/div[3]/ul/li[4]/a,A,Mobile,58,46,204,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,ProFinder,0,ProFinder,A,/html/body/div/main/div/div[3]/div[2]/div[3]/ul/li[5]/a,A,ProFinder,59,63,261,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li > a,0,Members,0,Members,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li/a,A,Members,60,61,600,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[2]/a,A,Jobs,61,35,672,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Pulse,0,Pulse,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[3]/a,A,Pulse,62,39,718,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Companies,0,Companies,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[4]/a,A,Companies,63,71,768,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Salaries,0,Salaries,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[5]/a,A,Salaries,64,53,850,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Universities,0,Universiti,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[6]/a,A,Universities,65,74,914,839
+16,ghp-footer__link,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Top Jobs,0,Top Jobs,A,/html/body/div/main/div/div[3]/div[2]/div[4]/ul/li[7]/a,A,Top Jobs,66,59,999,839
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li > a,0,User Agreement,0,User Agree,A,/html/body/div/main/div/div[3]/div[3]/ul/li/a,A,User Agreement,67,96,159,905
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div/main/div/div[3]/div[3]/ul/li[2]/a,A,Privacy Policy,68,82,275,905
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Community Guidelines,0,Community ,A,/html/body/div/main/div/div[3]/div[3]/ul/li[3]/a,A,Community Guidelines,69,133,378,905
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Cookie Policy,0,Cookie Pol,A,/html/body/div/main/div/div[3]/div[3]/ul/li[4]/a,A,Cookie Policy,70,80,531,905
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Copyright Policy,0,Copyright ,A,/html/body/div/main/div/div[3]/div[3]/ul/li[5]/a,A,Copyright Policy,71,97,630,905
+14,0,main#layout-main > div > div:nth-of-type(3) > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Guest Controls,0,Guest Cont,A,/html/body/div/main/div/div[3]/div[3]/ul/li[6]/a,A,Guest Controls,72,88,747,905

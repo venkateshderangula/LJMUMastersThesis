@@ -1,0 +1,99 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+1,skip,header#header > a,0,Skip to content,0,Skip to co,A,/html/body/header/a,A,Skip to content,1,1,-1,-1
+15,0,header#header > div > div > nav > ul > li > a,0,Weekly Ad,0,Weekly Ad,A,/html/body/header/div/div/nav/ul/li/a,A,Weekly Ad,2,63,594,16
+15,0,header#header > div > div > nav > ul > li:nth-of-type(2) > a,0,Deal of the Day,0,Deal of th,A,/html/body/header/div/div/nav/ul/li[2]/a,A,Deal of the Day,3,91,677,16
+15,0,header#header > div > div > nav > ul > li:nth-of-type(3) > a,0,Credit Cards,0,Credit Car,A,/html/body/header/div/div/nav/ul/li[3]/a,A,Credit Cards,4,76,789,16
+15,0,header#header > div > div > nav > ul > li:nth-of-type(4) > a,0,Gift Cards,0,Gift Cards,A,/html/body/header/div/div/nav/ul/li[4]/a,A,Gift Cards,5,61,885,16
+15,0,header#header > div > div > nav > ul > li:nth-of-type(5) > a,0,Gift Ideas & Registry,0,Gift Ideas,A,/html/body/header/div/div/nav/ul/li[5]/a,A,Gift Ideas & Registry,6,123,966,16
+15,0,header#header > div > div:nth-of-type(2) > div > a,0,,0,,A,/html/body/header/div/div[2]/div/a,A,,7,117,111,58
+35,search-input,input#gh-search-input,gh-search-input,,st,,INPUT,/html/body/header/div/div[2]/div[2]/form/input,INPUT,,8,333,263,49
+35,header-search-button,form#[object HTMLInputElement] > button:nth-of-type(2),0,,0,,BUTTON,/html/body/header/div/div[2]/div[2]/form/button[2],BUTTON,,9,40,595,49
+27,0,header#header > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Cart,0,Cart,A,/html/body/header/div/div[2]/ul/li[2]/a,A,Cart,10,83,1006,57
+49,0,a#menu0,menu0,Products,0,Products,A,/html/body/header/div[2]/div/nav/ul/li/a,A,Products,11,82,111,101
+49,0,a#menu1,menu1,Brands,0,Brands,A,/html/body/header/div[2]/div/nav/ul/li[2]/a,A,Brands,12,64,223,101
+49,0,a#menu2,menu2,Deals,0,Deals,A,/html/body/header/div[2]/div/nav/ul/li[3]/a,A,Deals,13,50,317,101
+49,0,a#menu3,menu3,Services,0,Services,A,/html/body/header/div[2]/div/nav/ul/li[4]/a,A,Services,14,79,397,101
+52,user,a#hf_accountMenuLink,hf_accountMenuLink,Account,0,Account,A,/html/body/header/div[2]/div/nav[2]/ul/li/a,A,Account,15,97,643,97
+42,0,a#hf_historyMenuLink,hf_historyMenuLink,Shopping History,0,Shopping H,A,/html/body/header/div[2]/div/nav[2]/ul/li[2]/a,A,Shopping History,16,121,760,105
+42,0,a#hf_orderStatusMenuLink,hf_orderStatusMenuLink,Order Status,0,Order Stat,A,/html/body/header/div[2]/div/nav[2]/ul/li[3]/a,A,Order Status,17,92,901,105
+42,0,a#hf_listsMenuLink,hf_listsMenuLink,Saved Items,0,Saved Item,A,/html/body/header/div[2]/div/nav[2]/ul/li[4]/a,A,Saved Items,18,76,1013,105
+30,btn btn-sm btn-tertiary,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a,0,Learn More,0,Learn More,A,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/a,A,Learn More,19,119,126,432
+30,btn btn-sm btn-secondary,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(3) > div:nth-of-type(2) > div > div > a,0,Shop Now,0,Shop Now,A,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div/a,A,Shop Now,20,112,769,872
+30,btn btn-sm btn-tertiary,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(4) > div:nth-of-type(2) > div > div > a,0,Shop Now,0,Shop Now,A,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[4]/div[2]/div/div/a,A,Shop Now,21,112,517,872
+16,pm-pause,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(5) > button:nth-of-type(2),0,,0,,BUTTON,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[5]/button[2],BUTTON,Pause,22,12,513,559
+11,dot-0,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(5) > div:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[5]/div[2]/div/button,BUTTON,Panel,23,11,515,562
+11,dot-1,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(5) > div:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[5]/div[3]/div/button,BUTTON,Panel,24,11,565,562
+11,dot-2,div#widget-4bfbb925-06ea-4cb8-ab49-d818d051c841 > div:nth-of-type(5) > div:nth-of-type(4) > div > button,0,,0,,BUTTON,/html/body/main/div[2]/div[2]/div[2]/div/div/div/div[5]/div[4]/div/button,BUTTON,Panel,25,11,615,562
+196,0,div#widget-cb58f725-6a1f-4b84-8333-0f068632e84c > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div/div/div/div/div/div/a,A,,26,276,126,731
+15,0,div#widget-cb58f725-6a1f-4b84-8333-0f068632e84c > div > div > div:nth-of-type(2) > div > div > div > a,0,Shop TV and home theater deals ›,0,Shop TV an,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div/div/div/div/div[2]/div/div/div/a,A,Shop TV and home theater deals ›,27,209,126,1059
+196,0,div#widget-1fb6bfd3-523d-4082-814c-ceea118dd1f9 > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div[2]/div/div/div/div/div/a,A,,28,276,463,731
+15,0,div#widget-1fb6bfd3-523d-4082-814c-ceea118dd1f9 > div > div > div:nth-of-type(2) > div > div > div > a,0,Shop Surface Go ›,0,Shop Surfa,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div[2]/div/div/div/div[2]/div/div/div/a,A,Shop Surface Go ›,29,112,463,1019
+196,0,div#widget-6075c878-ac3e-48d3-a1d1-31012579ec9f > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div[3]/div/div/div/div/div/a,A,,30,276,799,731
+15,0,div#widget-6075c878-ac3e-48d3-a1d1-31012579ec9f > div > div > div:nth-of-type(2) > div > div > div > a,0,Pre-order Madden NFL 19 ›,0,Pre-order ,A,/html/body/main/div[2]/div[2]/div[2]/div[4]/div[3]/div/div/div/div[2]/div/div/div/a,A,Pre-order Madden NFL 19 ›,31,164,799,1053
+196,0,div#widget-e5c1ef26-159f-46df-9bb8-2ccbbc695fd1 > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div/div[2]/div/div/div/div/a,A,,32,276,126,1152
+15,0,div#widget-e5c1ef26-159f-46df-9bb8-2ccbbc695fd1 > div > div > div:nth-of-type(2) > div > div > div > a,0,Shop the TV deals ›,0,Shop the T,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div/div[2]/div/div/div[2]/div/div/div/a,A,Shop the TV deals ›,33,119,126,1439
+196,0,div#widget-b6a29272-c5ff-4d6f-8b61-a7569e709949 > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div[2]/div[2]/div/div/div/div/a,A,,34,276,463,1152
+15,0,div#widget-b6a29272-c5ff-4d6f-8b61-a7569e709949 > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a,0,Shop now ›,0,Shop now ›,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div[2]/div[2]/div/div/div[2]/div/div[2]/div/a,A,Shop now ›,35,69,463,1499
+196,0,div#widget-4ecac478-7ef5-46b5-8e42-abdfabf15af5 > div > div > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div[3]/div[2]/div/div/div/div/a,A,,36,276,799,1152
+15,0,div#widget-4ecac478-7ef5-46b5-8e42-abdfabf15af5 > div > div > div:nth-of-type(2) > div > div > div > a,0,Shop sale-priced video games ›,0,Shop sale-,A,/html/body/main/div[2]/div[2]/div[2]/div[5]/div[3]/div[2]/div/div/div[2]/div/div/div/a,A,Shop sale-priced video games ›,37,195,799,1456
+185,0,div#widget-86abddc2-2ac5-4e5e-b18a-01034d478f98 > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div/div/div/div/a,A,,38,272,127,3085
+15,0,div#widget-86abddc2-2ac5-4e5e-b18a-01034d478f98 > div > div:nth-of-type(2) > div > div > a,0,Don't miss out ›,0,Don't miss,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div/div/div/div[2]/div/div/a,A,Don't miss out ›,39,95,123,3339
+185,0,div#widget-ded4076f-cc2e-4ddb-b5bf-c80021ab32cd > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div[2]/div/div/div/a,A,,40,272,463,3085
+15,0,div#widget-ded4076f-cc2e-4ddb-b5bf-c80021ab32cd > div > div:nth-of-type(2) > div > div > a,0,Shop the Best Buy Outlet ›,0,Shop the B,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div[2]/div/div/div[2]/div/div/a,A,Shop the Best Buy Outlet ›,41,163,459,3396
+185,0,div#widget-f1c50909-f07f-4428-af02-258a93d667ef > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div[3]/div/div/div/a,A,,42,272,799,3085
+32,0,div#widget-f1c50909-f07f-4428-af02-258a93d667ef > div > div:nth-of-type(2) > div > div > a,0,Learn more about the My Best Buy Credit Card ›,0,Learn more,A,/html/body/main/div[2]/div[2]/div[2]/div[9]/div[3]/div/div/div[2]/div/div/a,A,Learn more about the My Best Buy Credit Card ›,43,255,795,3379
+207,image-shell,div#widget-6bd81521-e8b9-4080-b6a3-6cb00375064f > div > div > a,0,,0,,A,/html/body/main/div[2]/div[2]/div[2]/div[10]/div/div/div/div/a,A,,44,306,447,3474
+15,0,div#widget-6bd81521-e8b9-4080-b6a3-6cb00375064f > div > div:nth-of-type(2) > div:nth-of-type(4) > div > a,0,Shop the Student Hub ›,0,Shop the S,A,/html/body/main/div[2]/div[2]/div[2]/div[10]/div/div/div/div[2]/div[4]/div/a,A,Shop the Student Hub ›,45,145,111,3638
+24,0,div#widget-d8a1e25c-d4fe-444c-8555-351691b84b7f > div > div:nth-of-type(2) > h3 > a,0,Free shipping,0,Free shipp,A,/html/body/main/div[2]/div[2]/div[2]/div[11]/div/div/div/div[2]/h3/a,A,Free shipping,46,130,190,3731
+24,0,div#widget-1172f044-746a-43b9-bed9-5f40a3224a2e > div > div:nth-of-type(2) > h3 > a,0,Fast store pickup.,0,Fast store,A,/html/body/main/div[2]/div[2]/div[2]/div[11]/div[2]/div/div/div[2]/h3/a,A,Fast store pickup.,47,169,526,3731
+24,0,div#widget-983f822d-800d-484c-bf22-82f67713c479 > div > div:nth-of-type(2) > h3 > a,0,Same-day delivery.,0,Same-day d,A,/html/body/main/div[2]/div[2]/div[2]/div[11]/div[3]/div/div/div[2]/h3/a,A,Same-day delivery.,48,182,862,3731
+36,0,input#footerEmailSignup,footerEmailSignup,,email,,INPUT,/html/body/footer/div/div/form/input,INPUT,,49,260,412,4590
+35,btn,form#footer-email-form > input:nth-of-type(2),0,,0,,INPUT,/html/body/footer/div/div/form/input[2],INPUT,,50,82,682,4590
+64,app-entry,footer#footer > div > div > a,0,Best Buy appLearn more ›,0,Best Buy a,A,/html/body/footer/div/div/a,A,Best Buy appLearn more ›,51,235,807,4576
+20,0,footer#footer > div:nth-of-type(2) > div > div > div > a,0,My Best Buy ›,0,My Best Bu,A,/html/body/footer/div[2]/div/div/div/a,A,My Best Buy ›,52,109,111,4658
+18,0,footer#footer > div:nth-of-type(2) > div > div > div > ul > li > a,0,View Points & Certificates,0,View Point,A,/html/body/footer/div[2]/div/div/div/ul/li/a,A,View Points & Certificates,53,155,111,4690
+18,0,footer#footer > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(2) > a,0,Member Offers,0,Member Off,A,/html/body/footer/div[2]/div/div/div/ul/li[2]/a,A,Member Offers,54,90,111,4724
+18,0,footer#footer > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(3) > a,0,Sign in or Create Account,0,Sign in or,A,/html/body/footer/div[2]/div/div/div/ul/li[3]/a,A,Sign in or Create Account,55,156,111,4759
+20,0,footer#footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > a,0,Credit Cards ›,0,Credit Car,A,/html/body/footer/div[2]/div/div/div[2]/a,A,Credit Cards ›,56,113,111,4804
+18,0,footer#footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > a,0,Make Payment/Check Balance,0,Make Payme,A,/html/body/footer/div[2]/div/div/div[2]/ul/li/a,A,Make Payment/Check Balance,57,182,111,4836
+18,0,footer#footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Credit Card Offers,0,Credit Car,A,/html/body/footer/div[2]/div/div/div[2]/ul/li[2]/a,A,Credit Card Offers,58,110,111,4870
+18,0,footer#footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Apply Now,0,Apply Now,A,/html/body/footer/div[2]/div/div/div[2]/ul/li[3]/a,A,Apply Now,59,66,111,4905
+20,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a,0,Orders & Returns ›,0,Orders & R,A,/html/body/footer/div[2]/div/div[2]/div/a,A,Orders & Returns ›,60,149,356,4658
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > ul > li > a,0,Order Status,0,Order Stat,A,/html/body/footer/div[2]/div/div[2]/div/ul/li/a,A,Order Status,61,77,356,4690
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,"Shipping, Delivery & Store Pickup",0,"Shipping, ",A,/html/body/footer/div[2]/div/div[2]/div/ul/li[2]/a,A,"Shipping, Delivery & Store Pickup",62,202,356,4724
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,Return & Exchange Promise,0,Return & E,A,/html/body/footer/div[2]/div/div[2]/div/ul/li[3]/a,A,Return & Exchange Promise,63,167,356,4759
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Price Match Guarantee,0,Price Matc,A,/html/body/footer/div[2]/div/div[2]/div/ul/li[4]/a,A,Price Match Guarantee,64,138,356,4793
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Pay with Points,0,Pay with P,A,/html/body/footer/div[2]/div/div[2]/div/ul/li[5]/a,A,Pay with Points,65,91,356,4828
+20,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > a,0,Support & Services ›,0,Support & ,A,/html/body/footer/div[2]/div/div[3]/div/a,A,Support & Services ›,66,167,600,4658
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > ul > li > a,0,Customer Service,0,Customer S,A,/html/body/footer/div[2]/div/div[3]/div/ul/li/a,A,Customer Service,67,108,600,4690
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > ul > li:nth-of-type(2) > a,0,Protection Plans,0,Protection,A,/html/body/footer/div[2]/div/div[3]/div/ul/li[2]/a,A,Protection Plans,68,98,600,4724
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > ul > li:nth-of-type(3) > a,0,Schedule a Service,0,Schedule a,A,/html/body/footer/div[2]/div/div[3]/div/ul/li[3]/a,A,Schedule a Service,69,116,600,4759
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > ul > li:nth-of-type(4) > a,0,Trade-In Program,0,Trade-In P,A,/html/body/footer/div[2]/div/div[3]/div/ul/li[4]/a,A,Trade-In Program,70,104,600,4793
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(3) > div > ul > li:nth-of-type(5) > a,0,Product Recalls,0,Product Re,A,/html/body/footer/div[2]/div/div[3]/div/ul/li[5]/a,A,Product Recalls,71,93,600,4828
+20,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > a,0,Partnerships ›,0,Partnershi,A,/html/body/footer/div[2]/div/div[4]/div/a,A,Partnerships ›,72,112,845,4658
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > ul > li > a,0,Affiliate Program,0,Affiliate ,A,/html/body/footer/div[2]/div/div[4]/div/ul/li/a,A,Affiliate Program,73,100,845,4690
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > ul > li:nth-of-type(2) > a,0,Developers,0,Developers,A,/html/body/footer/div[2]/div/div[4]/div/ul/li[2]/a,A,Developers,74,68,845,4724
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > ul > li:nth-of-type(3) > a,0,Best Buy Education,0,Best Buy E,A,/html/body/footer/div[2]/div/div[4]/div/ul/li[3]/a,A,Best Buy Education,75,116,845,4759
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > ul > li:nth-of-type(4) > a,0,Best Buy for Business,0,Best Buy f,A,/html/body/footer/div[2]/div/div[4]/div/ul/li[4]/a,A,Best Buy for Business,76,129,845,4793
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div > ul > li:nth-of-type(5) > a,0,Advertise with Us,0,Advertise ,A,/html/body/footer/div[2]/div/div[4]/div/ul/li[5]/a,A,Advertise with Us,77,105,845,4828
+20,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > a,0,International Sites ›,0,Internatio,A,/html/body/footer/div[2]/div/div[4]/div[2]/a,A,International Sites ›,78,158,845,4873
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li > a,0,Best Buy Mexico,0,Best Buy M,A,/html/body/footer/div[2]/div/div[4]/div[2]/ul/li/a,A,Best Buy Mexico,79,99,845,4905
+18,0,footer#footer > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Best Buy Canada,0,Best Buy C,A,/html/body/footer/div[2]/div/div[4]/div[2]/ul/li[2]/a,A,Best Buy Canada,80,102,845,4939
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li > a,0,Corporate Information,0,Corporate ,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li/a,A,Corporate Information,81,112,111,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(2) > a,0,"Forums, Blog & More",0,"Forums, Bl",A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[2]/a,A,"Forums, Blog & More",82,118,223,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(3) > a,0,Careers,0,Careers,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[3]/a,A,Careers,83,53,341,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(4) > a,0,Accessibility,0,Accessibil,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[4]/a,A,Accessibility,84,74,394,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(5) > a,0,Terms and Conditions,0,Terms and ,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[5]/a,A,Terms and Conditions,85,120,468,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(6) > a,0,Privacy,0,Privacy,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[6]/a,A,Privacy,86,50,588,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(7) > a,0,Interest-Based Ads,0,Interest-B,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[7]/a,A,Interest-Based Ads,87,107,638,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(8) > a,0,California Privacy Rights,0,California,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[8]/a,A,California Privacy Rights,88,134,745,5007
+13,0,footer#footer > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(9) > a,0,CA Supply Chain Transparency Act,0,CA Supply ,A,/html/body/footer/div[2]/div[2]/div/nav/ul/li[9]/a,A,CA Supply Chain Transparency Act,89,185,879,5007
+25,icon-link,footer#footer > div:nth-of-type(2) > div:nth-of-type(3) > a,0,Facebook,0,Facebook,A,/html/body/footer/div[2]/div[3]/a,A,Facebook,90,25,111,5037
+25,icon-link,footer#footer > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(2),0,Twitter,0,Twitter,A,/html/body/footer/div[2]/div[3]/a[2],A,Twitter,91,25,141,5037
+25,icon-link,footer#footer > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(3),0,Instagram,0,Instagram,A,/html/body/footer/div[2]/div[3]/a[3],A,Instagram,92,25,171,5037
+25,icon-link,footer#footer > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(4),0,Pinterest,0,Pinterest,A,/html/body/footer/div[2]/div[3]/a[4],A,Pinterest,93,24,201,5037
+12,mobile-redirect,footer#footer > div:nth-of-type(2) > div:nth-of-type(4) > a,0,Mobile Site,0,Mobile Sit,A,/html/body/footer/div[2]/div[4]/a,A,Mobile Site,94,64,233,5044
+13,feedback-link,footer#footer > div:nth-of-type(2) > div:nth-of-type(5) > a,0,Give Feedback,0,Give Feedb,A,/html/body/footer/div[2]/div[5]/a,A,Give Feedback,95,88,986,5043
+40,close,div#modal775 > div > div > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div/div/button,BUTTON,Close×,96,41,784,60
+35,email-txt-box,input#emailId,emailId,,email,,INPUT,/html/body/div[7]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/form/div/div/input,INPUT,,97,250,405,193
+35,btn btn-primary,form#emailSubmissionId > div > div:nth-of-type(2) > div > input,0,,0,,INPUT,/html/body/div[7]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/form/div/div[2]/div/input,INPUT,,98,110,685,194

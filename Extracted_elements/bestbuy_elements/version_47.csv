@@ -1,0 +1,8 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+14,is-active,html > body > div > ul > li > button,0,,0,,BUTTON,/html/body/div/ul/li/button,BUTTON,English,1,40,708,8
+14,0,html > body > div > ul > li:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div/ul/li[2]/button,BUTTON,Français,2,46,769,8
+14,0,html > body > div > ul > li:nth-of-type(3) > button,0,,0,,BUTTON,/html/body/div/ul/li[3]/button,BUTTON,Español,3,44,835,8
+120,0,html > body > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > a,0,Canada,0,Canada,A,/html/body/div[2]/div/div/div/div/div[2]/a,A,Canada,4,176,321,305
+120,us-link,html > body > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(2),0,United States,0,United Sta,A,/html/body/div[2]/div/div/div/div/div[2]/a[2],A,United States,5,167,526,305
+120,0,html > body > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(3),0,Mexico,0,Mexico,A,/html/body/div[2]/div/div/div/div/div[2]/a[3],A,Mexico,6,156,723,305
+21,more-details,html > body > div:nth-of-type(2) > div > div > div > div > p > a,0,See More Details,0,See More D,A,/html/body/div[2]/div/div/div/div/p/a,A,See More Details,7,122,633,542

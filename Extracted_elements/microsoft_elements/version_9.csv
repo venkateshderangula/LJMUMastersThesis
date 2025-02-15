@@ -1,0 +1,83 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,0,a#skip,skip,Skip to main content,0,Skip to ma,A,/html/body/a,A,Skip to main content,1,186,534,-1000
+23,0,a#srv_shellHeaderMicrosoftLogo,srv_shellHeaderMicrosoftLogo,,0,,A,/html/body/div/span[2]/div/div/div/div/a,A,,2,108,60,13
+48,0,a#Store-navigation,Store-navigation,Store,0,Store,A,/html/body/div/span[2]/div/div/div/div[2]/ul/li[2]/div/a,A,Store,3,92,186,0
+48,0,a#Products-navigation,Products-navigation,Products,0,Products,A,/html/body/div/span[2]/div/div/div/div[2]/ul/li[3]/div/a,A,Products,4,115,278,0
+48,top-level-link-text ctl_headerNavLink,li#l1_support > a,0,Support,0,Support,A,/html/body/div/span[2]/div/div/div/div[2]/ul/li[4]/a,A,Support,5,98,393,0
+38,0,input#cli_shellHeaderSearchInput,cli_shellHeaderSearchInput,,q,,INPUT,/html/body/div/span[2]/div/div/div/div[5]/form/div/input,INPUT,,6,265,729,7
+38,0,form#srv_shellHeaderSearchForm > div > button,0,,0,,BUTTON,/html/body/div/span[2]/div/div/div/div[5]/form/div/button,BUTTON,Search,7,33,990,7
+48,0,a#shell-header-shopping-cart,shell-header-shopping-cart,Cart,0,Cart,A,/html/body/div/span[2]/div/div/div/div[5]/div/a,A,Cart,8,40,1039,0
+125,contact-tab,div#hp-feedback-form-opener > button,0,,0,,BUTTON,/html/body/main/div/div/div/div/button,BUTTON,Site feedback,9,37,1163,268
+10,0,div#slide1 > div > button,0,,0,,BUTTON,/html/body/main/section/div/div/div/button,BUTTON,,10,12,588,405
+10,0,div#slide1 > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/main/section/div/div/div/button[2],BUTTON,,11,12,600,405
+48,c-flipper f-previous flLight,div#slide1 > button,0,,0,,BUTTON,/html/body/main/section/div/div/button,BUTTON,,12,24,60,220
+48,c-flipper f-next flLight,div#slide1 > button:nth-of-type(2),0,,0,,BUTTON,/html/body/main/section/div/div/button[2],BUTTON,,13,24,1116,220
+45,0,a#slide2_headurl,slide2_headurl,Find your perfect PC,0,Find your ,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/h3/a,A,Find your perfect PC,14,291,140,165
+27,0,a#slide2_headurl,slide2_headurl,Windows 10 PCs do more. Just like you.,0,Windows 10,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/p/a,A,Windows 10 PCs do more. Just like you.,15,337,140,216
+39,c-call-to-action c-glyph,a#slide2_CTA_1,slide2_CTA_1,Learn more,0,Learn more,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/div/a,A,Learn more,16,154,140,277
+39,c-call-to-action c-glyph,a#slide2_CTA_2,slide2_CTA_2,Shop now,0,Shop now,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/div/a[2],A,Shop now,17,142,309,277
+20,dark,button#pause,pause,,0,,BUTTON,/html/body/main/section/div/div/div[2]/div/div/button,BUTTON,,18,50,140,401
+20,light,button#play,play,,0,,BUTTON,/html/body/main/section/div/div/div[2]/div/div/button[2],BUTTON,,19,50,194,401
+225,mscom-link,main#content > section:nth-of-type(2) > div > ul > li > div > section > a,0,Xbox OneStay entertained for hours. Shop the latest consoles.,0,Xbox OneSt,A,/html/body/main/section[2]/div/ul/li/div/section/a,A,Xbox OneStay entertained for hours. Shop the latest consoles.,20,250,70,509
+225,mscom-link,main#content > section:nth-of-type(2) > div > ul > li:nth-of-type(2) > div > section > a,0,Office 365Office 365 on the devices you love. Buy now.,0,Office 365,A,/html/body/main/section[2]/div/ul/li[2]/div/section/a,A,Office 365Office 365 on the devices you love. Buy now.,21,250,340,509
+225,mscom-link,main#content > section:nth-of-type(2) > div > ul > li:nth-of-type(3) > div > section > a,0,Windows 10Learn about new features and great enhancements.,0,Windows 10,A,/html/body/main/section[2]/div/ul/li[3]/div/section/a,A,Windows 10Learn about new features and great enhancements.,22,250,610,509
+225,mscom-link,main#content > section:nth-of-type(2) > div > ul > li:nth-of-type(4) > div > section > a,0,Microsoft LumiaThere's a Lumia phone for you. Find it now.,0,Microsoft ,A,/html/body/main/section[2]/div/ul/li[4]/div/section/a,A,Microsoft LumiaThere's a Lumia phone for you. Find it now.,23,250,880,509
+45,0,a#headurl,headurl,Microsoft Store,0,Microsoft ,A,/html/body/main/section[3]/div/div/div/h3/a,A,Microsoft Store,24,216,140,909
+51,0,a#paraurl,paraurl,"Find the technology you need for home, school, work, and fun.",0,Find the t,A,/html/body/main/section[3]/div/div/div/p/a,A,"Find the technology you need for home, school, work, and fun.",25,346,140,960
+39,c-call-to-action c-glyph,main#content > section:nth-of-type(3) > div > div > div > div > a,0,Shop now,0,Shop now,A,/html/body/main/section[3]/div/div/div/div/a,A,Shop now,26,142,140,1045
+334,mscom-link,main#content > section:nth-of-type(4) > div > ul > li > section > a,0,Windows 10 EnterpriseDownload the free 90-day evaluation for IT professionals.,0,Windows 10,A,/html/body/main/section[4]/div/ul/li/section/a,A,Windows 10 EnterpriseDownload the free 90-day evaluation for IT professionals.,27,250,70,1341
+334,mscom-link,main#content > section:nth-of-type(4) > div > ul > li:nth-of-type(2) > section > a,0,Office 365 Enterprise E5Take advantage of the all-new capabilities.,0,Office 365,A,/html/body/main/section[4]/div/ul/li[2]/section/a,A,Office 365 Enterprise E5Take advantage of the all-new capabilities.,28,250,340,1341
+334,mscom-link,main#content > section:nth-of-type(4) > div > ul > li:nth-of-type(3) > section > a,0,Visual Studio 2015Create the next great app with our new free dev guide.,0,Visual Stu,A,/html/body/main/section[4]/div/ul/li[3]/section/a,A,Visual Studio 2015Create the next great app with our new free dev guide.,29,250,610,1341
+334,mscom-link,main#content > section:nth-of-type(4) > div > ul > li:nth-of-type(4) > section > a,0,Microsoft AzureOpen a free account and start building web apps today.,0,Microsoft ,A,/html/body/main/section[4]/div/ul/li[4]/section/a,A,Microsoft AzureOpen a free account and start building web apps today.,30,250,880,1341
+10,0,div#slide6 > div > button,0,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div/button,BUTTON,,31,12,588,2103
+10,0,div#slide6 > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div/button[2],BUTTON,,32,12,600,2103
+48,c-flipper f-previous flDark,div#slide6 > button,0,,0,,BUTTON,/html/body/main/div[2]/section/div/div/button,BUTTON,,33,24,60,1917
+48,c-flipper f-next flDark,div#slide6 > button:nth-of-type(2),0,,0,,BUTTON,/html/body/main/div[2]/section/div/div/button[2],BUTTON,,34,24,1116,1917
+45,0,a#headurl,headurl,Working to 'solve' cancer,0,Working to,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/h3/a,A,Working to 'solve' cancer,35,357,140,1850
+51,0,a#paraurl,paraurl,We're using our technology to help doctors treat and understand cancer.,0,We're usin,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/p/a,A,We're using our technology to help doctors treat and understand cancer.,36,374,140,1901
+39,c-call-to-action c-glyph,a#slide2_CTA_1,slide2_CTA_1,See how,0,See how,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/div/a,A,See how,37,128,140,1986
+20,dark,button#pause,pause,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div[2]/div/div/button,BUTTON,,38,50,140,2099
+20,light,button#play,play,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div[2]/div/div/button[2],BUTTON,,39,50,194,2099
+32,0,html > body > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[2]/div/ul/li[2]/a,A,,40,32,204,2146
+32,0,html > body > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/div[2]/div/ul/li[3]/a,A,,41,32,248,2146
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li > a,0,Windows,0,Windows,A,/html/body/div[3]/span/div/div/div/div/ul/li/a,A,Windows,42,49,60,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(2) > a,0,Office,0,Office,A,/html/body/div[3]/span/div/div/div/div/ul/li[2]/a,A,Office,43,31,60,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(3) > a,0,Skype,0,Skype,A,/html/body/div[3]/span/div/div/div/div/ul/li[3]/a,A,Skype,44,31,60,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(4) > a,0,Outlook,0,Outlook,A,/html/body/div[3]/span/div/div/div/div/ul/li[4]/a,A,Outlook,45,43,60,2320
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(5) > a,0,OneDrive,0,OneDrive,A,/html/body/div[3]/span/div/div/div/div/ul/li[5]/a,A,OneDrive,46,50,60,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(6) > a,0,MSN,0,MSN,A,/html/body/div[3]/span/div/div/div/div/ul/li[6]/a,A,MSN,47,26,60,2368
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li > a,0,Microsoft Surface,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li/a,A,Microsoft Surface,48,93,233,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Xbox,0,Xbox,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[2]/a,A,Xbox,49,27,233,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,PC and laptops,0,PC and lap,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[3]/a,A,PC and laptops,50,80,233,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Microsoft Lumia,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[4]/a,A,Microsoft Lumia,51,85,233,2320
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Microsoft Band,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[5]/a,A,Microsoft Band,52,81,233,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Microsoft HoloLens,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[6]/a,A,Microsoft HoloLens,53,103,233,2368
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li > a,0,View account,0,View accou,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li/a,A,View account,54,70,406,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Order tracking,0,Order trac,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[2]/a,A,Order tracking,55,77,406,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Retail store locations,0,Retail sto,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[3]/a,A,Retail store locations,56,110,406,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Returns,0,Returns,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[4]/a,A,Returns,57,40,406,2320
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Sales & support,0,Sales & su,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[5]/a,A,Sales & support,58,84,406,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li > a,0,Download Center,0,Download C,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li/a,A,Download Center,59,92,578,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Windows downloads,0,Windows do,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[2]/a,A,Windows downloads,60,110,578,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Windows 10 Apps,0,Windows 10,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[3]/a,A,Windows 10 Apps,61,95,578,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Office Apps,0,Office App,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[4]/a,A,Office Apps,62,62,578,2320
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Microsoft Lumia Apps,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[5]/a,A,Microsoft Lumia Apps,63,116,578,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Internet Explorer,0,Internet E,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[6]/a,A,Internet Explorer,64,88,578,2368
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li > a,0,Diversity and inclusion,0,Diversity ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li/a,A,Diversity and inclusion,65,119,751,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Accessibility,0,Accessibil,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[2]/a,A,Accessibility,66,64,751,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Environment,0,Environmen,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[3]/a,A,Environment,67,67,751,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,Microsoft Philanthropies,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[4]/a,A,Microsoft Philanthropies,68,129,751,2320
+34,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,Corporate Social Responsibility,0,Corporate ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[5]/a,A,Corporate Social Responsibility,69,87,751,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(6) > a,0,Privacy at Microsoft,0,Privacy at,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[6]/a,A,Privacy at Microsoft,70,104,751,2386
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li > a,0,Careers,0,Careers,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li/a,A,Careers,71,40,924,2248
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(2) > a,0,About Microsoft,0,About Micr,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[2]/a,A,About Microsoft,72,86,924,2272
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(3) > a,0,Company news,0,Company ne,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[3]/a,A,Company news,73,81,924,2296
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(4) > a,0,Investors,0,Investors,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[4]/a,A,Investors,74,47,924,2320
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(5) > a,0,Research,0,Research,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[5]/a,A,Research,75,47,924,2344
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(6) > a,0,Site map,0,Site map,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[6]/a,A,Site map,76,46,924,2368
+16,0,a#locale-picker-link,locale-picker-link,English (United States)‎,0,English (U,A,/html/body/div[3]/span/div/div/div[2]/ul/li[2]/a,A,English (United States)‎,77,119,89,2450
+16,ctl_footerNavLink,a#shellmenu_0,shellmenu_0,Contact us,0,Contact us,A,/html/body/div[3]/span/div/div/div[3]/ul/li/a,A,Contact us,78,56,572,2450
+16,ctl_footerNavLink,a#shellmenu_1,shellmenu_1,Privacy & cookies,0,Privacy & ,A,/html/body/div[3]/span/div/div/div[3]/ul/li[2]/a,A,Privacy & cookies,79,93,653,2450
+16,ctl_footerNavLink,a#shellmenu_2,shellmenu_2,Terms of use,0,Terms of u,A,/html/body/div[3]/span/div/div/div[3]/ul/li[3]/a,A,Terms of use,80,68,770,2450
+16,ctl_footerNavLink,a#shellmenu_3,shellmenu_3,Trademarks,0,Trademarks,A,/html/body/div[3]/span/div/div/div[3]/ul/li[4]/a,A,Trademarks,81,62,861,2450
+16,ctl_footerNavLink,a#shellmenu_4,shellmenu_4,About our ads,0,About our ,A,/html/body/div[3]/span/div/div/div[3]/ul/li[5]/a,A,About our ads,82,76,947,2450

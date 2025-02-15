@@ -1,0 +1,1203 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a,0,Richtlinie zu Cookies und ähnlichen Technologien,0,Richtlinie,A,/html/body/div[2]/div/div[2]/div[2]/p/a,A,Richtlinie zu Cookies und ähnlichen Technologien,1,470,329,409
+14,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a:nth-of-type(2),0,Datenschutzeinstellungen,0,Datenschut,A,/html/body/div[2]/div/div[2]/div[2]/p/a[2],A,Datenschutzeinstellungen,2,149,689,430
+48,wt-btn wt-btn--transparent wt-width-full wt-mb-xs-2 wt-mb-md-0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div/button,BUTTON,Einstellungen aktualisieren,3,243,494,479
+48,wt-btn wt-btn--secondary wt-width-full,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div[2]/button,BUTTON,Akzeptieren,4,129,742,479
+18,0,html > body > div:nth-of-type(3) > div > div > div > a,0,Nutzungsbedingungen,0,Nutzungsbe,A,/html/body/div[3]/div/div/div/a,A,Nutzungsbedingungen,5,176,162,17
+18,0,html > body > div:nth-of-type(3) > div > div > div > a:nth-of-type(2),0,Datenschutzrichtlinie,0,Datenschut,A,/html/body/div[3]/div/div/div/a[2],A,Datenschutzrichtlinie,6,163,432,17
+48,wt-btn wt-btn--secondary,html > body > div:nth-of-type(3) > div > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[3]/div/div/div[2]/button,BUTTON,Alles klar,7,106,1070,16
+40,0,header#gnav-header-inner > div > a,0,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",0,"Etsy
+     ",A,/html/body/div[4]/header/div/a,A,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",8,80,36,96
+48,wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input wt-pr-xs-7,input#global-enhancements-search-query,global-enhancements-search-query,,search_query,,INPUT,/html/body/div[4]/header/div[2]/div/form/div/div/input,INPUT,,9,816,122,92
+48,wt-input-btn-group__btn,form#gnav-search > div > div > button,0,,0,,BUTTON,/html/body/div[4]/header/div[2]/div/form/div/div/button,BUTTON,,10,61,938,92
+1,global-enhancements-skip-to-content wt-screen-reader-only wt-focusable,header#gnav-header-inner > a,0,Zum Inhalt springen,0,Zum Inhalt,A,/html/body/div[4]/header/a,A,Zum Inhalt springen,11,1,35,116
+36,wt-btn wt-btn--small wt-btn--transparent wt-mr-xs-1 inline-overlay-trigger signin-header-action select-signin,header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li > button,0,,0,,BUTTON,/html/body/div[4]/header/div[4]/nav/ul/li/button,BUTTON,Einloggen,12,93,1017,98
+48,wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon,header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li:nth-of-type(2) > span > a,0,"Warenkorb mit 0 Artikeln
+
+                
+    0",0,Warenkorb ,A,/html/body/div[4]/header/div[4]/nav/ul/li[2]/span/a,A,"Warenkorb mit 0 Artikeln
+
+                
+    0",13,48,1116,92
+18,wt-display-table wt-width-full wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li > a,0,Weihnachten,0,Weihnachte,A,/html/body/div[5]/div/div/ul/li/a,A,Weihnachten,14,81,36,165
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(2) > a,0,Schmuck & Accessoires,0,Schmuck & ,A,/html/body/div[5]/div/div/ul/li[2]/a,A,Schmuck & Accessoires,15,148,129,156
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(3) > a,0,Kleidung & Schuhe,0,Kleidung &,A,/html/body/div[5]/div/div/ul/li[3]/a,A,Kleidung & Schuhe,16,117,289,156
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(4) > a,0,Haus & Wohnen,0,Haus & Woh,A,/html/body/div[5]/div/div/ul/li[4]/a,A,Haus & Wohnen,17,97,419,156
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(5) > a,0,Hochzeit & Party,0,Hochzeit &,A,/html/body/div[5]/div/div/ul/li[5]/a,A,Hochzeit & Party,18,102,528,156
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(6) > a,0,Spielzeug & Unterhaltung,0,Spielzeug ,A,/html/body/div[5]/div/div/ul/li[6]/a,A,Spielzeug & Unterhaltung,19,158,642,156
+36,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(7) > a,0,Kunst & Sammlerstücke,0,Kunst & Sa,A,/html/body/div[5]/div/div/ul/li[7]/a,A,Kunst & Sammlerstücke,20,146,812,156
+18,wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(8) > a,0,Kreativbedarf,0,Kreativbed,A,/html/body/div[5]/div/div/ul/li[8]/a,A,Kreativbedarf,21,84,970,165
+18,wt-display-table wt-width-full wt-text-link-no-underline,div#desktop-category-nav > div > div > ul > li:nth-of-type(9) > a,0,Geschenke,0,Geschenke,A,/html/body/div[5]/div/div/ul/li[9]/a,A,Geschenke,22,85,1067,165
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div > a,0,Gesichtsmasken,0,Gesichtsma,A,/html/body/div[6]/div/div/div/div/div/a,A,Gesichtsmasken,23,155,45,358
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div:nth-of-type(2) > a,0,Regale,0,Regale,A,/html/body/div[6]/div/div/div/div/div[2]/a,A,Regale,24,155,236,358
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div:nth-of-type(3) > a,0,Geschenkideen,0,Geschenkid,A,/html/body/div[6]/div/div/div/div/div[3]/a,A,Geschenkideen,25,155,427,358
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div:nth-of-type(4) > a,0,Draußen & Garten,0,Draußen & ,A,/html/body/div[6]/div/div/div/div/div[4]/a,A,Draußen & Garten,26,155,618,358
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div:nth-of-type(5) > a,0,Baby und Kind,0,Baby und K,A,/html/body/div[6]/div/div/div/div/div[5]/a,A,Baby und Kind,27,155,809,358
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward wt-width-full wt-text-black,div#content > div > div > div > div > div:nth-of-type(6) > a,0,Bastel-Kits,0,Bastel-Kit,A,/html/body/div[6]/div/div/div/div/div[6]/a,A,Bastel-Kits,28,155,1000,358
+252," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li > a,0,"Handgestrickte Wollsocken Reine Schafe Wolle Socken Bett Wolle Socken Bio Wolle Weihnachtsgeschenke Unisex kostenloser Versand Valentinstag Geschenk für Sie
+                
+                
+                    
+        DuxLesaTraders
+        Aus dem Shop DuxLesaTraders
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (268)
+                268 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 14,24 €
+                    
+                    
+                        ab 14,24 €
+                    
+
+                        
+
+                            ab 20,34 €
+                            
+                                Ursprünglicher Preis ab 20,34 €
+                            
+                                
+                                –(30 %)",0,Handgestri,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li/a,A,"Handgestrickte Wollsocken Reine Schafe Wolle Socken Bett Wolle Socken Bio Wolle Weihnachtsgeschenke Unisex kostenloser Versand Valentinstag Geschenk für Sie
+                
+                
+                    
+        DuxLesaTraders
+        Aus dem Shop DuxLesaTraders
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (268)
+                268 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 14,24 €
+                    
+                    
+                        ab 14,24 €
+                    
+
+                        
+
+                            ab 20,34 €
+                            
+                                Ursprünglicher Preis ab 20,34 €
+                            
+                                
+                                –(30 %)",29,173,36,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li/div/button,BUTTON,Zu Favoriten hinzufügen,30,44,165,820
+252," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(2) > a,0,"Brautjungfer Flanell PJs, Brautjungfer Flanell Schlaf Shirt, Schlaf Shirt Flanell, Flanell Shirt Hochzeit, Schlaf Shirt Brautjungfer, Flanell Sets
+                
+                
+                    
+        BellesdesignShop
+        Aus dem Shop BellesdesignShop
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (1.904)
+                1.904 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 18,51 €
+                    
+                    
+                        ab 18,51 €
+                    
+
+                        
+
+                            ab 37,01 €
+                            
+                                Ursprünglicher Preis ab 37,01 €
+                            
+                                
+                                –(50 %)",0,Brautjungf,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li[2]/a,A,"Brautjungfer Flanell PJs, Brautjungfer Flanell Schlaf Shirt, Schlaf Shirt Flanell, Flanell Shirt Hochzeit, Schlaf Shirt Brautjungfer, Flanell Sets
+                
+                
+                    
+        BellesdesignShop
+        Aus dem Shop BellesdesignShop
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (1.904)
+                1.904 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 18,51 €
+                    
+                    
+                        ab 18,51 €
+                    
+
+                        
+
+                            ab 37,01 €
+                            
+                                Ursprünglicher Preis ab 37,01 €
+                            
+                                
+                                –(50 %)",31,173,227,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li[2]/div/button,BUTTON,Zu Favoriten hinzufügen,32,44,356,820
+252," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(3) > a,0,"Custom Blanket Pet Portrait - Pet Portrait Blanket,Dog Blanket,Personalized Dog Lover Gift,Pet Art Illustration,Pet Loss Gift,cat blanket
+                
+                
+                    
+        AlphaCreativeStudio
+        Aus dem Shop AlphaCreativeStudio
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (210)
+                210 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 34,55 €
+                    
+                    
+                        ab 34,55 €
+                    
+
+                        
+
+                            ab 38,39 €
+                            
+                                Ursprünglicher Preis ab 38,39 €
+                            
+                                
+                                –(10 %)",0,Custom Bla,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li[3]/a,A,"Custom Blanket Pet Portrait - Pet Portrait Blanket,Dog Blanket,Personalized Dog Lover Gift,Pet Art Illustration,Pet Loss Gift,cat blanket
+                
+                
+                    
+        AlphaCreativeStudio
+        Aus dem Shop AlphaCreativeStudio
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (210)
+                210 Bewertungen
+        
+
+                        
+
+
+                    
+                        Sale-Preis ab 34,55 €
+                    
+                    
+                        ab 34,55 €
+                    
+
+                        
+
+                            ab 38,39 €
+                            
+                                Ursprünglicher Preis ab 38,39 €
+                            
+                                
+                                –(10 %)",33,173,418,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li[3]/div/button,BUTTON,Zu Favoriten hinzufügen,34,44,547,820
+247," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(4) > a,0,"Gehäkelte Hobbes, kostenloser Versand, handgemachte Hobbes, Hobbes in Calvin und Hobbes, 14 Zoll gehäkelt Tiger, gefüllte Tiger
+                
+                
+                    
+        KasyCrafts
+        Aus dem Shop KasyCrafts
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (106)
+                106 Bewertungen
+        
+
+                        
+
+
+                44,63 €
+
+                    
+                    
+    
+    
+        Bestseller",0,Gehäkelte ,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li[4]/a,A,"Gehäkelte Hobbes, kostenloser Versand, handgemachte Hobbes, Hobbes in Calvin und Hobbes, 14 Zoll gehäkelt Tiger, gefüllte Tiger
+                
+                
+                    
+        KasyCrafts
+        Aus dem Shop KasyCrafts
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (106)
+                106 Bewertungen
+        
+
+                        
+
+
+                44,63 €
+
+                    
+                    
+    
+    
+        Bestseller",35,173,609,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(4) > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li[4]/div/button,BUTTON,Zu Favoriten hinzufügen,36,44,738,820
+247," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(5) > a,0,"Ellana Thread Kit for Block 12
+                
+                
+                    
+        WoolinRouge
+        Aus dem Shop WoolinRouge
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (95)
+                95 Bewertungen
+        
+
+                        
+
+
+                19,64 €
+
+                    
+                    
+    
+    
+        Bestseller",0,Ellana Thr,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li[5]/a,A,"Ellana Thread Kit for Block 12
+                
+                
+                    
+        WoolinRouge
+        Aus dem Shop WoolinRouge
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (95)
+                95 Bewertungen
+        
+
+                        
+
+
+                19,64 €
+
+                    
+                    
+    
+    
+        Bestseller",37,173,800,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(5) > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li[5]/div/button,BUTTON,Zu Favoriten hinzufügen,38,44,929,820
+247," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(6) > a,0,"Father of the Bride Gift, Personalized Socks, FREE sock label & gift bag, Father Gift, Of all our walks together this is my favorite
+                
+                
+                    
+        KOYSARsocks
+        Aus dem Shop KOYSARsocks
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (4.845)
+                4.845 Bewertungen
+        
+
+                        
+
+
+                ab 7,36 €
+
+                    
+                    
+    
+    
+        Bestseller",0,Father of ,A,/html/body/div[6]/div/div[4]/div/div/div/ul/li[6]/a,A,"Father of the Bride Gift, Personalized Socks, FREE sock label & gift bag, Father Gift, Of all our walks together this is my favorite
+                
+                
+                    
+        KOYSARsocks
+        Aus dem Shop KOYSARsocks
+        
+                
+    
+    
+    5 von 5 Sternen
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (4.845)
+                4.845 Bewertungen
+        
+
+                        
+
+
+                ab 7,36 €
+
+                    
+                    
+    
+    
+        Bestseller",39,173,991,820
+44,inline-overlay-trigger favorite-item-action position-absolute favorite-listing-button p-xs-1 has-hover-state z-index-1 btn-transparent position-right in-search v2-listing-card__favorite,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(6) > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[4]/div/div/div/ul/li[6]/div/button,BUTTON,Zu Favoriten hinzufügen,40,44,1120,820
+74,wt-arrow-link wt-arrow-link--forward wt-pb-lg-3 wt-pb-xs-0 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div > a,0,In diesen einzigartigen Fundstücken stöbern,0,In diesen ,A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div/a,A,In diesen einzigartigen Fundstücken stöbern,41,336,78,1282
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(2) > a,0,"155,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    DIY Terrarium Kit / Weihnachten Geschenk-Set / Weihnachtsgeschenk / neues Haus Geschenk / Glas-Container / Geschenk-Idee / Wohnzimmer Dekor / geometrische Pflanzer",0,"155,00 €
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[2]/a,A,"155,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    DIY Terrarium Kit / Weihnachten Geschenk-Set / Weihnachtsgeschenk / neues Haus Geschenk / Glas-Container / Geschenk-Idee / Wohnzimmer Dekor / geometrische Pflanzer",42,248,432,1144
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(3) > a,0,"18,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Handgetunkte Kerzen 4er-Pack ( Aquarellwald) | Tafelkerzen mit Farbverlauf",0,"18,00 €
+
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[3]/a,A,"18,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Handgetunkte Kerzen 4er-Pack ( Aquarellwald) | Tafelkerzen mit Farbverlauf",43,159,697,1144
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(4) > a,0,"139,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Adventskalender * VintagePop",0,"139,90 €
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[4]/a,A,"139,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Adventskalender * VintagePop",44,248,874,1144
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(5) > a,0,"210,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Holz-Weihnachtsbaum (100cm) inkl. Weihnachtskugeln in Gold & Lichterkette",0,"210,00 €
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[5]/a,A,"210,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Holz-Weihnachtsbaum (100cm) inkl. Weihnachtskugeln in Gold & Lichterkette",45,336,78,1367
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(6) > a,0,"49,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Personalisierte Fußmatte mit Familienname | Individuell | Willkommen | Familie | Haus | Wohnung | Einweihung Geschenk",0,"49,90 €
+
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[6]/a,A,"49,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Personalisierte Fußmatte mit Familienname | Individuell | Willkommen | Familie | Haus | Wohnung | Einweihung Geschenk",46,248,432,1367
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(7) > a,0,"37,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Adventskranz Eiche",0,"37,00 €
+
+
+",A,/html/body/div[6]/div/div[5]/div/div/div/div/div/div/div[7]/a,A,"37,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Adventskranz Eiche",47,159,697,1367
+42,wt-tab__item wt-skeleton-ui--width-40 ,div#content > div > div:nth-of-type(6) > div > div > div > button,0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button,BUTTON,,48,168,36,1669
+42,wt-tab__item wt-skeleton-ui--width-40 ,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button[2],BUTTON,,49,168,228,1669
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(3),0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button[3],BUTTON,,50,168,420,1669
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(4),0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button[4],BUTTON,,51,168,612,1669
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-lg,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(5),0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button[5],BUTTON,,52,168,804,1669
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-lg,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(6),0,,0,,BUTTON,/html/body/div[6]/div/div[6]/div/div/div/button[6],BUTTON,,53,168,996,1669
+22,wt-hide-sm wt-show-md wt-arrow-link wt-arrow-link--forward,div#content > div > div:nth-of-type(7) > div > div > div > div > div > a,0,Mehr anzeigen,0,Mehr anzei,A,/html/body/div[6]/div/div[7]/div/div/div/div/div/a,A,Mehr anzeigen,54,334,69,2347
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(2) > a,0,"34,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy, Makramee Untersetzer 4er Set, Rostfarbene Untersetzer Tischdeko",0,"34,90 €
+
+
+",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[2]/a,A,"34,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy, Makramee Untersetzer 4er Set, Rostfarbene Untersetzer Tischdeko",55,158,421,2243
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(3) > a,0,"111,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Asymmetrischer Wandspiegel, Modern Schwarz Spiegel Groß",0,"111,00 €
+
+",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[3]/a,A,"111,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Asymmetrischer Wandspiegel, Modern Schwarz Spiegel Groß",56,158,597,2243
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(4) > a,0,"54,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Wandmobile Terracotta",0,"54,00 €
+
+
+",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[4]/a,A,"54,00 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Wandmobile Terracotta",57,158,69,2424
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(5) > a,0,"19,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Kissen, Abstraktes Regenbogen - Kissen, Regenbogenkissen, abstrakter Regenbogen",0,"19,90 €
+
+
+",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[5]/a,A,"19,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Kissen, Abstraktes Regenbogen - Kissen, Regenbogenkissen, abstrakter Regenbogen",58,158,245,2424
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(6) > a,0,"14,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    ANA JOHNSON x ETSY Wimpelkette aus Papier in hellem Beige, nachhaltige Party-Deko im Boho-Stil, Wohn-Deko handgefertigt von renna deluxe",0,"14,90 €
+
+
+",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[6]/a,A,"14,90 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    ANA JOHNSON x ETSY Wimpelkette aus Papier in hellem Beige, nachhaltige Party-Deko im Boho-Stil, Wohn-Deko handgefertigt von renna deluxe",59,158,421,2424
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(7) > a,0,"ab 21,42 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Grünes Leinentuch SET von 2. Waffel- oder Teetücher. Grüne Bettwäsche Handtücher. Flauschige, saugfähige Waffeltücher. Qualitätswäsche.",0,"ab 21,42 €",A,/html/body/div[6]/div/div[7]/div/div/div/div/div[7]/a,A,"ab 21,42 €
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Ana Johnson x Etsy Grünes Leinentuch SET von 2. Waffel- oder Teetücher. Grüne Bettwäsche Handtücher. Flauschige, saugfähige Waffeltücher. Qualitätswäsche.",60,158,597,2424
+410,secondary-grid-featured-listing wt-hide-xs wt-show-lg wt-width-full wt-height-full wt-position-relative,div#content > div > div:nth-of-type(7) > div > div > div > div:nth-of-type(2) > a,0,"99,00 €",0,"99,00 €",A,/html/body/div[6]/div/div[7]/div/div/div/div[2]/a,A,"99,00 €",61,376,788,2210
+18,wt-text-link-no-underline,div#content > div > div:nth-of-type(8) > div > div > div > div > div > h2 > a,0,Stöbere in unserer Auswahl,0,Stöbere in,A,/html/body/div[6]/div/div[8]/div/div/div/div/div/h2/a,A,Stöbere in unserer Auswahl,62,210,36,2675
+21,wt-display-inline-block float-right wt-arrow-link wt-arrow-link--forward wt-text-caption,div#content > div > div:nth-of-type(8) > div > div > div > div > div > a,0,Mehr in dieser Art anzeigen,0,Mehr in di,A,/html/body/div[6]/div/div[8]/div/div/div/div/div/a,A,Mehr in dieser Art anzeigen,63,192,972,2674
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li > a,0,Der Weihnachtsshop,0,Der Weihna,A,/html/body/div[6]/div/div[8]/div/div/div/ul/li/a,A,Der Weihnachtsshop,64,173,36,2706
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(2) > a,0,Damenmode,0,Damenmode,A,/html/body/div[6]/div/div[8]/div/div/div/ul/li[2]/a,A,Damenmode,65,173,227,2706
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(3) > a,0,Alltagshelfer,0,Alltagshel,A,/html/body/div[6]/div/div[8]/div/div/div/ul/li[3]/a,A,Alltagshelfer,66,173,418,2706
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(4) > a,0,Designideen und -inspiration,0,Designidee,A,/html/body/div[6]/div/div[8]/div/div/div/ul/li[4]/a,A,Designideen und -inspiration,67,173,609,2706
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(5) > a,0,"Schmuck, Handtaschen und Accessoires",0,"Schmuck, H",A,/html/body/div[6]/div/div[8]/div/div/div/ul/li[5]/a,A,"Schmuck, Handtaschen und Accessoires",68,173,800,2706
+229,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(6) > a,0,"Ideen für alle, die zu Hause bleiben",0,Ideen für ,A,/html/body/div[6]/div/div[8]/div/div/div/ul/li[6]/a,A,"Ideen für alle, die zu Hause bleiben",69,173,991,2706
+16,wt-text-link,div#content > div > div:nth-of-type(9) > div > div > div > div:nth-of-type(2) > a,0,Hier geht’s zur Story hinter unserem Marktplatz,0,Hier geht’,A,/html/body/div[6]/div/div[9]/div/div/div/div[2]/a,A,Hier geht’s zur Story hinter unserem Marktplatz,70,315,443,3117
+48,wt-mt-xs-2 button wt-btn wt-text-black wt-btn--outline,div#content > div > div:nth-of-type(9) > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Zur Etsy-Hilfe,0,Zur Etsy-H,A,/html/body/div[6]/div/div[9]/div/div/div/div[2]/div[2]/a,A,Zur Etsy-Hilfe,71,139,531,3521
+18,wt-text-link-no-underline,div#content > div > div:nth-of-type(10) > div > div > div > div > h2 > a,0,Das Neueste von unserem Blog,0,Das Neuest,A,/html/body/div[6]/div/div[10]/div/div/div/div/h2/a,A,Das Neueste von unserem Blog,72,238,36,3660
+18,wt-display-inline-block wt-text-link-no-underline wt-ml-sm-2 wt-text-caption,div#content > div > div:nth-of-type(10) > div > div > div > div > a,0,Etsy Blog lesen,0,Etsy Blog ,A,/html/body/div[6]/div/div[10]/div/div/div/div/a,A,Etsy Blog lesen,73,93,290,3661
+391,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/10/pic-1-500-x-350-1.jpg"" alt="""">
+        
+        
+            Kooperationen
+            Etsy als fester Bestandteil  einer mehrgleisigen Verkaufsstrategie
+            magnalister erklärt: Alles zum Thema Multichannel-Verkauf",0,<img class,A,/html/body/div[6]/div/div[10]/div/div/div/ul/li/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/10/pic-1-500-x-350-1.jpg"" alt="""">
+        
+        
+            Kooperationen
+            Etsy als fester Bestandteil  einer mehrgleisigen Verkaufsstrategie
+            magnalister erklärt: Alles zum Thema Multichannel-Verkauf",74,364,36,3692
+494,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li:nth-of-type(2) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/09/Screenshot-2020-09-15-at-12.13.17.jpg"" alt="""">
+        
+        
+            Entdecke Etsy
+            Entspannung pur mit der neuen Ana Johnson x Etsy Kollektion
+            Wenn Ana Johnson an ihre wunderschön gemütliche Kölner Wohnung denkt, wird ihr ganz warm ums Herz. Schließlich „schlummern hier so viele unvergessliche Momente und Erinnerungen: schöne Feste mit der Familie, die lustigsten Spiele-Abende mit Freunden oder gemütliche Zweisamkeit mit meinem Mann.“",0,<img class,A,/html/body/div[6]/div/div[10]/div/div/div/ul/li[2]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/09/Screenshot-2020-09-15-at-12.13.17.jpg"" alt="""">
+        
+        
+            Entdecke Etsy
+            Entspannung pur mit der neuen Ana Johnson x Etsy Kollektion
+            Wenn Ana Johnson an ihre wunderschön gemütliche Kölner Wohnung denkt, wird ihr ganz warm ums Herz. Schließlich „schlummern hier so viele unvergessliche Momente und Erinnerungen: schöne Feste mit der Familie, die lustigsten Spiele-Abende mit Freunden oder gemütliche Zweisamkeit mit meinem Mann.“",75,364,418,3692
+391,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li:nth-of-type(3) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/07/Judges_500x350-1.jpg"" alt="""">
+        
+        
+            Entdecke Etsy
+            Q&A; mit Drew Barrymore und Dayna Isom Johnson
+            Im Gespräch: Die Juroren der diesjährigen Etsies.",0,<img class,A,/html/body/div[6]/div/div[10]/div/div/div/ul/li[3]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201101073818im_/http://blog.etsy.com/de/files/2020/07/Judges_500x350-1.jpg"" alt="""">
+        
+        
+            Entdecke Etsy
+            Q&A; mit Drew Barrymore und Dayna Isom Johnson
+            Im Gespräch: Die Juroren der diesjährigen Etsies.",76,364,800,3692
+48,wt-input-btn-group__input wt-text-body-01,input#email-list-signup-email-input,email-list-signup-email-input,,email_address,,INPUT,/html/body/div[8]/footer/div[2]/div/form/div[2]/div/input,INPUT,,77,315,360,4331
+48,wt-input-btn-group__btn,div#collage-footer > footer > div:nth-of-type(2) > div > form > div:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[8]/footer/div[2]/div/form/div[2]/div/button,BUTTON,Jetzt abonnieren,78,165,675,4331
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li > a,0,Etsy-Gutscheine,0,Etsy-Gutsc,A,/html/body/div[8]/footer/div[3]/nav/div/div/div/ul/li/a,A,Etsy-Gutscheine,79,101,24,4533
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li:nth-of-type(2) > a,0,Etsy-Blog,0,Etsy-Blog,A,/html/body/div[8]/footer/div[3]/nav/div/div/div/ul/li[2]/a,A,Etsy-Blog,80,58,24,4563
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li > a,0,Verkaufen auf Etsy,0,Verkaufen ,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[2]/ul/li/a,A,Verkaufen auf Etsy,81,114,312,4533
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Teams,0,Teams,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[2]/ul/li[2]/a,A,Teams,82,40,312,4563
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Foren,0,Foren,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[2]/ul/li[3]/a,A,Foren,83,35,312,4593
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Affiliates,0,Affiliates,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[2]/ul/li[4]/a,A,Affiliates,84,54,312,4623
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li > a,0,"Etsy, Inc.",0,"Etsy, Inc.",A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li/a,A,"Etsy, Inc.",85,55,600,4533
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Richtlinien,0,Richtlinie,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[2]/a,A,Richtlinien,86,66,600,4563
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Investoren,0,Investoren,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[3]/a,A,Investoren,87,66,600,4593
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Jobs,0,Jobs,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[4]/a,A,Jobs,88,28,600,4623
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Presse,0,Presse,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[5]/a,A,Presse,89,41,600,4653
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Engagement,0,Engagement,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[6]/a,A,Engagement,90,79,600,4683
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Impressum,0,Impressum,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[3]/ul/li[7]/a,A,Impressum,91,69,600,4713
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li > a,0,Hilfe,0,Hilfe,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/ul/li/a,A,Hilfe,92,28,888,4533
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Datenschutzeinstellungen,0,Datenschut,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/ul/li[2]/a,A,Datenschutzeinstellungen,93,162,888,4563
+36,wt-mt-xs-4 wt-btn wt-btn--small wt-btn--outline wt-btn--light wt-pt-xs-1 wt-pb-xs-1 wt-display-inline-flex-xs wt-align-items-center wt-text-left-xs,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > a,0,Etsy-App herunterladen,0,Etsy-App h,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/a,A,Etsy-App herunterladen,94,208,888,4621
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li > a,0,Instagram,0,Instagram,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li/a,A,Instagram,95,48,876,4675
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(2) > a,0,Facebook,0,Facebook,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[2]/a,A,Facebook,96,48,927,4675
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(3) > a,0,Pinterest,0,Pinterest,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[3]/a,A,Pinterest,97,48,979,4675
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(4) > a,0,Twitter,0,Twitter,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[4]/a,A,Twitter,98,48,1030,4675
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(5) > a,0,Youtube,0,Youtube,A,/html/body/div[8]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[5]/a,A,Youtube,99,48,1082,4675
+39,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div > button,0,,0,,BUTTON,/html/body/div[8]/footer/div[3]/div[2]/div/div/div/button,BUTTON,"GERMANY
+
+      Deutschland   |   Deutsch   |   € (EUR)",100,277,9,4789
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > a,0,Nutzungsbedingungen,0,Nutzungsbe,A,/html/body/div[8]/footer/div[3]/div[2]/div/div/div[2]/ul/li/a,A,Nutzungsbedingungen,101,143,655,4801
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Datenschutz,0,Datenschut,A,/html/body/div[8]/footer/div[3]/div[2]/div/div/div[2]/ul/li[2]/a,A,Datenschutz,102,78,819,4801
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Cookies,0,Cookies,A,/html/body/div[8]/footer/div[3]/div[2]/div/div/div[2]/ul/li[3]/a,A,Cookies,103,50,918,4801
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Interessenbezogene Werbung,0,Interessen,A,/html/body/div[8]/footer/div[3]/div[2]/div/div/div[2]/ul/li[4]/a,A,Interessenbezogene Werbung,104,186,990,4801

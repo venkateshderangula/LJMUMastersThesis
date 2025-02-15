@@ -1,0 +1,448 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/yt-icon-button[2]/button,BUTTON,,1,24,24,16
+24,yt-simple-endpoint style-scope ytd-topbar-logo-renderer,a#logo,logo,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/ytd-topbar-logo-renderer/a,A,,2,80,72,16
+37,yt-simple-endpoint style-scope ytd-button-renderer,div#skip-navigation > ytd-button-renderer > a,0,Navigation überspringen,0,Navigation,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/div/ytd-button-renderer/a,A,Navigation überspringen,3,220,16,-1000
+26,0,input#search,search,,search_query,,INPUT,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div/input,INPUT,,4,547,256,15
+32,style-scope ytd-searchbox,button#search-icon-legacy,search-icon-legacy,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/button,BUTTON,Suchen,5,65,801,12
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a,A,,6,40,910,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button,BUTTON,,7,24,918,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a,A,,8,40,958,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a/yt-icon-button/button,BUTTON,,9,24,966,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a,A,,10,40,1006,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a/yt-icon-button/button,BUTTON,,11,24,1014,16
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#buttons > ytd-button-renderer > a,0,Anmelden,0,Anmelden,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a,A,Anmelden,12,130,1054,8
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Start
+      
+
+    
+      
+        Start",0,"Start
+    ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer/a,A,"Start
+      
+
+    
+      
+        Start",13,72,0,60
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Trends
+      
+
+    
+      
+        Trends",0,"Trends
+   ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]/a,A,"Trends
+      
+
+    
+      
+        Trends",14,72,0,134
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Abos
+      
+
+    
+      
+        Abos",0,"Abos
+     ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]/a,A,"Abos
+      
+
+    
+      
+        Abos",15,72,0,208
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Mediathek
+      
+
+    
+      
+        Mediathek",0,"Mediathek
+",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]/a,A,"Mediathek
+      
+
+    
+      
+        Mediathek",16,72,0,282
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Verlauf
+      
+
+    
+      
+        Verlauf",0,"Verlauf
+  ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a,A,"Verlauf
+      
+
+    
+      
+        Verlauf",17,72,0,356
+40,yt-simple-endpoint style-scope ytd-toggle-button-renderer,div#mute-button > ytd-toggle-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a,A,,18,40,96,271
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a/yt-icon-button/button,BUTTON,,19,24,104,279
+239,yt-simple-endpoint style-scope ytd-video-masthead-ad-primary-video-renderer,a#click-target,click-target,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div[2]/a,A,,20,424,96,72
+106,yt-simple-endpoint style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#banner,banner,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/a,A,,21,640,536,72
+80,yt-simple-endpoint inline-block style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#thumbnail-endpoint,thumbnail-endpoint,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div/a,A,,22,80,556,205
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div/div/ytd-menu-renderer/yt-icon-button/button,BUTTON,,23,24,1152,199
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#byline > a,0,Apple TV,0,Apple TV,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[2]/yt-formatted-string/a,A,Apple TV,24,54,711,225
+37,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#cta-button > a,0,Watch Now,0,Watch Now,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[3]/ytd-button-renderer/a,A,Watch Now,25,115,656,249
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"9:53
+    
+    
+    Läuft gerade",0,"9:53
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"9:53
+    
+    
+    Läuft gerade",26,258,96,387
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,27,36,96,547
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Woah! Simon Cowell Has Ashley Marina Sing 3 Times! She Stuns The Judges - America's Got Talent 2020,0,Woah! Simo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Woah! Simon Cowell Has Ashley Marina Sing 3 Times! She Stuns The Judges - America's Got Talent 2020,28,186,144,547
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,America's Got Talent,0,America's ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,America's Got Talent,29,129,144,593
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,30,24,330,547
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:57
+    
+    
+    Läuft gerade",0,"8:57
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"8:57
+    
+    
+    Läuft gerade",31,258,370,387
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,32,36,370,547
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"Filme, die ich komisch fand",0,"Filme, die",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"Filme, die ich komisch fand",33,186,418,547
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,TheOdd1sOut,0,TheOdd1sOu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,TheOdd1sOut,34,87,418,573
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,35,24,604,547
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"19:00
+    
+    
+    Läuft gerade",0,"19:00
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"19:00
+    
+    
+    Läuft gerade",36,258,644,387
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,37,36,644,547
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Vietnam $100 Street Food Challenge!! Best Street Food in Saigon!!!,0,Vietnam $1,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Vietnam $100 Street Food Challenge!! Best Street Food in Saigon!!!,38,186,692,547
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Best Ever Food Review Show,0,Best Ever ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Best Ever Food Review Show,39,162,692,593
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,40,24,878,547
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"27:45
+    
+    
+    Läuft gerade",0,"27:45
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"27:45
+    
+    
+    Läuft gerade",41,258,918,387
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,42,36,918,547
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,阿源父親離奇身亡 | Charles 感性告白 | Cedric每日零用錢RM200【小談#19】【下】父親 Father Ft. 山源 呂銳 洁琪 碰弟 捷忆 秋宝 杨芮 虹玲 晨祐,0,阿源父親離奇身亡 |,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,阿源父親離奇身亡 | Charles 感性告白 | Cedric每日零用錢RM200【小談#19】【下】父親 Father Ft. 山源 呂銳 洁琪 碰弟 捷忆 秋宝 杨芮 虹玲 晨祐,43,186,966,547
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Lim Shang Jin,0,Lim Shang ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Lim Shang Jin,44,90,966,593
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,45,24,1152,547
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"7:51
+    
+    
+    Läuft gerade",0,"7:51
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"7:51
+    
+    
+    Läuft gerade",46,258,96,687
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/a,A,,47,36,96,846
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,New Horizons Found Something Strange on Pluto,0,New Horizo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,New Horizons Found Something Strange on Pluto,48,186,144,846
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,ElderFox Documentaries,0,ElderFox D,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,ElderFox Documentaries,49,153,144,892
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,50,24,330,846
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:22
+    
+    
+    Läuft gerade",0,"3:22
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"3:22
+    
+    
+    Läuft gerade",51,258,370,687
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/a,A,,52,36,370,846
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Cat Gently Pets A Bird,0,Cat Gently,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Cat Gently Pets A Bird,53,186,418,846
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Daily Dose Of Internet,0,Daily Dose,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Daily Dose Of Internet,54,136,418,872
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,55,24,604,846
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"12:37
+    
+    
+    Läuft gerade",0,"12:37
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"12:37
+    
+    
+    Läuft gerade",56,258,644,687
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/a,A,,57,36,644,846
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Deutschland 7-1 Brasilien 2014 Classic Match Alle Tore & Highlights FHD / 1080P,0,Deutschlan,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Deutschland 7-1 Brasilien 2014 Classic Match Alle Tore & Highlights FHD / 1080P,58,186,692,846
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,NIXBLACK,0,NIXBLACK,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,NIXBLACK,59,67,692,892
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,60,24,878,846
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"48:30
+    
+    
+    Läuft gerade",0,"48:30
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"48:30
+    
+    
+    Läuft gerade",61,258,918,687
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/a,A,,62,36,918,846
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,SIDEMEN TINDER IN REAL LIFE (YOUTUBE EDITION),0,SIDEMEN TI,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,SIDEMEN TINDER IN REAL LIFE (YOUTUBE EDITION),63,186,966,846
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Sidemen,0,Sidemen,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Sidemen,64,56,966,892
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,65,24,1152,846
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:46
+    
+    
+    Läuft gerade",0,"1:46
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:46
+    
+    
+    Läuft gerade",66,258,96,1062
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,67,36,96,1222
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Singapore reports 142 new COVID-19 cases,0,Singapore ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Singapore reports 142 new COVID-19 cases,68,186,144,1222
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,CNA,0,CNA,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,CNA,69,30,144,1268
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,70,24,330,1222
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"2:34
+    
+    
+    Läuft gerade",0,"2:34
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"2:34
+    
+    
+    Läuft gerade",71,258,370,1062
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,72,36,370,1222
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"Covid-19: Retail outlets, gyms ready for phase 2 of Singapore's reopening | The Straits Times",0,Covid-19: ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"Covid-19: Retail outlets, gyms ready for phase 2 of Singapore's reopening | The Straits Times",73,186,418,1222
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,The Straits Times,0,The Strait,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,The Straits Times,74,110,418,1268
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,75,24,604,1222
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"0:24
+    
+    
+    Läuft gerade",0,"0:24
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"0:24
+    
+    
+    Läuft gerade",76,258,644,1062
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,77,36,644,1222
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Singapore reports 257 new COVID-19 cases,0,Singapore ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Singapore reports 257 new COVID-19 cases,78,186,692,1222
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,CNA,0,CNA,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,CNA,79,30,692,1268
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,80,24,878,1222
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:08
+    
+    
+    Läuft gerade",0,"3:08
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"3:08
+    
+    
+    Läuft gerade",81,258,918,1062
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,82,36,918,1222
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Covid-19: Restaurants prepare for phase 2 of Singapore's reopening | The Straits Times,0,Covid-19: ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Covid-19: Restaurants prepare for phase 2 of Singapore's reopening | The Straits Times,83,186,966,1222
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,The Straits Times,0,The Strait,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,The Straits Times,84,110,966,1268
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,85,24,1152,1222
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:43
+    
+    
+    Läuft gerade",0,"1:43
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:43
+    
+    
+    Läuft gerade",86,258,96,1368
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/a,A,,87,36,96,1527
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Worst baton pass ever? China's catastrophic 4x100 relay handoff | NBC Sports,0,Worst bato,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Worst baton pass ever? China's catastrophic 4x100 relay handoff | NBC Sports,88,186,144,1527
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,NBC Sports,0,NBC Sports,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,NBC Sports,89,74,144,1573
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,90,24,330,1527
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"7:07
+    
+    
+    Läuft gerade",0,"7:07
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"7:07
+    
+    
+    Läuft gerade",91,258,370,1368
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/a,A,,92,36,370,1527
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,How to Make Fatbike,0,How to Mak,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,How to Make Fatbike,93,186,418,1527
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,The Q,0,The Q,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,The Q,94,38,418,1553
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,95,24,604,1527
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"46:43
+    
+    
+    Läuft gerade",0,"46:43
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"46:43
+    
+    
+    Läuft gerade",96,258,644,1368
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/a,A,,97,36,644,1527
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Gordon Ramsay Immediately Spits Out Vegetarian Dish | Kitchen Nightmares FULL EPISODE,0,Gordon Ram,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Gordon Ramsay Immediately Spits Out Vegetarian Dish | Kitchen Nightmares FULL EPISODE,98,186,692,1527
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Kitchen Nightmares,0,Kitchen Ni,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Kitchen Nightmares,99,124,692,1573
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,100,24,878,1527
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:28
+    
+    
+    Läuft gerade",0,"11:28
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:28
+    
+    
+    Läuft gerade",101,258,918,1368
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/a,A,,102,36,918,1527
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,30 Stephen Curry Shots That Absolutely Defy Logic!,0,30 Stephen,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,30 Stephen Curry Shots That Absolutely Defy Logic!,103,186,966,1527
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,House of Highlights,0,House of H,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,House of Highlights,104,125,966,1573
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,105,24,1152,1527
+24,yt-simple-endpoint style-scope ytd-rich-shelf-renderer,div#title-text > a,0,Trends,0,Trends,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div/h2/div/div/div/a,A,Trends,106,62,104,1695
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"21:59
+    
+    
+    Läuft gerade",0,"21:59
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"21:59
+    
+    
+    Läuft gerade",107,258,96,1743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,108,36,96,1903
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"“The life of rapeseed oil”《菜籽油的一生》之*钵钵鸡,蛋黄酥,油焖笋,咸蛋黄小龙虾)哈！哈！",0,“The life ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"“The life of rapeseed oil”《菜籽油的一生》之*钵钵鸡,蛋黄酥,油焖笋,咸蛋黄小龙虾)哈！哈！",109,186,144,1903
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,李子柒 Liziqi,0,李子柒 Liziqi,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,李子柒 Liziqi,110,79,144,1949
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,111,24,330,1903
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:12
+    
+    
+    Läuft gerade",0,"10:12
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:12
+    
+    
+    Läuft gerade",112,258,370,1743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,113,36,370,1903
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,The Muscle Crew taking body profile pictures! [Boss in the Mirror/ENG/2020.06.18],0,The Muscle,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,The Muscle Crew taking body profile pictures! [Boss in the Mirror/ENG/2020.06.18],114,186,418,1903
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,KBS World,0,KBS World,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,KBS World,115,67,418,1949
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,116,24,604,1903
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:57
+    
+    
+    Läuft gerade",0,"10:57
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:57
+    
+    
+    Läuft gerade",117,258,644,1743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,118,36,644,1903
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,EXTENDED HIGHLIGHTS | TOTTENHAM HOTSPUR 1-1 MANCHESTER UNITED,0,EXTENDED H,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,EXTENDED HIGHLIGHTS | TOTTENHAM HOTSPUR 1-1 MANCHESTER UNITED,119,186,692,1903
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Tottenham Hotspur,0,Tottenham ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Tottenham Hotspur,120,122,692,1949
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,121,24,878,1903
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:42:01
+    
+    
+    Läuft gerade",0,"1:42:01
+  ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:42:01
+    
+    
+    Läuft gerade",122,258,918,1743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,123,36,918,1903
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,【FULL】周深掀起暴力高音 郎朗花式cosplay华晨宇弹钢琴！范丞丞贾玲共跳张国荣金曲太吸睛《青春环游记2》Youth Periplous S2 EP3 20200620[浙江卫视官方HD],0,【FULL】周深掀起,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,【FULL】周深掀起暴力高音 郎朗花式cosplay华晨宇弹钢琴！范丞丞贾玲共跳张国荣金曲太吸睛《青春环游记2》Youth Periplous S2 EP3 20200620[浙江卫视官方HD],124,186,966,1903
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,中国浙江卫视官方频道 Zhejiang STV Official Channel - 欢迎订阅 -,0,中国浙江卫视官方频道,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,中国浙江卫视官方频道 Zhejiang STV Official Channel - 欢迎订阅 -,125,187,966,1949
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,126,24,1152,1903
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#show-more-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a,A,,127,40,616,2007
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,128,24,624,2015
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"6:55
+    
+    
+    Läuft gerade",0,"6:55
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"6:55
+    
+    
+    Läuft gerade",129,258,96,2093
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/a,A,,130,36,96,2253
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,FULL FILM: McLaren Speedtail vs F35 Fighter Jet | Top Gear,0,FULL FILM:,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,FULL FILM: McLaren Speedtail vs F35 Fighter Jet | Top Gear,131,186,144,2253
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Top Gear,0,Top Gear,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Top Gear,132,58,144,2299
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,133,24,330,2253
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"13:32
+    
+    
+    Läuft gerade",0,"13:32
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"13:32
+    
+    
+    Läuft gerade",134,258,370,2093
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/a,A,,135,36,370,2253
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,英國人才懂的英文!!你又認識多少??(女生篇) | English that only the British would know !!,0,英國人才懂的英文!!,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,英國人才懂的英文!!你又認識多少??(女生篇) | English that only the British would know !!,136,186,418,2253
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Torres Pit托哥,0,Torres Pit,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Torres Pit托哥,137,89,418,2299
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,138,24,604,2253
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"15:25
+    
+    
+    Läuft gerade",0,"15:25
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"15:25
+    
+    
+    Läuft gerade",139,258,644,2093
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/a,A,,140,36,644,2253
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,平壤著名酒店禁止入內的神秘區域 美國小伙去朝鮮旅遊 為何歸來時卻成了植物人？[腦洞烏托邦 | 小烏 | Mystery Stories TV],0,平壤著名酒店禁止入內,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,平壤著名酒店禁止入內的神秘區域 美國小伙去朝鮮旅遊 為何歸來時卻成了植物人？[腦洞烏托邦 | 小烏 | Mystery Stories TV],141,186,692,2253
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,脑洞乌托邦,0,脑洞乌托邦,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,脑洞乌托邦,142,71,692,2299
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,143,24,878,2253
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:18
+    
+    
+    Läuft gerade",0,"11:18
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:18
+    
+    
+    Läuft gerade",144,258,918,2093
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/a,A,,145,36,918,2253
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Why Dubai's Man-Made Islands Are Still Empty,0,Why Dubai',A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Why Dubai's Man-Made Islands Are Still Empty,146,186,966,2253
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,neo,0,neo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,neo,147,25,966,2299
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,148,24,1152,2253
+100,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/ytd-thumbnail/a,A,,149,100,96,2421
+36,yt-simple-endpoint style-scope ytd-button-renderer,div#button > ytd-button-renderer > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div/div[2]/ytd-button-renderer/a,A,Mehr erfahren,150,175,212,2486
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#dismiss-button > ytd-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a,A,,151,40,1136,2413
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,152,24,1144,2421
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"29:36
+    
+    
+    Läuft gerade",0,"29:36
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"29:36
+    
+    
+    Läuft gerade",153,258,96,2590
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/a,A,,154,36,96,2749
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,GTA 5 Roleplay - DOJ 396 - Fastest Speeding Ticket,0,GTA 5 Role,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,GTA 5 Roleplay - DOJ 396 - Fastest Speeding Ticket,155,186,144,2749
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Bay Area Buggs,0,Bay Area B,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Bay Area Buggs,156,99,144,2795
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,157,24,330,2749
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:35
+    
+    
+    Läuft gerade",0,"14:35
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"14:35
+    
+    
+    Läuft gerade",158,258,370,2590
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/a,A,,159,36,370,2749
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Friends: Chandler's Most Sarcastic Moments (Mashup) | TBS,0,Friends: C,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Friends: Chandler's Most Sarcastic Moments (Mashup) | TBS,160,186,418,2749
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,TBS,0,TBS,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,TBS,161,27,418,2795
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,162,24,604,2749
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:11
+    
+    
+    Läuft gerade",0,"10:11
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:11
+    
+    
+    Läuft gerade",163,258,644,2590
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/a,A,,164,36,644,2749
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Playing Guitar on Omegle but I pretend I'm a beginner 2,0,Playing Gu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Playing Guitar on Omegle but I pretend I'm a beginner 2,165,186,692,2749
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,TheDooo,0,TheDooo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,TheDooo,166,58,692,2795
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,167,24,878,2749
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"42:18
+    
+    
+    Läuft gerade",0,"42:18
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"42:18
+    
+    
+    Läuft gerade",168,258,918,2590
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/a,A,,169,36,918,2749
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,TOP 10 BEST Dance Groups Around The World 2019 | Got Talent Global,0,TOP 10 BES,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,TOP 10 BEST Dance Groups Around The World 2019 | Got Talent Global,170,186,966,2749
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Got Talent Global,0,Got Talent,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Got Talent Global,171,108,966,2795
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,172,24,1152,2749
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:24
+    
+    
+    Läuft gerade",0,"14:24
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"14:24
+    
+    
+    Läuft gerade",173,258,96,2889
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/a,A,,174,36,96,3049
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,【懷舊】白糖糕 | ＄10可以做6件？[Eng Sub],0,【懷舊】白糖糕 | ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,【懷舊】白糖糕 | ＄10可以做6件？[Eng Sub],175,186,144,3049
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,點 Cook Guide,0,點 Cook Gui,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,點 Cook Guide,176,90,144,3095
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,177,24,330,3049
+44,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/ytd-miniplayer/div[2]/div/ytd-miniplayer-toast/ytd-thumbnail/a,A,,178,78,788,622

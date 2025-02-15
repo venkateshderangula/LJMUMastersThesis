@@ -1,0 +1,223 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+32,0,a#header_logo,header_logo,,0,,A,/html/body/div[5]/div[2]/div/div/a,A,,1,94,130,5
+30,button button--text,a#header_login,header_login,Log In,0,Log In,A,/html/body/div[5]/div[2]/div/div/div/div/a,A,Log In,2,54,943,15
+30,button button--text last,a#header_signup,header_signup,Sign Up,0,Sign Up,A,/html/body/div[5]/div[2]/div/div/div/div/a[2],A,Sign Up,3,63,1007,15
+30,button button--text,div#ember746 > a,0,Try Twitch Prime,0,Try Twitch,A,/html/body/div[5]/div[2]/div/div/div/div[3]/div/a,A,Try Twitch Prime,4,108,815,15
+30,button button--text ember-view,a#header_browse,header_browse,Browse,0,Browse,A,/html/body/div[5]/div[2]/div/div/div/a,A,Browse,5,60,754,15
+30,newSearch__input form__input focused,div#ember808 > form > div > input,0,,0,,INPUT,/html/body/div[5]/div[2]/div/div/div/div[4]/div/form/div/input,INPUT,,6,200,544,15
+20,header-announcement__link pd-l-1 pd-r-1,div#ember877 > div > div > div > div > div > a,0,Twitch Prime,0,Twitch Pri,A,/html/body/div[5]/div[2]/div[2]/div/div/div/div/div/div/a,A,Twitch Prime,7,98,160,73
+15,header-announcement__link,div#ember877 > div > div > div > div:nth-of-type(2) > a,0,Start 30-day Free Trial,0,Start 30-d,A,/html/body/div[5]/div[2]/div[2]/div/div/div/div/div[2]/a,A,Start 30-day Free Trial,8,132,938,75
+40,pic js-channel_discovery_link ember-view,a#ember1414,ember1414,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div/div/div/ul/li/div/div/div/a,A,,9,40,770,140
+14,js-channel_discovery_link,div#ember1413 > div > p > a,0,Magic: The Gathering,0,Magic: The,A,/html/body/div[5]/div[3]/div[3]/div/div/div/div/ul/li/div/div/div/p/a,A,Magic: The Gathering,10,116,876,164
+28,js-channel_discovery_link ember-view,a#ember1478,ember1478,Magic Grand Prix Kyoto,0,Magic Gran,A,/html/body/div[5]/div[3]/div[3]/div/div/div/div/ul/li/div/div/h2/a,A,Magic Grand Prix Kyoto,11,234,770,202
+14,0,div#ember1413 > div:nth-of-type(2) > p > p:nth-of-type(2) > a,0,Click here,0,Click here,A,/html/body/div[5]/div[3]/div[3]/div/div/div/div/ul/li/div/div/div[2]/p/p[2]/a,A,Click here,12,53,770,360
+78,image,div#ember935 > ul > li > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li/a,A,,13,140,130,514
+78,image,div#ember935 > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li[2]/a,A,,14,140,290,514
+78,image,div#ember935 > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li[3]/a,A,,15,140,450,514
+78,image,div#ember935 > ul > li:nth-of-type(4) > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li[4]/a,A,,16,140,610,514
+78,image,div#ember935 > ul > li:nth-of-type(5) > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li[5]/a,A,,17,140,770,514
+78,image,div#ember935 > ul > li:nth-of-type(6) > a,0,,0,,A,/html/body/div[5]/div[3]/div[3]/div/div[2]/ul/li[6]/a,A,,18,140,930,514
+242,game-item clearfix,div#ember1376 > div > a,0,"PLAYERUNKNOWN'S BATTLEGROUNDS
+      
+      
+        82,433
+        viewers",0,PLAYERUNKN,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[2]/div/a,A,"PLAYERUNKNOWN'S BATTLEGROUNDS
+      
+      
+        82,433
+        viewers",19,140,130,737
+242,game-item clearfix,div#ember1379 > div > a,0,"League of Legends
+      
+      
+        65,401
+        viewers",0,League of ,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[3]/div/a,A,"League of Legends
+      
+      
+        65,401
+        viewers",20,140,290,737
+242,game-item clearfix,div#ember1382 > div > a,0,"Overwatch
+      
+      
+        64,847
+        viewers",0,"Overwatch
+",A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[4]/div/a,A,"Overwatch
+      
+      
+        64,847
+        viewers",21,140,450,737
+242,game-item clearfix,div#ember1385 > div > a,0,"Hearthstone
+      
+      
+        31,822
+        viewers",0,Hearthston,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[5]/div/a,A,"Hearthstone
+      
+      
+        31,822
+        viewers",22,140,610,737
+242,game-item clearfix,div#ember1388 > div > a,0,"Dota 2
+      
+      
+        20,703
+        viewers",0,"Dota 2
+   ",A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[6]/div/a,A,"Dota 2
+      
+      
+        20,703
+        viewers",23,140,770,737
+242,game-item clearfix,div#ember1391 > div > a,0,"IRL
+      
+      
+        18,125
+        viewers",0,"IRL
+      ",A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[7]/div/a,A,"IRL
+      
+      
+        18,125
+        viewers",24,140,930,737
+242,game-item clearfix,div#ember1394 > div > a,0,"Fortnite
+      
+      
+        10,889
+        viewers",0,"Fortnite
+ ",A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[8]/div/a,A,"Fortnite
+      
+      
+        10,889
+        viewers",25,140,130,1027
+242,game-item clearfix,div#ember1397 > div > a,0,"Grand Theft Auto V
+      
+      
+        9,948
+        viewers",0,Grand Thef,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[9]/div/a,A,"Grand Theft Auto V
+      
+      
+        9,948
+        viewers",26,140,290,1027
+242,game-item clearfix,div#ember1400 > div > a,0,"Counter-Strike: Global Offensive
+      
+      
+        8,943
+        viewers",0,Counter-St,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[10]/div/a,A,"Counter-Strike: Global Offensive
+      
+      
+        8,943
+        viewers",27,140,450,1027
+242,game-item clearfix,div#ember1403 > div > a,0,"World of Warcraft
+      
+      
+        8,424
+        viewers",0,World of W,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[11]/div/a,A,"World of Warcraft
+      
+      
+        8,424
+        viewers",28,140,610,1027
+242,game-item clearfix,div#ember1406 > div > a,0,"Marvel vs. Capcom Infinite
+      
+      
+        7,824
+        viewers",0,Marvel vs.,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[12]/div/a,A,"Marvel vs. Capcom Infinite
+      
+      
+        7,824
+        viewers",29,140,770,1027
+242,game-item clearfix,div#ember1409 > div > a,0,"Diablo III: Reaper of Souls
+      
+      
+        6,570
+        viewers",0,Diablo III,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div/div[13]/div/a,A,"Diablo III: Reaper of Souls
+      
+      
+        6,570
+        viewers",30,140,930,1027
+19,ember-view,a#ember988,ember988,See all live Games,0,See all li,A,/html/body/div[5]/div[3]/div[4]/div[2]/div/div[2]/h4/a,A,See all live Games,31,131,920,1304
+14,0,div#ember1006 > div > div > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[3]/div/div/div/div/div/div/a,A,,32,235,150,1528
+15,front-page-announcement__link,div#ember1006 > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,Start 30-day Free Trial,0,Start 30-d,A,/html/body/div[5]/div[3]/div[4]/div[3]/div/div/div/div/div[2]/div/div[2]/a,A,Start 30-day Free Trial,33,132,424,1523
+169,cap aspect,div#ember1236 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div/div/div/div/a,A,,34,300,140,1680
+57,boxart,div#ember1236 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div/div/div/div/a[2],A,,35,42,398,1792
+17,0,div#ember1236 > div > div > div:nth-of-type(2) > p > a,0,2017 Overwatch World Cup | Sydney Group Stage | Finland vs Japan,0,2017 Overw,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div/div/div/div[2]/p/a,A,2017 Overwatch World Cup | Sydney Group Stage | Finland vs Japan,36,431,140,1857
+14,js-profile-link,div#ember1236 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,PlayOverwatch,0,PlayOverwa,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div/div/div/div[2]/p[2]/a,A,PlayOverwatch,37,81,241,1878
+169,cap aspect,div#ember1242 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[2]/div/div/div/a,A,,38,300,460,1680
+57,boxart,div#ember1242 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[2]/div/div/div/a[2],A,,39,42,718,1792
+17,0,div#ember1242 > div > div > div:nth-of-type(2) > p > a,0,TSM Kripp ARENA & Stuffs !twitchprime (✿☯‿☯✿)(✿☯‿☯✿),0,TSM Kripp ,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[2]/div/div/div[2]/p/a,A,TSM Kripp ARENA & Stuffs !twitchprime (✿☯‿☯✿)(✿☯‿☯✿),40,391,460,1857
+14,js-profile-link,div#ember1242 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,nl_Kripp,0,nl_Kripp,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[2]/div/div/div[2]/p[2]/a,A,nl_Kripp,41,44,561,1878
+169,cap aspect,div#ember1248 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[3]/div/div/div/a,A,,42,300,780,1680
+57,boxart,div#ember1248 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[3]/div/div/div/a[2],A,,43,42,1038,1792
+17,0,div#ember1248 > div > div > div:nth-of-type(2) > p > a,0,(!topic !prime) Grand Master Meta Breaking Grimmmz Wins:1 / The SOLO / DUO STALK Grind / BATTLEGROUNDS,0,(!topic !p,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[3]/div/div/div[2]/p/a,A,(!topic !prime) Grand Master Meta Breaking Grimmmz Wins:1 / The SOLO / DUO STALK Grind / BATTLEGROUNDS,44,719,780,1857
+14,js-profile-link,div#ember1248 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Grimmmz,0,Grimmmz,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[3]/div/div/div[2]/p[2]/a,A,Grimmmz,45,52,881,1878
+169,cap aspect,div#ember1254 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[4]/div/div/div/a,A,,46,300,140,1915
+57,boxart,div#ember1254 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[4]/div/div/div/a[2],A,,47,42,398,2027
+17,0,div#ember1254 > div > div > div:nth-of-type(2) > p > a,0,who that boy,0,who that b,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[4]/div/div/div[2]/p/a,A,who that boy,48,82,140,2092
+14,js-profile-link,div#ember1254 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,C9Sneaky,0,C9Sneaky,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[4]/div/div/div[2]/p[2]/a,A,C9Sneaky,49,55,241,2113
+169,cap aspect,div#ember1260 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[5]/div/div/div/a,A,,50,300,460,1915
+57,boxart,div#ember1260 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[5]/div/div/div/a[2],A,,51,42,718,2027
+17,0,div#ember1260 > div > div > div:nth-of-type(2) > p > a,0,2 wins in a row RIGHT NOW!! ~~ FREE cookies w/ chicken dinners today ~~ NEW PC Giveaway: bit.ly/JulyPC-OG,0,2 wins in ,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[5]/div/div/div[2]/p/a,A,2 wins in a row RIGHT NOW!! ~~ FREE cookies w/ chicken dinners today ~~ NEW PC Giveaway: bit.ly/JulyPC-OG,52,714,460,2092
+14,js-profile-link,div#ember1260 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,JoshOG,0,JoshOG,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[5]/div/div/div[2]/p[2]/a,A,JoshOG,53,44,561,2113
+169,cap aspect,div#ember1266 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[6]/div/div/div/a,A,,54,300,780,1915
+57,boxart,div#ember1266 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[6]/div/div/div/a[2],A,,55,42,1038,2027
+17,0,div#ember1266 > div > div > div:nth-of-type(2) > p > a,0,POST SDCC! New MAHVEL Footage & Mario Party 8!,0,POST SDCC!,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[6]/div/div/div[2]/p/a,A,POST SDCC! New MAHVEL Footage & Mario Party 8!,56,335,780,2092
+14,js-profile-link,div#ember1266 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Maximilian_DOOD,0,Maximilian,A,/html/body/div[5]/div[3]/div[4]/div[4]/div/div[6]/div/div/div[2]/p[2]/a,A,Maximilian_DOOD,57,98,874,2113
+19,ember-view,a#ember1025,ember1025,See all live Channels,0,See all li,A,/html/body/div[5]/div[3]/div[4]/div[4]/div[2]/h4/a,A,See all live Channels,58,147,904,2157
+169,cap aspect,div#ember1199 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div/div/div/div/a,A,,59,300,140,2294
+57,boxart,div#ember1199 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div/div/div/div/a[2],A,,60,42,398,2405
+17,0,div#ember1199 > div > div > div:nth-of-type(2) > p > a,0,{PSN} HUGE Giveaway at 150 Followers,0,{PSN} HUGE,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div/div/div/div[2]/p/a,A,{PSN} HUGE Giveaway at 150 Followers,61,253,140,2470
+14,js-profile-link,div#ember1199 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Spxxcely,0,Spxxcely,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div/div/div/div[2]/p[2]/a,A,Spxxcely,62,49,224,2491
+169,cap aspect,div#ember1205 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[2]/div/div/div/a,A,,63,300,460,2294
+57,boxart,div#ember1205 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[2]/div/div/div/a[2],A,,64,42,718,2405
+17,0,div#ember1205 > div > div > div:nth-of-type(2) > p > a,0,"BR 0-0 3-win Mike Trout??? (Not Clickbait, Gone Violent)",0,BR 0-0 3-w,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[2]/div/div/div[2]/p/a,A,"BR 0-0 3-win Mike Trout??? (Not Clickbait, Gone Violent)",65,355,460,2470
+14,js-profile-link,div#ember1205 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,pSporer24,0,pSporer24,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[2]/div/div/div[2]/p[2]/a,A,pSporer24,66,56,544,2491
+169,cap aspect,div#ember1211 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[3]/div/div/div/a,A,,67,300,780,2294
+57,boxart,div#ember1211 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[3]/div/div/div/a[2],A,,68,42,1038,2405
+17,0,div#ember1211 > div > div > div:nth-of-type(2) > p > a,0,Top 500? | Giveaway at 100 Followers,0,Top 500? |,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[3]/div/div/div[2]/p/a,A,Top 500? | Giveaway at 100 Followers,69,237,780,2470
+14,js-profile-link,div#ember1211 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,ElementsJT,0,ElementsJT,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[3]/div/div/div[2]/p[2]/a,A,ElementsJT,70,63,864,2491
+169,cap aspect,div#ember1217 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[4]/div/div/div/a,A,,71,300,140,2528
+57,boxart,div#ember1217 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[4]/div/div/div/a[2],A,,72,42,398,2640
+17,0,div#ember1217 > div > div > div:nth-of-type(2) > p > a,0,Injustice 2 (Weekends Are For Subs)  !Sub,0,Injustice ,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[4]/div/div/div[2]/p/a,A,Injustice 2 (Weekends Are For Subs)  !Sub,73,258,140,2705
+14,js-profile-link,div#ember1217 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Mufasa_Rawrz,0,Mufasa_Raw,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[4]/div/div/div[2]/p[2]/a,A,Mufasa_Rawrz,74,79,224,2726
+169,cap aspect,div#ember1223 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[5]/div/div/div/a,A,,75,300,460,2528
+57,boxart,div#ember1223 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[5]/div/div/div/a[2],A,,76,42,718,2640
+17,0,div#ember1223 > div > div > div:nth-of-type(2) > p > a,0,(PS4)100%Survival.(Vanilla!!) #BSo7,0,(PS4)100%S,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[5]/div/div/div[2]/p/a,A,(PS4)100%Survival.(Vanilla!!) #BSo7,77,224,460,2705
+14,js-profile-link,div#ember1223 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Dj_Mayne,0,Dj_Mayne,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[5]/div/div/div[2]/p[2]/a,A,Dj_Mayne,78,53,538,2726
+169,cap aspect,div#ember1229 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[6]/div/div/div/a,A,,79,300,780,2528
+57,boxart,div#ember1229 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[6]/div/div/div/a[2],A,,80,42,1038,2640
+17,0,div#ember1229 > div > div > div:nth-of-type(2) > p > a,0,[PS4] Play FRIDAY THE 13TH with The Crew! | !Discord Join the Community!,0,[PS4] Play,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[6]/div/div/div[2]/p/a,A,[PS4] Play FRIDAY THE 13TH with The Crew! | !Discord Join the Community!,81,477,780,2705
+14,js-profile-link,div#ember1229 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Hier0glyphic,0,Hier0glyph,A,/html/body/div[5]/div[3]/div[4]/div[5]/div/div[6]/div/div/div[2]/p[2]/a,A,Hier0glyphic,82,67,858,2726
+19,ember-view,a#ember1063,ember1063,See all PS4 Channels,0,See all PS,A,/html/body/div[5]/div[3]/div[4]/div[5]/div[2]/h4/a,A,See all PS4 Channels,83,153,898,2770
+169,cap aspect,div#ember1273 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div/div/div/div/a,A,,84,300,140,2907
+57,boxart,div#ember1273 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div/div/div/div/a[2],A,,85,42,398,3018
+17,0,div#ember1273 > div > div > div:nth-of-type(2) > p > a,0,🔥Team Rocket🔥,0,🔥Team Roc,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div/div/div/div[2]/p/a,A,🔥Team Rocket🔥,86,110,140,3083
+14,js-profile-link,div#ember1273 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,snupeslays,0,snupeslays,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div/div/div/div[2]/p[2]/a,A,snupeslays,87,60,224,3104
+169,cap aspect,div#ember1279 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[2]/div/div/div/a,A,,88,300,460,2907
+57,boxart,div#ember1279 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[2]/div/div/div/a[2],A,,89,42,718,3018
+17,0,div#ember1279 > div > div > div:nth-of-type(2) > p > a,0,me vs the world,0,me vs the ,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[2]/div/div/div[2]/p/a,A,me vs the world,90,100,460,3083
+14,js-profile-link,div#ember1279 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Elentori,0,Elentori,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[2]/div/div/div[2]/p[2]/a,A,Elentori,91,40,544,3104
+169,cap aspect,div#ember1285 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[3]/div/div/div/a,A,,92,300,780,2907
+17,0,div#ember1285 > div > div > div:nth-of-type(2) > p > a,0,37K on Xbox,0,37K on Xbo,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[3]/div/div/div[2]/p/a,A,37K on Xbox,93,81,780,3083
+14,js-profile-link,div#ember1285 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,killerxAnth0s,0,killerxAnt,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[3]/div/div/div[2]/p[2]/a,A,killerxAnth0s,94,68,858,3104
+169,cap aspect,div#ember1290 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[4]/div/div/div/a,A,,95,300,140,3141
+57,boxart,div#ember1290 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[4]/div/div/div/a[2],A,,96,42,398,3253
+17,0,div#ember1290 > div > div > div:nth-of-type(2) > p > a,0,Arcade!!,0,Arcade!!,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[4]/div/div/div[2]/p/a,A,Arcade!!,97,52,140,3318
+14,js-profile-link,div#ember1290 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,jerrryx,0,jerrryx,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[4]/div/div/div[2]/p[2]/a,A,jerrryx,98,33,218,3339
+169,cap aspect,div#ember1296 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[5]/div/div/div/a,A,,99,300,460,3141
+57,boxart,div#ember1296 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[5]/div/div/div/a[2],A,,100,42,718,3253
+17,0,div#ember1296 > div > div > div:nth-of-type(2) > p > a,0,(XB1) 4700+ Support/Flex,0,(XB1) 4700,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[5]/div/div/div[2]/p/a,A,(XB1) 4700+ Support/Flex,101,162,460,3318
+14,js-profile-link,div#ember1296 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Tensa_The_Sage,0,Tensa_The_,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[5]/div/div/div[2]/p[2]/a,A,Tensa_The_Sage,102,91,538,3339
+169,cap aspect,div#ember1302 > div > div > div > a,0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[6]/div/div/div/a,A,,103,300,780,3141
+57,boxart,div#ember1302 > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[6]/div/div/div/a[2],A,,104,42,1038,3253
+17,0,div#ember1302 > div > div > div:nth-of-type(2) > p > a,0,My pink eye is as contagious as this stream,0,My pink ey,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[6]/div/div/div[2]/p/a,A,My pink eye is as contagious as this stream,105,272,780,3318
+14,js-profile-link,div#ember1302 > div > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,brainforc3,0,brainforc3,A,/html/body/div[5]/div[3]/div[4]/div[6]/div/div[6]/div/div/div[2]/p[2]/a,A,brainforc3,106,54,858,3339
+19,ember-view,a#ember1074,ember1074,See all Xbox One Channels,0,See all Xb,A,/html/body/div[5]/div[3]/div[4]/div[6]/div[2]/h4/a,A,See all Xbox One Channels,107,194,857,3383
+14,js-language-select,div#ember1091 > div > a,0,Language,0,Language,A,/html/body/div[5]/div[4]/p/div/div/a,A,Language,108,53,1017,3501
+14,0,div#copyright_and_footer_links > li > a,0,About,0,About,A,/html/body/div[5]/div[4]/div[2]/li/a,A,About,109,32,180,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(2) > a,0,Blog,0,Blog,A,/html/body/div[5]/div[4]/div[2]/li[2]/a,A,Blog,110,25,226,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(3) > a,0,Turbo,0,Turbo,A,/html/body/div[5]/div[4]/div[2]/li[3]/a,A,Turbo,111,30,264,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(4) > a,0,Music,0,Music,A,/html/body/div[5]/div[4]/div[2]/li[4]/a,A,Music,112,32,307,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(5) > a,0,Advertise,0,Advertise,A,/html/body/div[5]/div[4]/div[2]/li[5]/a,A,Advertise,113,50,353,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(6) > a,0,Developers,0,Developers,A,/html/body/div[5]/div[4]/div[2]/li[6]/a,A,Developers,114,60,417,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(7) > a,0,Partners,0,Partners,A,/html/body/div[5]/div[4]/div[2]/li[7]/a,A,Partners,115,45,490,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(8) > a,0,Mobile,0,Mobile,A,/html/body/div[5]/div[4]/div[2]/li[8]/a,A,Mobile,116,36,549,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(9) > a,0,Jobs,0,Jobs,A,/html/body/div[5]/div[4]/div[2]/li[9]/a,A,Jobs,117,26,598,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(10) > a,0,Help,0,Help,A,/html/body/div[5]/div[4]/div[2]/li[10]/a,A,Help,118,25,638,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(11) > a,0,Terms,0,Terms,A,/html/body/div[5]/div[4]/div[2]/li[11]/a,A,Terms,119,32,676,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(12) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div[5]/div[4]/div[2]/li[12]/a,A,Privacy Policy,120,75,722,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(13) > a,0,Ad Choices,0,Ad Choices,A,/html/body/div[5]/div[4]/div[2]/li[13]/a,A,Ad Choices,121,62,810,3501
+14,0,div#copyright_and_footer_links > li:nth-of-type(14) > a,0,Cookie Policy,0,Cookie Pol,A,/html/body/div[5]/div[4]/div[2]/li[14]/a,A,Cookie Policy,122,74,886,3501

@@ -1,0 +1,523 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+45,D(ib) Bgr(nr) logo-datauri W(190px) H(45px) Bgp($twoColLogoPos) Bgz(190px) Bgp($twoColLogoPosSM)!--sm1024 Bgz(90px)!--sm1024 ua-ie7_Bgi($logoImageIe) ua-ie7_Mstart(-185px) ua-ie8_Bgi($logoImageIe) ua-ie9_Bgi($logoImageIe),a#uh-logo,uh-logo,Yahoo,0,Yahoo,A,/html/body/div[2]/div/div/div/div/div/div/div/div/h1/a,A,Yahoo,1,190,15,22
+27,Bdrs(3px) Bds(s) Bdw(2px) D(ib) Ell Fz(13px) Fw(b) Py(2px) Px(6px) Mt(5px) Ta(c) Td(n):h Miw(66px) H(19px) Lh(19px) Bdc(#6001d2) Bgc(#fff) Bgc(#6001d2):h C(#4d00ae) C(#fff):h,a#uh-signin,uh-signin,Sign in,0,Sign in,A,/html/body/div[2]/div/div/div/div/div/div/div/div/ul/li/a,A,Sign in,2,82,921,33
+36,uh-menu-btn Pos(r) Bd(0) Px(8px) Pt(1px) Lh(1.3),li#uh-notifications > button,0,,0,,BUTTON,/html/body/div[2]/div/div/div/div/div/div/div/div/ul/li[2]/button,BUTTON,,3,39,1029,28
+39,Pos(r) D(ib) Ta(s) Td(n):h uh-menu-btn ,a#uh-mail-link,uh-mail-link,Mail,0,Mail,A,/html/body/div[2]/div/div/div/div/div/div/div/div/ul/li[3]/a,A,Mail,4,64,1088,28
+46,Pos(a) T(0) Start(0) Bd Bdc($searchBdr) Bxsh(n) Fz(18px) M(0) O(0) Px(10px) W(100%) H(inh) Z(2) Bxz(bb) Bdrs(0) Bdendw(0) ua-ie7_W(94%) ua-ie7_Bdendw(1px) Bdc($searchBdrHov):h Bxsh(n) Bgc(t) Bdrsbstart(2px)! Bdrststart(2px)! Bdc(#0f69ff):f glow_Bdc($searchBtnGlow) ua-ie7_H(42px) ua-ie7_Lh(42px) ua-ie8_Lh(42px),input#uh-search-box,uh-search-box,,p,,INPUT,/html/body/div[2]/div/div/div/div/div/div/div/div/div/form/table/tbody/tr/td/input,INPUT,,5,459,255,22
+46,rapid-noclick-resp C(#fff) Fz(16px) Px(26px) Py(0) Whs(nw) Bdw(0) Lh(1) enableHover_Bgc($searchBtnHov):h  W(80px) Bdrststart(0) Bdrsbstart(0) Bxsh(n) H(46px) Miw(90px) Bgc(#0f69ff) Bgc(#145aff):h Bgc(#145aff):f glow_Bgc($searchBtnGlow) Bdrs(2px) Bxsh(n)! ua-ie7_H(42px) ua-ie7_Lh(42px) ua-ie8_Lh(42px) ua-ie8_Miw(a),button#uh-search-button,uh-search-button,,0,,BUTTON,/html/body/div[2]/div/div/div/div/div/div/div/div/div/form/table/tbody/tr/td[2]/button,BUTTON,,6,90,714,22
+17,C(#4d00ae) Fz(14px) Fw(b) Pstart(6px) C(#4d00ae),a#mega-bottombar-mail,mega-bottombar-mail,Mail(),0,Mail(),A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li/a,A,Mail(),7,36,43,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(2) > a,0,News,0,News,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[2]/a,A,News,8,37,117,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(3) > a,0,Finance,0,Finance,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[3]/a,A,Finance,9,53,192,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(4) > a,0,Sports,0,Sports,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[4]/a,A,Sports,10,44,282,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(5) > a,0,Politics,0,Politics,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[5]/a,A,Politics,11,49,363,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(6) > a,0,Entertainment,0,Entertainm,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[6]/a,A,Entertainment,12,95,450,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(7) > a,0,Lifestyle,0,Lifestyle,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[7]/a,A,Lifestyle,13,56,583,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(8) > a,0,FeelGood,0,FeelGood,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[8]/a,A,FeelGood,14,64,676,95
+17,Fz(14px) Fw(b) C(#4d00ae),div#mega-bottombar > ul > li:nth-of-type(9) > a,0,More...,0,More...,A,/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[9]/a,A,More...,15,46,778,95
+277,Bgr(nr) W(61%)! Bgp(c) O(n):f Bgz(cv) D(b) C(#000) css-filters_C(white) Td(n) Ov(h) Op(0.9):h Op(0.9):f Ov(v):h Ov(v):f Bdrststart(2px) Bdrsbstart(2px) ntk-link js-stream-content-link js-content-title js-stream-roundup-filmstrip js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div > a,0,"Inmate whose execution had been called off found dead
+                        
+                            A twice-convicted murderer who had said he wanted to die, but whose Nevada execution was postponed twice, was found dead from an apparent hanging.
+
+                        
+                            Had tried to kill himself in recent months »",0,Inmate who,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div/a,A,"Inmate whose execution had been called off found dead
+                        
+                            A twice-convicted murderer who had said he wanted to die, but whose Nevada execution was postponed twice, was found dead from an apparent hanging.
+
+                        
+                            Had tried to kill himself in recent months »",16,476,20,163
+26,C($gray_fuji) css-filters_C(white) D(ib) Pt(6px) Pos(r) Td(n) Td(n):f O(n) O(n):f js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow ActionComments:h_C($signin_blue)! js-use-reactions-anim,ul#Stream > li > div:nth-of-type(2) > div > div > ul > li > a,0,2183people reacting,0,2183people,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div/div/ul/li/a,A,2183people reacting,17,137,530,388
+108,Pos(r) D(b) Mend(9px) C($link) C($m_blue):h C($m_blue):f O(n):f Op(0.9):h Op(0.9):f Td(n) W(a) ntk-footer-link js-stream-content-link js-stream-item-title js-content-title js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,"Man charged in death of 7-year-old girl, police say",0,Man charge,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div[2]/ul/li/a,A,"Man charged in death of 7-year-old girl, police say",18,149,20,449
+108,Pos(r) D(b) Mend(9px) C($link) C($m_blue):h C($m_blue):f O(n):f Op(0.9):h Op(0.9):f Td(n) W(a) ntk-footer-link js-stream-content-link js-stream-item-title js-content-title js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,"Cowboys' defense gets physical, stymies Seahawks",0,Cowboys' d,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div[2]/ul/li[2]/a,A,"Cowboys' defense gets physical, stymies Seahawks",19,149,178,449
+108,Pos(r) D(b) Mend(9px) C($link) C($m_blue):h C($m_blue):f O(n):f Op(0.9):h Op(0.9):f Td(n) W(a) ntk-footer-link js-stream-content-link js-stream-item-title js-content-title js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Fan to swimsuit-clad Mariah Carey: 'You look 25',0,Fan to swi,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div[2]/ul/li[3]/a,A,Fan to swimsuit-clad Mariah Carey: 'You look 25',20,149,336,449
+108,Pos(r) D(b) Mend(9px) C($link) C($m_blue):h C($m_blue):f O(n):f Op(0.9):h Op(0.9):f Td(n) W(a) ntk-footer-link js-stream-content-link js-stream-item-title js-content-title js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Receiver's injury too much for Fox to show replay,0,Receiver's,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div[2]/ul/li[4]/a,A,Receiver's injury too much for Fox to show replay,21,149,493,449
+108,Pos(r) D(b) Mend(9px) C($link) C($m_blue):h C($m_blue):f O(n):f Op(0.9):h Op(0.9):f Td(n) W(a) ntk-footer-link js-stream-content-link js-stream-item-title js-content-title js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Elizabeth Warren on Trump's insults: 'I can't stop him',0,Elizabeth ,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li/div[2]/div[2]/ul/li[5]/a,A,Elizabeth Warren on Trump's insults: 'I can't stop him',22,149,651,449
+171,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div/a,A,,23,195,20,585
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,Alexandria Ocasio-Cortez: Fox Guest Calling Me 'Little Girl' Is 'Walking Argument to Tax Misogyny',0,Alexandria,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div[2]/div/h3/a,A,Alexandria Ocasio-Cortez: Fox Guest Calling Me 'Little Girl' Is 'Walking Argument to Tax Misogyny',24,516,240,602
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Ocasio-Cortez suggests massive tax hike to fund Green New DealFox Business Videos,0,Ocasio-Cor,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div[2]/div[2]/a,A,Ocasio-Cortez suggests massive tax hike to fund Green New DealFox Business Videos,25,265,240,706
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,'What world do we live in?': Stunned producer of Ocasio-Cortez dance video reacts to attentionUSA TODAY,0,'What worl,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div[2]/div[2]/a[2],A,'What world do we live in?': Stunned producer of Ocasio-Cortez dance video reacts to attentionUSA TODAY,26,265,505,706
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div[3]/ul/li/a,A,Reactions,27,33,767,575
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[2]/div[2]/div/div[3]/ul/li[2]/a,A,,28,16,782,644
+171,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div/a,A,,29,195,20,801
+25,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,"Man purchases $3.1 million tuna, has some ... regrets",0,Man purcha,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div[2]/div/h3/a,A,"Man purchases $3.1 million tuna, has some ... regrets",30,516,240,818
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,World's Most-Prized Fish Sold for $3.1 Million in TokyoBloomberg,0,World's Mo,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div[2]/div[2]/a,A,World's Most-Prized Fish Sold for $3.1 Million in TokyoBloomberg,31,265,240,898
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,"Japanese Sushi Magnate Kicks Off 2019 by Ridiculously Overpaying for Bluefin, Regretting ItGizmodo",0,Japanese S,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div[2]/div[2]/a[2],A,"Japanese Sushi Magnate Kicks Off 2019 by Ridiculously Overpaying for Bluefin, Regretting ItGizmodo",32,265,505,898
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div[3]/ul/li/a,A,Reactions,33,33,767,791
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[3]/div[2]/div/div[3]/ul/li[2]/a,A,,34,16,782,860
+171,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div/a,A,,35,195,20,996
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,CNN Hits Back After Trump's DHS Denies TSA Workers Are Calling Out Sick Amid Shutdown,0,CNN Hits B,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div[2]/div/h3/a,A,CNN Hits Back After Trump's DHS Denies TSA Workers Are Calling Out Sick Amid Shutdown,36,516,240,1012
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Retired Commander Asking for Help for Coast Guard Families Amid Government ShutdownWXMI - Grand Rapids,0,Retired Co,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div[2]/div[2]/a,A,Retired Commander Asking for Help for Coast Guard Families Amid Government ShutdownWXMI - Grand Rapids,37,265,240,1099
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,Each side accusing other of giving no ground on shutdownAssociated Press,0,Each side ,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div[2]/div[2]/a[2],A,Each side accusing other of giving no ground on shutdownAssociated Press,38,265,505,1099
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div[3]/ul/li/a,A,Reactions,39,33,767,985
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[4]/div[2]/div/div[3]/ul/li[2]/a,A,,40,16,782,1054
+171,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div/a,A,,41,195,20,1194
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,Police: Boy found in storage unit last went to school in May,0,Police: Bo,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div[2]/div/h3/a,A,Police: Boy found in storage unit last went to school in May,42,516,240,1210
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Colorado mother arrested after 7-year-old son's body is found inside storage unitFOX News Videos,0,Colorado m,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div[2]/div[2]/a,A,Colorado mother arrested after 7-year-old son's body is found inside storage unitFOX News Videos,43,265,240,1315
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,7-Year-Old Boy Found Dead in Denver Storage Unit Believed to Have Been Killed in MayKDVR - Denver,0,7-Year-Old,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div[2]/div[2]/a[2],A,7-Year-Old Boy Found Dead in Denver Storage Unit Believed to Have Been Killed in MayKDVR - Denver,44,265,505,1315
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div[3]/ul/li/a,A,Reactions,45,33,767,1183
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[5]/div[2]/div/div[3]/ul/li[2]/a,A,,46,16,782,1252
+171,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div/a,A,,47,195,20,1410
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,"Report: After Jimmy Butler's 'disrespectful' interaction with Brett Brown, concern about Butler's future in Philadelphia",0,Report: Af,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div[2]/div/h3/a,A,"Report: After Jimmy Butler's 'disrespectful' interaction with Brett Brown, concern about Butler's future in Philadelphia",48,516,240,1426
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Brown: Butler wasn't disrespectful when questioning roleThe Associated Press,0,Brown: But,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div[2]/div[2]/a,A,Brown: Butler wasn't disrespectful when questioning roleThe Associated Press,49,265,240,1513
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,Brett Brown defends himself and Jimmy ButlerNBC Sports Philadelphia,0,Brett Brow,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div[2]/div[2]/a[2],A,Brett Brown defends himself and Jimmy ButlerNBC Sports Philadelphia,50,265,505,1513
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div[3]/ul/li/a,A,Reactions,51,33,767,1400
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[6]/div[2]/div/div[3]/ul/li[2]/a,A,,52,16,782,1468
+195,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div/a,A,,53,195,20,1608
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,Former Backup Singer Defends Claim She Saw R. Kelly Having Sex with Underage Aaliyah,0,Former Bac,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div[2]/div/h3/a,A,Former Backup Singer Defends Claim She Saw R. Kelly Having Sex with Underage Aaliyah,54,516,240,1624
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Surviving R. Kelly premiere breaks Lifetime record with 1.9 million viewersEntertainment Weekly,0,Surviving ,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div[2]/div[2]/a,A,Surviving R. Kelly premiere breaks Lifetime record with 1.9 million viewersEntertainment Weekly,55,265,240,1729
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,Parents of Alleged R. Kelly Victims Tell Their StoriesYahoo View,0,Parents of,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div[2]/div[2]/a[2],A,Parents of Alleged R. Kelly Victims Tell Their StoriesYahoo View,56,265,505,1729
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div[3]/ul/li/a,A,Reactions,57,33,767,1598
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(7) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[7]/div[2]/div/div[3]/ul/li[2]/a,A,,58,16,782,1666
+195,streamImage Pos(r) D(ib) js-stream-content-link W(100%)   js-content-viewer rapid-noclick-resp rapidnofollow,ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div/a,A,,59,195,20,1826
+49,O(n):f C($m_blue):f D(b)  js-stream-content-link js-stream-item-title js-content-viewer rapid-noclick-resp rapidnofollow js-content-title C($link) C($m_blue):h Td(n) Fz(17px) Fw(b),ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3 > a,0,"Man died in Yosemite on Christmas Day, park service says amid government shutdown",0,Man died i,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div[2]/div/h3/a,A,"Man died in Yosemite on Christmas Day, park service says amid government shutdown",60,516,240,1842
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Mb(6px)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb) Pend(13px),ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,3 Dead In National Parks Service Areas Since Government ShutdownYahoo View,0,3 Dead In ,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div[2]/div[2]/a,A,3 Dead In National Parks Service Areas Since Government ShutdownYahoo View,61,265,240,1947
+72,O(n):f C($m_blue):f Pos(r) Mih(70px) Mih(0)--md1160 Pstart(82px) Pstart(0)--md1160 Fl(start) W(50%) W(a)--md1160 strm-sl-link js-stream-content-link js-stream-item-title js-content-title js-sl js-content-viewer rapid-noclick-resp rapidnofollow C($link) C($m_blue):h Td(n) Fz(12px) Bxz(bb),ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2),0,Local credit unions provide financial options for federal workers during government shutdownKFSN – Fresno,0,Local cred,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div[2]/div[2]/a[2],A,Local credit unions provide financial options for federal workers during government shutdownKFSN – Fresno,62,265,505,1947
+71,Pos(r) js-stream-comments-button js-content-viewer rapid-noclick-resp rapidnofollow Td(n) O(n) C($c_icon) Px(14px) Pb(5px) Pt(25px),ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li > a,0,Reactions,0,Reactions,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div[3]/ul/li/a,A,Reactions,63,33,767,1816
+27,wafer-fetch fetch-with-session-retry Pos(r) Td(n):h D(b) C($c_icon) has-click,ul#Stream > li:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[5]/div/div[3]/div/div[5]/div/div/div/div/ul/li[8]/div[2]/div/div[3]/ul/li[2]/a,A,,64,16,782,1884
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li > a,0,1. Prince Harry,0,1. Prince ,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li/a,A,1. Prince Harry,65,103,852,198
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(2) > a,0,2. LaPorsha Washington,0,2. LaPorsh,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[2]/a,A,2. LaPorsha Washington,66,154,852,225
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(3) > a,0,3. Naomi Osaka,0,3. Naomi O,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[3]/a,A,3. Naomi Osaka,67,109,852,253
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(4) > a,0,4. Marie Kondo,0,4. Marie K,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[4]/a,A,4. Marie Kondo,68,106,852,281
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(5) > a,0,5. Carpet Cleaning Products,0,5. Carpet ,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[5]/a,A,5. Carpet Cleaning Products,69,154,852,309
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(6) > a,0,6. Genesis G80,0,6. Genesis,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[6]/a,A,6. Genesis G80,70,104,1006,198
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(7) > a,0,7. Gwyneth Paltrow,0,7. Gwyneth,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[7]/a,A,7. Gwyneth Paltrow,71,132,1006,225
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(8) > a,0,8. Deena Cortese,0,8. Deena C,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[8]/a,A,8. Deena Cortese,72,119,1006,253
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(9) > a,0,9. Sara Ali Khan,0,9. Sara Al,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[9]/a,A,9. Sara Ali Khan,73,110,1006,281
+17,Td(n):h C($link) Fz(13px) Ell D(ib),div#yui_3_18_0_3_1546784872501_769 > div > ul > li > ul > li:nth-of-type(10) > a,0,10. Lead Generation,0,10. Lead G,A,/html/body/div[5]/div/div[4]/div/div/div/div/div/div/ul/li/ul/li[10]/a,A,10. Lead Generation,74,129,1006,309
+250,0,div#my-adsFPAD-fallback > a,0,,0,,A,/html/body/div[5]/div/div[4]/div/div[2]/div/div/div/a,A,,75,300,860,359
+16,C(#000) C($m_blue):h Td(n),div#applet_p_63794 > div > div > div > a,0,"San Francisco, CA",0,San Franci,A,/html/body/div[5]/div/div[4]/div/div[5]/div/div/div/a,A,"San Francisco, CA",76,132,860,640
+83,C(#000) Td(n),div#applet_p_63794 > div:nth-of-type(2) > div > div > div > ul > li > a,0,"Today
+                
+                
+                    58°f High
+                    50°f Low",0,"Today
+    ",A,/html/body/div[5]/div/div[4]/div/div[5]/div[2]/div/div/div/ul/li/a,A,"Today
+                
+                
+                    58°f High
+                    50°f Low",77,43,858,675
+83,C(#000) Td(n),div#applet_p_63794 > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(2) > a,0,"Mon
+                
+                
+                    57°f High
+                    52°f Low",0,"Mon
+      ",A,/html/body/div[5]/div/div[4]/div/div[5]/div[2]/div/div/div/ul/li[2]/a,A,"Mon
+                
+                
+                    57°f High
+                    52°f Low",78,43,944,675
+83,C(#000) Td(n),div#applet_p_63794 > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(3) > a,0,"Tue
+                
+                
+                    59°f High
+                    54°f Low",0,"Tue
+      ",A,/html/body/div[5]/div/div[4]/div/div[5]/div[2]/div/div/div/ul/li[3]/a,A,"Tue
+                
+                
+                    59°f High
+                    54°f Low",79,43,1031,675
+83,C(#000) Td(n),div#applet_p_63794 > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(4) > a,0,"Wed
+                
+                
+                    58°f High
+                    55°f Low",0,"Wed
+      ",A,/html/body/div[5]/div/div[4]/div/div[5]/div[2]/div/div/div/ul/li[4]/a,A,"Wed
+                
+                
+                    58°f High
+                    55°f Low",80,43,1117,675
+18,Start(0) js-applet-action,div#applet_p_63796 > div > div > div > form > select,0,,league,,SELECT,/html/body/div[5]/div/div[4]/div/div[6]/div/div/div/form/select,SELECT,"NFL
+                    
+
+
+NCAAF
+                    
+
+
+NBA
+                    
+
+
+MLB
+                    
+
+
+NHL
+                    
+
+
+Trending
+                    
+
+
+NCAAB",81,150,1010,806
+25,Mend(20px) Pb(4px) Cur(p) C($dimmed) tab-selected_C(#000)! Fw(500) Td(n) tab-selected_Bdb($selectedTabBd) rapidnofollow,div#applet_p_63796 > div:nth-of-type(2) > div > div > ul > li > a,0,Last Week,0,Last Week,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/ul/li/a,A,Last Week,82,63,860,839
+25,Mend(20px) Pb(4px) Cur(p) C($dimmed) Fw(500) Td(n) tab-selected_C(#000)! tab-selected_Bdb($selectedTabBd) rapidnofollow,div#applet_p_63796 > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,Current Week,0,Current We,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/ul/li[2]/a,A,Current Week,83,82,946,839
+25,Mend(20px) Pb(4px) Cur(p) C($dimmed) tab-selected_C(#000)! Fw(500) Td(n) tab-selected_Bdb($selectedTabBd) rapidnofollow,div#applet_p_63796 > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3) > a,0,Next Week,0,Next Week,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/ul/li[3]/a,A,Next Week,84,65,1052,839
+52,Td(n),div#applet_p_63796 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > a,0,"LA Chargers
+
+            
+            
+                
+
+
+                
+Baltimore
+
+            
+        
+
+
+        
+
+
+
+
+
+
+        
+        
+
+
+
+                    
+                        
+                            Sun, Jan, 06, 10:05 AM PST
+
+                        
+                            
+
+CBS
+
+
+
+
+                        
+Jan 06",0,LA Charger,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/div[2]/div/div/a,A,"LA Chargers
+
+            
+            
+                
+
+
+                
+Baltimore
+
+            
+        
+
+
+        
+
+
+
+
+
+
+        
+        
+
+
+
+                    
+                        
+                            Sun, Jan, 06, 10:05 AM PST
+
+                        
+                            
+
+CBS
+
+
+
+
+                        
+Jan 06",85,300,860,881
+52,Td(n),div#applet_p_63796 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > a,0,"Philadelphia
+
+            
+            
+                
+
+
+                
+Chicago
+
+            
+        
+
+
+        
+
+
+
+
+
+
+        
+        
+
+
+
+                    
+                        
+                            Sun, Jan, 06, 1:40 PM PST
+
+                        
+                            
+
+NBC
+
+
+
+
+                        
+Jan 06",0,Philadelph,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/div[2]/div[2]/div/a,A,"Philadelphia
+
+            
+            
+                
+
+
+                
+Chicago
+
+            
+        
+
+
+        
+
+
+
+
+
+
+        
+        
+
+
+
+                    
+                        
+                            Sun, Jan, 06, 1:40 PM PST
+
+                        
+                            
+
+NBC
+
+
+
+
+                        
+Jan 06",86,300,860,947
+52,Td(n),div#applet_p_63796 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div > a,0,"Seattle
+
+            
+            
+                
+
+
+                
+Dallas
+
+            
+        
+
+
+        
+
+
+                    
+                        
+
+                        
+22
+                    
+                    
+                        
+
+                        
+24
+                    
+                
+            
+
+
+
+
+
+        
+        
+
+
+                    
+                        
+Final
+
+
+
+                    
+Jan 05",0,"Seattle
+
+ ",A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/div[2]/div[3]/div/a,A,"Seattle
+
+            
+            
+                
+
+
+                
+Dallas
+
+            
+        
+
+
+        
+
+
+                    
+                        
+
+                        
+22
+                    
+                    
+                        
+
+                        
+24
+                    
+                
+            
+
+
+
+
+
+        
+        
+
+
+                    
+                        
+Final
+
+
+
+                    
+Jan 05",87,300,860,1013
+52,Td(n),div#applet_p_63796 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div > a,0,"Indianapolis
+
+            
+            
+                
+
+
+                
+Houston
+
+            
+        
+
+
+        
+
+
+                    
+                        
+
+                        
+21
+                    
+                    
+                        
+
+                        
+7
+                    
+                
+            
+
+
+
+
+
+        
+        
+
+
+                    
+                        
+Final
+
+
+
+                    
+Jan 05",0,Indianapol,A,/html/body/div[5]/div/div[4]/div/div[6]/div[2]/div/div/div[2]/div[4]/div/a,A,"Indianapolis
+
+            
+            
+                
+
+
+                
+Houston
+
+            
+        
+
+
+        
+
+
+                    
+                        
+
+                        
+21
+                    
+                    
+                        
+
+                        
+7
+                    
+                
+            
+
+
+
+
+
+        
+        
+
+
+                    
+                        
+Final
+
+
+
+                    
+Jan 05",88,300,860,1079
+17,D(ib) Mb(28px) Cur(p) C($link) C($m_blue):h C($m_blue):f Fw(500) Td(n),a#ysp-more-scores,ysp-more-scores,More scores »,0,More score,A,/html/body/div[5]/div/div[4]/div/div[6]/div[3]/div/div/a,A,More scores »,89,84,860,1146
+18,Td(n) C(#000),div#applet_p_50000278 > div > div > div > h2 > a,0,The best TV for free,0,The best T,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/h2/a,A,The best TV for free,90,141,860,1211
+82,Td(n) D(b) Cur(p) C(#000) C($m_blue):h C($m_blue):f Mt(15px) Mih(82px),div#applet_p_50000278 > div > div > div > div > a,0,The Cool KidsSeason 1 Episode 10Funeral Crashers,0,The Cool K,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/div/a,A,The Cool KidsSeason 1 Episode 10Funeral Crashers,91,300,860,1245
+82,Td(n) D(b) Cur(p) C(#000) C($m_blue):h C($m_blue):f Mt(15px) Mih(82px),div#applet_p_50000278 > div > div > div > div > a:nth-of-type(2),0,The Tonight Show Starring Jimmy FallonSeason 6 Episode 58The Tonight Show Starring Jimmy Fallon Best of 2018,0,The Tonigh,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/div/a[2],A,The Tonight Show Starring Jimmy FallonSeason 6 Episode 58The Tonight Show Starring Jimmy Fallon Best of 2018,92,300,860,1342
+82,Td(n) D(b) Cur(p) C(#000) C($m_blue):h C($m_blue):f Mt(15px) Mih(82px),div#applet_p_50000278 > div > div > div > div > a:nth-of-type(3),0,"Late Night With Seth MeyersSeason 6 Episode 40Lin-Manuel Miranda, Colin Quinn",0,Late Night,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/div/a[3],A,"Late Night With Seth MeyersSeason 6 Episode 40Lin-Manuel Miranda, Colin Quinn",93,300,860,1439
+82,Td(n) D(b) Cur(p) C(#000) C($m_blue):h C($m_blue):f Mt(15px) Mih(82px),div#applet_p_50000278 > div > div > div > div > a:nth-of-type(4),0,Jimmy Kimmel LiveSeason 16 Episode 172Beastie Boys; Jonathan Van Ness; Mitski,0,Jimmy Kimm,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/div/a[4],A,Jimmy Kimmel LiveSeason 16 Episode 172Beastie Boys; Jonathan Van Ness; Mitski,94,300,860,1536
+17,D(b) Cur(p) C($link) C($m_blue):h C($m_blue):f Fw(400) Fz(13px) Td(n) Mt(14px),div#applet_p_50000278 > div > div > div > a,0,More on Yahoo View »,0,More on Ya,A,/html/body/div[5]/div/div[4]/div/div[7]/div/div/div/a,A,More on Yahoo View »,95,300,860,1632
+20,Fz(10px) Cur(p) W(20px) H(20px) Bg(#fff) C($gray) Bg(n) js-fetch-horoscope,button#prevBtn,prevBtn,,0,,BUTTON,/html/body/div[5]/div/div[4]/div/div[8]/div[2]/div/div/div/button,BUTTON,Previous,96,20,860,1703
+20,Fz(10px) Cur(p) W(20px) H(20px) Bg(#fff) C($gray) Bg(n) js-fetch-horoscope,button#nextBtn,nextBtn,,0,,BUTTON,/html/body/div[5]/div/div[4]/div/div[8]/div[2]/div/div/div/button[2],BUTTON,Next,97,20,884,1703
+16,js-another-sign Td(n) C($link) C($searchBlue):h Td(n):h rapidnofollow,div#applet_p_63802 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > a,0,change,0,change,A,/html/body/div[5]/div/div[4]/div/div[8]/div[2]/div/div/div[2]/div[2]/div/a,A,change,98,43,1004,1733
+16, Fl(start) Pos(r) Z(1) C($link) Fw(b) C($searchBlue):h Td(n) Td(n):h,div#astrofooterDiv > a,0,See more »,0,See more »,A,/html/body/div[5]/div/div[4]/div/div[8]/div[2]/div/div/div[2]/div[2]/div[2]/a,A,See more »,99,68,935,1833
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li > a,0,Terms (Updated),0,Terms (Upd,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li/a,A,Terms (Updated),100,96,904,2494
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(2) > a,0,Privacy (Updated),0,Privacy (U,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[2]/a,A,Privacy (Updated),101,104,1006,2494
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(3) > a,0,Advertise,0,Advertise,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[3]/a,A,Advertise,102,54,892,2516
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(4) > a,0,About our Ads,0,About our ,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[4]/a,A,About our Ads,103,86,952,2516
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(5) > a,0,Careers,0,Careers,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[5]/a,A,Careers,104,45,1044,2516
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(6) > a,0,Help,0,Help,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[6]/a,A,Help,105,27,1095,2516
+16,Tt(c) Fz(13px) C($link) Op(.4) Td(n) mouseover:h_Op(1) C($m_blue):h,ul#fp-footer > li:nth-of-type(7) > a,0,Feedback,0,Feedback,A,/html/body/div[5]/div/div[4]/div/div[10]/div[3]/ul/li[7]/a,A,Feedback,106,58,978,2538

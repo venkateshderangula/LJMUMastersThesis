@@ -1,0 +1,81 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+12,0,div#skiptocontent > a,0,Skip to main content,0,Skip to ma,A,/html/body/div[2]/div/a,A,Skip to main content,1,12,0,0
+14,0,div#black-topbar > div > ul > li > a,0,Request a Demo,0,Request a ,A,/html/body/div[2]/div[2]/div/div/div/div/ul/li/a,A,Request a Demo,2,95,830,14
+14,support-phone,div#black-topbar > div > ul > li:nth-of-type(2) > a,0,1.888.799.9666,0,1.888.799.,A,/html/body/div[2]/div[2]/div/div/div/div/ul/li[2]/a,A,1.888.799.9666,3,78,947,14
+14,dropdown-toggle,a#btnResouces,btnResouces,Recursos,0,Recursos,A,/html/body/div[2]/div[2]/div/div/div/div/ul/li[3]/a,A,Recursos,4,69,1048,14
+14,0,div#black-topbar > div > ul > li:nth-of-type(4) > a,0,Soporte,0,Soporte,A,/html/body/div[2]/div[2]/div/div/div/div/ul/li[4]/a,A,Soporte,5,50,1140,14
+15,imglink,div#header > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div[2]/div[2]/div/div/div[2]/div/div/a,A,,6,154,0,63
+64,dropdown-toggle,a#btnSolutions,btnSolutions,SOLUCIONES,0,SOLUCIONES,A,/html/body/div[2]/div[2]/div/div/div[2]/div[2]/div/ul/li[2]/a,A,SOLUCIONES,7,118,154,40
+64,hidden-xs,a#btnJoinMeeting,btnJoinMeeting,ENTRAR A UNA REUNIÓN,0,ENTRAR A U,A,/html/body/div[2]/div[2]/div/div/div[2]/div[2]/div/ul[2]/li/a,A,ENTRAR A UNA REUNIÓN,8,174,691,40
+15,hostmeeting,a#btnHostMeeting,btnHostMeeting,SER ANFITRIÓN DE UNA REUNIÓN,0,SER ANFITR,A,/html/body/div[2]/div[2]/div/div/div[2]/div[2]/div/ul[2]/li[2]/div/a,A,SER ANFITRIÓN DE UNA REUNIÓN,9,207,880,65
+64,link,div#navbar > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,INGRESAR,0,INGRESAR,A,/html/body/div[2]/div[2]/div/div/div[2]/div[2]/div/ul[2]/li[5]/a,A,INGRESAR,10,88,1102,40
+48,form-control email,input#email,email,,email,,INPUT,/html/body/div[2]/div[3]/div/div[2]/div/form/div/div/div/input,INPUT,,11,325,77,494
+48,btn btn-primary btn-home submit,div#signup_form_body > div > div > button,0,,0,,BUTTON,/html/body/div[2]/div[3]/div/div[2]/div/form/div/div/div/button,BUTTON,RegÍstrese gratis,12,163,408,494
+20,0,div#signup_form_body > div:nth-of-type(2) > a,0,Política de privacidad,0,Política d,A,/html/body/div[2]/div[3]/div/div[2]/div/form/div/div[2]/a,A,Política de privacidad,13,149,153,559
+47,btn btn-default,div#view_gartner_report > div > div:nth-of-type(3) > a,0,Leer el informe,0,Leer el in,A,/html/body/div[2]/div[3]/div/div[2]/div/div/div/div[3]/div/div[3]/a,A,Leer el informe,14,131,1037,702
+17,0,div#screen2_container > div:nth-of-type(2) > div > div > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div/div/a,A,Más información,15,100,61,971
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div > a,0,Mirar el video,0,Mirar el v,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div/a,A,Mirar el video,16,108,4,1143
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div > a:nth-of-type(2),0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div/a[2],A,Más información,17,103,115,1143
+17,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[2]/div/a,A,Más información,18,100,300,971
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,Mirar el video,0,Mirar el v,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[2]/a,A,Mirar el video,19,108,243,1143
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(2) > a:nth-of-type(2),0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[2]/a[2],A,Más información,20,103,355,1143
+17,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[3]/div/a,A,Más información,21,100,541,971
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > a,0,Mirar el video,0,Mirar el v,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[3]/a,A,Mirar el video,22,108,484,1143
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(3) > a:nth-of-type(2),0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[3]/a[2],A,Más información,23,103,595,1143
+17,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(4) > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[4]/div/a,A,Más información,24,100,782,971
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(4) > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[4]/a,A,Más información,25,103,781,1143
+17,0,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > div > a,0,Charla,0,Charla,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[5]/div/a,A,Charla,26,100,1030,971
+29,home-video-link,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > a,0,Mirar el video,0,Mirar el v,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[5]/a,A,Mirar el video,27,108,973,1143
+19,learn,div#screen2_container > div:nth-of-type(2) > div > div:nth-of-type(5) > a:nth-of-type(2),0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[3]/div[2]/div/div[5]/a[2],A,Más información,28,103,1084,1143
+17,learn,div#screen6a_container > div > div > div > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[4]/div/div/div/div/a,A,Más información,29,120,140,1572
+17,learn,div#screen6a_container > div > div > div:nth-of-type(2) > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[4]/div/div/div[2]/div/a,A,Más información,30,120,540,1572
+17,learn,div#screen6a_container > div > div > div:nth-of-type(3) > div > a,0,Más información,0,Más inform,A,/html/body/div[2]/div[3]/div/div[4]/div/div/div[3]/div/a,A,Más información,31,120,940,1572
+36,0,div#screen4a_container > div > div > a,0,¿Por qué Zoom?,0,¿Por qué Z,A,/html/body/div[2]/div[3]/div/div[5]/div/div/a,A,¿Por qué Zoom?,32,211,495,1763
+48,btn-cta cta-bg cta-bgwhite,div#screen8_container > div > div > a,0,Request a Demo,0,Request a ,A,/html/body/div[2]/div[3]/div/div[8]/div/div/a,A,Request a Demo,33,200,390,4954
+48,btn-cta cta-bg cta-bgyellow,div#screen8_container > div > div > a:nth-of-type(2),0,Comprar ahora,0,Comprar ah,A,/html/body/div[2]/div[3]/div/div[8]/div/div/a[2],A,Comprar ahora,34,200,610,4954
+15,0,div#footer-new > div > div > div > div > a,0,Acerca de,0,Acerca de,A,/html/body/div[2]/div[5]/div/div/div/div/div/div/a,A,Acerca de,35,52,90,5081
+14,0,div#footer-new > div > div > div > ul > li > a,0,Blog de Zoom,0,Blog de Zo,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li/a,A,Blog de Zoom,36,67,90,5108
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(2) > a,0,Clientes,0,Clientes,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[2]/a,A,Clientes,37,39,90,5124
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(3) > a,0,Nuestro equipo,0,Nuestro eq,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[3]/a,A,Nuestro equipo,38,75,90,5139
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(4) > a,0,¿Por qué Zoom?,0,¿Por qué Z,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[4]/a,A,¿Por qué Zoom?,39,77,90,5155
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(5) > a,0,Funciones,0,Funciones,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[5]/a,A,Funciones,40,49,90,5171
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(6) > a,0,Carreras,0,Carreras,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[6]/a,A,Carreras,41,41,90,5187
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(7) > a,0,Integraciones,0,Integracio,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[7]/a,A,Integraciones,42,65,90,5202
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(8) > a,0,Socios,0,Socios,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[8]/a,A,Socios,43,31,90,5218
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(9) > a,0,Inversores,0,Inversores,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[9]/a,A,Inversores,44,50,90,5234
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(10) > a,0,Prensa,0,Prensa,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[10]/a,A,Prensa,45,32,90,5249
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(11) > a,0,Kit multimedia,0,Kit multim,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[11]/a,A,Kit multimedia,46,70,90,5265
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(12) > a,0,Videos instructivos,0,Videos ins,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[12]/a,A,Videos instructivos,47,92,90,5281
+14,0,div#footer-new > div > div > div > ul > li:nth-of-type(13) > a,0,Directrices de marca,0,Directrice,A,/html/body/div[2]/div[5]/div/div/div/div/div/ul/li[13]/a,A,Directrices de marca,48,99,90,5297
+15,0,div#footer-new > div > div > div:nth-of-type(2) > div > a,0,Descargar,0,Descargar,A,/html/body/div[2]/div[5]/div/div/div/div/div[2]/div/a,A,Descargar,49,54,280,5081
+14,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li > a,0,Cliente de reuniones,0,Cliente de,A,/html/body/div[2]/div[5]/div/div/div/div/div[2]/ul/li/a,A,Cliente de reuniones,50,99,280,5108
+29,0,div#footer-new > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Controlador para Android de Zoom Rooms,0,Controlado,A,/html/body/div[2]/div[5]/div/div/div/div/div[2]/ul/li[2]/a,A,Controlador para Android de Zoom Rooms,51,137,280,5124
+15,0,div#footer-new > div > div > div:nth-of-type(3) > div > a,0,Ventas,0,Ventas,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/div/a,A,Ventas,52,36,490,5081
+14,support-phone,div#footer-new > div > div > div:nth-of-type(3) > ul > li > a,0,1.888.799.9666,0,1.888.799.,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/ul/li/a,A,1.888.799.9666,53,78,490,5108
+14,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Contactarse con ventas,0,Contactars,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/ul/li[2]/a,A,Contactarse con ventas,54,113,490,5124
+14,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Planes y precios,0,Planes y p,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/ul/li[3]/a,A,Planes y precios,55,77,490,5139
+14,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Solicite una demostración,0,Solicite u,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/ul/li[4]/a,A,Solicite una demostración,56,124,490,5155
+14,0,div#footer-new > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Seminarios web y eventos,0,Seminarios,A,/html/body/div[2]/div[5]/div/div/div/div/div[3]/ul/li[5]/a,A,Seminarios web y eventos,57,125,490,5171
+15,0,div#footer-new > div > div > div:nth-of-type(4) > div > a,0,Soporte,0,Soporte,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/div/a,A,Soporte,58,42,690,5081
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li > a,0,Probar Zoom,0,Probar Zoo,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li/a,A,Probar Zoom,59,63,690,5108
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Cuenta,0,Cuenta,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[2]/a,A,Cuenta,60,35,690,5124
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Centro de soporte,0,Centro de ,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[3]/a,A,Centro de soporte,61,88,690,5139
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Capacitación en vivo,0,Capacitaci,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[4]/a,A,Capacitación en vivo,62,99,690,5155
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Comentarios,0,Comentario,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[5]/a,A,Comentarios,63,61,690,5171
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Contacto,0,Contacto,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[6]/a,A,Contacto,64,44,690,5187
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Accesibilidad,0,Accesibili,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[7]/a,A,Accesibilidad,65,63,690,5202
+14,0,div#footer-new > div > div > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Privacidad y seguridad,0,Privacidad,A,/html/body/div[2]/div[5]/div/div/div/div/div[4]/ul/li[8]/a,A,Privacidad y seguridad,66,107,690,5218
+26,dropdown-toggle,div#footer-new > div > div > div:nth-of-type(5) > ul > li > div > a,0,Español,0,Español,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/ul/li/div/a,A,Español,67,82,890,5107
+26,dropdown-toggle,div#footer-new > div > div > div:nth-of-type(5) > ul:nth-of-type(2) > li > div > a,0,Dólares estadounidenses $,0,Dólares es,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/ul[2]/li/div/a,A,Dólares estadounidenses $,68,175,890,5188
+17,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a,0,Zoom on Blog,0,Zoom on Bl,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/div[3]/a,A,Zoom on Blog,69,45,890,5251
+17,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(2),0,Zoom on LinkedIn,0,Zoom on Li,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/div[3]/a[2],A,Zoom on LinkedIn,70,45,935,5251
+17,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(3),0,Zoom on Twitter,0,Zoom on Tw,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/div[3]/a[3],A,Zoom on Twitter,71,45,979,5251
+17,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(4),0,Zoom on Youtube,0,Zoom on Yo,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/div[3]/a[4],A,Zoom on Youtube,72,45,1024,5251
+17,icon,div#footer-new > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a:nth-of-type(5),0,Zoom on Facebook,0,Zoom on Fa,A,/html/body/div[2]/div[5]/div/div/div/div/div[5]/div[3]/a[5],A,Zoom on Facebook,73,41,1068,5251
+14,0,div#footer-new > div > div:nth-of-type(2) > div > a,0,Políticas legales y de privacidad,0,Políticas ,A,/html/body/div[2]/div[5]/div/div/div/div[2]/div/a,A,Políticas legales y de privacidad,74,163,495,5337
+14,0,div#footer-new > div > div:nth-of-type(2) > div > a:nth-of-type(2),0,Acerca de los anuncios,0,Acerca de ,A,/html/body/div[2]/div[5]/div/div/div/div[2]/div/a[2],A,Acerca de los anuncios,75,123,660,5337
+14,0,div#footer-new > div > div:nth-of-type(2) > div > a:nth-of-type(3),0,Do Not Sell My Personal Information,0,Do Not Sel,A,/html/body/div[2]/div[5]/div/div/div/div[2]/div/a[3],A,Do Not Sell My Personal Information,76,190,783,5337
+20,0,a#truste-privacy-button,truste-privacy-button,Privacy Policy,0,Privacy Po,A,/html/body/div[2]/div[5]/div[2]/div/div/div/div/a,A,Privacy Policy,77,87,61,494
+32,0,button#truste-consent-button,truste-consent-button,,0,,BUTTON,/html/body/div[2]/div[5]/div[2]/div/div/div/div[2]/button,BUTTON,Accept,78,65,904,539
+32,0,button#truste-consent-required,truste-consent-required,,0,,BUTTON,/html/body/div[2]/div[5]/div[2]/div/div/div/div[2]/button[2],BUTTON,Opt-Out,79,75,973,539
+32,0,button#truste-show-consent,truste-show-consent,,0,,BUTTON,/html/body/div[2]/div[5]/div[2]/div/div/div/div[2]/button[3],BUTTON,More Info,80,83,1051,539

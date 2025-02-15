@@ -1,0 +1,64 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+80,Gnav-logo,header#AdobePrimaryNav > nav > a,0,Adobe,0,Adobe,A,/html/body/div[4]/header/nav/a,A,Adobe,1,114,0,0
+80,Gnav-menu-label,li#Globalnav.Creativity_Design > a,0,Creativity & Design,0,Creativity,A,/html/body/div[4]/header/nav/div/div/ul/li/a,A,Creativity & Design,2,153,260,0
+80,Gnav-menu-label,li#Globalnav.Marketing_Analytics > a,0,Marketing & Analytics,0,Marketing ,A,/html/body/div[4]/header/nav/div/div/ul/li[2]/a,A,Marketing & Analytics,3,171,413,0
+80,Gnav-menu-label,li#Globalnav.Documents_and_E_Signatures > a,0,PDF & E-signatures,0,PDF & E-si,A,/html/body/div[4]/header/nav/div/div/ul/li[3]/a,A,PDF & E-signatures,4,153,584,0
+80,Gnav-menu-label,li#Globalnav.Business_Solutions > a,0,Business Solutions,0,Business S,A,/html/body/div[4]/header/nav/div/div/ul/li[4]/a,A,Business Solutions,5,149,737,0
+80,Gnav-menu-label,li#Globalnav.Support > a,0,Support,0,Support,A,/html/body/div[4]/header/nav/div/div/ul/li[5]/a,A,Support,6,87,886,0
+40,SAYT-action-search,header#AdobePrimaryNav > nav > div:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/header/nav/div[2]/a,A,,7,40,1140,20
+33,cta-button,html > body > main > section > figure > article > section > ul > li > a,0,Individuals,0,Individual,A,/html/body/main/section/figure/article/section/ul/li/a,A,Individuals,8,101,209,408
+33,cta-button,html > body > main > section > figure > article > section > ul > li:nth-of-type(2) > a,0,Business,0,Business,A,/html/body/main/section/figure/article/section/ul/li[2]/a,A,Business,9,87,333,408
+33,cta-button-secondary,aside#pod-1 > section > div:nth-of-type(2) > ul > li > a,0,Learn how,0,Learn how,A,/html/body/main/section/figure/aside/section/div[2]/ul/li/a,A,Learn how,10,100,221,1039
+33,cta-button-secondary,aside#pod-1 > section:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Buy now,0,Buy now,A,/html/body/main/section/figure/aside/section[2]/div[2]/ul/li/a,A,Buy now,11,87,480,1039
+20,cta-text-light,aside#pod-1 > section:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Discover Adobe Sign,0,Discover A,A,/html/body/main/section/figure/aside/section[2]/div[2]/ul/li[2]/a,A,Discover Adobe Sign,12,133,587,1045
+33,cta-button-secondary,aside#pod-1 > section:nth-of-type(3) > div:nth-of-type(2) > ul > li > a,0,Start now,0,Start now,A,/html/body/main/section/figure/aside/section[3]/div[2]/ul/li/a,A,Start now,13,94,882,1039
+33,cta-button-secondary,aside#pod-2 > section > div:nth-of-type(2) > ul > li > a,0,Learn more,0,Learn more,A,/html/body/main/section/figure[2]/aside/section/div[2]/ul/li/a,A,Learn more,14,106,-994,1018
+33,cta-button-secondary,aside#pod-2 > section:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Buy now,0,Buy now,A,/html/body/main/section/figure[2]/aside/section[2]/div[2]/ul/li/a,A,Buy now,15,87,-732,1018
+20,cta-text-light,aside#pod-2 > section:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Discover Adobe Sign,0,Discover A,A,/html/body/main/section/figure[2]/aside/section[2]/div[2]/ul/li[2]/a,A,Discover Adobe Sign,16,133,-625,1024
+33,cta-button-secondary,aside#pod-2 > section:nth-of-type(3) > div:nth-of-type(2) > ul > li > a,0,Learn more,0,Learn more,A,/html/body/main/section/figure[2]/aside/section[3]/div[2]/ul/li/a,A,Learn more,17,106,-336,1018
+33,cta-button-secondary,aside#pod-3 > section > div:nth-of-type(2) > ul > li > a,0,Learn how,0,Learn how,A,/html/body/main/section/figure[3]/aside/section/div[2]/ul/li/a,A,Learn how,18,100,-991,1018
+33,cta-button-secondary,aside#pod-3 > section:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Learn more,0,Learn more,A,/html/body/main/section/figure[3]/aside/section[2]/div[2]/ul/li/a,A,Learn more,19,106,-665,1018
+33,cta-button-secondary,aside#pod-3 > section:nth-of-type(3) > div:nth-of-type(2) > ul > li > a,0,Learn more,0,Learn more,A,/html/body/main/section/figure[3]/aside/section[3]/div[2]/ul/li/a,A,Learn more,20,106,-336,1018
+19,Footernav-menu-label,li#Globalnav.Products > a,0,Products,0,Products,A,/html/body/div[5]/footer/div/div[2]/ul/li/a,A,Products,21,191,20,1238
+24,Footernav-submenu-link,li#Globalnav.Products.Creative_Cloud > a,0,Creative Cloud,0,Creative C,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li/a,A,Creative Cloud,22,83,20,1269
+24,Footernav-submenu-link,li#Globalnav.Products.Experience_Cloud > a,0,Experience Cloud,0,Experience,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li[2]/a,A,Experience Cloud,23,99,20,1293
+24,Footernav-submenu-link,li#Globalnav.Products.Document_Cloud > a,0,Document Cloud,0,Document C,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li[3]/a,A,Document Cloud,24,96,20,1317
+24,Footernav-submenu-link,li#Globalnav.Products.Elements_15_Family > a,0,Elements 2018 Family,0,Elements 2,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li[4]/a,A,Elements 2018 Family,25,122,20,1341
+24,Footernav-submenu-link,li#Globalnav.Products.Special_offers > a,0,Special offers,0,Special of,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li[5]/a,A,Special offers,26,75,20,1365
+24,Footernav-submenu-link,li#Globalnav.Products.View_all_products > a,0,View all products,0,View all p,A,/html/body/div[5]/footer/div/div[2]/ul/li/div/ul/li[6]/a,A,View all products,27,98,20,1389
+19,Footernav-menu-label,li#Globalnav.Blogs_Community > a,0,Blogs & Community,0,Blogs & Co,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/a,A,Blogs & Community,28,403,272,1238
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.The_Adobe_Blog > a,0,Adobe Blog,0,Adobe Blog,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li/a,A,Adobe Blog,29,66,272,1269
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.Adobe_io > a,0,Adobe I/O,0,Adobe I/O,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[2]/a,A,Adobe I/O,30,58,272,1293
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.Create_Magazine > a,0,Create Magazine,0,Create Mag,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[3]/a,A,Create Magazine,31,94,272,1317
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.Behance > a,0,Behance,0,Behance,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[4]/a,A,Behance,32,49,272,1341
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.99u > a,0,99U,0,99U,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[5]/a,A,99U,33,24,482,1269
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.CMO_com > a,0,CMO.com,0,CMO.com,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[6]/a,A,CMO.com,34,56,482,1293
+24,Footernav-submenu-link,li#Globalnav.Blogs_Community.View_all > a,0,View all,0,View all,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul/li[7]/a,A,View all,35,45,482,1317
+20,Footernav-social-link,li#Globalnav.social.Facebook > a,0,,0,,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul[2]/li/a,A,,36,20,272,1406
+20,Footernav-social-link,li#Globalnav.social.Twitter > a,0,,0,,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul[2]/li[2]/a,A,,37,20,302,1406
+20,Footernav-social-link,li#Globalnav.social.LinkedIn > a,0,,0,,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul[2]/li[3]/a,A,,38,20,332,1406
+20,Footernav-social-link,li#Globalnav.social.Instagram > a,0,,0,,A,/html/body/div[5]/footer/div/div[2]/ul/li[2]/div/ul[2]/li[4]/a,A,,39,20,362,1406
+19,Footernav-menu-label,li#Globalnav.Support > a,0,Support,0,Support,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/a,A,Support,40,191,737,1238
+24,Footernav-submenu-link,li#Globalnav.Support.Help_Center > a,0,Help Center,0,Help Cente,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/div/ul/li/a,A,Help Center,41,67,737,1269
+24,Footernav-submenu-link,li#Globalnav.Support.Community_Forums > a,0,Community forums,0,Community ,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/div/ul/li[2]/a,A,Community forums,42,111,737,1293
+24,Footernav-submenu-link,li#Globalnav.Support.Contact_Adobe > a,0,Contact Adobe,0,Contact Ad,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/div/ul/li[3]/a,A,Contact Adobe,43,84,737,1317
+24,Footernav-submenu-link,li#Globalnav.Support.Enterprise_support > a,0,Enterprise Support,0,Enterprise,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/div/ul/li[4]/a,A,Enterprise Support,44,106,737,1341
+24,Footernav-submenu-link,li#Globalnav.Support.Download_and_Install > a,0,Download & install,0,Download &,A,/html/body/div[5]/footer/div/div[2]/ul/li[3]/div/ul/li[5]/a,A,Download & install,45,109,737,1365
+19,Footernav-menu-label,li#Globalnav.Adobe > a,0,Adobe,0,Adobe,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/a,A,Adobe,46,191,989,1238
+24,Footernav-submenu-link,li#Globalnav.Adobe.About > a,0,About,0,About,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li/a,A,About,47,35,989,1269
+24,Footernav-submenu-link,li#Globalnav.Adobe.Newsroom > a,0,Newsroom,0,Newsroom,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[2]/a,A,Newsroom,48,63,989,1293
+24,Footernav-submenu-link,li#Globalnav.Adobe.Corporate_Responsibility > a,0,Corporate Responsibility,0,Corporate ,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[3]/a,A,Corporate Responsibility,49,138,989,1317
+24,Footernav-submenu-link,li#Globalnav.Adobe.Investor_Relations > a,0,Investor Relations,0,Investor R,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[4]/a,A,Investor Relations,50,101,989,1341
+24,Footernav-submenu-link,li#Globalnav.Adobe.Supply_Chain > a,0,Supply Chain,0,Supply Cha,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[5]/a,A,Supply Chain,51,74,989,1365
+24,Footernav-submenu-link,li#Globalnav.Adobe.Trust_Center > a,0,Trust Center,0,Trust Cent,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[6]/a,A,Trust Center,52,68,989,1389
+24,Footernav-submenu-link,li#Globalnav.Adobe.Events > a,0,Events,0,Events,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[7]/a,A,Events,53,37,989,1413
+24,Footernav-submenu-link,li#Globalnav.Adobe.Careers > a,0,Careers,0,Careers,A,/html/body/div[5]/footer/div/div[2]/ul/li[4]/div/ul/li[8]/a,A,Careers,54,43,989,1437
+20,Footernav-product-link,li#Globalnav.download.Acrobat_Reader_DC > a,0,Adobe Acrobat Reader DC,0,Adobe Acro,A,/html/body/div[5]/footer/div/ul/li/a,A,Adobe Acrobat Reader DC,55,161,306,1527
+20,Footernav-product-link,li#Globalnav.download.Adobe_Flash_Player > a,0,Adobe Flash Player,0,Adobe Flas,A,/html/body/div[5]/footer/div/ul/li[2]/a,A,Adobe Flash Player,56,127,486,1527
+20,Footernav-product-link,li#Globalnav.download.Adobe_Air > a,0,Adobe AIR,0,Adobe AIR,A,/html/body/div[5]/footer/div/ul/li[3]/a,A,Adobe AIR,57,85,633,1527
+20,Footernav-product-link,li#Globalnav.download.Adobe_Shockwave_Player > a,0,Adobe Shockwave Player,0,Adobe Shoc,A,/html/body/div[5]/footer/div/ul/li[4]/a,A,Adobe Shockwave Player,58,156,738,1527
+25,Footernav-region,footer#AdobeFooterNav > div > div:nth-of-type(3) > a,0,Change region,0,Change reg,A,/html/body/div[5]/footer/div/div[3]/a,A,Change region,59,128,20,1612
+14,Footernav-disclaimer-link,li#Globalnav.copyright.Privacy > a,0,Privacy,0,Privacy,A,/html/body/div[5]/footer/div/div[3]/ul/li[2]/a,A,Privacy,60,32,927,1618
+14,Footernav-disclaimer-link,li#Globalnav.copyright.Terms_of_Use > a,0,Terms of Use,0,Terms of U,A,/html/body/div[5]/footer/div/div[3]/ul/li[3]/a,A,Terms of Use,61,57,981,1618
+14,Footernav-disclaimer-link,li#Globalnav.copyright.Cookies > a,0,Cookies,0,Cookies,A,/html/body/div[5]/footer/div/div[3]/ul/li[4]/a,A,Cookies,62,35,1061,1618
+14,Footernav-disclaimer-link,footer#AdobeFooterNav > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,AdChoices,0,AdChoices,A,/html/body/div[5]/footer/div/div[3]/ul/li[5]/a,A,AdChoices,63,62,1118,1618

@@ -1,0 +1,386 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+37,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#remind-me-later-button > a,0,Später erinnern,0,Später eri,A,/html/body/ytd-app/div/div/ytd-masthead/div/ytd-consent-bump-renderer/ytd-button-renderer/a,A,Später erinnern,1,153,913,9
+37,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#review-button > a,0,Jetzt lesen,0,Jetzt lese,A,/html/body/ytd-app/div/div/ytd-masthead/div/ytd-consent-bump-renderer/ytd-button-renderer[2]/a,A,Jetzt lesen,2,118,1066,9
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/yt-icon-button[2]/button,BUTTON,,3,24,24,72
+24,yt-simple-endpoint style-scope ytd-topbar-logo-renderer,a#logo,logo,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/ytd-topbar-logo-renderer/a,A,,4,80,72,72
+37,yt-simple-endpoint style-scope ytd-button-renderer,div#skip-navigation > ytd-button-renderer > a,0,Navigation überspringen,0,Navigation,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/div/ytd-button-renderer/a,A,Navigation überspringen,5,220,16,-1000
+26,0,input#search,search,,search_query,,INPUT,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div/input,INPUT,,6,547,256,71
+32,style-scope ytd-searchbox,button#search-icon-legacy,search-icon-legacy,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/button,BUTTON,Suchen,7,65,801,68
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a,A,,8,40,910,64
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button,BUTTON,,9,24,918,72
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a,A,,10,40,958,64
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a/yt-icon-button/button,BUTTON,,11,24,966,72
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a,A,,12,40,1006,64
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a/yt-icon-button/button,BUTTON,,13,24,1014,72
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#buttons > ytd-button-renderer > a,0,Anmelden,0,Anmelden,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a,A,Anmelden,14,130,1054,64
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Start
+      
+
+    
+      
+        Start",0,"Start
+    ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer/a,A,"Start
+      
+
+    
+      
+        Start",15,72,0,116
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Trends
+      
+
+    
+      
+        Trends",0,"Trends
+   ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]/a,A,"Trends
+      
+
+    
+      
+        Trends",16,72,0,190
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Abos
+      
+
+    
+      
+        Abos",0,"Abos
+     ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]/a,A,"Abos
+      
+
+    
+      
+        Abos",17,72,0,264
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Mediathek
+      
+
+    
+      
+        Mediathek",0,"Mediathek
+",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]/a,A,"Mediathek
+      
+
+    
+      
+        Mediathek",18,72,0,338
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Verlauf
+      
+
+    
+      
+        Verlauf",0,"Verlauf
+  ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a,A,"Verlauf
+      
+
+    
+      
+        Verlauf",19,72,0,412
+40,yt-simple-endpoint style-scope ytd-toggle-button-renderer,div#mute-button > ytd-toggle-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a,A,,20,40,96,327
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div/div/ytd-toggle-button-renderer/a/yt-icon-button/button,BUTTON,,21,24,104,335
+239,yt-simple-endpoint style-scope ytd-video-masthead-ad-primary-video-renderer,a#click-target,click-target,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[2]/ytd-video-masthead-ad-primary-video-renderer/div[2]/a,A,,22,424,96,128
+106,yt-simple-endpoint style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#banner,banner,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/a,A,,23,640,536,128
+80,yt-simple-endpoint inline-block style-scope ytd-video-masthead-ad-advertiser-info-renderer,a#thumbnail-endpoint,thumbnail-endpoint,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div/a,A,,24,80,556,261
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div/div/ytd-menu-renderer/yt-icon-button/button,BUTTON,,25,24,1152,255
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#byline > a,0,Apple TV,0,Apple TV,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[2]/yt-formatted-string/a,A,Apple TV,26,54,711,281
+37,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#cta-button > a,0,Watch Now,0,Watch Now,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-video-masthead-ad-v3-renderer/div/div[4]/ytd-video-masthead-ad-advertiser-info-renderer/div/div[2]/div[3]/ytd-button-renderer/a,A,Watch Now,27,115,656,305
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"16:09
+    
+    
+    Läuft gerade",0,"16:09
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"16:09
+    
+    
+    Läuft gerade",28,258,96,443
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,29,36,96,603
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Surprising Charli D'Amelio With 10 Custom iPad Pros & Macbooks!!📱💻 ft. TikTok & LilHuddy (Giveaway),0,Surprising,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Surprising Charli D'Amelio With 10 Custom iPad Pros & Macbooks!!📱💻 ft. TikTok & LilHuddy (Giveaway),30,186,144,603
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,ZHC,0,ZHC,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,ZHC,31,29,144,649
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,32,24,330,603
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:08
+    
+    
+    Läuft gerade",0,"11:08
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:08
+    
+    
+    Läuft gerade",33,258,370,443
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,34,36,370,603
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,TU RIGOLES = T’ES FATIGUÉ,0,TU RIGOLES,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,TU RIGOLES = T’ES FATIGUÉ,35,177,418,603
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,SQUEEZIE,0,SQUEEZIE,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,SQUEEZIE,36,64,418,629
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,37,24,604,603
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:14
+    
+    
+    Läuft gerade",0,"14:14
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"14:14
+    
+    
+    Läuft gerade",38,258,644,443
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,39,36,644,603
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,How I Tricked My Brain To Like Doing Hard Things (dopamine detox),0,How I Tric,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,How I Tricked My Brain To Like Doing Hard Things (dopamine detox),40,186,692,603
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Better Than Yesterday,0,Better Tha,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Better Than Yesterday,41,138,692,649
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,42,24,878,603
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"28:04
+    
+    
+    Läuft gerade",0,"28:04
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"28:04
+    
+    
+    Läuft gerade",43,258,918,443
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,44,36,918,603
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Alle gelöschten Hermine Szenen - Harry Potter (German/HD),0,Alle gelös,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Alle gelöschten Hermine Szenen - Harry Potter (German/HD),45,186,966,603
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Breezyshark,0,Breezyshar,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Breezyshark,46,78,966,649
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,47,24,1152,603
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"22:18
+    
+    
+    Läuft gerade",0,"22:18
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"22:18
+    
+    
+    Läuft gerade",48,258,96,743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/a,A,,49,36,96,902
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Corona-Krise: Wie sind die Zustände in anderen Ländern? | Galileo | ProSieben,0,Corona-Kri,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Corona-Krise: Wie sind die Zustände in anderen Ländern? | Galileo | ProSieben,50,186,144,902
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Galileo,0,Galileo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Galileo,51,44,144,948
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,52,24,330,902
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"23:30
+    
+    
+    Läuft gerade",0,"23:30
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"23:30
+    
+    
+    Läuft gerade",53,258,370,743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/a,A,,54,36,370,902
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,The day we broke the World Record of 56 Kills in 1 match! (Fortnite),0,The day we,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,The day we broke the World Record of 56 Kills in 1 match! (Fortnite),55,186,418,902
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Nick Eh 30,0,Nick Eh 30,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Nick Eh 30,56,68,418,948
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,57,24,604,902
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"6:52
+    
+    
+    Läuft gerade",0,"6:52
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"6:52
+    
+    
+    Läuft gerade",58,258,644,743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/a,A,,59,36,644,902
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Simon Cowell TALKS TOO SOON! | Britain's Got Talent Unforgettable Audition,0,Simon Cowe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Simon Cowell TALKS TOO SOON! | Britain's Got Talent Unforgettable Audition,60,186,692,902
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Britain's Got Talent,0,Britain's ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Britain's Got Talent,61,117,692,948
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,62,24,878,902
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"2:36
+    
+    
+    Läuft gerade",0,"2:36
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"2:36
+    
+    
+    Läuft gerade",63,258,918,743
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/a,A,,64,36,918,902
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Celebrities Read Mean Tweets #8,0,Celebritie,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Celebrities Read Mean Tweets #8,65,186,966,902
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Jimmy Kimmel Live,0,Jimmy Kimm,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Jimmy Kimmel Live,66,123,966,948
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,67,24,1152,902
+24,yt-simple-endpoint style-scope ytd-rich-shelf-renderer,div#title-text > a,0,Trends,0,Trends,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div/h2/div/div/div/a,A,Trends,68,62,104,1052
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"18:38
+    
+    
+    Läuft gerade",0,"18:38
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"18:38
+    
+    
+    Läuft gerade",69,258,96,1100
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,70,36,96,1260
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,JE REGARDE UN ÉPISODE DE NEXT (10 ans après) #5,0,JE REGARDE,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,JE REGARDE UN ÉPISODE DE NEXT (10 ans après) #5,71,186,144,1260
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Mastu,0,Mastu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Mastu,72,41,144,1306
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,73,24,330,1260
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"27:30
+    
+    
+    Läuft gerade",0,"27:30
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"27:30
+    
+    
+    Läuft gerade",74,258,370,1100
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,75,36,370,1260
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Deutschland-Japan-Duell | Porsche 718 Cayman S vs. Toyota GR Supra | GRIP,0,Deutschlan,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Deutschland-Japan-Duell | Porsche 718 Cayman S vs. Toyota GR Supra | GRIP,76,186,418,1260
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,GRIP - Das Motormagazin,0,GRIP - Das,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,GRIP - Das Motormagazin,77,161,418,1306
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,78,24,604,1260
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:04
+    
+    
+    Läuft gerade",0,"10:04
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:04
+    
+    
+    Läuft gerade",79,258,644,1100
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,80,36,644,1260
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,iPhone SE (2020) Review: It All Adds Up!,0,iPhone SE ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,iPhone SE (2020) Review: It All Adds Up!,81,186,692,1260
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Marques Brownlee,0,Marques Br,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Marques Brownlee,82,117,692,1306
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,83,24,878,1260
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"42:56
+    
+    
+    Läuft gerade",0,"42:56
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"42:56
+    
+    
+    Läuft gerade",84,258,918,1100
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,85,36,918,1260
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Der Wettbewerb beginnt // Instant Influencer,0,Der Wettbe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Der Wettbewerb beginnt // Instant Influencer,86,186,966,1282
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,James Charles,0,James Char,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,James Charles,87,94,966,1328
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,88,24,1152,1260
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#show-more-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a,A,,89,40,616,1404
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,90,24,624,1412
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:08
+    
+    
+    Läuft gerade",0,"10:08
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:08
+    
+    
+    Läuft gerade",91,258,96,1490
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/a,A,,92,36,96,1649
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Water Tower Collapse Compillation,0,Water Towe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Water Tower Collapse Compillation,93,186,144,1649
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Empty Nest Adventures,0,Empty Nest,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Empty Nest Adventures,94,147,144,1695
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,95,24,330,1649
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:39
+    
+    
+    Läuft gerade",0,"3:39
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"3:39
+    
+    
+    Läuft gerade",96,258,370,1490
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/a,A,,97,36,370,1649
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,[Deutsche Untertitel] Ich habe meinen Hund und meine Katze lange umarmt.,0,[Deutsche ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,[Deutsche Untertitel] Ich habe meinen Hund und meine Katze lange umarmt.,98,186,418,1649
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,밀키와 복이MilkyBoki,0,밀키와 복이Milk,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,밀키와 복이MilkyBoki,99,125,418,1695
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,100,24,604,1649
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:29
+    
+    
+    Läuft gerade",0,"11:29
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:29
+    
+    
+    Läuft gerade",101,258,644,1490
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/a,A,,102,36,644,1649
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Inside an $88M Bel Air Mansion with a Hidden Car Elevator | On the Market | Architectural Digest,0,Inside an ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Inside an $88M Bel Air Mansion with a Hidden Car Elevator | On the Market | Architectural Digest,103,186,692,1649
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Architectural Digest,0,Architectu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Architectural Digest,104,124,692,1695
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,105,24,878,1649
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"18:37
+    
+    
+    Läuft gerade",0,"18:37
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"18:37
+    
+    
+    Läuft gerade",106,258,918,1490
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/a,A,,107,36,918,1649
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha,0,Master Shi,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha,108,186,966,1649
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,TEDx Talks,0,TEDx Talks,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,TEDx Talks,109,70,966,1695
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,110,24,1152,1649
+100,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/ytd-thumbnail/a,A,,111,100,96,1817
+36,yt-simple-endpoint style-scope ytd-button-renderer,div#button > ytd-button-renderer > a,0,Mehr erfahren,0,Mehr erfah,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div/div[2]/ytd-button-renderer/a,A,Mehr erfahren,112,175,212,1882
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#dismiss-button > ytd-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a,A,,113,40,1136,1809
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,114,24,1144,1817
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:24
+    
+    
+    Läuft gerade",0,"8:24
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"8:24
+    
+    
+    Läuft gerade",115,258,96,1986
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/a,A,,116,36,96,2146
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Wibmer's Law - Fabio Wibmer,0,Wibmer's L,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Wibmer's Law - Fabio Wibmer,117,186,144,2146
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Fabio Wibmer,0,Fabio Wibm,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Fabio Wibmer,118,87,144,2172
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,119,24,330,2146
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:33
+    
+    
+    Läuft gerade",0,"11:33
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:33
+    
+    
+    Läuft gerade",120,258,370,1986
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/a,A,,121,36,370,2146
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,How To Turn Awkwardness Into Confidence,0,How To Tur,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,How To Turn Awkwardness Into Confidence,122,186,418,2146
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Charisma on Command,0,Charisma o,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Charisma on Command,123,149,418,2192
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,124,24,604,2146
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"20:24
+    
+    
+    Läuft gerade",0,"20:24
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"20:24
+    
+    
+    Läuft gerade",125,258,644,1986
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/a,A,,126,36,644,2146
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Moto VS monoplace : qu'est-ce qui est le plus rapide ?,0,Moto VS mo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Moto VS monoplace : qu'est-ce qui est le plus rapide ?,127,186,692,2146
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,High Side,0,High Side,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,High Side,128,61,692,2192
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,129,24,878,2146
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:24
+    
+    
+    Läuft gerade",0,"10:24
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:24
+    
+    
+    Läuft gerade",130,258,918,1986
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/a,A,,131,36,918,2146
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Les énigmes me rendent fou,0,Les énigme,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Les énigmes me rendent fou,132,186,966,2146
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,SQUEEZIE,0,SQUEEZIE,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,SQUEEZIE,133,64,966,2172
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,134,24,1152,2146
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"13:02
+    
+    
+    Läuft gerade",0,"13:02
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"13:02
+    
+    
+    Läuft gerade",135,258,96,2286
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/a,A,,136,36,96,2446
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,I Ordered Pizza And Tipped The House,0,I Ordered ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,I Ordered Pizza And Tipped The House,137,186,144,2446
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,MrBeast,0,MrBeast,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,MrBeast,138,54,144,2492
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,139,24,330,2446
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"4:04
+    
+    
+    Läuft gerade",0,"4:04
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"4:04
+    
+    
+    Läuft gerade",140,258,370,2286
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/a,A,,141,36,370,2446
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,FAST AND FURIOUS 9 Trailer (4K ULTRA HD) NEW 2020,0,FAST AND F,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,FAST AND FURIOUS 9 Trailer (4K ULTRA HD) NEW 2020,142,186,418,2446
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,FilmSpot Trailer,0,FilmSpot T,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,FilmSpot Trailer,143,99,418,2492
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,144,24,604,2446
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"4:30
+    
+    
+    Läuft gerade",0,"4:30
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"4:30
+    
+    
+    Läuft gerade",145,258,644,2286
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/a,A,,146,36,644,2446
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Tony Hawk Skates First Downward Spiral Loop - BTS,0,Tony Hawk ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Tony Hawk Skates First Downward Spiral Loop - BTS,147,186,692,2446
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,RIDE Channel,0,RIDE Chann,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,RIDE Channel,148,85,692,2492
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,149,24,878,2446
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"9:13
+    
+    
+    Läuft gerade",0,"9:13
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"9:13
+    
+    
+    Läuft gerade",150,258,918,2286
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/a,A,,151,36,918,2446
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"Eine Auswahl von positiven und berührenden Momenten, um gute Laune zu heben",0,Eine Auswa,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"Eine Auswahl von positiven und berührenden Momenten, um gute Laune zu heben",152,186,966,2446
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Podborkın TV,0,Podborkın ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Podborkın TV,153,85,966,2492
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,154,24,1152,2446
+44,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/ytd-miniplayer/div[2]/div/ytd-miniplayer-toast/ytd-thumbnail/a,A,,155,78,788,622

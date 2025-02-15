@@ -1,0 +1,452 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+33,css-1o0yzqm er09x8g2,button#desktop-sections-button,desktop-sections-button,,0,,BUTTON,/html/body/div/div/div/header/section/div/button,BUTTON,Sections,1,34,43,12
+33,css-fnhm75 ewfai8r0,div#app > div > div > header > section > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div/div/div/header/section/div/div[2]/button,BUTTON,SEARCH,2,34,85,12
+20,css-1f8er69,div#app > div > div > header > section > div > a,0,Skip to content,0,Skip to co,A,/html/body/div/div/div/header/section/div/a,A,Skip to content,3,25,154,11
+20,css-1f8er69,div#app > div > div > header > section > div > a:nth-of-type(2),0,Skip to site index,0,Skip to si,A,/html/body/div/div/div/header/section/div/a[2],A,Skip to site index,4,25,154,11
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li > a,0,U.S.,0,U.S.,A,/html/body/div/div/div/header/section/div[3]/ul/li/a,A,U.S.,5,36,472,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,International,0,Internatio,A,/html/body/div/div/div/header/section/div[3]/ul/li[2]/a,A,International,6,93,508,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Canada,0,Canada,A,/html/body/div/div/div/header/section/div[3]/ul/li[3]/a,A,Canada,7,55,601,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Español,0,Español,A,/html/body/div/div/div/header/section/div[3]/ul/li[4]/a,A,Español,8,60,656,17
+27,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,中文,0,中文,A,/html/body/div/div/div/header/section/div[3]/ul/li[5]/a,A,中文,9,37,716,14
+12,css-hnzl8o,section#masthead-bar-one > div > div:nth-of-type(2) > a,0,Today’s Paper,0,Today’s Pa,A,/html/body/div/div/div/header/section[2]/div/div[2]/a,A,Today’s Paper,10,69,43,82
+58,css-1q2j1fr eexq7ln0,div#app > div > div > header > div > div > a,0,,0,,A,/html/body/div/div/div/header/div/div/a,A,,11,430,378,47
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li > a,0,World,0,World,A,/html/body/div/div/div/header/div[4]/ul/li/a,A,World,12,37,103,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,U.S.,0,U.S.,A,/html/body/div/div/div/header/div[4]/ul/li[2]/a,A,U.S.,13,29,150,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Politics,0,Politics,A,/html/body/div/div/div/header/div[4]/ul/li[3]/a,A,Politics,14,44,190,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,N.Y.,0,N.Y.,A,/html/body/div/div/div/header/div[4]/ul/li[4]/a,A,N.Y.,15,28,244,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Business,0,Business,A,/html/body/div/div/div/header/div[4]/ul/li[5]/a,A,Business,16,54,282,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Opinion,0,Opinion,A,/html/body/div/div/div/header/div[4]/ul/li[6]/a,A,Opinion,17,47,346,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Tech,0,Tech,A,/html/body/div/div/div/header/div[4]/ul/li[7]/a,A,Tech,18,32,403,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Science,0,Science,A,/html/body/div/div/div/header/div[4]/ul/li[8]/a,A,Science,19,48,445,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Health,0,Health,A,/html/body/div/div/div/header/div[4]/ul/li[9]/a,A,Health,20,41,503,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,Sports,0,Sports,A,/html/body/div/div/div/header/div[4]/ul/li[10]/a,A,Sports,21,41,554,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,Arts,0,Arts,A,/html/body/div/div/div/header/div[4]/ul/li[11]/a,A,Arts,22,28,605,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Books,0,Books,A,/html/body/div/div/div/header/div[4]/ul/li[12]/a,A,Books,23,39,644,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,Style,0,Style,A,/html/body/div/div/div/header/div[4]/ul/li[13]/a,A,Style,24,33,693,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,Food,0,Food,A,/html/body/div/div/div/header/div[4]/ul/li[14]/a,A,Food,25,33,736,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,Travel,0,Travel,A,/html/body/div/div/div/header/div[4]/ul/li[15]/a,A,Travel,26,38,779,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(16) > a,0,Magazine,0,Magazine,A,/html/body/div/div/div/header/div[4]/ul/li[16]/a,A,Magazine,27,57,827,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(17) > a,0,T Magazine,0,T Magazine,A,/html/body/div/div/div/header/div[4]/ul/li[17]/a,A,T Magazine,28,66,894,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(18) > a,0,Real Estate,0,Real Estat,A,/html/body/div/div/div/header/div[4]/ul/li[18]/a,A,Real Estate,29,65,970,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(19) > a,0,Video,0,Video,A,/html/body/div/div/div/header/div[4]/ul/li[19]/a,A,Video,30,36,1045,133
+33,css-kej3w4,main#site-content > div > div > div > section > div > section > a,0,"With String of Lawsuit Losses, Trump Has Few Ways to Fight His Defeat",0,With Strin,A,/html/body/div/div[2]/main/div/div/div/section/div/section/a,A,"With String of Lawsuit Losses, Trump Has Few Ways to Fight His Defeat",31,1051,67,194
+44,css-kej3w4,main#site-content > div > div > div > section > div > section > a:nth-of-type(2),0,"President Trump’s efforts to use the courts to delay or block President-elect Joe Biden’s victory were turned aside in Pennsylvania, Arizona and Michigan.The legal losses came as Mr. Biden won Georgia and a day after election officials said “there is no evidence” that any voting systems malfunctioned.",0,President ,A,/html/body/div/div[2]/main/div/div/div/section/div/section/a[2],A,"President Trump’s efforts to use the courts to delay or block President-elect Joe Biden’s victory were turned aside in Pennsylvania, Arizona and Michigan.The legal losses came as Mr. Biden won Georgia and a day after election officials said “there is no evidence” that any voting systems malfunctioned.",32,1051,67,235
+400,0,main#site-content > div > div > div > section > div > section > div:nth-of-type(4) > div > section > div > a,0,"Washington
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Anna Moneymaker for The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Gwinnett County, Ga.
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Nicole Craine for The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Wilmington, Del.
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Amr Alfiky/The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Phoenix
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Jim Urquhart/Reuters
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Pittsburgh
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Steve Mellon/Pittsburgh Post-Gazette, via AP
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Detroit
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Brittany Greeson for The New York Times",0,Washington,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/a,A,"Washington
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Anna Moneymaker for The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Gwinnett County, Ga.
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Nicole Craine for The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Wilmington, Del.
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Amr Alfiky/The New York Times
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Phoenix
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Jim Urquhart/Reuters
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Pittsburgh
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Steve Mellon/Pittsburgh Post-Gazette, via AP
+            
+          
+        
+
+      
+
+        
+
+        
+          
+            
+                Detroit
+            
+          
+
+          
+            
+          
+
+          
+            
+          
+          
+          
+            
+              Brittany Greeson for The New York Times",33,1200,-7,291
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(2) > a,0,Biden Wins Georgia and Trump Wins North Carolina,0,Biden Wins,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/a,A,Biden Wins Georgia and Trump Wins North Carolina,34,1051,67,728
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(2) > a:nth-of-type(2),0,"As the two final states were called a week and a half after Election Day, President-elect Joe Biden had won 306 electoral votes. Catch up on the latest.",0,As the two,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/a[2],A,"As the two final states were called a week and a half after Election Day, President-elect Joe Biden had won 306 electoral votes. Catch up on the latest.",35,1051,67,759
+108,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div > article > div > div > div > a,0,Could State Legislatures Pick Electors to Vote for Trump? Not LikelySome Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president.,0,Could Stat,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div/article/div/div/div/a,A,Could State Legislatures Pick Electors to Vote for Trump? Not LikelySome Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president.,36,553,68,843
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div > article > div > div > div:nth-of-type(2) > a,0,"Dan Gleiter/The Patriot-News, via Associated Press",0,Dan Gleite,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div/article/div/div/div[2]/a,A,"Dan Gleiter/The Patriot-News, via Associated Press",37,553,68,993
+75,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div:nth-of-type(2) > article > div > div > a,0,"Federal Prosecutors Push Back on Barr Memo on Voter Fraud ClaimsThe prosecutors, assigned to monitor the election, said they had found no evidence to back any “substantial allegations” of voting irregularities.",0,Federal Pr,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div[2]/article/div/div/a,A,"Federal Prosecutors Push Back on Barr Memo on Voter Fraud ClaimsThe prosecutors, assigned to monitor the election, said they had found no evidence to back any “substantial allegations” of voting irregularities.",38,603,43,1534
+46,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div:nth-of-type(3) > article > div > div > a,0,"Once loyal to President Trump, law firms are now distancing themselves from his election fight.",0,Once loyal,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div[3]/article/div/div/a,A,"Once loyal to President Trump, law firms are now distancing themselves from his election fight.",39,603,43,1649
+196,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(3) > div > div > div > article > div > div > div > a,0,"LIVEAs U.S. Shatters Records, Lockdowns Return in Oregon and New MexicoOn Friday, more than 165,000 new cases and 68,516 hospitalizations were reported across the U.S., breaking each record for the fourth straight day.New Mexico’s “stay at home” order is the nation’s most sweeping statewide measure of the fall. Oregon will go into partial lockdown for two weeks.President Trump, without acknowledging the rapid surge in cases, offered a rosy assessment of the development of vaccine candidates. Here’s the latest.",0,LIVEAs U.S,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[3]/div/div/div/article/div/div/div/a,A,"LIVEAs U.S. Shatters Records, Lockdowns Return in Oregon and New MexicoOn Friday, more than 165,000 new cases and 68,516 hospitalizations were reported across the U.S., breaking each record for the fourth straight day.New Mexico’s “stay at home” order is the nation’s most sweeping statewide measure of the fall. Oregon will go into partial lockdown for two weeks.President Trump, without acknowledging the rapid surge in cases, offered a rosy assessment of the development of vaccine candidates. Here’s the latest.",40,553,68,1857
+75,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(3) > div > div > div:nth-of-type(2) > article > div > div > a,0,"8 Months After Virus Hit, Long Lines for Testing AgainAs the outbreak surges around the United States, the testing delays show the basic public health challenges that the country still faces.",0,8 Months A,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[3]/div/div/div[2]/article/div/div/a,A,"8 Months After Virus Hit, Long Lines for Testing AgainAs the outbreak surges around the United States, the testing delays show the basic public health challenges that the country still faces.",41,603,43,2125
+75,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(3) > div > div > div:nth-of-type(3) > article > div > div > a,0,Secret Service Struck Again by Coronavirus OutbreakAt least 30 officers in the agency’s Uniformed Division have tested positive in recent weeks. Another 60 or so were asked to isolate.,0,Secret Ser,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[3]/div/div/div[3]/article/div/div/a,A,Secret Service Struck Again by Coronavirus OutbreakAt least 30 officers in the agency’s Uniformed Division have tested positive in recent weeks. Another 60 or so were asked to isolate.,42,603,43,2240
+108,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div > article > div > div > div > a,0,Who Needs a Call From Your Opponent When the Pope Is on the Phone?Joe Biden’s first week as president-elect included conversations with world leaders and paying minimal attention to the president who refuses to concede.,0,Who Needs ,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div/article/div/div/div/a,A,Who Needs a Call From Your Opponent When the Pope Is on the Phone?Joe Biden’s first week as president-elect included conversations with world leaders and paying minimal attention to the president who refuses to concede.,43,553,68,2491
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div > article > div > div > div:nth-of-type(2) > a,0,Ruth Fremson/The New York Times,0,Ruth Frems,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div/article/div/div/div[2]/a,A,Ruth Fremson/The New York Times,44,553,68,2641
+46,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div:nth-of-type(2) > article > div > div > a,0,Stocks on Wall Street rallied to a record following President-elect Joe Biden’s victory and hopes for a new vaccine.,0,Stocks on ,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div[2]/article/div/div/a,A,Stocks on Wall Street rallied to a record following President-elect Joe Biden’s victory and hopes for a new vaccine.,45,603,43,3182
+98,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div:nth-of-type(3) > article > div > div > a,0,"Black Lives Matter Meets QAnon as Newest Members of Congress ArriveThe freshman class of the 117th Congress, featuring a new crop of conservative women and an ascendant left, attended a pandemic-era orientation.",0,Black Live,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div[3]/article/div/div/a,A,"Black Lives Matter Meets QAnon as Newest Members of Congress ArriveThe freshman class of the 117th Congress, featuring a new crop of conservative women and an ascendant left, attended a pandemic-era orientation.",46,603,43,3254
+108,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(6) > article > div > div > div > a,0,"Al Qaeda’s No. 2 Was Secretly Killed in Iran Three Months AgoIsraeli agents shot Abu Muhammad al-Masri on the streets of Tehran at the behest of the U.S., officials said. The killing was kept secret until now.",0,Al Qaeda’s,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[6]/article/div/div/div/a,A,"Al Qaeda’s No. 2 Was Secretly Killed in Iran Three Months AgoIsraeli agents shot Abu Muhammad al-Masri on the streets of Tehran at the behest of the U.S., officials said. The killing was kept secret until now.",47,553,68,3425
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(6) > article > div > div > div:nth-of-type(2) > a,0,Agence France-Presse — Getty Images,0,Agence Fra,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[6]/article/div/div/div[2]/a,A,Agence France-Presse — Getty Images,48,553,68,3575
+165,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(7) > article > div > div > div > a,0,"The Great Read‘The Crown’ Has Had Its Scandals, but There’s Nothing Like DianaThe face that launched a thousand tabloid stories — and books and documentaries and Instagram feeds — is taking center stage in the newest season of the Netflix series.",0,The Great ,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[7]/article/div/div/div/a,A,"The Great Read‘The Crown’ Has Had Its Scandals, but There’s Nothing Like DianaThe face that launched a thousand tabloid stories — and books and documentaries and Instagram feeds — is taking center stage in the newest season of the Netflix series.",49,553,68,4152
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(7) > article > div > div > div:nth-of-type(2) > a,0,Alex Bailey/Netflix,0,Alex Baile,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[7]/article/div/div/div[2]/a,A,Alex Bailey/Netflix,50,553,68,4359
+80,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(8) > div > div:nth-of-type(2) > div > article > div > div > div > a,0,"How We Travel NowTake virtual tango lessons in Argentina or visit vintage stores in Tokyo. Plus, more ideas for passing the time at home.",0,How We Tra,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[8]/div/div[2]/div/article/div/div/div/a,A,"How We Travel NowTake virtual tango lessons in Argentina or visit vintage stores in Tokyo. Plus, more ideas for passing the time at home.",51,553,68,4965
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(8) > div > div:nth-of-type(2) > div > article > div > div > div:nth-of-type(2) > a,0,iStock.com/Tanarch,0,iStock.com,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[8]/div/div[2]/div/article/div/div/div[2]/a,A,iStock.com/Tanarch,52,553,68,5087
+46,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(8) > div > div:nth-of-type(2) > div:nth-of-type(2) > article > div > div > a,0,Got some time? Stream all three seasons of Leah Remini’s documentary series on Scientology.,0,Got some t,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[8]/div/div[2]/div[2]/article/div/div/a,A,Got some time? Stream all three seasons of Leah Remini’s documentary series on Scientology.,53,603,43,5628
+23,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(8) > div > div:nth-of-type(2) > div:nth-of-type(3) > article > div > div > a,0,We have nine new books you should check out this weekend.,0,We have ni,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[8]/div/div[2]/div[3]/article/div/div/a,A,We have nine new books you should check out this weekend.,54,603,43,5700
+212,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div > article > div > div > div > a,0,Your Friday Evening BriefingHere’s what you need to know at the end of the day.,0,Your Frida,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div/article/div/div/div/a,A,Your Friday Evening BriefingHere’s what you need to know at the end of the day.,55,48,688,832
+145,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div > article > div > div > div > div > a,0,,0,,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div/article/div/div/div/div/a,A,,56,60,755,866
+136,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(2) > article > div > div > div > a,0,Listen to ‘The Daily’A non-transfer of power.,0,Listen to ,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div[2]/article/div/div/div/a,A,Listen to ‘The Daily’A non-transfer of power.,57,47,896,870
+244,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(3) > article > div > div > a,0,"The DealBook Online SummitBill Gates, Senator Elizabeth Warren, Jamie Dimon, Masayoshi Son, Killer Mike and more will join us.",0,The DealBo,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div[3]/article/div/div/a,A,"The DealBook Online SummitBill Gates, Senator Elizabeth Warren, Jamie Dimon, Masayoshi Son, Killer Mike and more will join us.",58,63,1079,810
+1,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div > div > a,0,Continue reading the main story,0,Continue r,A,/html/body/div/div[2]/main/div/div[2]/div/div[3]/div/div/div/a,A,Continue reading the main story,59,1,-8,5774
+14,css-c7fqqs,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > header > a,0,Opinion,0,Opinion,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/header/a,A,Opinion,60,61,58,6074
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div > article > div > div > div > a,0,Victor J. Blue for The New York Times,0,Victor J. ,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div/article/div/div/div/a,A,Victor J. Blue for The New York Times,61,554,83,6125
+77,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div > article > div > div > div:nth-of-type(2) > a,0,"Roger CohenMr. President, Pack Your Bags and Be GoneTrump wants to preserve, protect and defend only himself.",0,Roger Cohe,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div/article/div/div/div[2]/a,A,"Roger CohenMr. President, Pack Your Bags and Be GoneTrump wants to preserve, protect and defend only himself.",62,554,83,6640
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div:nth-of-type(2) > article > div > div > div > a,0,Leon Edler,0,Leon Edler,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div[2]/article/div/div/div/a,A,Leon Edler,63,554,83,6810
+77,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div:nth-of-type(2) > article > div > div > div:nth-of-type(2) > a,0,Séamas O’ReillyWatching CNN While Irish“John King is back on shift!” gasped my sister Caoimhe. “It must be close.”,0,Séamas O’R,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div[2]/article/div/div/div[2]/a,A,Séamas O’ReillyWatching CNN While Irish“John King is back on shift!” gasped my sister Caoimhe. “It must be close.”,64,554,83,7325
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div > article > div > a,0,Susan E. RiceHere’s How Trump’s Stalling Risks Our National Security,0,Susan E. R,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div/article/div/a,A,Susan E. RiceHere’s How Trump’s Stalling Risks Our National Security,65,288,58,7467
+44,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(2) > article > div > a,0,Aubrey GordonLeave Fat Kids Alone,0,Aubrey Gor,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[2]/article/div/a,A,Aubrey GordonLeave Fat Kids Alone,66,288,58,7556
+44,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(3) > article > div > a,0,Christian B. MillerJust How Dishonest Are Most Students?,0,Christian ,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[3]/article/div/a,A,Christian B. MillerJust How Dishonest Are Most Students?,67,288,58,7626
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(4) > article > div > a,0,Terri GersteinWhat Happened in California Is a Cautionary Tale for Us All,0,Terri Gers,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[4]/article/div/a,A,Terri GersteinWhat Happened in California Is a Cautionary Tale for Us All,68,288,58,7696
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(5) > article > div > a,0,Padma LakshmiVice President-Elect Kamala Harris Moved Me to Tears,0,Padma Laks,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[5]/article/div/a,A,Padma LakshmiVice President-Elect Kamala Harris Moved Me to Tears,69,288,58,7785
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(6) > article > div > a,0,Anna Louie Sussman‘Women’s Work’ Can No Longer Be Taken for Granted,0,Anna Louie,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[6]/article/div/a,A,Anna Louie Sussman‘Women’s Work’ Can No Longer Be Taken for Granted,70,288,375,7467
+44,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(7) > article > div > a,0,Michelle GoldbergThe Post-Presidency of a Con Man,0,Michelle G,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[7]/article/div/a,A,Michelle GoldbergThe Post-Presidency of a Con Man,71,288,375,7556
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(8) > article > div > a,0,Ivan KrastevThe Apocalyptic Politics of the Populist Right,0,Ivan Krast,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[8]/article/div/a,A,Ivan KrastevThe Apocalyptic Politics of the Populist Right,72,288,375,7626
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(9) > article > div > a,0,David Leonhardt‘There Is a Real Opportunity Here That I Think Biden Is Capturing’,0,David Leon,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[9]/article/div/a,A,David Leonhardt‘There Is a Real Opportunity Here That I Think Biden Is Capturing’,73,288,375,7715
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div > div > article > div > div > div > a,0,Nate Palmer for The New York Times,0,Nate Palme,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div/div/article/div/div/div/a,A,Nate Palmer for The New York Times,74,414,703,6114
+111,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div > div > article > div > div > div:nth-of-type(2) > a,0,"Abby Phillip Is Next-Gen CNNIn an election dominated by fast-talking policy dudes, her deliberate commentary and context stood out.",0,Abby Phill,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div/div/article/div/div/div[2]/a,A,"Abby Phillip Is Next-Gen CNNIn an election dominated by fast-talking policy dudes, her deliberate commentary and context stood out.",75,414,703,6628
+480,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div > article > div > div > div > a,0,,0,,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div/article/div/div/div/a,A,,76,414,703,6833
+165,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div > article > div > div > div:nth-of-type(2) > a,0,"For U.S. Stars in England, There Is Now Only Red and BlueFour mainstays of the U.S. women’s national team have joined the Manchester City and United clubs in England. What’s next? Learning how to be rivals.",0,For U.S. S,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div/article/div/div/div[2]/a,A,"For U.S. Stars in England, There Is Now Only Red and BlueFour mainstays of the U.S. women’s national team have joined the Manchester City and United clubs in England. What’s next? Learning how to be rivals.",77,414,703,7333
+56,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div:nth-of-type(2) > article > div > div > a,0,"I’m Tired of Babysitting Man-Babies at WorkPlus, our Work Friend on ending reply-all abuse once and for all.",0,I’m Tired ,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div[2]/article/div/div/a,A,"I’m Tired of Babysitting Man-Babies at WorkPlus, our Work Friend on ending reply-all abuse once and for all.",78,464,678,7564
+44,0,nav#site-index > div > header > a,0,,0,,A,/html/body/div/div[2]/nav/div/header/a,A,,79,184,43,7933
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li > a,0,Home Page,0,Home Page,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li/a,A,Home Page,80,150,43,8015
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(2) > a,0,World,0,World,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[2]/a,A,World,81,150,43,8041
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(3) > a,0,U.S.,0,U.S.,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[3]/a,A,U.S.,82,150,43,8067
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(4) > a,0,Politics,0,Politics,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[4]/a,A,Politics,83,150,43,8093
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(5) > a,0,Election Results,0,Election R,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[5]/a,A,Election Results,84,150,43,8119
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(6) > a,0,New York,0,New York,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[6]/a,A,New York,85,150,43,8145
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(7) > a,0,Business,0,Business,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[7]/a,A,Business,86,150,43,8171
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(8) > a,0,Tech,0,Tech,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[8]/a,A,Tech,87,150,43,8197
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(9) > a,0,Science,0,Science,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[9]/a,A,Science,88,150,43,8223
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(11) > a,0,Sports,0,Sports,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[11]/a,A,Sports,89,150,43,8249
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(12) > a,0,Obituaries,0,Obituaries,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[12]/a,A,Obituaries,90,150,43,8275
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(18) > a,0,Today's Paper,0,Today's Pa,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[18]/a,A,Today's Paper,91,150,43,8301
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(19) > a,0,Corrections,0,Correction,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[19]/a,A,Corrections,92,150,43,8327
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li > a,0,Today's Opinion,0,Today's Op,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li/a,A,Today's Opinion,93,150,224,8015
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Op-Ed Columnists,0,Op-Ed Colu,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[2]/a,A,Op-Ed Columnists,94,150,224,8041
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Editorials,0,Editorials,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[3]/a,A,Editorials,95,150,224,8067
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Op-Ed Contributors,0,Op-Ed Cont,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[4]/a,A,Op-Ed Contributors,96,150,224,8093
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Letters,0,Letters,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[5]/a,A,Letters,97,150,224,8119
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Sunday Review,0,Sunday Rev,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[6]/a,A,Sunday Review,98,150,224,8145
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Video: Opinion,0,Video: Opi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[7]/a,A,Video: Opinion,99,150,224,8171
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li > a,0,Today's Arts,0,Today's Ar,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li/a,A,Today's Arts,100,150,404,8015
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Art & Design,0,Art & Desi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[2]/a,A,Art & Design,101,150,404,8041
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Books,0,Books,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[3]/a,A,Books,102,150,404,8067
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Dance,0,Dance,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[4]/a,A,Dance,103,150,404,8093
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Movies,0,Movies,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[5]/a,A,Movies,104,150,404,8119
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Music,0,Music,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[6]/a,A,Music,105,150,404,8145
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Pop Culture,0,Pop Cultur,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[7]/a,A,Pop Culture,106,150,404,8171
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(8) > a,0,Television,0,Television,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[8]/a,A,Television,107,150,404,8197
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(9) > a,0,Theater,0,Theater,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[9]/a,A,Theater,108,150,404,8223
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(11) > a,0,Video: Arts,0,Video: Art,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[11]/a,A,Video: Arts,109,150,404,8249
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li > a,0,At Home,0,At Home,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li/a,A,At Home,110,150,584,8015
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Automobiles,0,Automobile,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[2]/a,A,Automobiles,111,150,584,8041
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Games,0,Games,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[3]/a,A,Games,112,150,584,8067
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Education,0,Education,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[4]/a,A,Education,113,150,584,8093
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Food,0,Food,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[5]/a,A,Food,114,150,584,8119
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Health,0,Health,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[6]/a,A,Health,115,150,584,8145
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Jobs,0,Jobs,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[7]/a,A,Jobs,116,150,584,8171
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Love,0,Love,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[8]/a,A,Love,117,150,584,8197
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Magazine,0,Magazine,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[9]/a,A,Magazine,118,150,584,8223
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,Parenting,0,Parenting,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[10]/a,A,Parenting,119,150,584,8249
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,Real Estate,0,Real Estat,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[11]/a,A,Real Estate,120,150,584,8275
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Recipes,0,Recipes,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[12]/a,A,Recipes,121,150,584,8301
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,Style,0,Style,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[13]/a,A,Style,122,150,584,8327
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,T Magazine,0,T Magazine,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[14]/a,A,T Magazine,123,150,584,8353
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,Travel,0,Travel,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[15]/a,A,Travel,124,150,584,8379
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li > a,0,Reader Center,0,Reader Cen,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li/a,A,Reader Center,125,150,765,8015
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Wirecutter,0,Wirecutter,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[2]/a,A,Wirecutter,126,150,765,8041
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Live Events,0,Live Event,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[3]/a,A,Live Events,127,150,765,8067
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,The Learning Network,0,The Learni,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[4]/a,A,The Learning Network,128,150,765,8093
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,Tools & Services,0,Tools & Se,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[5]/a,A,Tools & Services,129,150,765,8119
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(6) > a,0,Multimedia,0,Multimedia,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[6]/a,A,Multimedia,130,150,765,8145
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(7) > a,0,Photography,0,Photograph,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[7]/a,A,Photography,131,150,765,8171
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(8) > a,0,Video,0,Video,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[8]/a,A,Video,132,150,765,8197
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(9) > a,0,Newsletters,0,Newsletter,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[9]/a,A,Newsletters,133,150,765,8223
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(10) > a,0,TimesMachine,0,TimesMachi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[10]/a,A,TimesMachine,134,150,765,8249
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(11) > a,0,NYT Store,0,NYT Store,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[11]/a,A,NYT Store,135,150,765,8275
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(12) > a,0,Times Journeys,0,Times Jour,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[12]/a,A,Times Journeys,136,150,765,8301
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(13) > a,0,Manage My Account,0,Manage My ,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[13]/a,A,Manage My Account,137,150,765,8327
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li > a,0,Home Delivery,0,Home Deliv,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li/a,A,Home Delivery,138,150,961,8015
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,Digital Subscriptions,0,Digital Su,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[2]/a,A,Digital Subscriptions,139,150,961,8047
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3) > a,0,Games,0,Games,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[3]/a,A,Games,140,150,961,8080
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(4) > a,0,Cooking,0,Cooking,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[4]/a,A,Cooking,141,150,961,8112
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li > a,0,Email Newsletters,0,Email News,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li/a,A,Email Newsletters,142,150,961,8148
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Corporate Subscriptions,0,Corporate ,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li[2]/a,A,Corporate Subscriptions,143,150,961,8172
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Education Rate,0,Education ,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li[3]/a,A,Education Rate,144,150,961,8196
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li > a,0,Mobile Applications,0,Mobile App,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li/a,A,Mobile Applications,145,150,961,8233
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(2) > a,0,Replica Edition,0,Replica Ed,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[2]/a,A,Replica Edition,146,150,961,8257
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,International,0,Internatio,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[3]/a,A,International,147,150,961,8281
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(4) > a,0,Canada,0,Canada,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[4]/a,A,Canada,148,150,961,8305
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(5) > a,0,Español,0,Español,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[5]/a,A,Español,149,150,961,8329
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(6) > a,0,中文网,0,中文网,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[6]/a,A,中文网,150,150,961,8353
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul > li > a,0,© 2020 The New York Times Company,0,© 2020 The,A,/html/body/div/div[2]/footer/nav/ul/li/a,A,© 2020 The New York Times Company,151,177,54,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li > a,0,NYTCo,0,NYTCo,A,/html/body/div/div[2]/footer/nav/ul[2]/li/a,A,NYTCo,152,32,242,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Contact Us,0,Contact Us,A,/html/body/div/div[2]/footer/nav/ul[2]/li[2]/a,A,Contact Us,153,51,294,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Work with us,0,Work with ,A,/html/body/div/div[2]/footer/nav/ul[2]/li[3]/a,A,Work with us,154,59,365,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Advertise,0,Advertise,A,/html/body/div/div[2]/footer/nav/ul[2]/li[4]/a,A,Advertise,155,43,444,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,T Brand Studio,0,T Brand St,A,/html/body/div/div[2]/footer/nav/ul[2]/li[5]/a,A,T Brand Studio,156,69,508,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,Your Ad Choices,0,Your Ad Ch,A,/html/body/div/div[2]/footer/nav/ul[2]/li[6]/a,A,Your Ad Choices,157,74,597,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(7) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div/div[2]/footer/nav/ul[2]/li[7]/a,A,Privacy Policy,158,64,691,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(8) > a,0,Terms of Service,0,Terms of S,A,/html/body/div/div[2]/footer/nav/ul[2]/li[8]/a,A,Terms of Service,159,77,775,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(9) > a,0,Terms of Sale,0,Terms of S,A,/html/body/div/div[2]/footer/nav/ul[2]/li[9]/a,A,Terms of Sale,160,63,872,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(10) > a,0,Site Map,0,Site Map,A,/html/body/div/div[2]/footer/nav/ul[2]/li[10]/a,A,Site Map,161,41,955,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(13) > a,0,Help,0,Help,A,/html/body/div/div[2]/footer/nav/ul[2]/li[13]/a,A,Help,162,21,1016,8416
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(14) > a,0,Subscriptions,0,Subscripti,A,/html/body/div/div[2]/footer/nav/ul[2]/li[14]/a,A,Subscriptions,163,63,1058,8416

@@ -1,0 +1,43 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+1,u-hiddenVisually focusable,html > body > a,0,ವಿಷಯಕ್ಕೆ ಸ್ಕಿಪ್ ಮಾಡಿ,0,ವಿಷಯಕ್ಕೆ ಸ,A,/html/body/a,A,ವಿಷಯಕ್ಕೆ ಸ್ಕಿಪ್ ಮಾಡಿ,1,1,0,0
+48,js-nav js-tooltip js-dynamic-tooltip,li#global-nav-home > a,0,"ಹೋಮ್
+      ಹೋಮ್
+      ಹೋಮ್, ಪ್ರಸ್ತುತ ಪುಟ.",0,"ಹೋಮ್
+     ",A,/html/body/div/div/div/div/div/ul/li/a,A,"ಹೋಮ್
+      ಹೋಮ್
+      ಹೋಮ್, ಪ್ರಸ್ತುತ ಪುಟ.",2,105,155,0
+48,js-nav js-tooltip js-dynamic-tooltip,li#global-nav-moments > a,0,"ಕ್ಷಣಗಳು
+        ಕ್ಷಣಗಳು
+        ಕ್ಷಣಗಳು, ಪ್ರಸ್ತುತ ಪುಟ.",0,"ಕ್ಷಣಗಳು
+  ",A,/html/body/div/div/div/div/div/ul/li[2]/a,A,"ಕ್ಷಣಗಳು
+        ಕ್ಷಣಗಳು
+        ಕ್ಷಣಗಳು, ಪ್ರಸ್ತುತ ಪುಟ.",3,99,260,0
+13,dropdown-toggle js-dropdown-toggle,div#doc > div > div > div > div > div > ul > li > a,0,ಭಾಷೆ: ಕನ್ನಡ,0,ಭಾಷೆ: ಕನ್ನ,A,/html/body/div/div/div/div/div/div/ul/li/a,A,ಭಾಷೆ: ಕನ್ನಡ,4,76,939,17
+37,tweet-text,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > p > a,0,National moment of silence happening now. #Ferguson #JusticeForMikeBrown,0,National m,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/p/a,A,National moment of silence happening now. #Ferguson #JusticeForMikeBrown,5,344,182,467
+17,tweet-username,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(2) > a,0,@Thursday_Neal ಅವರಿಂದ ಟ್ವೀಟ್ ಮತ್ತು ಫೋಟೋ,0,@Thursday_,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/p[2]/a,A,@Thursday_Neal ಅವರಿಂದ ಟ್ವೀಟ್ ಮತ್ತು ಫೋಟೋ,6,289,182,527
+20,time tweet-time,div#front-container > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > a,0,5:24 PM - 14 Aug 2014,0,5:24 PM - ,A,/html/body/div/div[2]/div/div/div[2]/div/div[2]/div[4]/a,A,5:24 PM - 14 Aug 2014,7,145,182,552
+30,text-input email-input,input#signin-email,signin-email,,session[username_or_email],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div/input,INPUT,,8,276,731,130
+30,text-input flex-table-input,input#signin-password,signin-password,,session[password],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/table/tbody/tr/td/div/input,INPUT,,9,169,731,175
+30,submit EdgeButton EdgeButton--medium EdgeButton--secondary flex-table-btn js-submit,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > table > tbody > tr > td:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div/div[2]/div/div/div[2]/div[2]/form/table/tbody/tr/td[2]/button,BUTTON,ಲಾಗ್ ಇನ್,10,99,908,175
+13,0,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > div:nth-of-type(2) > label > input,0,,remember_me,,INPUT,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div[2]/label/input,INPUT,,11,13,731,211
+14,forgot,div#front-container > div:nth-of-type(2) > div:nth-of-type(2) > form > div:nth-of-type(2) > a,0,ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?,0,ಪಾಸ್‌ವರ್ಡ್,A,/html/body/div/div[2]/div/div/div[2]/div[2]/form/div[2]/a,A,ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?,12,131,837,213
+30,text-input,form#frontpage-signup-form > div > input,0,,user[name],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div/input,INPUT,,13,276,731,326
+30,text-input email-input,form#frontpage-signup-form > div:nth-of-type(2) > input,0,,user[email],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div[2]/input,INPUT,,14,276,731,362
+30,text-input,form#frontpage-signup-form > div:nth-of-type(3) > input,0,,user[user_password],,INPUT,/html/body/div/div[2]/div/div/div[2]/div[3]/form/div[3]/input,INPUT,,15,276,731,398
+34,EdgeButton EdgeButton--medium EdgeButton--primary u-floatRight submit,form#frontpage-signup-form > button,0,,0,,BUTTON,/html/body/div/div[2]/div/div/div[2]/div[3]/form/button,BUTTON,Twitter ಗೆ ಸೈನ್ ಅಪ್ ಮಾಡಿ,16,200,807,434
+14,0,div#front-container > div:nth-of-type(4) > ul > li > a,0,ಕುರಿತು,0,ಕುರಿತು,A,/html/body/div/div[2]/div/div/div[4]/ul/li/a,A,ಕುರಿತು,17,31,23,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,ಸಹಾಯ ಕೇಂದ್ರ,0,ಸಹಾಯ ಕೇಂದ್,A,/html/body/div/div[2]/div/div/div[4]/ul/li[2]/a,A,ಸಹಾಯ ಕೇಂದ್ರ,18,72,63,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,ಬ್ಲಾಗ್,0,ಬ್ಲಾಗ್,A,/html/body/div/div[2]/div/div/div[4]/ul/li[3]/a,A,ಬ್ಲಾಗ್,19,27,145,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,ಸ್ಥಿತಿ,0,ಸ್ಥಿತಿ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[4]/a,A,ಸ್ಥಿತಿ,20,17,181,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,ಉದ್ಯೋಗಗಳು,0,ಉದ್ಯೋಗಗಳು,A,/html/body/div/div[2]/div/div/div[4]/ul/li[5]/a,A,ಉದ್ಯೋಗಗಳು,21,69,207,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,ನಿಯಮಗಳು,0,ನಿಯಮಗಳು,A,/html/body/div/div[2]/div/div/div[4]/ul/li[6]/a,A,ನಿಯಮಗಳು,22,60,285,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,ಗೌಪ್ಯತಾ ನೀತಿ,0,ಗೌಪ್ಯತಾ ನೀ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[7]/a,A,ಗೌಪ್ಯತಾ ನೀತಿ,23,63,354,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,ಕುಕೀಗಳು,0,ಕುಕೀಗಳು,A,/html/body/div/div[2]/div/div/div[4]/ul/li[8]/a,A,ಕುಕೀಗಳು,24,44,427,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,ಜಾಹೀರಾತುಗಳ ಮಾಹಿತಿ,0,ಜಾಹೀರಾತುಗಳ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[9]/a,A,ಜಾಹೀರಾತುಗಳ ಮಾಹಿತಿ,25,110,480,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,ಬ್ರ್ಯಾಂಡ್,0,ಬ್ರ್ಯಾಂಡ್,A,/html/body/div/div[2]/div/div/div[4]/ul/li[10]/a,A,ಬ್ರ್ಯಾಂಡ್,26,40,599,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,ಜಾಹೀರಾತು ನೀಡಿ,0,ಜಾಹೀರಾತು ನ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[11]/a,A,ಜಾಹೀರಾತು ನೀಡಿ,27,81,649,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Marketing,0,Marketing,A,/html/body/div/div[2]/div/div/div[4]/ul/li[12]/a,A,Marketing,28,54,739,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,ವ್ಯವಹಾರಗಳು,0,ವ್ಯವಹಾರಗಳು,A,/html/body/div/div[2]/div/div/div[4]/ul/li[13]/a,A,ವ್ಯವಹಾರಗಳು,29,66,802,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,ಅಭಿವೃದ್ಧಿಕಾರರು,0,ಅಭಿವೃದ್ಧಿಕ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[14]/a,A,ಅಭಿವೃದ್ಧಿಕಾರರು,30,73,877,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,ಡೈರೆಕ್ಟರಿ,0,ಡೈರೆಕ್ಟರಿ,A,/html/body/div/div[2]/div/div/div[4]/ul/li[15]/a,A,ಡೈರೆಕ್ಟರಿ,31,36,959,643
+14,0,div#front-container > div:nth-of-type(4) > ul > li:nth-of-type(16) > a,0,ಸಂಯೋಜನೆಗಳು,0,ಸಂಯೋಜನೆಗಳು,A,/html/body/div/div[2]/div/div/div[4]/ul/li[16]/a,A,ಸಂಯೋಜನೆಗಳು,32,79,1004,643

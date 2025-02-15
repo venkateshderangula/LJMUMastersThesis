@@ -1,0 +1,36 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+16,0,div#body > section > div > div > p > a,0,cookies,0,cookies,A,/html/body/div/section/div/div/p/a,A,cookies,1,42,397,12
+25,notification-close,a#cookie-alert-close,cookie-alert-close,Sluiten,0,Sluiten,A,/html/body/div/section/div/div/p/a[2],A,Sluiten,2,25,1139,7
+48,paypal-img-logo,div#body > header > div > div > a:nth-of-type(2),0,PayPal,0,PayPal,A,/html/body/div/header/div/div/a[2],A,PayPal,3,136,55,51
+50,0,a#header-consumenten,header-consumenten,CONSUMENTEN,0,CONSUMENTE,A,/html/body/div/header/div/div/nav/ul/li/a,A,CONSUMENTEN,4,178,364,61
+50,0,a#header-bedrijven,header-bedrijven,BEDRIJVEN,0,BEDRIJVEN,A,/html/body/div/header/div/div/nav/ul/li[2]/a,A,BEDRIJVEN,5,144,548,61
+50,0,a#header-partners,header-partners,PARTNERS,0,PARTNERS,A,/html/body/div/header/div/div/nav/ul/li[3]/a,A,PARTNERS,6,134,702,61
+36,btn btn-small btn-secondary,a#ul-btn,ul-btn,Inloggen,0,Inloggen,A,/html/body/div/header/div/div/div/a,A,Inloggen,7,84,969,57
+36,btn btn-small btn-signup,a#signup-button,signup-button,Aanmelden,0,Aanmelden,A,/html/body/div/header/div/div/div/a[2],A,Aanmelden,8,84,1061,57
+51,btn heroBtn span8 col-sm-8 span6 center-block ,div#main > section > div:nth-of-type(2) > div > div > a,0,Open een gratis PayPal-rekening,0,Open een g,A,/html/body/div/div/section/div[2]/div/div/a,A,Open een gratis PayPal-rekening,9,356,411,445
+53,contentLink btn blue-border-button,section#panel-one > div > div > a,0,Meer informatie,0,Meer infor,A,/html/body/div/div/section[2]/div/div/a,A,Meer informatie,10,200,102,1035
+53,contentLink btn blue-border-button,section#panel-one > div > div:nth-of-type(2) > a,0,Meer informatie,0,Meer infor,A,/html/body/div/div/section[2]/div/div[2]/a,A,Meer informatie,11,200,486,1035
+53,contentLink btn blue-border-button,section#panel-one > div > div:nth-of-type(3) > a,0,Meer informatie,0,Meer infor,A,/html/body/div/div/section[2]/div/div[3]/a,A,Meer informatie,12,200,880,1035
+40,buyers selected,section#buyers > header > div > a,0,Voor kopers,0,Voor koper,A,/html/body/div/div/section[3]/header/div/a,A,Voor kopers,13,96,492,1342
+39,sellers,section#buyers > header > div > a:nth-of-type(2),0,Voor verkopers,0,Voor verko,A,/html/body/div/div/section[3]/header/div/a[2],A,Voor verkopers,14,116,612,1342
+19,0,section#buyers > div > div > p:nth-of-type(2) > a,0,Open een rekening,0,Open een r,A,/html/body/div/div/section[3]/div/div/p[2]/a,A,Open een rekening,15,123,112,1596
+53,contentLink btn blue-border-button,section#buyers > a,0,Meer informatie,0,Meer infor,A,/html/body/div/div/section[3]/a,A,Meer informatie,16,200,497,1742
+19,0,section#panel-two > div > div > p > a,0,Gebruikersovereenkomst,0,Gebruikers,A,/html/body/div/div/section[5]/div/div/p/a,A,Gebruikersovereenkomst,17,179,86,2343
+23,contentLink,section#panel-two > div > div > a,0,Meer informatie over beveiliging,0,Meer infor,A,/html/body/div/div/section[5]/div/div/a,A,Meer informatie over beveiliging,18,233,36,2378
+23,contentLink,section#panel-two > div > div:nth-of-type(2) > a,0,Meer informatie over One Touch™,0,Meer infor,A,/html/body/div/div/section[5]/div/div[2]/a,A,Meer informatie over One Touch™,19,240,420,2378
+23,contentLink,section#panel-two > div > div:nth-of-type(3) > a,0,Download de mobiele app,0,Download d,A,/html/body/div/div/section[5]/div/div[3]/a,A,Download de mobiele app,20,183,803,2378
+51,btn closing-cta center-block ,div#main > section:nth-of-type(6) > div > div > a,0,Open een rekening,0,Open een r,A,/html/body/div/div/section[6]/div/div/a,A,Open een rekening,21,338,431,2643
+44,0,div#body > footer > div > ul > li > a,0,Hulp en Contact,0,Hulp en Co,A,/html/body/div/footer/div/ul/li/a,A,Hulp en Contact,22,100,71,2824
+44,0,div#body > footer > div > ul > li:nth-of-type(2) > a,0,Kosten,0,Kosten,A,/html/body/div/footer/div/ul/li[2]/a,A,Kosten,23,43,201,2824
+44,0,div#body > footer > div > ul > li:nth-of-type(3) > a,0,Veiligheid,0,Veiligheid,A,/html/body/div/footer/div/ul/li[3]/a,A,Veiligheid,24,60,274,2824
+44,0,div#body > footer > div > ul > li:nth-of-type(4) > a,0,Opties,0,Opties,A,/html/body/div/footer/div/ul/li[4]/a,A,Opties,25,40,364,2824
+44,0,div#body > footer > div > ul > li:nth-of-type(5) > a,0,Shopping,0,Shopping,A,/html/body/div/footer/div/ul/li[5]/a,A,Shopping,26,58,434,2824
+24,country netherlands,div#body > footer > div > ul > li:nth-of-type(6) > a,0,Wijzig taal of land,0,Wijzig taa,A,/html/body/div/footer/div/ul/li[6]/a,A,Wijzig taal of land,27,32,1132,2835
+36,search-icon,div#body > footer > div > ul > li:nth-of-type(7) > a,0,Zoeken,0,Zoeken,A,/html/body/div/footer/div/ul/li[7]/a,A,Zoeken,28,30,36,2829
+26,0,div#body > footer > div > ul:nth-of-type(2) > li > a,0,Over ons,0,Over ons,A,/html/body/div/footer/div/ul[2]/li/a,A,Over ons,29,47,36,2877
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Vacatures,0,Vacatures,A,/html/body/div/footer/div/ul[2]/li[2]/a,A,Vacatures,30,52,104,2877
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Developers,0,Developers,A,/html/body/div/footer/div/ul[2]/li[3]/a,A,Developers,31,59,179,2877
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Partners,0,Partners,A,/html/body/div/footer/div/ul[2]/li[4]/a,A,Partners,32,46,259,2877
+26,0,li#footer-privacy > a,0,Privacy,0,Privacy,A,/html/body/div/footer/div/ul[3]/li[2]/a,A,Privacy,33,39,986,2877
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,Juridisch,0,Juridisch,A,/html/body/div/footer/div/ul[3]/li[3]/a,A,Juridisch,34,45,1047,2877
+26,0,li#siteFeedback > a,0,Feedback,0,Feedback,A,/html/body/div/footer/div/ul[3]/li[4]/a,A,Feedback,35,50,1114,2877

@@ -1,0 +1,24 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li > a,0,Jobs finden,0,Jobs finde,A,/html/body/div/div/nav/ul/li/a,A,Jobs finden,1,63,32,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(2) > a,0,Unternehmensbewertungen,0,Unternehme,A,/html/body/div/div/nav/ul/li[2]/a,A,Unternehmensbewertungen,2,149,119,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul > li:nth-of-type(3) > a,0,Arbeitgeber/Job schalten,0,Arbeitgebe,A,/html/body/div/div/nav/ul/li[3]/a,A,Arbeitgeber/Job schalten,3,135,292,2
+36,icl-DesktopGlobalHeader-link icl-DesktopGlobalHeader-link--promo,div#desktopGlobalHeader > nav > ul:nth-of-type(2) > li > a,0,Laden Sie Ihren Lebenslauf hoch,0,Laden Sie ,A,/html/body/div/div/nav/ul[2]/li/a,A,Laden Sie Ihren Lebenslauf hoch,4,176,914,2
+36,icl-DesktopGlobalHeader-link,div#desktopGlobalHeader > nav > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Anmelden,0,Anmelden,A,/html/body/div/div/nav/ul[2]/li[2]/a,A,Anmelden,5,54,1114,2
+44,icl-TextInput-control icl-TextInput-control--whatWhere,input#text-input-what,text-input-what,,q,,INPUT,/html/body/div/div[2]/div[2]/div/form/div/div/div/div/div[2]/input,INPUT,,6,318,275,171
+44,icl-TextInput-control icl-TextInput-control--whatWhere,input#text-input-where,text-input-where,,l,,INPUT,/html/body/div/div[2]/div[2]/div/form/div[2]/div/div/div/div[2]/input,INPUT,,7,318,597,171
+44,icl-Button icl-Button--primary icl-Button--md icl-WhatWhere-button,div#whatWhere > form > div:nth-of-type(3) > button,0,,0,,BUTTON,/html/body/div/div[2]/div[2]/div/form/div[3]/button,BUTTON,Jobs finden,8,130,932,171
+14,icl-TextPromo-link,html > body > div > div:nth-of-type(2) > div:nth-of-type(4) > div > div > a,0,Erstellen Sie Ihren Lebenslauf,0,Erstellen ,A,/html/body/div/div[2]/div[4]/div/div/a,A,Erstellen Sie Ihren Lebenslauf,9,227,295,255
+14,icl-TextPromo-link,html > body > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > a,0,Arbeitgeber: Anzeige schalten,0,Arbeitgebe,A,/html/body/div/div[2]/div[5]/div/div/a,A,Arbeitgeber: Anzeige schalten,10,229,345,298
+17,0,html > body > div > div:nth-of-type(2) > div:nth-of-type(8) > div > div > a,0,Jobs,0,Jobs,A,/html/body/div/div[2]/div[8]/div/div/a,A,Jobs,11,31,559,432
+13,0,div#cookieNotice > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > a,0,Richtlinien zur Verwendung von Cookies,0,Richtlinie,A,/html/body/div/div[2]/div[9]/div/div/div[2]/div[2]/div/a,A,Richtlinien zur Verwendung von Cookies,12,197,446,540
+13,0,div#cookieNotice > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Erfahren Sie mehr,0,Erfahren S,A,/html/body/div/div[2]/div[9]/div/div/div[2]/div[2]/a,A,Erfahren Sie mehr,13,88,446,573
+13,0,a#cookiesOK,cookiesOK,OK,0,OK,A,/html/body/div/div[2]/div[9]/div/div/div[2]/div[2]/a[2],A,OK,14,16,543,573
+17,jobsearch-TextLink-link,html > body > div > div:nth-of-type(3) > div > p > a,0,www.indeed.com,0,www.indeed,A,/html/body/div/div[3]/div/p/a,A,www.indeed.com,15,109,659,675
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li > a,0,Hiring Lab,0,Hiring Lab,A,/html/body/div/div[3]/footer/nav/ul/li/a,A,Hiring Lab,16,55,16,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(2) > a,0,Jobs durchsuchen,0,Jobs durch,A,/html/body/div/div[3]/footer/nav/ul/li[2]/a,A,Jobs durchsuchen,17,99,85,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(3) > a,0,Karriere bei Indeed,0,Karriere b,A,/html/body/div/div[3]/footer/nav/ul/li[3]/a,A,Karriere bei Indeed,18,102,197,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(4) > a,0,Blog,0,Blog,A,/html/body/div/div[3]/footer/nav/ul/li[4]/a,A,Blog,19,25,312,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(5) > a,0,Über uns,0,Über uns,A,/html/body/div/div[3]/footer/nav/ul/li[5]/a,A,Über uns,20,49,350,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(6) > a,0,Impressum,0,Impressum,A,/html/body/div/div[3]/footer/nav/ul/li[6]/a,A,Impressum,21,60,413,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > nav > ul > li:nth-of-type(7) > a,0,Indeed-Hilfebereich,0,Indeed-Hil,A,/html/body/div/div[3]/footer/nav/ul/li[7]/a,A,Indeed-Hilfebereich,22,105,486,730
+14,icl-GlobalFooter-link,html > body > div > div:nth-of-type(3) > footer > small > a,0,"Verwendete Cookies, Datenschutz und Nutzungsbedingungen",0,Verwendete,A,/html/body/div/div[3]/footer/small/a,A,"Verwendete Cookies, Datenschutz und Nutzungsbedingungen",23,333,852,729

@@ -1,0 +1,22 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+15,selected,a#jobsLink,jobsLink,Find Jobs,0,Find Jobs,A,/html/body/div/div/table/tbody/tr/td/div/span/a,A,Find Jobs,1,63,12,9
+15,0,a#rezLink,rezLink,Find Resumes,0,Find Resum,A,/html/body/div/div/table/tbody/tr/td/div/span[2]/a,A,Find Resumes,2,86,99,9
+15,0,a#empLink,empLink,Employers / Post Job,0,Employers ,A,/html/body/div/div/table/tbody/tr/td/div/span[3]/a,A,Employers / Post Job,3,126,209,9
+15,0,span#navpromo > a,0,Upload your resume,0,Upload you,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span/span/a,A,Upload your resume,4,120,999,9
+15,0,a#userOptionsLabel,userOptionsLabel,Sign in,0,Sign in,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span[2]/a,A,Sign in,5,41,1147,9
+30,input_text,input#what,what,,q,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td/span/input,INPUT,,6,309,250,191
+30,input_text,input#where,where,,l,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[2]/span/input,INPUT,,7,271,562,191
+25,input_submit,input#fj,fj,,0,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[3]/span/span/input,INPUT,,8,83,837,195
+13,sl,form#jobsearch > table > tbody > tr:nth-of-type(5) > td:nth-of-type(3) > a,0,Advanced Job Search,0,Advanced J,A,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[5]/td[3]/a,A,Advanced Job Search,9,108,839,226
+15,0,p#resPromoDisplay > a,0,,0,,A,/html/body/div/div[2]/table/tbody/tr[2]/td/p/a,A,,10,18,447,273
+15,0,p#resPromoDisplay > a:nth-of-type(2),0,Post your resume,0,Post your ,A,/html/body/div/div[2]/table/tbody/tr[2]/td/p/a[2],A,Post your resume,11,113,469,273
+15,0,div#hp_welcome_message > a,0,jobs,0,jobs,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/a,A,jobs,12,24,576,309
+15,0,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(2) > a,0,How the world works,0,How the wo,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div[2]/a,A,How the world works,13,123,593,380
+14,0,a#salaries_product_link,salaries_product_link,Salaries,0,Salaries,A,/html/body/div/div[2]/div[2]/span/div[2]/a,A,Salaries,14,43,12,567
+14,0,a#trends_product_link,trends_product_link,Trends,0,Trends,A,/html/body/div/div[2]/div[2]/span/div[2]/a[2],A,Trends,15,37,66,567
+14,0,div#footerMainLinks > a:nth-of-type(3),0,Browse Jobs,0,Browse Job,A,/html/body/div/div[2]/div[2]/span/div[2]/a[3],A,Browse Jobs,16,69,113,567
+14,0,div#footerMainLinks > a:nth-of-type(4),0,API,0,API,A,/html/body/div/div[2]/div[2]/span/div[2]/a[4],A,API,17,19,192,567
+14,sl,div#footerMainLinks > a:nth-of-type(5),0,Countries,0,Countries,A,/html/body/div/div[2]/div[2]/span/div[2]/a[5],A,Countries,18,51,222,567
+14,0,div#footerMainLinks > a:nth-of-type(6),0,About,0,About,A,/html/body/div/div[2]/div[2]/span/div[2]/a[6],A,About,19,31,283,567
+14,0,div#footerMainLinks > a:nth-of-type(7),0,Help Center,0,Help Cente,A,/html/body/div/div[2]/div[2]/span/div[2]/a[7],A,Help Center,20,64,325,567
+14,0,div#footerLegal > a,0,"Cookies, Privacy and Terms",0,"Cookies, P",A,/html/body/div/div[2]/div[2]/span/div[3]/a,A,"Cookies, Privacy and Terms",21,149,1040,567

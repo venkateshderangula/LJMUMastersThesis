@@ -1,0 +1,220 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+49,navbarSprite,a#home_img,home_img,,0,,A,/html/body/div/div/div/div[2]/span/a,A,,1,101,116,33
+22,0,span#home_img_holder > span > a,0,IMDb,0,IMDb,A,/html/body/div/div/div/div[2]/span/span/a,A,IMDb,2,48,131,33
+29,primary btn,button#navbar-submit-button,navbar-submit-button,,0,,BUTTON,/html/body/div/div/div/div[2]/form/div/button,BUTTON,,3,32,774,24
+29,0,input#navbar-query,navbar-query,,q,,INPUT,/html/body/div/div/div/div[2]/form/div/input[2],INPUT,,4,435,236,24
+29,quicksearch_dropdown navbarSprite,select#quicksearch,quicksearch,,s,,SELECT,/html/body/div/div/div/div[2]/form/div/div/select,SELECT,"All
+        Titles
+        TV Episodes
+        Names
+        Companies
+        Keywords
+      Advanced Search »",5,138,672,24
+31,0,li#navFreediveMenu > p > a,0,Watch Now For Free,0,Watch Now ,A,/html/body/div/div/div/div[2]/div/ul/li[2]/p/a,A,Watch Now For Free,6,73,253,59
+16,0,li#navTitleMenu > p > a,0,Movies,0,Movies,A,/html/body/div/div/div/div[2]/div/ul/li[4]/p/a,A,Movies,7,45,399,59
+16,0,li#navTitleMenu > p > a:nth-of-type(2),0,TV,0,TV,A,/html/body/div/div/div/div[2]/div/ul/li[4]/p/a[2],A,TV,8,17,453,59
+16,0,li#navTitleMenu > p > a:nth-of-type(3),0,Showtimes,0,Showtimes,A,/html/body/div/div/div/div[2]/div/ul/li[4]/p/a[3],A,Showtimes,9,72,413,75
+16,0,li#navNameMenu > p > a,0,Celebs,0,Celebs,A,/html/body/div/div/div/div[2]/div/ul/li[6]/p/a,A,Celebs,10,43,541,59
+16,0,li#navNameMenu > p > a:nth-of-type(2),0,Events,0,Events,A,/html/body/div/div/div/div[2]/div/ul/li[6]/p/a[2],A,Events,11,44,593,59
+16,0,li#navNameMenu > p > a:nth-of-type(3),0,Photos,0,Photos,A,/html/body/div/div/div/div[2]/div/ul/li[6]/p/a[3],A,Photos,12,44,555,75
+16,0,li#navNewsMenu > p > a,0,News,0,News,A,/html/body/div/div/div/div[2]/div/ul/li[8]/p/a,A,News,13,35,693,59
+16,0,li#navNewsMenu > p > a:nth-of-type(2),0,Community,0,Community,A,/html/body/div/div/div/div[2]/div/ul/li[8]/p/a[2],A,Community,14,75,693,75
+16,0,li#navWatchlistMenu > p > a,0,Watchlist,0,Watchlist,A,/html/body/div/div/div/div[2]/div/ul/li[10]/p/a,A,Watchlist,15,59,824,69
+14,0,li#navProMenu > p > a,0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li/p/a,A,,16,52,838,33
+14,0,ul#nb_extra_nav > li:nth-of-type(3) > a,0,Help,0,Help,A,/html/body/div/div/div/div[2]/div[2]/ul/li[3]/a,A,Help,17,25,933,34
+24,nb-social-links__link,ul#nb_extra_nav > li:nth-of-type(5) > a,0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li[5]/a,A,,18,21,981,30
+24,nb-social-links__link,ul#nb_extra_nav > li:nth-of-type(5) > a:nth-of-type(2),0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li[5]/a[2],A,,19,21,1002,30
+24,nb-social-links__link,ul#nb_extra_nav > li:nth-of-type(5) > a:nth-of-type(3),0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li[5]/a[3],A,,20,21,1023,30
+24,nb-social-links__link,ul#nb_extra_nav > li:nth-of-type(5) > a:nth-of-type(4),0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li[5]/a[4],A,,21,21,1043,30
+24,nb-social-links__link,ul#nb_extra_nav > li:nth-of-type(5) > a:nth-of-type(5),0,,0,,A,/html/body/div/div/div/div[2]/div[2]/ul/li[5]/a[5],A,,22,21,1064,30
+26,signin-button,a#imdb-signin-link,imdb-signin-link,Sign in,0,Sign in,A,/html/body/div/div/div/div[2]/div[3]/ul/li/p/a,A,Sign in,23,109,980,64
+298,video-modal,div#main > div > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div/div/div/div/a,A,,24,201,116,118
+35,0,div#main > div > span > div > div > div > div > div > div > div > div > div > div > div > div > a,0,'Hot Priest' Andrew Scott Talks Chemistry,0,'Hot Pries,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a,A,'Hot Priest' Andrew Scott Talks Chemistry,25,163,124,357
+298,video-modal,div#main > div > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div[3]/div/div/div/a,A,,26,201,329,118
+35,0,div#main > div > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > div > div > div > a,0,"Tony Hale Misses His ""Veep"" Co-Stars",0,Tony Hale ,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div[3]/div/div/div/div/div/div/a,A,"Tony Hale Misses His ""Veep"" Co-Stars",27,156,337,357
+298,video-modal,div#main > div > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div[5]/div/div/div/a,A,,28,201,541,118
+35,0,div#main > div > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > div > div > div > a,0,"Who Almost Starred in ""Game of Thrones""?",0,Who Almost,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/div/div/div/div/div[5]/div/div/div/div/div/div/a,A,"Who Almost Starred in ""Game of Thrones""?",29,171,549,357
+16,position_bottom supplemental,div#main > div > span > div > p > a,0,Browse trailers,0,Browse tra,A,/html/body/div/div/div[2]/div[3]/div/div/div/span/div/p/a,A,Browse trailers,30,98,116,423
+28,0,div#main > div:nth-of-type(2) > span > div > span > span > a,0,2019 Emmys Red Carpet: All the Best Photos,0,2019 Emmys,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/span/span/a,A,2019 Emmys Red Carpet: All the Best Photos,31,484,116,480
+298,0,div#main > div:nth-of-type(2) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/div/div/div/div/div/div/div/div/a,A,,32,201,116,524
+298,0,div#main > div:nth-of-type(2) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/div/div/div/div/div[3]/div/div/div/a,A,,33,201,329,524
+298,0,div#main > div:nth-of-type(2) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/div/div/div/div/div[5]/div/div/div/a,A,,34,201,541,524
+16,0,div#main > div:nth-of-type(2) > span > div > p > a,0,Emmys,0,Emmys,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/p/a,A,Emmys,35,48,424,829
+16,0,div#main > div:nth-of-type(2) > span > div > p > a:nth-of-type(2),0,see the winners as they're announced,0,see the wi,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/p/a[2],A,see the winners as they're announced,36,248,251,848
+16,position_bottom supplemental,div#main > div:nth-of-type(2) > span > div > p:nth-of-type(2) > a,0,See more photos from the red carpet,0,See more p,A,/html/body/div/div/div[2]/div[3]/div/div/div[2]/span/div/p[2]/a,A,See more photos from the red carpet,37,244,116,900
+28,0,div#main > div:nth-of-type(3) > span > div > span > span > a,0,Remember When Matt Damon Dunked on Jimmy Kimmel?,0,Remember W,A,/html/body/div/div/div[2]/div[3]/div/div/div[3]/span/div/span/span/a,A,Remember When Matt Damon Dunked on Jimmy Kimmel?,38,624,116,972
+351,video-modal,div#main > div:nth-of-type(3) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[3]/span/div/div/div/div/div/div/div/div/div/a,A,,39,624,117,1016
+16,0,div#main > div:nth-of-type(3) > span > div > p > a,0,Emmy,0,Emmy,A,/html/body/div/div/div[2]/div[3]/div/div/div[3]/span/div/p/a,A,Emmy,40,41,444,1374
+16,position_bottom supplemental,div#main > div:nth-of-type(3) > span > div > p:nth-of-type(2) > a,0,Watch the video,0,Watch the ,A,/html/body/div/div/div[2]/div[3]/div/div/div[3]/span/div/p[2]/a,A,Watch the video,41,105,116,1408
+16,0,div#center-4-react > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div/div/a,A,,42,74,116,1671
+16,0,div#center-4-react > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div > span > span > a,0,Bill Hader,0,Bill Hader,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div/div[2]/div[3]/div/span/span/a,A,Bill Hader,43,71,205,1638
+16,0,div#center-4-react > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > span > span > a,0,Barry,0,Barry,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div/div[2]/div[3]/div[3]/span/span/a,A,Barry,44,36,205,1656
+16,0,div#center-4-react > div > div > div:nth-of-type(2) > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[2]/div/a,A,,45,74,116,1802
+16,0,div#center-4-react > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > div > span > span > a,0,Fleabag,0,Fleabag,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[2]/div[2]/div[3]/div/span/span/a,A,Fleabag,46,57,205,1769
+16,0,div#center-4-react > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > span > span > a,0,Harry Bradbeer,0,Harry Brad,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[2]/div[2]/div[3]/div[3]/span/span/a,A,Harry Bradbeer,47,100,205,1787
+16,0,div#center-4-react > div > div > div:nth-of-type(3) > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[3]/div/a,A,,48,74,116,1933
+16,0,div#center-4-react > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > div > span > span > a,0,Fleabag,0,Fleabag,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[3]/div[2]/div[3]/div/span/span/a,A,Fleabag,49,57,205,1900
+16,0,div#center-4-react > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > span > span > a,0,Phoebe Waller-Bridge,0,Phoebe Wal,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/div/div[3]/div[2]/div[3]/div[3]/span/span/a,A,Phoebe Waller-Bridge,50,140,205,1918
+16,position_bottom supplemental,div#center-4-react > div > p:nth-of-type(2) > a,0,See the full list of nominees and winners,0,See the fu,A,/html/body/div/div/div[2]/div[3]/div/div/div[4]/span/div/div/p[2]/a,A,See the full list of nominees and winners,51,267,116,1975
+16,0,div#newsdesk > div > ul > li > a,0,Movie News,0,Movie News,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div/ul/li/a,A,Movie News,52,87,433,2053
+16,0,div#newsdesk > div > ul > li:nth-of-type(2) > a,0,TV News,0,TV News,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div/ul/li[2]/a,A,TV News,53,63,545,2053
+16,0,div#newsdesk > div > ul > li:nth-of-type(3) > a,0,Celebrity News,0,Celebrity ,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div/ul/li[3]/a,A,Celebrity News,54,110,632,2053
+16,0,div#newsdesk > div:nth-of-type(2) > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div/div/a,A,,55,101,116,2162
+38,headlines,div#newsdesk > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > a,0,"'Downton Abbey' Serves Up Record, $31 Million Opening for Focus Features",0,'Downton A,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div[2]/div/a,A,"'Downton Abbey' Serves Up Record, $31 Million Opening for Focus Features",56,500,232,2097
+16,0,div#newsdesk > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > a,0,Downton Abbey,0,Downton Ab,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div[2]/p/a,A,Downton Abbey,57,103,583,2166
+16,0,div#newsdesk > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > a:nth-of-type(2),0,Ad Astra,0,Ad Astra,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div[2]/p/a[2],A,Ad Astra,58,55,649,2202
+16,0,div#newsdesk > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > a:nth-of-type(3),0,Rambo: Last Blood,0,Rambo: Las,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div[2]/p/a[3],A,Rambo: Last Blood,59,124,232,2220
+16,0,div#newsdesk > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > span > a,0,See more,0,See more,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div/div[2]/p/span/a,A,See more,60,67,584,2239
+30,headlines,div#newsdesk > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a,0,How To Watch The Primetime Emmy Awards Online And On TV,0,How To Wat,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div[2]/div/a,A,How To Watch The Primetime Emmy Awards Online And On TV,61,237,116,2275
+30,headlines,div#newsdesk > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,"Jonathan Van Ness Reveals HIV Diagnosis, Former Drug Addiction",0,Jonathan V,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div[2]/div[2]/a,A,"Jonathan Van Ness Reveals HIV Diagnosis, Former Drug Addiction",62,279,116,2335
+45,headlines,div#newsdesk > div:nth-of-type(2) > div > div:nth-of-type(3) > div > a,0,"Location Managers Guild Awards: 'Chernobyl,' 'Mission: Impossible — Fallout' Among Winners",0,Location M,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div[3]/div/a,A,"Location Managers Guild Awards: 'Chernobyl,' 'Mission: Impossible — Fallout' Among Winners",63,232,421,2275
+30,headlines,div#newsdesk > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > a,0,‘Gully Boy’ to Represent India In Oscars Race,0,‘Gully Boy,A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/div/div[3]/div[2]/a,A,‘Gully Boy’ to Represent India In Oscars Race,64,261,421,2366
+16,0,div#newsdesk > div:nth-of-type(2) > span > a,0,"See all
+Top News",0,"See all
+To",A,/html/body/div/div/div[2]/div[3]/div/div/div[5]/span/div/div[2]/span/a,A,"See all
+Top News",65,111,116,2426
+298,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div/div/div/div/a,A,,66,201,116,2530
+16,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div > div > div > div:nth-of-type(2) > div > a,0,IMDb at the Emmys,0,IMDb at th,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div/div/div/div[2]/div/a,A,IMDb at the Emmys,67,130,151,2830
+298,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div[3]/div/div/div/a,A,,68,201,329,2530
+30,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > a,0,Our Favorite Emmy Photos of All Time,0,Our Favori,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div[3]/div/div/div[2]/div/a,A,Our Favorite Emmy Photos of All Time,69,175,342,2830
+298,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div[5]/div/div/div/a,A,,70,201,541,2530
+30,0,div#main > div:nth-of-type(6) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div:nth-of-type(2) > div > a,0,Emmys 2019: First-Time Performer Nominees,0,Emmys 2019,A,/html/body/div/div/div[2]/div[3]/div/div/div[6]/span/div/div/div/div/div/div[5]/div/div/div[2]/div/a,A,Emmys 2019: First-Time Performer Nominees,71,161,561,2830
+28,0,div#main > div:nth-of-type(7) > span > div > span > span > a,0,Born Today,0,Born Today,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/span/span/a,A,Born Today,72,121,116,2908
+172,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div/div/div/div/a,A,,73,116,116,2952
+16,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div > div > div > div:nth-of-type(2) > div > a,0,Mireille Enos,0,Mireille E,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div/div/div/div[2]/div/a,A,Mireille Enos,74,82,133,3125
+172,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[3]/div/div/div/a,A,,75,116,244,2952
+30,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > a,0,Tatiana Maslany,0,Tatiana Ma,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[3]/div/div/div[2]/div/a,A,Tatiana Maslany,76,66,259,3125
+172,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[5]/div/div/div/a,A,,77,116,371,2952
+16,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div:nth-of-type(2) > div > a,0,Bonnie Hunt,0,Bonnie Hun,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[5]/div/div/div[2]/div/a,A,Bonnie Hunt,78,80,389,3125
+172,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(7) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[7]/div/div/div/a,A,,79,116,499,2952
+30,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(7) > div > div > div:nth-of-type(2) > div > a,0,Laura Vandervoort,0,Laura Vand,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[7]/div/div/div[2]/div/a,A,Laura Vandervoort,80,80,517,3125
+172,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(9) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[9]/div/div/div/a,A,,81,116,626,2952
+16,0,div#main > div:nth-of-type(7) > span > div > div > div > div > div > div:nth-of-type(9) > div > div > div:nth-of-type(2) > div > a,0,Dina Shihabi,0,Dina Shiha,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/div/div/div/div/div[9]/div/div/div[2]/div/a,A,Dina Shihabi,82,83,643,3125
+16,position_bottom supplemental,div#main > div:nth-of-type(7) > span > div > p > a,0,See all birthdays,0,See all bi,A,/html/body/div/div/div[2]/div[3]/div/div/div[7]/span/div/p/a,A,See all birthdays,83,109,116,3181
+28,0,div#main > div:nth-of-type(8) > span > div > span > span > a,0,2019 Emmy Nominees In and Out of Character,0,2019 Emmy ,A,/html/body/div/div/div[2]/div[3]/div/div/div[8]/span/div/span/span/a,A,2019 Emmy Nominees In and Out of Character,84,500,116,3253
+307,0,div#main > div:nth-of-type(8) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[8]/span/div/div/div/div/div/div/div/div/div/a,A,,85,307,116,3343
+307,0,div#main > div:nth-of-type(8) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[8]/span/div/div/div/div/div/div[3]/div/div/div/a,A,,86,307,435,3343
+16,position_bottom supplemental,div#main > div:nth-of-type(8) > span > div > p:nth-of-type(2) > a,0,View the full gallery,0,View the f,A,/html/body/div/div/div[2]/div[3]/div/div/div[8]/span/div/p[2]/a,A,View the full gallery,87,130,116,3657
+28,0,div#main > div:nth-of-type(9) > span > div > span > span > a,0,Poll: Emmys 2019 — Outstanding Limited Series,0,Poll: Emmy,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/span/span/a,A,Poll: Emmys 2019 — Outstanding Limited Series,88,519,116,3729
+14,0,div#main > div:nth-of-type(9) > span > div > span > span > h4 > a,0,More Polls,0,More Polls,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/span/span/h4/a,A,More Polls,89,76,650,3735
+170,0,div#main > div:nth-of-type(9) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/div/div/div/div/div/div/div/div/a,A,,90,115,116,3773
+170,0,div#main > div:nth-of-type(9) > span > div > div > div > div > div > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/div/div/div/div/div[3]/div/div/div/a,A,,91,115,244,3773
+170,0,div#main > div:nth-of-type(9) > span > div > div > div > div > div > div:nth-of-type(5) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/div/div/div/div/div[5]/div/div/div/a,A,,92,115,371,3773
+170,0,div#main > div:nth-of-type(9) > span > div > div > div > div > div > div:nth-of-type(7) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/div/div/div/div/div[7]/div/div/div/a,A,,93,115,499,3773
+170,0,div#main > div:nth-of-type(9) > span > div > div > div > div > div > div:nth-of-type(9) > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/div/div/div/div/div[9]/div/div/div/a,A,,94,115,627,3773
+16,0,div#main > div:nth-of-type(9) > span > div > p > a,0,Emmys,0,Emmys,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/p/a,A,Emmys,95,48,495,3951
+16,0,div#main > div:nth-of-type(9) > span > div > p > a:nth-of-type(2),0,here,0,here,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/p/a[2],A,here,96,29,608,3951
+16,position_bottom supplemental,div#main > div:nth-of-type(9) > span > div > p:nth-of-type(2) > a,0,Vote now,0,Vote now,A,/html/body/div/div/div[2]/div[3]/div/div/div[9]/span/div/p[2]/a,A,Vote now,97,60,116,3985
+28,0,div#main > div:nth-of-type(10) > span > div > span > span > a,0,Free Movies and TV Shows You Can Watch Now,0,Free Movie,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/span/span/a,A,Free Movies and TV Shows You Can Watch Now,98,520,116,4057
+16,0,div#main > div:nth-of-type(10) > span > div > p > a,0,IMDb TV,0,IMDb TV,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/p/a,A,IMDb TV,99,55,139,4101
+172,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div > div > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div/div/div[2]/a,A,,100,116,121,4147
+16,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div > div > div:nth-of-type(3) > a,0,Dune,0,Dune,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div/div/div[3]/a,A,Dune,101,34,162,4320
+172,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[3]/div/div[2]/a,A,,102,116,246,4147
+16,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > a,0,La La Land,0,La La Land,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[3]/div/div[3]/a,A,La La Land,103,71,269,4320
+172,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(5) > div > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[5]/div/div[2]/a,A,,104,116,371,4147
+16,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(5) > div > div:nth-of-type(3) > a,0,The Karate Kid,0,The Karate,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[5]/div/div[3]/a,A,The Karate Kid,105,96,381,4320
+172,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(7) > div > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[7]/div/div[2]/a,A,,106,116,496,4147
+16,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(7) > div > div:nth-of-type(3) > a,0,Marie Antoinette,0,Marie Anto,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[7]/div/div[3]/a,A,Marie Antoinette,107,108,500,4320
+172,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(9) > div > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[9]/div/div[2]/a,A,,108,116,621,4147
+30,0,div#main > div:nth-of-type(10) > span > div > div > div > div > div > div:nth-of-type(9) > div > div:nth-of-type(3) > a,0,The Pursuit of Happyness...,0,The Pursui,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/div/div/div/div/div[9]/div/div[3]/a,A,The Pursuit of Happyness...,109,91,634,4320
+16,position_bottom supplemental,div#main > div:nth-of-type(10) > span > div > p:nth-of-type(2) > a,0,Browse free movies and TV series,0,Browse fre,A,/html/body/div/div/div[2]/div[3]/div/div/div[10]/span/div/p[2]/a,A,Browse free movies and TV series,110,221,116,4377
+21,0,div#sidebar > div > span > span > span > a,0,Opening This Week,0,Opening Th,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/span/span/a,A,Opening This Week,111,157,785,114
+16,0,div#sidebar > div > span > div > div > div > div > div:nth-of-type(2) > a,0,Downton Abbey,0,Downton Ab,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div/div[2]/a,A,Downton Abbey,112,103,819,151
+14,0,div#sidebar > div > span > div > div > div > div > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div/div[3]/a,A,Get Tickets,113,62,1023,151
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Rambo: Last Blood,0,Rambo: Las,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[2]/div[2]/a,A,Rambo: Last Blood,114,124,819,193
+14,0,div#sidebar > div > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[2]/div[3]/a,A,Get Tickets,115,62,1023,193
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > a,0,Ad Astra,0,Ad Astra,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[3]/div[2]/a,A,Ad Astra,116,55,819,235
+14,0,div#sidebar > div > span > div > div > div > div:nth-of-type(3) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[3]/div[3]/a,A,Get Tickets,117,62,1023,235
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(4) > div:nth-of-type(2) > a,0,Promare,0,Promare,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[4]/div[2]/a,A,Promare,118,55,819,277
+14,0,div#sidebar > div > span > div > div > div > div:nth-of-type(4) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[4]/div[3]/a,A,Get Tickets,119,62,1023,277
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(5) > div:nth-of-type(2) > a,0,3 from Hell,0,3 from Hel,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[5]/div[2]/a,A,3 from Hell,120,73,819,319
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(6) > div:nth-of-type(2) > a,0,Where's My Roy Cohn?,0,Where's My,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[6]/div[2]/a,A,Where's My Roy Cohn?,121,149,819,361
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(7) > div:nth-of-type(2) > a,0,Diego Maradona,0,Diego Mara,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[7]/div[2]/a,A,Diego Maradona,122,106,819,403
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(8) > div:nth-of-type(2) > a,0,Midnight Traveler,0,Midnight T,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[8]/div[2]/a,A,Midnight Traveler,123,112,819,445
+16,0,div#sidebar > div > span > div > div > div > div:nth-of-type(9) > div:nth-of-type(2) > a,0,Britt-Marie var här,0,Britt-Mari,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/div/div/div/div[9]/div[2]/a,A,Britt-Marie var här,124,121,819,487
+16,position_bottom supplemental,div#sidebar > div > span > p > a,0,See more opening this week,0,See more o,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div/span/p/a,A,See more opening this week,125,186,785,536
+60,0,div#sidebar > div:nth-of-type(2) > span > div > span > p > a,0,Get Tickets & Showtimes »,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[2]/span/div/span/p/a,A,Get Tickets & Showtimes »,126,300,785,600
+21,0,div#sidebar > div:nth-of-type(3) > span > span > span > a,0,Now Playing (Box Office),0,Now Playin,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/span/span/a,A,Now Playing (Box Office),127,200,785,697
+16,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div > div:nth-of-type(2) > a,0,Downton Abbey,0,Downton Ab,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div/div[2]/a,A,Downton Abbey,128,103,819,734
+14,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div/div[3]/a,A,Get Tickets,129,62,1023,734
+16,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Ad Astra,0,Ad Astra,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[2]/div[2]/a,A,Ad Astra,130,55,819,776
+14,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[2]/div[3]/a,A,Get Tickets,131,62,1023,776
+16,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > a,0,Rambo: Last Blood,0,Rambo: Las,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[3]/div[2]/a,A,Rambo: Last Blood,132,124,819,818
+14,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(3) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[3]/div[3]/a,A,Get Tickets,133,62,1023,818
+16,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(4) > div:nth-of-type(2) > a,0,It Chapter Two,0,It Chapter,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[4]/div[2]/a,A,It Chapter Two,134,97,819,860
+14,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(4) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[4]/div[3]/a,A,Get Tickets,135,62,1023,860
+16,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(5) > div:nth-of-type(2) > a,0,Hustlers,0,Hustlers,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[5]/div[2]/a,A,Hustlers,136,54,819,902
+14,0,div#sidebar > div:nth-of-type(3) > span > div > div > div > div:nth-of-type(5) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/div/div/div/div[5]/div[3]/a,A,Get Tickets,137,62,1023,902
+16,position_bottom supplemental,div#sidebar > div:nth-of-type(3) > span > p > a,0,See more box office results,0,See more b,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[3]/span/p/a,A,See more box office results,138,179,785,952
+21,0,div#sidebar > div:nth-of-type(4) > span > span > span > a,0,Coming Soon,0,Coming Soo,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/span/span/a,A,Coming Soon,139,109,785,1016
+16,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div > div:nth-of-type(2) > a,0,Abominable,0,Abominable,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div/div[2]/a,A,Abominable,140,77,819,1053
+14,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div/div[3]/a,A,Get Tickets,141,62,1023,1053
+16,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Judy,0,Judy,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div[2]/div[2]/a,A,Judy,142,30,819,1095
+14,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > a,0,Get Tickets,0,Get Ticket,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div[2]/div[3]/a,A,Get Tickets,143,62,1023,1095
+16,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > a,0,The Day Shall Come,0,The Day Sh,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div[3]/div[2]/a,A,The Day Shall Come,144,133,819,1137
+16,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div:nth-of-type(4) > div:nth-of-type(2) > a,0,Hatsukoi,0,Hatsukoi,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div[4]/div[2]/a,A,Hatsukoi,145,57,819,1179
+16,0,div#sidebar > div:nth-of-type(4) > span > div > div > div > div:nth-of-type(5) > div:nth-of-type(2) > a,0,Der goldene Handschuh,0,Der golden,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/div/div/div/div[5]/div[2]/a,A,Der goldene Handschuh,146,156,819,1221
+16,position_bottom supplemental,div#sidebar > div:nth-of-type(4) > span > p > a,0,See more coming soon,0,See more c,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[4]/span/p/a,A,See more coming soon,147,150,785,1270
+21,0,div#sidebar > div:nth-of-type(9) > span > div > span > span > a,0,Our Favorite Trailers of the Week,0,Our Favori,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/span/span/a,A,Our Favorite Trailers of the Week,148,265,785,2706
+230,video-modal,div#sidebar > div:nth-of-type(9) > span > div > div > div > div > div > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/div/div/div/div/div/div/div/div/a,A,,149,307,785,2744
+16,0,div#sidebar > div:nth-of-type(9) > span > div > p > i > a,0,Villains,0,Villains,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/p/i/a,A,Villains,150,46,848,3000
+16,0,div#sidebar > div:nth-of-type(9) > span > div > p > i:nth-of-type(2) > a,0,Countdown,0,Countdown,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/p/i[2]/a,A,Countdown,151,73,903,3000
+16,0,div#sidebar > div:nth-of-type(9) > span > div > p > i:nth-of-type(3) > a,0,Like a Boss,0,Like a Bos,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/p/i[3]/a,A,Like a Boss,152,73,986,3000
+16,position_bottom supplemental,div#sidebar > div:nth-of-type(9) > span > div > p:nth-of-type(2) > a,0,Watch now,0,Watch now,A,/html/body/div/div/div[2]/div[3]/div/div[2]/div[9]/span/div/p[2]/a,A,Watch now,153,71,785,3052
+14,0,a#clear_rvi,clear_rvi,Clear your history,0,Clear your,A,/html/body/div/div/div[3]/div/div/div/a,A,Clear your history,154,99,985,4445
+15,0,div#footer > div > div > div > div > a,0,,0,,A,/html/body/div/div/div[4]/div/div/div/div/a,A,,155,137,116,4646
+15,0,div#footer > div > div > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div/div/div[4]/div/div/div/div/a[2],A,,156,123,253,4646
+15,0,div#footer > div > div > div > div > a:nth-of-type(3),0,,0,,A,/html/body/div/div/div[4]/div/div/div/div/a[3],A,,157,119,376,4646
+40,touchlink,div#footer > div > div > div > a,0,IMDb Mobile site,0,IMDb Mobil,A,/html/body/div/div/div[4]/div/div/div/a,A,IMDb Mobile site,158,420,96,4732
+42,ft-social-links__link,div#footer > div > div > div:nth-of-type(2) > h3 > div > a,0,,0,,A,/html/body/div/div/div[4]/div/div/div[2]/h3/div/a,A,,159,37,536,4619
+42,ft-social-links__link,div#footer > div > div > div:nth-of-type(2) > h3 > div > a:nth-of-type(2),0,,0,,A,/html/body/div/div/div[4]/div/div/div[2]/h3/div/a[2],A,,160,37,573,4619
+42,ft-social-links__link,div#footer > div > div > div:nth-of-type(2) > h3 > div > a:nth-of-type(3),0,,0,,A,/html/body/div/div/div[4]/div/div/div[2]/h3/div/a[3],A,,161,37,610,4619
+42,ft-social-links__link,div#footer > div > div > div:nth-of-type(2) > h3 > div > a:nth-of-type(4),0,,0,,A,/html/body/div/div/div[4]/div/div/div[2]/h3/div/a[4],A,,162,37,536,4661
+42,ft-social-links__link,div#footer > div > div > div:nth-of-type(2) > h3 > div > a:nth-of-type(5),0,,0,,A,/html/body/div/div/div[4]/div/div/div[2]/h3/div/a[5],A,,163,37,573,4661
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li > a,0,Home,0,Home,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li/a,A,Home,164,35,704,4587
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(2) > a,0,Top Rated Movies,0,Top Rated ,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[2]/a,A,Top Rated Movies,165,105,704,4608
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(3) > a,0,Box Office,0,Box Office,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[3]/a,A,Box Office,166,61,704,4629
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(4) > a,0,Coming Soon,0,Coming Soo,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[4]/a,A,Coming Soon,167,80,704,4650
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(5) > a,0,Site Index,0,Site Index,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[5]/a,A,Site Index,168,62,704,4671
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(6) > a,0,Search,0,Search,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[6]/a,A,Search,169,42,704,4692
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div > ul > li:nth-of-type(7) > a,0,In Theaters,0,In Theater,A,/html/body/div/div/div[4]/div/div/div[3]/div/div/ul/li[7]/a,A,In Theaters,170,69,704,4713
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li > a,0,Contact Us,0,Contact Us,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li/a,A,Contact Us,171,65,833,4587
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Register,0,Register,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li[2]/a,A,Register,172,49,833,4608
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,News,0,News,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li[3]/a,A,News,173,32,833,4629
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Press Room,0,Press Room,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li[5]/a,A,Press Room,174,71,833,4670
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Advertising,0,Advertisin,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li[6]/a,A,Advertising,175,68,833,4691
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Jobs,0,Jobs,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[2]/ul/li[7]/a,A,Jobs,176,26,833,4712
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li > a,0,IMDbPro,0,IMDbPro,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[3]/ul/li/a,A,IMDbPro,177,52,962,4587
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Box Office Mojo,0,Box Office,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[3]/ul/li[2]/a,A,Box Office Mojo,178,94,962,4608
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Conditions of Use,0,Conditions,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[3]/ul/li[4]/a,A,Conditions of Use,179,105,962,4649
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[3]/ul/li[5]/a,A,Privacy Policy,180,81,962,4670
+15,0,div#footer > div > div > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Interest-Based Ads,0,Interest-B,A,/html/body/div/div/div[4]/div/div/div[3]/div/div[3]/ul/li[6]/a,A,Interest-Based Ads,181,115,962,4691
+14,0,div#footer > div:nth-of-type(2) > div > a,0,Copyright ©,0,Copyright ,A,/html/body/div/div/div[4]/div[2]/div/a,A,Copyright ©,182,68,861,4793
+14,0,div#footer > div:nth-of-type(2) > div > a:nth-of-type(2),0,"IMDb.com, Inc.",0,"IMDb.com, ",A,/html/body/div/div/div[4]/div[2]/div/a[2],A,"IMDb.com, Inc.",183,85,999,4793
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td > div > a,0,"Prime Video
+                Unlimited Streamingof Movies & TV",0,Prime Vide,A,/html/body/div/div/div[4]/table/tbody/tr[2]/td/div/a,A,"Prime Video
+                Unlimited Streamingof Movies & TV",184,103,118,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > div > a,0,"Amazon UK
+                Buy Movies onDVD & Blu-ray",0,"Amazon UK
+",A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[2]/div/a,A,"Amazon UK
+                Buy Movies onDVD & Blu-ray",185,73,267,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > div > a,0,"Amazon Germany
+                Buy Movies onDVD & Blu-ray",0,Amazon Ger,A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[3]/div/a,A,"Amazon Germany
+                Buy Movies onDVD & Blu-ray",186,98,385,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(4) > div > a,0,"Amazon Italy
+                Buy Movies onDVD & Blu-ray",0,Amazon Ita,A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[4]/div/a,A,"Amazon Italy
+                Buy Movies onDVD & Blu-ray",187,73,532,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(5) > div > a,0,"Amazon France
+                Buy Movies onDVD & Blu-ray",0,Amazon Fra,A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[5]/div/a,A,"Amazon France
+                Buy Movies onDVD & Blu-ray",188,85,651,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(6) > div > a,0,"Amazon India
+                Buy Movie andTV Show DVDs",0,Amazon Ind,A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[6]/div/a,A,"Amazon India
+                Buy Movie andTV Show DVDs",189,76,782,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(7) > div > a,0,"DPReview
+                DigitalPhotography",0,"DPReview
+ ",A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[7]/div/a,A,"DPReview
+                DigitalPhotography",190,63,904,4863
+35,amazon-affiliate-site-link,table#amazon-affiliates > tbody > tr:nth-of-type(2) > td:nth-of-type(8) > div > a,0,"Audible
+                DownloadAudio Books",0,"Audible
+  ",A,/html/body/div/div/div[4]/table/tbody/tr[2]/td[8]/div/a,A,"Audible
+                DownloadAudio Books",191,62,1012,4863

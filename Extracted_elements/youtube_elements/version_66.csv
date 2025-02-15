@@ -1,0 +1,413 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/yt-icon-button[2]/button,BUTTON,,1,24,24,16
+24,yt-simple-endpoint style-scope ytd-topbar-logo-renderer,a#logo,logo,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/ytd-topbar-logo-renderer/a,A,,2,80,72,16
+37,yt-simple-endpoint style-scope ytd-button-renderer,div#skip-navigation > ytd-button-renderer > a,0,Saltar navegación,0,Saltar nav,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/div/ytd-button-renderer/a,A,Saltar navegación,3,173,16,-1000
+26,0,input#search,search,,search_query,,INPUT,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div/input,INPUT,,4,520,256,15
+32,style-scope ytd-searchbox,button#search-icon-legacy,search-icon-legacy,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/button,BUTTON,Buscar,5,65,774,12
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a,A,,6,40,883,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button,BUTTON,,7,24,891,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a,A,,8,40,931,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a/yt-icon-button/button,BUTTON,,9,24,939,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a,A,,10,40,979,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a/yt-icon-button/button,BUTTON,,11,24,987,16
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#buttons > ytd-button-renderer > a,0,Iniciar sesión,0,Iniciar se,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a,A,Iniciar sesión,12,157,1027,8
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Página principal
+      
+
+    
+      
+        Página principal",0,Página pri,A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer/a,A,"Página principal
+      
+
+    
+      
+        Página principal",13,72,0,60
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Tendencias
+      
+
+    
+      
+        Tendencias",0,Tendencias,A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]/a,A,"Tendencias
+      
+
+    
+      
+        Tendencias",14,72,0,134
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Suscripciones
+      
+
+    
+      
+        Suscripciones",0,Suscripcio,A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]/a,A,"Suscripciones
+      
+
+    
+      
+        Suscripciones",15,72,0,208
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Biblioteca
+      
+
+    
+      
+        Biblioteca",0,Biblioteca,A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]/a,A,"Biblioteca
+      
+
+    
+      
+        Biblioteca",16,72,0,282
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Historial
+      
+
+    
+      
+        Historial",0,"Historial
+",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a,A,"Historial
+      
+
+    
+      
+        Historial",17,72,0,356
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:09
+    
+    
+    Reproduciendo",0,"11:09
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:09
+    
+    
+    Reproduciendo",18,258,96,132
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,19,36,96,292
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"I Bought The World's Largest Firework ($600,000)",0,I Bought T,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"I Bought The World's Largest Firework ($600,000)",20,186,144,292
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,MrBeast,0,MrBeast,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,MrBeast,21,54,144,338
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,22,24,330,292
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:33
+    
+    
+    Reproduciendo",0,"8:33
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"8:33
+    
+    
+    Reproduciendo",23,258,370,132
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,24,36,370,292
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Legendary Sprint Speeds In Football,0,Legendary ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Legendary Sprint Speeds In Football,25,186,418,292
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Wrsh98,0,Wrsh98,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Wrsh98,26,49,418,338
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,27,24,604,292
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"12:48
+    
+    
+    Reproduciendo",0,"12:48
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"12:48
+    
+    
+    Reproduciendo",28,258,644,132
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,29,36,644,292
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,★Vlog★かんなの休校中のいちにち ♪ルーティーン,0,★Vlog★かんなの,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,★Vlog★かんなの休校中のいちにち ♪ルーティーン,30,186,692,292
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Kan & Aki's CHANNELかんあきチャンネル,0,Kan & Aki',A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Kan & Aki's CHANNELかんあきチャンネル,31,187,692,338
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,32,24,878,292
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"32:18
+    
+    
+    Reproduciendo",0,"32:18
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"32:18
+    
+    
+    Reproduciendo",33,258,918,132
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,34,36,918,292
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,ファミコンをフルレストアする(付属機器も) Full restoration Nintendo FAMICOM with accessories,0,ファミコンをフルレス,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,ファミコンをフルレストアする(付属機器も) Full restoration Nintendo FAMICOM with accessories,35,186,966,292
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,KEI STUDIO,0,KEI STUDIO,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,KEI STUDIO,36,74,966,338
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,37,24,1152,292
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"5:34
+    
+    
+    Reproduciendo",0,"5:34
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"5:34
+    
+    
+    Reproduciendo",38,258,96,432
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/a,A,,39,36,96,591
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,DISH// (北村匠海) - 猫 / THE FIRST TAKE,0,DISH// (北村,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,DISH// (北村匠海) - 猫 / THE FIRST TAKE,40,186,144,591
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,THE FIRST TAKE,0,THE FIRST ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,THE FIRST TAKE,41,105,144,637
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,42,24,330,591
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:26
+    
+    
+    Reproduciendo",0,"10:26
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:26
+    
+    
+    Reproduciendo",43,258,370,432
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/a,A,,44,36,370,591
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Ricky Gervais On Teaching Morales To Children | BEST OF Politics | Universal Comedy,0,Ricky Gerv,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Ricky Gervais On Teaching Morales To Children | BEST OF Politics | Universal Comedy,45,186,418,591
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Universal Comedy,0,Universal ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Universal Comedy,46,113,418,637
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,47,24,604,591
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:20
+    
+    
+    Reproduciendo",0,"1:20
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:20
+    
+    
+    Reproduciendo",48,258,644,432
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/a,A,,49,36,644,591
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,The foxes that go HEHEHE,0,The foxes ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,The foxes that go HEHEHE,50,186,692,591
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,SaveAFox,0,SaveAFox,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,SaveAFox,51,63,692,617
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,52,24,878,591
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"5:04
+    
+    
+    Reproduciendo",0,"5:04
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"5:04
+    
+    
+    Reproduciendo",53,258,918,432
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/a,A,,54,36,918,591
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Real Life Trick Shots | Dude Perfect,0,Real Life ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Real Life Trick Shots | Dude Perfect,55,186,966,591
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Dude Perfect,0,Dude Perfe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Dude Perfect,56,82,966,637
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,57,24,1152,591
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:02
+    
+    
+    Reproduciendo",0,"1:02
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:02
+    
+    
+    Reproduciendo",58,258,96,807
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,59,36,96,967
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,木下優樹菜、芸能界引退を発表　所属事務所「14年間の長きに渡り苦楽を共に」【動画でわかる！注目芸能ニュース】,0,木下優樹菜、芸能界引,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,木下優樹菜、芸能界引退を発表　所属事務所「14年間の長きに渡り苦楽を共に」【動画でわかる！注目芸能ニュース】,60,186,144,967
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,oricon,0,oricon,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,oricon,61,41,144,1013
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,62,24,330,967
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:19
+    
+    
+    Reproduciendo",0,"1:19
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"1:19
+    
+    
+    Reproduciendo",63,258,370,807
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,64,36,370,967
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,木下優樹菜さん芸能界引退　所属事務所が発表(20/07/06),0,木下優樹菜さん芸能界,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,木下優樹菜さん芸能界引退　所属事務所が発表(20/07/06),65,186,418,967
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,ANNnewsCH,0,ANNnewsCH,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,ANNnewsCH,66,82,418,1013
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,67,24,604,967
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:46
+    
+    
+    Reproduciendo",0,"8:46
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"8:46
+    
+    
+    Reproduciendo",68,258,96,1131
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/a,A,,69,36,96,1290
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,That Time Jordan Peterson Responded to the Feminist in the Balcony,0,That Time ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,That Time Jordan Peterson Responded to the Feminist in the Balcony,70,186,144,1290
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Daniel Faucett,0,Daniel Fau,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Daniel Faucett,71,90,144,1336
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,72,24,330,1290
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"36:22
+    
+    
+    Reproduciendo",0,"36:22
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"36:22
+    
+    
+    Reproduciendo",73,258,370,1131
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/a,A,,74,36,370,1290
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Minecraft Speedrunner VS 3 Hunters,0,Minecraft ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Minecraft Speedrunner VS 3 Hunters,75,186,418,1290
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Dream,0,Dream,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Dream,76,42,418,1336
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,77,24,604,1290
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"45:04
+    
+    
+    Reproduciendo",0,"45:04
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"45:04
+    
+    
+    Reproduciendo",78,258,644,1131
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/a,A,,79,36,644,1290
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"Modern Marvels: Mega Meals - Full Episode (S15, E43) | History",0,Modern Mar,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"Modern Marvels: Mega Meals - Full Episode (S15, E43) | History",80,186,692,1290
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,HISTORY,0,HISTORY,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,HISTORY,81,58,692,1336
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,82,24,878,1290
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"6:04
+    
+    
+    Reproduciendo",0,"6:04
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"6:04
+    
+    
+    Reproduciendo",83,258,918,1131
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/a,A,,84,36,918,1290
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"羊毛フェルトで猫を作る制作過程 6 - ""SIDE by SIDE""  A process of making a cat with wool felt.",0,羊毛フェルトで猫を作,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"羊毛フェルトで猫を作る制作過程 6 - ""SIDE by SIDE""  A process of making a cat with wool felt.",85,186,966,1290
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Wakuneco.わくねこ羊毛フェルト,0,Wakuneco.わ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Wakuneco.わくねこ羊毛フェルト,86,187,966,1336
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,87,24,1152,1290
+24,yt-simple-endpoint style-scope ytd-rich-shelf-renderer,div#title-text > a,0,Tendencias,0,Tendencias,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div/h2/div/div/div/a,A,Tendencias,88,103,104,1458
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"22:29
+    
+    
+    Reproduciendo",0,"22:29
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"22:29
+    
+    
+    Reproduciendo",89,258,96,1506
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/a,A,,90,36,96,1666
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,しょこたん＆江頭サブカルデートin中野ブロードウェイ/Nakano Broadway - Bruce Lee...AKIRA...and more,0,しょこたん＆江頭サブ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,しょこたん＆江頭サブカルデートin中野ブロードウェイ/Nakano Broadway - Bruce Lee...AKIRA...and more,91,186,144,1666
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,エガちゃんねる EGA-CHANNEL,0,エガちゃんねる EG,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,エガちゃんねる EGA-CHANNEL,92,187,144,1712
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,93,24,330,1666
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"12:47
+    
+    
+    Reproduciendo",0,"12:47
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"12:47
+    
+    
+    Reproduciendo",94,258,370,1506
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/a,A,,95,36,370,1666
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,【ドッキリ】人の家に勝手に遊園地作ってやったwww,0,【ドッキリ】人の家に,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,【ドッキリ】人の家に勝手に遊園地作ってやったwww,96,186,418,1666
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Fischer's-フィッシャーズ-,0,Fischer's-,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Fischer's-フィッシャーズ-,97,162,418,1712
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,98,24,604,1666
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"12:38
+    
+    
+    Reproduciendo",0,"12:38
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"12:38
+    
+    
+    Reproduciendo",99,258,644,1506
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/a,A,,100,36,644,1666
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,【全問不正解】抽象的なお題を擬人化せよ！化身クイズ！,0,【全問不正解】抽象的,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,【全問不正解】抽象的なお題を擬人化せよ！化身クイズ！,101,186,692,1666
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,東海オンエア,0,東海オンエア,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,東海オンエア,102,85,692,1712
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,103,24,878,1666
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"16:42
+    
+    
+    Reproduciendo",0,"16:42
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"16:42
+    
+    
+    Reproduciendo",104,258,918,1506
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/a,A,,105,36,918,1666
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,武井壮にガチバトル挑んでみた【百獣の王vs朝倉海】,0,武井壮にガチバトル挑,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,武井壮にガチバトル挑んでみた【百獣の王vs朝倉海】,106,186,966,1666
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,KAI Channel / 朝倉海,0,KAI Channe,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,KAI Channel / 朝倉海,107,132,966,1712
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,108,24,1152,1666
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#show-more-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a,A,,109,40,616,1788
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,110,24,624,1796
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"4:33
+    
+    
+    Reproduciendo",0,"4:33
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"4:33
+    
+    
+    Reproduciendo",111,258,96,1874
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/a,A,,112,36,96,2034
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Warcraft (2016) - Lothar contra Blackhand Mak'gora [4K],0,Warcraft (,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Warcraft (2016) - Lothar contra Blackhand Mak'gora [4K],113,186,144,2034
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Kimer Lorens,0,Kimer Lore,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Kimer Lorens,114,84,144,2080
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,115,24,330,2034
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:13
+    
+    
+    Reproduciendo",0,"10:13
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:13
+    
+    
+    Reproduciendo",116,258,370,1874
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/a,A,,117,36,370,2034
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,I played GIORNO'S THEME on piano in public,0,I played G,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,I played GIORNO'S THEME on piano in public,118,186,418,2034
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Joe Jenkins,0,Joe Jenkin,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Joe Jenkins,119,76,418,2080
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,120,24,604,2034
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"7:14
+    
+    
+    Reproduciendo",0,"7:14
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"7:14
+    
+    
+    Reproduciendo",121,258,644,1874
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/a,A,,122,36,644,2034
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,カレーメシが何してもこぼれなくて話題にwwww,0,カレーメシが何しても,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,カレーメシが何してもこぼれなくて話題にwwww,123,186,692,2034
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,はじめしゃちょー（hajime）,0,はじめしゃちょー（h,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,はじめしゃちょー（hajime）,124,162,692,2080
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,125,24,878,2034
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:09
+    
+    
+    Reproduciendo",0,"14:09
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"14:09
+    
+    
+    Reproduciendo",126,258,918,1874
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/a,A,,127,36,918,2034
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Spencer X Best BeatBox Tik Tok 2020 - CooL TikTok,0,Spencer X ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Spencer X Best BeatBox Tik Tok 2020 - CooL TikTok,128,186,966,2034
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,CooL TikTok,0,CooL TikTo,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,CooL TikTok,129,79,966,2080
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,130,24,1152,2034
+100,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/ytd-thumbnail/a,A,,131,100,96,2202
+36,yt-simple-endpoint style-scope ytd-button-renderer,div#button > ytd-button-renderer > a,0,Más info,0,Más info,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div/div[2]/ytd-button-renderer/a,A,Más info,132,129,212,2267
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#dismiss-button > ytd-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a,A,,133,40,1136,2194
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[3]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,134,24,1144,2202
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"7:48
+    
+    
+    Reproduciendo",0,"7:48
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"7:48
+    
+    
+    Reproduciendo",135,258,96,2371
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/a,A,,136,36,96,2530
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,極小パピー、生後3か月の初めてのトリミング（トイプードル）,0,極小パピー、生後3か,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,極小パピー、生後3か月の初めてのトリミング（トイプードル）,137,186,144,2530
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Lovely Grooming,0,Lovely Gro,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Lovely Grooming,138,106,144,2576
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,139,24,330,2530
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:57
+    
+    
+    Reproduciendo",0,"8:57
+    
+",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"8:57
+    
+    
+    Reproduciendo",140,258,370,2371
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/a,A,,141,36,370,2530
+20,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Movies I Thought Were Weird,0,Movies I T,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Movies I Thought Were Weird,142,186,418,2530
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,TheOdd1sOut,0,TheOdd1sOu,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,TheOdd1sOut,143,87,418,2556
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,144,24,604,2530
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:03
+    
+    
+    Reproduciendo",0,"11:03
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"11:03
+    
+    
+    Reproduciendo",145,258,644,2371
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/a,A,,146,36,644,2530
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,Goles Legendarios de Larga Distancia,0,Goles Lege,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,Goles Legendarios de Larga Distancia,147,186,692,2530
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,SportsHD,0,SportsHD,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,SportsHD,148,62,692,2576
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,149,24,878,2530
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"16:57
+    
+    
+    Reproduciendo",0,"16:57
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"16:57
+    
+    
+    Reproduciendo",150,258,918,2371
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/a,A,,151,36,918,2530
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,"Last To Fall Wins $1,000,000 (Part 1)",0,Last To Fa,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,"Last To Fall Wins $1,000,000 (Part 1)",152,186,966,2530
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,MrBeast,0,MrBeast,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,MrBeast,153,54,966,2576
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,154,24,1152,2530
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:08
+    
+    
+    Reproduciendo",0,"10:08
+    ",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/ytd-thumbnail/a,A,"10:08
+    
+    
+    Reproduciendo",155,258,96,2670
+36,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/a,A,,156,36,96,2830
+40,yt-simple-endpoint style-scope ytd-rich-grid-video-renderer,a#video-title-link,video-title-link,[FORTNITE] 弾丸の雨を避けてマトリックスになりました。,0,[FORTNITE],A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div/h3/a,A,[FORTNITE] 弾丸の雨を避けてマトリックスになりました。,157,186,144,2830
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,しょうじ,0,しょうじ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,しょうじ,158,57,144,2876
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[21]/div/ytd-rich-grid-video-renderer/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,159,24,330,2830
+44,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/ytd-miniplayer/div[2]/div/ytd-miniplayer-toast/ytd-thumbnail/a,A,,160,78,788,622

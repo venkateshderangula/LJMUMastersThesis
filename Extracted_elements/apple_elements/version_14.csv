@@ -1,0 +1,91 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+44,ac-gn-link ac-gn-link-apple,a#ac-gn-firstfocus,ac-gn-firstfocus,Apple,0,Apple,A,/html/body/nav/div/ul[2]/li/a,A,Apple,1,40,100,0
+44,ac-gn-link ac-gn-link-mac,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Mac,0,Mac,A,/html/body/nav/div/ul[2]/li[2]/a,A,Mac,2,48,196,0
+44,ac-gn-link ac-gn-link-ipad,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,iPad,0,iPad,A,/html/body/nav/div/ul[2]/li[3]/a,A,iPad,3,47,300,0
+44,ac-gn-link ac-gn-link-iphone,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,iPhone,0,iPhone,A,/html/body/nav/div/ul[2]/li[4]/a,A,iPhone,4,64,403,0
+44,ac-gn-link ac-gn-link-watch,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,Watch,0,Watch,A,/html/body/nav/div/ul[2]/li[5]/a,A,Watch,5,60,523,0
+44,ac-gn-link ac-gn-link-tv,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,TV,0,TV,A,/html/body/nav/div/ul[2]/li[6]/a,A,TV,6,38,639,0
+44,ac-gn-link ac-gn-link-music,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(7) > a,0,Music,0,Music,A,/html/body/nav/div/ul[2]/li[7]/a,A,Music,7,57,733,0
+44,ac-gn-link ac-gn-link-support,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(8) > a,0,Support,0,Support,A,/html/body/nav/div/ul[2]/li[8]/a,A,Support,8,72,846,0
+44,ac-gn-link ac-gn-link-search,nav#ac-globalnav > div > ul:nth-of-type(2) > li:nth-of-type(9) > a,0,Search apple.com,0,Search app,A,/html/body/nav/div/ul[2]/li[9]/a,A,Search apple.com,9,36,974,0
+44,ac-gn-link ac-gn-link-bag,li#ac-gn-bag > a,0,Shopping Bag,0,Shopping B,A,/html/body/nav/div/ul[2]/li[10]/a,A,Shopping Bag,10,34,1066,0
+580,unit-wrapper,li#hero-position-1 > div > a,0,"iPhone X
+																				Say hello to the future.",0,"iPhone X
+	",A,/html/body/main/section/ul/li/div/a,A,"iPhone X
+																				Say hello to the future.",11,1200,0,46
+580,unit-wrapper,li#hero-position-2 > div > a,0,"iPhone 8
+																				A new generation of iPhone.",0,"iPhone 8
+	",A,/html/body/main/section/ul/li[2]/div/a,A,"iPhone 8
+																				A new generation of iPhone.",12,1200,0,638
+580,unit-wrapper theme-dark,li#hero-position-3 > div > a,0,"iMac Pro
+																			The most powerful Mac ever.Pushed to the limit by six visionary artists.",0,"iMac Pro
+	",A,/html/body/main/section/ul/li[3]/div/a,A,"iMac Pro
+																			The most powerful Mac ever.Pushed to the limit by six visionary artists.",13,1200,0,1230
+25,icon icon-after icon-playcircle,a#homepod-film,homepod-film,Watch the film,0,Watch the ,A,/html/body/main/section[2]/ul/li/div/div/div/h5/a,A,Watch the film,14,159,224,1923
+25,more,li#promo-position-1 > div > h5 > a,0,Learn more,0,Learn more,A,/html/body/main/section[2]/ul/li/div/h5/a,A,Learn more,15,117,245,2337
+580,unit-wrapper,li#promo-position-2 > div > a,0,"Apple Watch Series 3
+																			Freedom calls.",0,Apple Watc,A,/html/body/main/section[2]/ul/li[2]/div/a,A,"Apple Watch Series 3
+																			Freedom calls.",16,582,606,1822
+580,unit-wrapper,li#promo-position-3 > div > a,0,"iPad Pro
+																		Anything you can do, you can do better.",0,"iPad Pro
+	",A,/html/body/main/section[2]/ul/li[3]/div/a,A,"iPad Pro
+																		Anything you can do, you can do better.",17,582,12,2414
+580,unit-wrapper,li#promo-position-4 > div > a,0,"AirPods
+																			Wireless. Effortless. Magical.",0,"AirPods
+		",A,/html/body/main/section[2]/ul/li[4]/div/a,A,"AirPods
+																			Wireless. Effortless. Magical.",18,582,606,2414
+580,unit-wrapper,li#promo-position-5 > div > a,0,"Worldwide Developers Conference
+																			San Jose, June 4-8",0,Worldwide ,A,/html/body/main/section[2]/ul/li[5]/div/a,A,"Worldwide Developers Conference
+																			San Jose, June 4-8",19,582,12,3006
+580,unit-wrapper,li#promo-position-6 > div > a,0,"Supplier Responsibility
+																			Empowering people and protecting the planet.",0,Supplier R,A,/html/body/main/section[2]/ul/li[6]/div/a,A,"Supplier Responsibility
+																			Empowering people and protecting the planet.",20,582,606,3006
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li > a,0,Mac,0,Mac,A,/html/body/footer/div/nav/div/div/ul/li/a,A,Mac,21,22,110,3659
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(2) > a,0,iPad,0,iPad,A,/html/body/footer/div/nav/div/div/ul/li[2]/a,A,iPad,22,22,110,3679
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(3) > a,0,iPhone,0,iPhone,A,/html/body/footer/div/nav/div/div/ul/li[3]/a,A,iPhone,23,35,110,3699
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(4) > a,0,Watch,0,Watch,A,/html/body/footer/div/nav/div/div/ul/li[4]/a,A,Watch,24,33,110,3719
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(5) > a,0,TV,0,TV,A,/html/body/footer/div/nav/div/div/ul/li[5]/a,A,TV,25,14,110,3739
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(6) > a,0,Music,0,Music,A,/html/body/footer/div/nav/div/div/ul/li[6]/a,A,Music,26,31,110,3759
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(7) > a,0,iTunes,0,iTunes,A,/html/body/footer/div/nav/div/div/ul/li[7]/a,A,iTunes,27,34,110,3779
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(8) > a,0,HomePod,0,HomePod,A,/html/body/footer/div/nav/div/div/ul/li[8]/a,A,HomePod,28,51,110,3799
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(9) > a,0,iPod touch,0,iPod touch,A,/html/body/footer/div/nav/div/div/ul/li[9]/a,A,iPod touch,29,55,110,3819
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(10) > a,0,Accessories,0,Accessorie,A,/html/body/footer/div/nav/div/div/ul/li[10]/a,A,Accessories,30,63,110,3839
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div > div > ul > li:nth-of-type(11) > a,0,Gift Cards,0,Gift Cards,A,/html/body/footer/div/nav/div/div/ul/li[11]/a,A,Gift Cards,31,52,110,3859
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li > a,0,Find a Store,0,Find a Sto,A,/html/body/footer/div/nav/div[2]/div/ul/li/a,A,Find a Store,32,62,306,3659
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Genius Bar,0,Genius Bar,A,/html/body/footer/div/nav/div[2]/div/ul/li[2]/a,A,Genius Bar,33,56,306,3679
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,Today at Apple,0,Today at A,A,/html/body/footer/div/nav/div[2]/div/ul/li[3]/a,A,Today at Apple,34,77,306,3699
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Apple Camp,0,Apple Camp,A,/html/body/footer/div/nav/div[2]/div/ul/li[4]/a,A,Apple Camp,35,63,306,3719
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Field Trip,0,Field Trip,A,/html/body/footer/div/nav/div[2]/div/ul/li[5]/a,A,Field Trip,36,48,306,3739
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,Apple Store App,0,Apple Stor,A,/html/body/footer/div/nav/div[2]/div/ul/li[6]/a,A,Apple Store App,37,85,306,3759
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,Refurbished and Clearance,0,Refurbishe,A,/html/body/footer/div/nav/div[2]/div/ul/li[7]/a,A,Refurbished and Clearance,38,140,306,3779
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > a,0,Financing,0,Financing,A,/html/body/footer/div/nav/div[2]/div/ul/li[8]/a,A,Financing,39,50,306,3799
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > a,0,Reuse and Recycling,0,Reuse and ,A,/html/body/footer/div/nav/div[2]/div/ul/li[9]/a,A,Reuse and Recycling,40,107,306,3819
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(10) > a,0,Order Status,0,Order Stat,A,/html/body/footer/div/nav/div[2]/div/ul/li[10]/a,A,Order Status,41,66,306,3839
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(11) > a,0,Shopping Help,0,Shopping H,A,/html/body/footer/div/nav/div[2]/div/ul/li[11]/a,A,Shopping Help,42,76,306,3859
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(3) > div > ul > li > a,0,Apple and Education,0,Apple and ,A,/html/body/footer/div/nav/div[3]/div/ul/li/a,A,Apple and Education,43,107,502,3659
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(3) > div > ul > li:nth-of-type(2) > a,0,Shop for College,0,Shop for C,A,/html/body/footer/div/nav/div[3]/div/ul/li[2]/a,A,Shop for College,44,87,502,3679
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(3) > div:nth-of-type(2) > ul > li > a,0,Apple and Business,0,Apple and ,A,/html/body/footer/div/nav/div[3]/div[2]/ul/li/a,A,Apple and Business,45,102,502,3737
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Shop for Business,0,Shop for B,A,/html/body/footer/div/nav/div[3]/div[2]/ul/li[2]/a,A,Shop for Business,46,94,502,3757
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div > ul > li > a,0,Manage Your Apple ID,0,Manage You,A,/html/body/footer/div/nav/div[4]/div/ul/li/a,A,Manage Your Apple ID,47,115,698,3659
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div > ul > li:nth-of-type(2) > a,0,Apple Store Account,0,Apple Stor,A,/html/body/footer/div/nav/div[4]/div/ul/li[2]/a,A,Apple Store Account,48,107,698,3679
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div > ul > li:nth-of-type(3) > a,0,iCloud.com,0,iCloud.com,A,/html/body/footer/div/nav/div[4]/div/ul/li[3]/a,A,iCloud.com,49,58,698,3699
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li > a,0,Accessibility,0,Accessibil,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li/a,A,Accessibility,50,65,698,3757
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Education,0,Education,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li[2]/a,A,Education,51,52,698,3777
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Environment,0,Environmen,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li[3]/a,A,Environment,52,65,698,3797
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Inclusion and Diversity,0,Inclusion ,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li[4]/a,A,Inclusion and Diversity,53,117,698,3817
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Privacy,0,Privacy,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li[5]/a,A,Privacy,54,38,698,3837
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Supplier Responsibility,0,Supplier R,A,/html/body/footer/div/nav/div[4]/div[2]/ul/li[6]/a,A,Supplier Responsibility,55,118,698,3857
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li > a,0,Newsroom,0,Newsroom,A,/html/body/footer/div/nav/div[5]/div/ul/li/a,A,Newsroom,56,55,894,3659
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li:nth-of-type(2) > a,0,Apple Leadership,0,Apple Lead,A,/html/body/footer/div/nav/div[5]/div/ul/li[2]/a,A,Apple Leadership,57,90,894,3679
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li:nth-of-type(3) > a,0,Job Opportunities,0,Job Opport,A,/html/body/footer/div/nav/div[5]/div/ul/li[3]/a,A,Job Opportunities,58,93,894,3699
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li:nth-of-type(4) > a,0,Investors,0,Investors,A,/html/body/footer/div/nav/div[5]/div/ul/li[4]/a,A,Investors,59,47,894,3719
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li:nth-of-type(5) > a,0,Events,0,Events,A,/html/body/footer/div/nav/div[5]/div/ul/li[5]/a,A,Events,60,35,894,3739
+13,ac-gf-directory-column-section-link,footer#ac-globalfooter > div > nav > div:nth-of-type(5) > div > ul > li:nth-of-type(6) > a,0,Contact Apple,0,Contact Ap,A,/html/body/footer/div/nav/div[5]/div/ul/li[6]/a,A,Contact Apple,61,74,894,3759
+13,0,footer#ac-globalfooter > div > section > div > a,0,Apple Store,0,Apple Stor,A,/html/body/footer/div/section/div/a,A,Apple Store,62,61,255,3908
+13,0,footer#ac-globalfooter > div > section > div > span > a,0,find a reseller,0,find a res,A,/html/body/footer/div/section/div/span/a,A,find a reseller,63,71,455,3908
+13,ac-gf-footer-locale-link,footer#ac-globalfooter > div > section > div:nth-of-type(2) > a,0,United States,0,United Sta,A,/html/body/footer/div/section/div[2]/a,A,United States,64,70,1020,3938
+16,ac-gf-footer-legal-link,footer#ac-globalfooter > div > section > div:nth-of-type(3) > div:nth-of-type(2) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/footer/div/section/div[3]/div[2]/a,A,Privacy Policy,65,85,388,3936
+16,ac-gf-footer-legal-link,footer#ac-globalfooter > div > section > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2),0,Terms of Use,0,Terms of U,A,/html/body/footer/div/section/div[3]/div[2]/a[2],A,Terms of Use,66,82,486,3936
+16,ac-gf-footer-legal-link,footer#ac-globalfooter > div > section > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3),0,Sales and Refunds,0,Sales and ,A,/html/body/footer/div/section/div[3]/div[2]/a[3],A,Sales and Refunds,67,109,581,3936
+16,ac-gf-footer-legal-link,footer#ac-globalfooter > div > section > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(4),0,Legal,0,Legal,A,/html/body/footer/div/section/div[3]/div[2]/a[4],A,Legal,68,41,703,3936
+16,ac-gf-footer-legal-link,footer#ac-globalfooter > div > section > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(5),0,Site Map,0,Site Map,A,/html/body/footer/div/section/div[3]/div[2]/a[5],A,Site Map,69,45,757,3936

@@ -1,0 +1,69 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,0,div#skiptocontent > a,0,Skip to main content,0,Skip to ma,A,/html/body/div/div/a,A,Skip to main content,1,201,0,-40
+15,signIn signLockImg,div#topSearch > ul > li > a,0,Enroll,0,Enroll,A,/html/body/div/header/div/div/div/div[2]/ul/li/a,A,Enroll,2,34,651,23
+15,0,div#topSearch > ul > li:nth-of-type(2) > a,0,Customer Service,0,Customer S,A,/html/body/div/header/div/div/div/div[2]/ul/li[2]/a,A,Customer Service,3,107,701,23
+15,0,div#topSearch > ul > li:nth-of-type(3) > a,0,ATMs/Locations,0,ATMs/Locat,A,/html/body/div/header/div/div/div/div[2]/ul/li[3]/a,A,ATMs/Locations,4,93,824,23
+15,0,div#topSearch > ul > li:nth-of-type(4) > a,0,Español,0,Español,A,/html/body/div/header/div/div/div/div[2]/ul/li[4]/a,A,Español,5,47,933,23
+36,0,button#nxgSearchButton,nxgSearchButton,,0,,BUTTON,/html/body/div/header/div/div/div/div[2]/div/button,BUTTON,"Search 
+							Opens a dialog.",6,89,996,10
+28,tabNavLink,a#tabNavPersonal,tabNavPersonal,"selected
+					 Personal",tabNavPersonal,"selected
+	",A,/html/body/div/header/div/div[2]/nav/div/ul/li/a,A,"selected
+					 Personal",7,73,120,72
+18,tabNavLink,a#tabNavSmallBusiness,tabNavSmallBusiness,Small Business,tabNavSmallBusiness,Small Busi,A,/html/body/div/header/div/div[2]/nav/div/ul/li[2]/a,A,Small Business,8,113,233,72
+18,tabNavLink,a#tabNavCommercial,tabNavCommercial,Commercial,tabNavCommercial,Commercial,A,/html/body/div/header/div/div[2]/nav/div/ul/li[3]/a,A,Commercial,9,89,387,72
+17,0,div#headerTools > nav > ul > li > a,0,Financial Education,0,Financial ,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li/a,A,Financial Education,10,135,778,72
+17,0,div#headerTools > nav > ul > li:nth-of-type(2) > a,0,About Wells Fargo,0,About Well,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li[2]/a,A,About Wells Fargo,11,126,959,72
+40,navLevel1,a#bankingTab,bankingTab,Banking and Credit Cards,0,Banking an,A,/html/body/div/nav/ul/li/a,A,Banking and Credit Cards,12,191,105,98
+40,navLevel1,a#loansTab,loansTab,Loans and Credit,0,Loans and ,A,/html/body/div/nav/ul/li[2]/a,A,Loans and Credit,13,134,301,98
+40,navLevel1,a#investingTab,investingTab,Investing and Retirement,0,Investing ,A,/html/body/div/nav/ul/li[3]/a,A,Investing and Retirement,14,190,440,98
+40,navLevel1,a#wealthTab,wealthTab,Wealth Management,0,Wealth Man,A,/html/body/div/nav/ul/li[4]/a,A,Wealth Management,15,158,635,98
+40,navLevel1,a#rewardsTab,rewardsTab,Rewards and Benefits,0,Rewards an,A,/html/body/div/nav/ul/li[5]/a,A,Rewards and Benefits,16,165,798,98
+48,formElement formElementText login_field,input#userid,userid,,j_username,,INPUT,/html/body/div/div[2]/div/div/div/div/form/div/input,INPUT,,17,184,131,199
+48,formElement formElementPassword login_field,input#password,password,,j_password,,INPUT,/html/body/div/div[2]/div/div/div/div/form/div[2]/input,INPUT,,18,184,131,253
+13,c29link formElement formElementCheckbox,input#saveusername,saveusername,,saveusername,,INPUT,/html/body/div/div[2]/div/div/div/div/form/div[3]/input,INPUT,,19,13,131,311
+40,c7,input#btnSignon,btnSignon,,btnSignon,,INPUT,/html/body/div/div[2]/div/div/div/div/form/div[4]/input,INPUT,,20,192,131,334
+14,0,form#frmSignon > div:nth-of-type(5) > a,0,Forgot Password/Username?,0,Forgot Pas,A,/html/body/div/div[2]/div/div/div/div/form/div[5]/a,A,Forgot Password/Username?,21,192,131,382
+17,0,div#signUp > a,0,Enroll Now,0,Enroll Now,A,/html/body/div/div[2]/div/div/div/div[2]/a,A,Enroll Now,22,192,131,410
+17,0,div#signUp > a:nth-of-type(2),0,Security Center,0,Security C,A,/html/body/div/div[2]/div/div/div/div[2]/a[2],A,Security Center,23,192,131,427
+17,0,div#signUp > a:nth-of-type(3),0,"Privacy, Cookies, and Security",0,"Privacy, C",A,/html/body/div/div[2]/div/div/div/div[2]/a[3],A,"Privacy, Cookies, and Security",24,192,131,444
+38,left,div#mainContent > div > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div/div[2]/div/div[2]/div/div/a,A,,25,22,60,297
+193,c7,div#mainContent > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div > div > a,0,Learn More,0,Learn More,A,/html/body/div/div[2]/div/div[2]/div/div[3]/div/div[2]/div/div/a,A,Learn More,26,351,685,300
+20,show1,div#mainContent > div > div:nth-of-type(2) > div > div:nth-of-type(6) > a,0,item 1 of 3,0,item 1 of ,A,/html/body/div/div[2]/div/div[2]/div/div[6]/a,A,item 1 of 3,27,20,563,483
+20,show2 current,div#mainContent > div > div:nth-of-type(2) > div > div:nth-of-type(6) > a:nth-of-type(2),0,item 2 of 3 - you are here,0,item 2 of ,A,/html/body/div/div[2]/div/div[2]/div/div[6]/a[2],A,item 2 of 3 - you are here,28,20,590,483
+20,show3,div#mainContent > div > div:nth-of-type(2) > div > div:nth-of-type(6) > a:nth-of-type(3),0,item 3 of 3,0,item 3 of ,A,/html/body/div/div[2]/div/div[2]/div/div[6]/a[3],A,item 3 of 3,29,20,617,483
+38,right,div#mainContent > div > div:nth-of-type(2) > div > div:nth-of-type(7) > a,0,,0,,A,/html/body/div/div[2]/div/div[2]/div/div[7]/a,A,,30,22,1121,297
+94,i7,div#taskbar > div > ul > li > div > div > a,0,Estimate how much to borrow,0,Estimate h,A,/html/body/div/div[2]/div/div[3]/div/ul/li/div/div/a,A,Estimate how much to borrow,31,173,125,544
+72,i7,div#taskbar > div > ul > li:nth-of-type(2) > div > div > a,0,Find your credit card,0,Find your ,A,/html/body/div/div[2]/div/div[3]/div/ul/li[2]/div/div/a,A,Find your credit card,32,173,319,544
+94,i7,div#taskbar > div > ul > li:nth-of-type(3) > div > div > a,0,Free online budgeting tools,0,Free onlin,A,/html/body/div/div[2]/div/div[3]/div/ul/li[3]/div/div/a,A,Free online budgeting tools,33,173,513,544
+32,paddle prevPaddle,div#mainContent > div:nth-of-type(2) > a,0,,0,,A,/html/body/div/div[2]/div[2]/a,A,,34,38,931,736
+32,paddle nextPaddle,div#mainContent > div:nth-of-type(2) > a:nth-of-type(2),0,,0,,A,/html/body/div/div[2]/div[2]/a[2],A,,35,38,931,1133
+382,0,div#nbaDefaultPanels1 > div > div > ul > li > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li/div/div/div/a,A,,36,314,155,857
+20,0,div#nbaDefaultPanels1 > div > div > ul > li > div > span > a,0,Improve your credit >,0,Improve yo,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li/div/span/a,A,Improve your credit >,37,179,217,870
+382,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(2) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li[2]/div/div/div/a,A,,38,314,155,913
+40,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(2) > div > span > a,0,Calculate your debt-to-income ratio >,0,Calculate ,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li[2]/div/span/a,A,Calculate your debt-to-income ratio >,39,263,217,916
+382,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li[3]/div/div/div/a,A,,40,314,155,969
+20,0,div#nbaDefaultPanels1 > div > div > ul > li:nth-of-type(3) > div > span > a,0,Consolidate your debt >,0,Consolidat,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/ul/li[3]/div/span/a,A,Consolidate your debt >,41,195,217,982
+37,c7,div#nbaDefaultPanels1 > div > div > p > a,0,Go to Borrowing and Credit,0,Go to Borr,A,/html/body/div/div[2]/div[2]/div[2]/div/div/div/p/a,A,Go to Borrowing and Credit,42,270,155,1030
+234,i7,div#mainContent > div:nth-of-type(3) > div > div > div > a,0,,0,,A,/html/body/div/div[2]/div[3]/div/div/div/a,A,,43,489,115,1233
+33,c7,div#mainContent > div:nth-of-type(3) > div > div > div:nth-of-type(2) > a,0,Start Now,0,Start Now,A,/html/body/div/div[2]/div[3]/div/div/div[2]/a,A,Start Now,44,128,654,1382
+35,0,ul#communityLinks > li > a,0,"Our Vision, Values & Goals",0,Our Vision,A,/html/body/div/div[2]/div[6]/div/div/ul/li/a,A,"Our Vision, Values & Goals",45,212,607,1914
+35,0,ul#communityLinks > li:nth-of-type(2) > a,0,Making Things Right – Customer Redress,0,Making Thi,A,/html/body/div/div[2]/div[6]/div/div/ul/li[2]/a,A,Making Things Right – Customer Redress,46,314,607,1940
+35,0,ul#communityLinks > li:nth-of-type(3) > a,0,Corporate Social Responsibility,0,Corporate ,A,/html/body/div/div[2]/div[6]/div/div/ul/li[3]/a,A,Corporate Social Responsibility,47,242,607,1966
+35,0,ul#communityLinks > li:nth-of-type(4) > a,0,Wells Fargo Stories,0,Wells Farg,A,/html/body/div/div[2]/div[6]/div/div/ul/li[4]/a,A,Wells Fargo Stories,48,159,607,1992
+15,0,div#pageFooter > div > nav > div > ul > li > a,0,About Wells Fargo,0,About Well,A,/html/body/div/footer/div/div/nav/div/ul/li/a,A,About Wells Fargo,49,108,115,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(2) > a,0,Careers,0,Careers,A,/html/body/div/footer/div/div/nav/div/ul/li[2]/a,A,Careers,50,46,253,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(3) > a,0,"PRIVACY, Cookies, Security & Legal",0,"PRIVACY, C",A,/html/body/div/footer/div/div/nav/div/ul/li[3]/a,A,"PRIVACY, Cookies, Security & Legal",51,213,330,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(4) > a,0,Report Fraud,0,Report Fra,A,/html/body/div/footer/div/div/nav/div/ul/li[4]/a,A,Report Fraud,52,78,573,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(5) > a,0,Sitemap,0,Sitemap,A,/html/body/div/footer/div/div/nav/div/ul/li[5]/a,A,Sitemap,53,50,681,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(6) > a,0,Diversity & Accessibility,0,Diversity ,A,/html/body/div/footer/div/div/nav/div/ul/li[6]/a,A,Diversity & Accessibility,54,143,761,2260
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(7) > a,0,Online Access Agreement,0,Online Acc,A,/html/body/div/footer/div/div/nav/div/ul/li[7]/a,A,Online Access Agreement,55,153,115,2283
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(8) > a,0,Ad Choices,0,Ad Choices,A,/html/body/div/footer/div/div/nav/div/ul/li[8]/a,A,Ad Choices,56,66,298,2283
+24,iconFacebook,div#pageFooter > div:nth-of-type(2) > div > div > a,0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a,A,,57,38,115,2327
+24,iconLinkedIn,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(2),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[2],A,,58,24,153,2327
+24,iconInstagram,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(3),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[3],A,,59,24,193,2327
+24,iconPinterest,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(4),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[4],A,,60,24,233,2327
+24,iconYoutube,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(5),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[5],A,,61,24,273,2327
+24,iconTwitter,div#pageFooter > div:nth-of-type(2) > div > div > a:nth-of-type(6),0,,0,,A,/html/body/div/footer/div/div[2]/div/div/a[6],A,,62,34,313,2327
+31,0,div#pageFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(2) > a,0,Digital Privacy and Cookies Policy,0,Digital Pr,A,/html/body/div/footer/div/div[2]/div/div[2]/p[2]/a,A,Digital Privacy and Cookies Policy,63,955,115,2425
+15,0,div#pageFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(3) > a,0,SIPC,0,SIPC,A,/html/body/div/footer/div/div[2]/div/div[2]/p[3]/a,A,SIPC,64,29,525,2498

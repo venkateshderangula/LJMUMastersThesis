@@ -1,0 +1,22 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+15,ups-analytics,div#ups-header > nav > ul > li > a,0,Log In,0,Log In,A,/html/body/div/div/div/div/div/header/div/nav/ul/li/a,A,Log In,1,36,1104,13
+78,ups-analytics,a#ups-header_logo,ups-header_logo,,0,,A,/html/body/div/div/div/div/div/header/div/a[2],A,,2,67,60,11
+48,ups-accordion_toggle,a#ups-imagemap0,ups-imagemap0,Africa,0,Africa,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div/div/a,A,Africa,3,248,893,130
+72,ups-accordion_toggle,a#ups-imagemap1,ups-imagemap1,Asia & Indian Sub-continent,0,Asia & Ind,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[2]/div/a,A,Asia & Indian Sub-continent,4,248,893,179
+72,ups-accordion_toggle,a#ups-imagemap2,ups-imagemap2,"Caribbean, Central & South America",0,"Caribbean,",A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[3]/div/a,A,"Caribbean, Central & South America",5,248,893,252
+48,ups-accordion_toggle,a#ups-imagemap3,ups-imagemap3,Europe,0,Europe,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[4]/div/a,A,Europe,6,248,893,325
+48,ups-accordion_toggle ups-active,a#ups-imagemap4,ups-imagemap4,North America,0,North Amer,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/div/a,A,North America,7,248,893,374
+37,ups-analytics,ul#ups-imagemap4_links > li > a,0,Canada - English,0,Canada - E,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li/a,A,Canada - English,8,188,923,434
+37,ups-analytics,ul#ups-imagemap4_links > li:nth-of-type(2) > a,0,Canada - Français,0,Canada - F,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li[2]/a,A,Canada - Français,9,188,923,471
+37,ups-analytics,ul#ups-imagemap4_links > li:nth-of-type(3) > a,0,Mexico - English,0,Mexico - E,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li[3]/a,A,Mexico - English,10,188,923,508
+37,ups-analytics,ul#ups-imagemap4_links > li:nth-of-type(4) > a,0,Mexico - Español,0,Mexico - E,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li[4]/a,A,Mexico - Español,11,188,923,545
+37,ups-analytics,ul#ups-imagemap4_links > li:nth-of-type(5) > a,0,Estados Unidos - Español,0,Estados Un,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li[5]/a,A,Estados Unidos - Español,12,188,923,582
+37,ups-analytics ups-active,ul#ups-imagemap4_links > li:nth-of-type(6) > a,0,United States - English,0,United Sta,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[5]/ul/li[6]/a,A,United States - English,13,188,923,619
+48,ups-accordion_toggle,a#ups-imagemap5,ups-imagemap5,Middle East,0,Middle Eas,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[6]/div/a,A,Middle East,14,248,893,669
+48,ups-accordion_toggle,a#ups-imagemap6,ups-imagemap6,Oceania & Pacific,0,Oceania & ,A,/html/body/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/div[7]/div/a,A,Oceania & Pacific,15,248,893,718
+15,ups-analytics,div#ups-footer > div > div > ul > li > a,0,Global Home,0,Global Hom,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li/a,A,Global Home,16,67,566,866
+15,ups-analytics,div#ups-footer > div > div > ul > li:nth-of-type(2) > a,0,Protect Against Fraud,0,Protect Ag,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li[2]/a,A,Protect Against Fraud,17,113,657,866
+15,ups-analytics,div#ups-footer > div > div > ul > li:nth-of-type(3) > a,0,Website Terms of Use,0,Website Te,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li[3]/a,A,Website Terms of Use,18,114,793,866
+15,ups-analytics,div#ups-footer > div > div > ul > li:nth-of-type(4) > a,0,Your California Privacy RightsOpen the link in a new window,0,Your Calif,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li[4]/a,A,Your California Privacy RightsOpen the link in a new window,19,173,931,866
+15,ups-analytics,div#ups-footer > div > div > ul > li:nth-of-type(5) > a,0,Privacy NoticeOpen the link in a new window,0,Privacy No,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li[5]/a,A,Privacy NoticeOpen the link in a new window,20,93,566,886
+15,ups-analytics,div#ups-footer > div > div > ul > li:nth-of-type(6) > a,0,Cookie Settings,0,Cookie Set,A,/html/body/div/div[5]/div/div/div/footer/div/div/div/ul/li[6]/a,A,Cookie Settings,21,81,683,886

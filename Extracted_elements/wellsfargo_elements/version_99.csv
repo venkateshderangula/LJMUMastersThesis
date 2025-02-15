@@ -1,0 +1,24 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+15,0,div#brand > a,0,,0,,A,/html/body/div/header/div/div/div/div/a,A,,1,211,115,27
+15,signIn,div#topSearch > ul > li > a,0,Sign On,0,Sign On,A,/html/body/div/header/div/div/div/div[2]/ul/li/a,A,Sign On,2,48,638,23
+15,0,div#topSearch > ul > li:nth-of-type(2) > a,0,Customer Service,0,Customer S,A,/html/body/div/header/div/div/div/div[2]/ul/li[2]/a,A,Customer Service,3,107,701,23
+15,0,div#topSearch > ul > li:nth-of-type(3) > a,0,ATMs/Locations,0,ATMs/Locat,A,/html/body/div/header/div/div/div/div[2]/ul/li[3]/a,A,ATMs/Locations,4,93,824,23
+15,spTogglePersonal,a#langPrefToggle,langPrefToggle,Español,langPrefToggle,Español,A,/html/body/div/header/div/div/div/div[2]/ul/li[4]/a,A,Español,5,47,933,23
+15,0,input#inputTopSearchField,inputTopSearchField,,q,,INPUT,/html/body/div/header/div/div/div/div[2]/form/div/input,INPUT,,6,210,829,22
+25,register,button#btnTopSearch,btnTopSearch,,btnG,,BUTTON,/html/body/div/header/div/div/div/div[2]/form/button,BUTTON,,7,25,1053,16
+18,tabNavLink,a#tabNavPersonal,tabNavPersonal,Personal,tabNavPersonal,Personal,A,/html/body/div/header/div/div[2]/nav/div/ul/li/a,A,Personal,8,64,120,71
+18,tabNavLink,a#tabNavSmallBusiness,tabNavSmallBusiness,Small BusinessSmall Business. Serving businesses with up to $5 million in annual revenue.,tabNavSmallBusiness,Small Busi,A,/html/body/div/header/div/div[2]/nav/div/ul/li[2]/a,A,Small BusinessSmall Business. Serving businesses with up to $5 million in annual revenue.,9,113,224,71
+18,tabNavLink,a#tabNavCommercial,tabNavCommercial,Commercial,tabNavCommercial,Commercial,A,/html/body/div/header/div/div[2]/nav/div/ul/li[3]/a,A,Commercial,10,89,377,71
+17,0,div#headerTools > nav > ul > li > a,0,Financial Education,0,Financial ,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li/a,A,Financial Education,11,135,779,72
+17,0,div#headerTools > nav > ul > li:nth-of-type(2) > a,0,About Wells Fargo,0,About Well,A,/html/body/div/header/div/div[2]/nav/div[2]/nav/ul/li[2]/a,A,About Wells Fargo,12,126,959,72
+15,c13,a#NID1_5_1_1_1_1_1_3_1,NID1_5_1_1_1_1_1_3_1,Go to the homepage,0,Go to the ,A,/html/body/div/div[2]/div/div/div/div/div/p[2]/a,A,Go to the homepage,13,148,135,303
+15,0,div#contentDiv > div:nth-of-type(2) > ul > li > a,0,Sitemap,0,Sitemap,A,/html/body/div/div[2]/div/div/div/div/div[2]/ul/li/a,A,Sitemap,14,50,647,241
+15,0,div#contentDiv > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Customer Service,0,Customer S,A,/html/body/div/div[2]/div/div/div/div/div[2]/ul/li[2]/a,A,Customer Service,15,107,647,264
+33,0,div#contentDiv > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Apply for an Account or Service,0,Apply for ,A,/html/body/div/div[2]/div/div/div/div/div[2]/ul/li[3]/a,A,Apply for an Account or Service,16,142,647,287
+15,0,div#pageFooter > div > nav > div > ul > li > a,0,About Wells Fargo,0,About Well,A,/html/body/div/footer/div/div/nav/div/ul/li/a,A,About Wells Fargo,17,108,117,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(2) > a,0,Careers,0,Careers,A,/html/body/div/footer/div/div/nav/div/ul/li[2]/a,A,Careers,18,46,259,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(3) > a,0,"Privacy, Cookies, Security & Legal",0,"Privacy, C",A,/html/body/div/footer/div/div/nav/div/ul/li[3]/a,A,"Privacy, Cookies, Security & Legal",19,204,340,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(4) > a,0,Report Fraud,0,Report Fra,A,/html/body/div/footer/div/div/nav/div/ul/li[4]/a,A,Report Fraud,20,78,578,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(5) > a,0,Sitemap,0,Sitemap,A,/html/body/div/footer/div/div/nav/div/ul/li[5]/a,A,Sitemap,21,50,690,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(6) > a,0,Home,0,Home,A,/html/body/div/footer/div/div/nav/div/ul/li[6]/a,A,Home,22,35,774,499
+15,0,div#pageFooter > div > nav > div > ul > li:nth-of-type(7) > a,0,Diversity & Accessibility,0,Diversity ,A,/html/body/div/footer/div/div/nav/div/ul/li[7]/a,A,Diversity & Accessibility,23,143,843,499

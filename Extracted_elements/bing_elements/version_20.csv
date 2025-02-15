@@ -1,0 +1,23 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+16,scopebar_link,li#images > a,0,Images,0,Images,A,/html/body/div/div[2]/header/ul/li/a,A,Images,1,42,120,16
+39,id_button,a#id_l,id_l,Sign in,0,Sign in,A,/html/body/div/div[2]/header/div/div/a,A,Sign in,2,106,825,2
+44,id_button,a#id_rh,id_rh,Rewards,0,Rewards,A,/html/body/div/div[2]/header/div/div/a[2],A,Rewards,3,97,931,2
+39,idp_ham hphbtop,a#id_sc,id_sc,,0,,A,/html/body/div/div[2]/header/div/div/a[4],A,,4,20,1044,2
+19,sb_form_q,input#sb_form_q,sb_form_q,,q,,INPUT,/html/body/div/div[2]/div[2]/form/input,INPUT,,5,484,302,135
+40,0,a#headline_link,headline_link,Lanterns alight in Pingxi,0,Lanterns a,A,/html/body/div/div[4]/div/div/div/div[2]/div[2]/div/a,A,Lanterns alight in Pingxi,6,195,813,545
+40,leftNav ,a#leftNav,leftNav,,0,,A,/html/body/div/div[4]/div/div/div/div[2]/div[2]/div[2]/a,A,,7,40,1012,545
+40,rightNav disabled,a#rightNav,rightNav,,0,,A,/html/body/div/div[4]/div/div/div/div[2]/div[2]/div[2]/a[2],A,,8,40,1056,545
+40,down,a#hideShowCaro,hideShowCaro,,0,,A,/html/body/div/div[4]/div/div/div[2]/div/div/a,A,,9,40,122,545
+40,leftNav disabled,a#leftNavCaro,leftNavCaro,,0,,A,/html/body/div/div[4]/div/div/div[2]/div/div/a[3],A,,10,40,62,573
+40,rightNav,a#rightNavCaro,rightNavCaro,,0,,A,/html/body/div/div[4]/div/div/div[2]/div/div/a[4],A,,11,40,1118,573
+258,vs_rowitem vs_iotd_img,div#vert_iotd > div > div > a,0,"Feb 8, 2020",0,"Feb 8, 202",A,/html/body/div/div[4]/div/div/div[2]/div[2]/div/div/div/div/a,A,"Feb 8, 2020",12,390,122,639
+16,learn_more,div#vert_iotd > div > div > div > a,0,Learn more,0,Learn more,A,/html/body/div/div[4]/div/div/div[2]/div[2]/div/div/div/div/div/a,A,Learn more,13,81,540,799
+20,0,div#vert_iotd > div > div > div > div:nth-of-type(4) > ul > li > a,0,,0,,A,/html/body/div/div[4]/div/div/div[2]/div[2]/div/div/div/div/div/div[4]/ul/li/a,A,,14,24,546,861
+20,0,div#vert_iotd > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div/div[4]/div/div/div[2]/div[2]/div/div/div/div/div/div[4]/ul/li[2]/a,A,,15,24,582,861
+258,map,div#vs_iotd_mod > a,0,,0,,A,/html/body/div/div[4]/div/div/div[2]/div[2]/div/div/div/div/div[2]/a,A,,16,195,903,639
+16,0,a#privacy,privacy,Privacy and Cookies,0,Privacy an,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li/a,A,Privacy and Cookies,17,114,61,923
+16,0,a#legal,legal,Legal,0,Legal,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li[2]/a,A,Legal,18,30,199,923
+16,0,footer#footer > ul > li:nth-of-type(3) > a,0,Advertise,0,Advertise,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li[3]/a,A,Advertise,19,53,253,923
+16,0,footer#footer > ul > li:nth-of-type(4) > a,0,About our ads,0,About our ,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li[4]/a,A,About our ads,20,81,330,923
+16,0,a#help,help,Help,0,Help,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li[5]/a,A,Help,21,26,434,923
+16,0,a#sb_feedback,sb_feedback,Feedback,0,Feedback,A,/html/body/div/div[4]/div/div/div[2]/footer/ul/li[6]/a,A,Feedback,22,54,484,923

@@ -1,0 +1,44 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,paypal-img-logo,div#body > header > div > div > a:nth-of-type(2),0,PayPal,0,PayPal,A,/html/body/div/header/div/div/a[2],A,PayPal,1,136,25,13
+67,0,a#header-personal,header-personal,Personal,0,Personal,A,/html/body/div/header/div/div/nav/ul/li/a,A,Personal,2,136,360,3
+67,0,a#header-business,header-business,Business,0,Business,A,/html/body/div/header/div/div/nav/ul/li[2]/a,A,Business,3,130,496,3
+67,no-drop,a#header-send,header-send,Send,0,Send,A,/html/body/div/header/div/div/nav/ul/li[3]/a,A,Send,4,89,630,3
+67,no-drop,a#header-request,header-request,Request,0,Request,A,/html/body/div/header/div/div/nav/ul/li[4]/a,A,Request,5,117,723,3
+36,btn btn-small btn-secondary,a#ul-btn,ul-btn,Log In,0,Log In,A,/html/body/div/header/div/div/div/a,A,Log In,6,84,972,18
+36,btn btn-small btn-signup,a#signup-button,signup-button,Sign Up,0,Sign Up,A,/html/body/div/header/div/div/div/a[2],A,Sign Up,7,84,1068,18
+51,btn span4 center-block useModal btn-hero,div#main > section > div > div > a,0,Sign Up for Free,0,Sign Up fo,A,/html/body/div/div/section/div/div/a,A,Sign Up for Free,8,361,420,380
+51,btn btn-white-border span4 center-block,div#main > section > div > div > p:nth-of-type(2) > a,0,Learn About Our Features,0,Learn Abou,A,/html/body/div/div/section/div/div/p[2]/a,A,Learn About Our Features,9,361,420,440
+16,hero-terms-eligibility,div#main > section > div > div > div > p > a,0,*See Eligibility.,0,*See Eligi,A,/html/body/div/div/section/div/div/div/p/a,A,*See Eligibility.,10,95,553,511
+52,btn btn-blue-border span8 center-block,div#main > section:nth-of-type(2) > div > div > a,0,Explore Business Solutions,0,Explore Bu,A,/html/body/div/div/section[2]/div/div/a,A,Explore Business Solutions,11,320,440,848
+51,contentLink btn btn-white-border span4 center-block,div#main > section:nth-of-type(3) > div > div > a,0,Learn more,0,Learn more,A,/html/body/div/div/section[3]/div/div/a,A,Learn more,12,170,216,1171
+51,contentLink btn btn-white-border span4 center-block,div#main > section:nth-of-type(3) > div > div:nth-of-type(2) > a,0,Learn more,0,Learn more,A,/html/body/div/div/section[3]/div/div[2]/a,A,Learn more,13,170,792,1171
+50,steps-dd-header ga-track-link,section#intent-steps > div > div > div > a,0,Pay securely on millions of sites,0,Pay secure,A,/html/body/div/div/section[4]/div/div/div/a,A,Pay securely on millions of sites,14,306,603,1612
+50,list steps-dd-links ga-track-link intent-steps-track selected,ul#steps-dd-list > li > a,0,Pay securely on millions of sites,0,Pay secure,A,/html/body/div/div/section[4]/div/div/div/ul/li/a,A,Pay securely on millions of sites,15,311,603,1612
+39,list steps-dd-links ga-track-link intent-steps-track,ul#steps-dd-list > li:nth-of-type(2) > a,0,Send money in the U.S. and abroad,0,Send money,A,/html/body/div/div/section[4]/div/div/div/ul/li[2]/a,A,Send money in the U.S. and abroad,16,311,603,1662
+39,list steps-dd-links ga-track-link intent-steps-track,ul#steps-dd-list > li:nth-of-type(3) > a,0,Donate to a cause,0,Donate to ,A,/html/body/div/div/section[4]/div/div/div/ul/li[3]/a,A,Donate to a cause,17,311,603,1701
+39,list steps-dd-links ga-track-link intent-steps-track,ul#steps-dd-list > li:nth-of-type(4) > a,0,Pay over time with PayPal Credit,0,Pay over t,A,/html/body/div/div/section[4]/div/div/div/ul/li[4]/a,A,Pay over time with PayPal Credit,18,311,603,1740
+50,list steps-dd-links ga-track-link intent-steps-track,ul#steps-dd-list > li:nth-of-type(5) > a,0,Accept payments for business,0,Accept pay,A,/html/body/div/div/section[4]/div/div/div/ul/li[5]/a,A,Accept payments for business,19,311,603,1779
+51,btn btn-small steps-signup,section#intent-steps > div > div:nth-of-type(3) > a,0,Sign Up for Free,0,Sign Up fo,A,/html/body/div/div/section[4]/div/div[3]/a,A,Sign Up for Free,20,320,440,2007
+21,hatch-link,section#intent-steps > div > div:nth-of-type(3) > a:nth-of-type(2),0,Learn more about paying online,0,Learn more,A,/html/body/div/div/section[4]/div/div[3]/a[2],A,Learn more about paying online,21,1128,36,2068
+19,0,div#main > section:nth-of-type(5) > div > div > p > a,0,purchase or seller protection,0,purchase o,A,/html/body/div/div/section[5]/div/div/p/a,A,purchase or seller protection,22,206,144,2861
+19,0,div#main > section:nth-of-type(5) > div > div:nth-of-type(3) > p > a,0,PayPal Credit,0,PayPal Cre,A,/html/body/div/div/section[5]/div/div[3]/p/a,A,PayPal Credit,23,96,947,2884
+51,btn closing-cta center-block ,div#main > section:nth-of-type(6) > div > div > a,0,Sign Up for Free,0,Sign Up fo,A,/html/body/div/div/section[6]/div/div/a,A,Sign Up for Free,24,320,440,3162
+44,0,div#body > footer > div > ul > li > a,0,Help & Contact,0,Help & Con,A,/html/body/div/footer/div/ul/li/a,A,Help & Contact,25,94,71,3342
+44,0,div#body > footer > div > ul > li:nth-of-type(2) > a,0,Fees,0,Fees,A,/html/body/div/footer/div/ul/li[2]/a,A,Fees,26,28,195,3342
+44,0,div#body > footer > div > ul > li:nth-of-type(3) > a,0,Security,0,Security,A,/html/body/div/footer/div/ul/li[3]/a,A,Security,27,51,252,3342
+44,0,div#body > footer > div > ul > li:nth-of-type(4) > a,0,Apps,0,Apps,A,/html/body/div/footer/div/ul/li[4]/a,A,Apps,28,31,333,3342
+44,0,div#body > footer > div > ul > li:nth-of-type(5) > a,0,Shop,0,Shop,A,/html/body/div/footer/div/ul/li[5]/a,A,Shop,29,31,394,3342
+24,country US,div#body > footer > div > ul > li:nth-of-type(6) > a,0,See all countries,0,See all co,A,/html/body/div/footer/div/ul/li[6]/a,A,See all countries,30,32,1132,3353
+36,search-icon,div#body > footer > div > ul > li:nth-of-type(7) > a,0,Search,0,Search,A,/html/body/div/footer/div/ul/li[7]/a,A,Search,31,30,36,3347
+26,0,div#body > footer > div > ul:nth-of-type(2) > li > a,0,About,0,About,A,/html/body/div/footer/div/ul[2]/li/a,A,About,32,33,36,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Blog,0,Blog,A,/html/body/div/footer/div/ul[2]/li[2]/a,A,Blog,33,23,90,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Jobs,0,Jobs,A,/html/body/div/footer/div/ul[2]/li[3]/a,A,Jobs,34,22,135,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Investor Relations,0,Investor R,A,/html/body/div/footer/div/ul[2]/li[4]/a,A,Investor Relations,35,97,179,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,Social Innovation,0,Social Inn,A,/html/body/div/footer/div/ul[2]/li[5]/a,A,Social Innovation,36,91,298,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,Public Policy,0,Public Pol,A,/html/body/div/footer/div/ul[2]/li[6]/a,A,Public Policy,37,67,411,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(7) > a,0,Sitemap,0,Sitemap,A,/html/body/div/footer/div/ul[2]/li[7]/a,A,Sitemap,38,44,500,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(8) > a,0,Enterprise,0,Enterprise,A,/html/body/div/footer/div/ul[2]/li[8]/a,A,Enterprise,39,56,566,3395
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(9) > a,0,Partners,0,Partners,A,/html/body/div/footer/div/ul[2]/li[9]/a,A,Partners,40,46,643,3395
+26,0,li#footer-privacy > a,0,Privacy,0,Privacy,A,/html/body/div/footer/div/ul[3]/li[2]/a,A,Privacy,41,39,1004,3395
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,Legal,0,Legal,A,/html/body/div/footer/div/ul[3]/li[3]/a,A,Legal,42,28,1065,3395
+26,0,li#siteFeedback > a,0,Feedback,0,Feedback,A,/html/body/div/footer/div/ul[3]/li[4]/a,A,Feedback,43,50,1114,3395

@@ -1,0 +1,32 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+19,multi-language-link alert-link,html > body > div:nth-of-type(2) > div > div > div > div > a,0,Canada (français),0,Canada (fr,A,/html/body/div[2]/div/div/div/div/a,A,Canada (français),1,94,30,19
+27,mh-close svelte-x9spy8,html > body > div:nth-of-type(2) > div > div > div > button,0,,0,,BUTTON,/html/body/div[2]/div/div/div/button,BUTTON,✕ Close,2,14,1156,15
+32,mh-skip-link svelte-14yhn32,html > body > div:nth-of-type(2) > div > header > a,0,Skip to content,0,Skip to co,A,/html/body/div[2]/div/header/a,A,Skip to content,3,96,16,73
+40,mh-header-primary svelte-18o1xvt,html > body > div:nth-of-type(2) > div > header > div > div > a,0,Spotify,0,Spotify,A,/html/body/div[2]/div/header/div/div/a,A,Spotify,4,132,30,77
+80,mh-header-primary svelte-vf0pv9,html > body > div:nth-of-type(2) > div > header > div > nav > ul > li > a,0,Premium,0,Premium,A,/html/body/div[2]/div/header/div/nav/ul/li/a,A,Premium,5,101,703,57
+80,mh-header-primary svelte-vf0pv9,html > body > div:nth-of-type(2) > div > header > div > nav > ul > li:nth-of-type(2) > a,0,Help,0,Help,A,/html/body/div[2]/div/header/div/nav/ul/li[2]/a,A,Help,6,69,803,57
+80,mh-header-primary svelte-vf0pv9,html > body > div:nth-of-type(2) > div > header > div > nav > ul > li:nth-of-type(3) > a,0,Download,0,Download,A,/html/body/div[2]/div/header/div/nav/ul/li[3]/a,A,Download,7,110,872,57
+80,mh-header-secondary mh-tier-2 svelte-vf0pv9,html > body > div:nth-of-type(2) > div > header > div > nav > ul > li:nth-of-type(5) > a,0,Sign up,0,Sign up,A,/html/body/div[2]/div/header/div/nav/ul/li[5]/a,A,Sign up,8,90,1017,57
+80,mh-header-secondary mh-tier-2 svelte-vf0pv9,html > body > div:nth-of-type(2) > div > header > div > nav > ul > li:nth-of-type(6) > a,0,Log In,0,Log In,A,/html/body/div[2]/div/header/div/nav/ul/li[6]/a,A,Log In,9,63,1107,57
+48,btn btn-green btn-simplified js-goto-signup js-button-hero-get-free,a#generic-btn-premium,generic-btn-premium,GET SPOTIFY FREE,0,GET SPOTIF,A,/html/body/div[2]/section/div/div[2]/div/a,A,GET SPOTIFY FREE,10,253,474,553
+40,mh-footer-primary svelte-18o1xvt,footer#mh-footer > nav > div > a,0,Spotify,0,Spotify,A,/html/body/div[3]/footer/nav/div/a,A,Spotify,11,132,30,931
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl > dd > a,0,About,0,About,A,/html/body/div[3]/footer/nav/div[2]/dl/dd/a,A,About,12,45,225,988
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl > dd:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/div[3]/footer/nav/div[2]/dl/dd[2]/a,A,Jobs,13,35,225,1030
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl > dd:nth-of-type(3) > a,0,For the Record,0,For the Re,A,/html/body/div[3]/footer/nav/div[2]/dl/dd[3]/a,A,For the Record,14,106,225,1072
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(2) > dd > a,0,For Artists,0,For Artist,A,/html/body/div[3]/footer/nav/div[2]/dl[2]/dd/a,A,For Artists,15,74,420,988
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(2) > dd:nth-of-type(2) > a,0,Developers,0,Developers,A,/html/body/div[3]/footer/nav/div[2]/dl[2]/dd[2]/a,A,Developers,16,82,420,1030
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(2) > dd:nth-of-type(3) > a,0,Brands,0,Brands,A,/html/body/div[3]/footer/nav/div[2]/dl[2]/dd[3]/a,A,Brands,17,50,420,1072
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(2) > dd:nth-of-type(4) > a,0,Investors,0,Investors,A,/html/body/div[3]/footer/nav/div[2]/dl[2]/dd[4]/a,A,Investors,18,65,420,1114
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(2) > dd:nth-of-type(5) > a,0,Vendors,0,Vendors,A,/html/body/div[3]/footer/nav/div[2]/dl[2]/dd[5]/a,A,Vendors,19,59,420,1156
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(3) > dd > a,0,Help,0,Help,A,/html/body/div[3]/footer/nav/div[2]/dl[3]/dd/a,A,Help,20,34,615,988
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(3) > dd:nth-of-type(2) > a,0,Web Player,0,Web Player,A,/html/body/div[3]/footer/nav/div[2]/dl[3]/dd[2]/a,A,Web Player,21,83,615,1030
+42,mh-footer-primary svelte-12h6dnj,footer#mh-footer > nav > div:nth-of-type(2) > dl:nth-of-type(3) > dd:nth-of-type(3) > a,0,Free Mobile App,0,Free Mobil,A,/html/body/div[3]/footer/nav/div[2]/dl[3]/dd[3]/a,A,Free Mobile App,22,120,615,1072
+54,mh-footer-primary svelte-1ad7r0v,footer#mh-footer > nav > div:nth-of-type(3) > ul > li > a,0,,0,,A,/html/body/div[3]/footer/nav/div[3]/ul/li/a,A,,23,54,978,951
+54,mh-footer-primary svelte-1ad7r0v,footer#mh-footer > nav > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[3]/footer/nav/div[3]/ul/li[2]/a,A,,24,54,1047,951
+54,mh-footer-primary svelte-1ad7r0v,footer#mh-footer > nav > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/div[3]/footer/nav/div[3]/ul/li[3]/a,A,,25,54,1116,951
+18,mh-footer-secondary mh-compact svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(4) > a,0,Canada (English),0,Canada (En,A,/html/body/div[3]/footer/nav/div[4]/a,A,Canada (English),26,125,1045,1277
+43,mh-footer-secondary svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(5) > ul > li > a,0,Legal,0,Legal,A,/html/body/div[3]/footer/nav/div[5]/ul/li/a,A,Legal,27,29,30,1295
+43,mh-footer-secondary svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Privacy Center,0,Privacy Ce,A,/html/body/div[3]/footer/nav/div[5]/ul/li[2]/a,A,Privacy Center,28,80,83,1295
+43,mh-footer-secondary svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div[3]/footer/nav/div[5]/ul/li[3]/a,A,Privacy Policy,29,75,187,1295
+43,mh-footer-secondary svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,Cookies,0,Cookies,A,/html/body/div[3]/footer/nav/div[5]/ul/li[4]/a,A,Cookies,30,44,286,1295
+43,mh-footer-secondary svelte-1ouzkfx,footer#mh-footer > nav > div:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,About Ads,0,About Ads,A,/html/body/div[3]/footer/nav/div[5]/ul/li[5]/a,A,About Ads,31,57,354,1295

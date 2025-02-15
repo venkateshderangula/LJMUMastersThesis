@@ -1,0 +1,1253 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+33,css-1o0yzqm er09x8g2,button#desktop-sections-button,desktop-sections-button,,0,,BUTTON,/html/body/div/div/div/header/section/div/button,BUTTON,Sections,1,34,43,12
+33,css-fnhm75 ewfai8r0,div#app > div > div > header > section > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div/div/div/header/section/div/div[2]/button,BUTTON,SEARCH,2,34,85,12
+20,css-1f8er69,div#app > div > div > header > section > div > a,0,Skip to content,0,Skip to co,A,/html/body/div/div/div/header/section/div/a,A,Skip to content,3,25,154,11
+20,css-1f8er69,div#app > div > div > header > section > div > a:nth-of-type(2),0,Skip to site index,0,Skip to si,A,/html/body/div/div/div/header/section/div/a[2],A,Skip to site index,4,25,154,11
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li > a,0,U.S.,0,U.S.,A,/html/body/div/div/div/header/section/div[3]/ul/li/a,A,U.S.,5,36,472,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,International,0,Internatio,A,/html/body/div/div/div/header/section/div[3]/ul/li[2]/a,A,International,6,93,508,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Canada,0,Canada,A,/html/body/div/div/div/header/section/div[3]/ul/li[3]/a,A,Canada,7,55,601,17
+23,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Español,0,Español,A,/html/body/div/div/div/header/section/div[3]/ul/li[4]/a,A,Español,8,60,656,17
+27,css-ogiugu,div#app > div > div > header > section > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,中文,0,中文,A,/html/body/div/div/div/header/section/div[3]/ul/li[5]/a,A,中文,9,37,716,14
+12,css-hnzl8o,section#masthead-bar-one > div > div:nth-of-type(2) > a,0,Today’s Paper,0,Today’s Pa,A,/html/body/div/div/div/header/section[2]/div/div[2]/a,A,Today’s Paper,10,69,43,82
+58,css-1q2j1fr eexq7ln0,div#app > div > div > header > div > div > a,0,,0,,A,/html/body/div/div/div/header/div/div/a,A,,11,430,378,47
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li > a,0,World,0,World,A,/html/body/div/div/div/header/div[4]/ul/li/a,A,World,12,37,103,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,U.S.,0,U.S.,A,/html/body/div/div/div/header/div[4]/ul/li[2]/a,A,U.S.,13,29,150,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Politics,0,Politics,A,/html/body/div/div/div/header/div[4]/ul/li[3]/a,A,Politics,14,44,190,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,N.Y.,0,N.Y.,A,/html/body/div/div/div/header/div[4]/ul/li[4]/a,A,N.Y.,15,28,244,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Business,0,Business,A,/html/body/div/div/div/header/div[4]/ul/li[5]/a,A,Business,16,54,282,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Opinion,0,Opinion,A,/html/body/div/div/div/header/div[4]/ul/li[6]/a,A,Opinion,17,47,346,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Tech,0,Tech,A,/html/body/div/div/div/header/div[4]/ul/li[7]/a,A,Tech,18,32,403,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Science,0,Science,A,/html/body/div/div/div/header/div[4]/ul/li[8]/a,A,Science,19,48,445,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Health,0,Health,A,/html/body/div/div/div/header/div[4]/ul/li[9]/a,A,Health,20,41,503,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,Sports,0,Sports,A,/html/body/div/div/div/header/div[4]/ul/li[10]/a,A,Sports,21,41,554,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,Arts,0,Arts,A,/html/body/div/div/div/header/div[4]/ul/li[11]/a,A,Arts,22,28,605,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Books,0,Books,A,/html/body/div/div/div/header/div[4]/ul/li[12]/a,A,Books,23,39,644,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,Style,0,Style,A,/html/body/div/div/div/header/div[4]/ul/li[13]/a,A,Style,24,33,693,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,Food,0,Food,A,/html/body/div/div/div/header/div[4]/ul/li[14]/a,A,Food,25,33,736,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,Travel,0,Travel,A,/html/body/div/div/div/header/div[4]/ul/li[15]/a,A,Travel,26,38,779,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(16) > a,0,Magazine,0,Magazine,A,/html/body/div/div/div/header/div[4]/ul/li[16]/a,A,Magazine,27,57,827,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(17) > a,0,T Magazine,0,T Magazine,A,/html/body/div/div/div/header/div[4]/ul/li[17]/a,A,T Magazine,28,66,894,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(18) > a,0,Real Estate,0,Real Estat,A,/html/body/div/div/div/header/div[4]/ul/li[18]/a,A,Real Estate,29,65,970,133
+24,css-1wjnrbv,div#app > div > div > header > div:nth-of-type(4) > ul > li:nth-of-type(19) > a,0,Video,0,Video,A,/html/body/div/div/div/header/div[4]/ul/li[19]/a,A,Video,30,36,1045,133
+17,e-custom-hed-link,div#e-spotlight-top-banner > div > div > div > div > div > div > div > a,0,Senate,0,Senate,A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div/div/div/div/div/a,A,Senate,31,52,-7,203
+26,e-bop-outer-wrapper,div#e-spotlight-top-banner > div > div > div > div > div > div > div > a:nth-of-type(2),0,"47
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          47
+          
+            DemocratsDem.*
+            
+          
+          
+            
+              Gained 1 seat+1 seat
+            
+          
+        
+        
+        
+
+        
+          47
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Lost 1 seat–1 seat
+            
+          
+        
+        
+        
+        
+          6
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        50
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            DemocratsDem.*
+            
+          
+          
+            
+              Gained 1 seat+1 seat
+            
+          
+        
+        
+        
+        
+        
+
+        
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Lost 1 seat-1 seat
+            
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+          
+            35 DemocratsDem. not up for election
+          
+        
+        
+        
+        
+        
+          
+            30 RepublicansRep. not up for election
+          
+        
+        
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Gained 1 seat+1 seat
+        
+        
+        
+        
+        
+        
+          Lost 1 seat—1 seat
+        
+        
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Flipped 2 seats (+1 net gain)
+        
+        
+        
+        
+        
+        
+          Flipped 1 seat
+        
+        
+      
+      
+
+  
+
+  
+  
+      47",0,"47
+    
+  ",A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div/div/div/div/div/a[2],A,"47
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          47
+          
+            DemocratsDem.*
+            
+          
+          
+            
+              Gained 1 seat+1 seat
+            
+          
+        
+        
+        
+
+        
+          47
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Lost 1 seat–1 seat
+            
+          
+        
+        
+        
+        
+          6
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        50
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            DemocratsDem.*
+            
+          
+          
+            
+              Gained 1 seat+1 seat
+            
+          
+        
+        
+        
+        
+        
+
+        
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Lost 1 seat-1 seat
+            
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+          
+            35 DemocratsDem. not up for election
+          
+        
+        
+        
+        
+        
+          
+            30 RepublicansRep. not up for election
+          
+        
+        
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Gained 1 seat+1 seat
+        
+        
+        
+        
+        
+        
+          Lost 1 seat—1 seat
+        
+        
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Flipped 2 seats (+1 net gain)
+        
+        
+        
+        
+        
+        
+          Flipped 1 seat
+        
+        
+      
+      
+
+  
+
+  
+  
+      47",32,214,57,198
+17,e-custom-hed-link,div#e-spotlight-top-banner > div > div > div:nth-of-type(2) > div > div > div > div > a,0,President,0,President,A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div[2]/div/div/div/div/a,A,President,33,69,300,203
+26,e-bop-outer-wrapper,div#e-spotlight-top-banner > div > div > div:nth-of-type(2) > div > div > div > div > a:nth-of-type(2),0,"227
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          227
+          
+            Joseph R. Biden Jr.Biden
+            
+          
+          
+        
+        
+        
+
+        
+          213
+          
+            Donald J. TrumpTrump
+            
+          
+          
+        
+        
+        
+        
+          98
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        270to win
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            Joseph R. Biden Jr.Biden
+            
+          
+          
+        
+        
+        
+        
+        
+
+        
+          
+            Donald J. TrumpTrump
+            
+          
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+        
+        
+        
+        
+        
+          69,349,235 votes (50.1%)
+        
+        
+        
+        
+        
+        
+          66,597,438 votes (48.1%)
+        
+        
+      
+      
+
+      
+      
+
+  
+
+  
+  
+      213",0,"227
+    
+ ",A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div[2]/div/div/div/div/a[2],A,"227
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          227
+          
+            Joseph R. Biden Jr.Biden
+            
+          
+          
+        
+        
+        
+
+        
+          213
+          
+            Donald J. TrumpTrump
+            
+          
+          
+        
+        
+        
+        
+          98
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        270to win
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            Joseph R. Biden Jr.Biden
+            
+          
+          
+        
+        
+        
+        
+        
+
+        
+          
+            Donald J. TrumpTrump
+            
+          
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+        
+        
+        
+        
+        
+          69,349,235 votes (50.1%)
+        
+        
+        
+        
+        
+        
+          66,597,438 votes (48.1%)
+        
+        
+      
+      
+
+      
+      
+
+  
+
+  
+  
+      213",34,504,381,198
+17,e-custom-hed-link,div#e-spotlight-top-banner > div > div > div:nth-of-type(3) > div > div > div > div > a,0,House,0,House,A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div[3]/div/div/div/div/a,A,House,35,48,915,203
+26,e-bop-outer-wrapper,div#e-spotlight-top-banner > div > div > div:nth-of-type(3) > div > div > div > div > a:nth-of-type(2),0,"194
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          194
+          
+            DemocratsDem.
+            
+          
+          
+            
+              Lost 5 seats–5 seats
+            
+          
+        
+        
+        
+
+        
+          185
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Gained 5 seats+5 seats
+            
+          
+        
+        
+        
+        
+          56
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        218for control
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            DemocratsDem.
+            
+          
+          
+            
+              Lost 5 seats-5 seats
+            
+          
+        
+        
+        
+        
+        
+
+        
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Gained 5 seats+5 seats
+            
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Lost 5 seats—5 seats
+        
+        
+        
+        
+        
+        
+          Gained 5 seats+5 seats
+        
+        
+      
+      
+
+      
+      
+      
+      
+        
+        
+        
+        
+        
+          64,534,113 votes (49.3%)
+        
+        
+        
+        
+        
+        
+          64,494,053 votes (49.3%)
+        
+        
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Flipped 2 seats
+        
+        
+        
+        
+        
+        
+          Flipped 7 seats (+5 net gain)
+        
+        
+      
+      
+
+  
+
+  
+  
+      185",0,"194
+    
+ ",A,/html/body/div/div[2]/main/div/div/div/section/div/div/section/section/div/div/section/div/div/div/div/div[3]/div/div/div/div/a[2],A,"194
+    
+  
+  
+
+  
+
+      
+      
+        
+        
+
+        
+          194
+          
+            DemocratsDem.
+            
+          
+          
+            
+              Lost 5 seats–5 seats
+            
+          
+        
+        
+        
+
+        
+          185
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Gained 5 seats+5 seats
+            
+          
+        
+        
+        
+        
+          56
+          
+            remaining
+          
+        
+        
+      
+
+      
+      
+        
+        218for control
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+        
+        
+          
+          
+          
+        
+        
+        
+      
+
+      
+      
+        
+        
+        
+        
+
+        
+          
+            DemocratsDem.
+            
+          
+          
+            
+              Lost 5 seats-5 seats
+            
+          
+        
+        
+        
+        
+        
+
+        
+          
+            RepublicansRep.
+            
+          
+          
+            
+              Gained 5 seats+5 seats
+            
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Lost 5 seats—5 seats
+        
+        
+        
+        
+        
+        
+          Gained 5 seats+5 seats
+        
+        
+      
+      
+
+      
+      
+      
+      
+        
+        
+        
+        
+        
+          64,534,113 votes (49.3%)
+        
+        
+        
+        
+        
+        
+          64,494,053 votes (49.3%)
+        
+        
+      
+      
+
+      
+      
+      
+        
+        
+        
+        
+        
+          Flipped 2 seats
+        
+        
+        
+        
+        
+        
+          Flipped 7 seats (+5 net gain)
+        
+        
+      
+      
+
+  
+
+  
+  
+      185",36,218,975,198
+38,0,div#scoop > a,0,"Presidential Race on Razor’s Edge, With Key States Still Counting",0,Presidenti,A,/html/body/div/div[2]/main/div/div/div/section/div/div[2]/section/section/div/div/section/div/div/div/a,A,"Presidential Race on Razor’s Edge, With Key States Still Counting",37,1180,3,326
+14,0,div#e-spotlight-header > div > div > div > div > div > h2 > a,0,Key States,0,Key States,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div/h2/a,A,Key States,38,75,-7,469
+13,0,div#key-states-table-container > table > tbody > tr:nth-of-type(3) > td > a,0,Minn. ›,0,Minn. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody/tr[3]/td/a,A,Minn. ›,39,38,-5,504
+13,0,div#key-states-table-container > table > tbody > tr:nth-of-type(4) > td > a,0,Maine ›,0,Maine ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody/tr[4]/td/a,A,Maine ›,40,41,-5,540
+13,0,div#key-states-table-container > table > tbody > tr:nth-of-type(5) > td > a,0,Fla. ›,0,Fla. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody/tr[5]/td/a,A,Fla. ›,41,27,-5,576
+13,0,div#key-states-table-container > table > tbody > tr:nth-of-type(6) > td > a,0,Ohio ›,0,Ohio ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody/tr[6]/td/a,A,Ohio ›,42,32,-5,611
+13,0,div#key-states-table-container > table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td > a,0,Texas ›,0,Texas ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[2]/tr[3]/td/a,A,Texas ›,43,37,399,504
+13,0,div#key-states-table-container > table > tbody:nth-of-type(2) > tr:nth-of-type(4) > td > a,0,Wis. ›,0,Wis. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[2]/tr[4]/td/a,A,Wis. ›,44,30,399,540
+13,0,div#key-states-table-container > table > tbody:nth-of-type(2) > tr:nth-of-type(5) > td > a,0,N.C. ›,0,N.C. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[2]/tr[5]/td/a,A,N.C. ›,45,31,399,576
+13,0,div#key-states-table-container > table > tbody:nth-of-type(2) > tr:nth-of-type(6) > td > a,0,Ga. ›,0,Ga. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[2]/tr[6]/td/a,A,Ga. ›,46,25,399,611
+13,0,div#key-states-table-container > table > tbody:nth-of-type(3) > tr:nth-of-type(3) > td > a,0,Mich. ›,0,Mich. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[3]/tr[3]/td/a,A,Mich. ›,47,37,794,504
+13,0,div#key-states-table-container > table > tbody:nth-of-type(3) > tr:nth-of-type(4) > td > a,0,Ariz. ›,0,Ariz. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[3]/tr[4]/td/a,A,Ariz. ›,48,30,794,540
+13,0,div#key-states-table-container > table > tbody:nth-of-type(3) > tr:nth-of-type(5) > td > a,0,Nev. ›,0,Nev. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[3]/tr[5]/td/a,A,Nev. ›,49,30,794,576
+13,0,div#key-states-table-container > table > tbody:nth-of-type(3) > tr:nth-of-type(6) > td > a,0,Pa. ›,0,Pa. ›,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div/div/div[2]/div/div/table/tbody[3]/tr[6]/td/a,A,Pa. ›,50,24,794,611
+14,0,div#e-spotlight-header > div > div > div:nth-of-type(2) > div > div > h2 > a,0,Live Updates,0,Live Updat,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div/h2/a,A,Live Updates,51,88,-7,648
+29,e-linked-state-bubble,p#e-update-feed-id-6 > a,0,See Michigan results ›,0,See Michig,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[7]/div[3]/div[3]/p/a,A,See Michigan results ›,52,356,-2021,760
+13,0,p#e-update-feed-id-7 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[8]/div[3]/div[3]/p/a,A,Read more ›,53,68,-1402,760
+13,e-force-underline-homepage,p#e-update-feed-id-8 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[9]/div[3]/div[3]/p/a,A,Read more ›,54,68,-918,760
+13,e-linked-state-bubble,p#e-update-feed-id-9 > a,0,See Nevada results ›,0,See Nevada,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[10]/div[3]/div[3]/p/a,A,See Nevada results ›,55,113,-599,760
+29,e-linked-state-bubble,p#e-update-feed-id-6 > a,0,See Michigan results ›,0,See Michig,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[17]/div[3]/div[3]/p/a,A,See Michigan results ›,56,356,2028,760
+13,0,p#e-update-feed-id-7 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[18]/div[3]/div[3]/p/a,A,Read more ›,57,68,2648,760
+13,e-force-underline-homepage,p#e-update-feed-id-8 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[19]/div[3]/div[3]/p/a,A,Read more ›,58,68,3132,760
+13,e-linked-state-bubble,p#e-update-feed-id-9 > a,0,See Nevada results ›,0,See Nevada,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[20]/div[3]/div[3]/p/a,A,See Nevada results ›,59,113,3450,760
+29,e-linked-state-bubble,p#e-update-feed-id-6 > a,0,See Michigan results ›,0,See Michig,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[27]/div[3]/div[3]/p/a,A,See Michigan results ›,60,356,6078,760
+13,0,p#e-update-feed-id-7 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[28]/div[3]/div[3]/p/a,A,Read more ›,61,68,6697,760
+13,e-force-underline-homepage,p#e-update-feed-id-8 > a,0,Read more ›,0,Read more ,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[29]/div[3]/div[3]/p/a,A,Read more ›,62,68,7181,760
+13,e-linked-state-bubble,p#e-update-feed-id-9 > a,0,See Nevada results ›,0,See Nevada,A,/html/body/div/div[2]/main/div/div/div/section/div/div[3]/section/section/div/div/section/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div[30]/div[3]/div[3]/p/a,A,See Nevada results ›,63,113,7500,760
+33,css-kej3w4,main#site-content > div > div > div > section > div > section > a,0,"Eyes on Arizona, Georgia and 3 ‘Blue Wall’ States",0,Eyes on Ar,A,/html/body/div/div[2]/main/div/div/div/section/div/section/a,A,"Eyes on Arizona, Georgia and 3 ‘Blue Wall’ States",64,1051,67,869
+69,css-kej3w4,main#site-content > div > div > div > section > div > section > a:nth-of-type(2),0,"Joe Biden holds narrow leads in Wisconsin, Michigan, Nevada and Arizona, while President Trump leads in Georgia and North Carolina.Many of the critical votes still to be counted are mail-in ballots, which are expected to favor Mr. Biden. Mr. Trump has threatened legal challenges.Mr. Biden holds a popular vote lead. Democrats’ path to the Senate control narrowed, but they are expected to hold onto the House. Here’s the latest.",0,Joe Biden ,A,/html/body/div/div[2]/main/div/div/div/section/div/section/a[2],A,"Joe Biden holds narrow leads in Wisconsin, Michigan, Nevada and Arizona, while President Trump leads in Georgia and North Carolina.Many of the critical votes still to be counted are mail-in ballots, which are expected to favor Mr. Biden. Mr. Trump has threatened legal challenges.Mr. Biden holds a popular vote lead. Democrats’ path to the Senate control narrowed, but they are expected to hold onto the House. Here’s the latest.",65,1051,67,910
+38,tab-link e-active,div#e-spotlight-position1 > div > div > a,0,President,0,President,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/div/div/div/a,A,President,66,90,443,991
+38,tab-link,div#e-spotlight-position1 > div > div > a:nth-of-type(2),0,Senate,0,Senate,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/div/div/div/a[2],A,Senate,67,72,533,991
+38,tab-link,div#e-spotlight-position1 > div > div > a:nth-of-type(3),0,House,0,House,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/div/div/div/a[3],A,House,68,68,604,991
+38,tab-link,div#e-spotlight-position1 > div > div > a:nth-of-type(4),0,Photos,0,Photos,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/div/div/div/a[4],A,Photos,69,72,670,991
+31,0,div#e-spotlight-position1 > div > div:nth-of-type(2) > div > div > div > div > h2 > a,0,See full results,0,See full r,A,/html/body/div/div[2]/main/div/div/div/section/div/section/div[4]/div/section/div/div/div/div[2]/div/div/div/div/h2/a,A,See full results,70,51,1083,1243
+22,css-1bgdn8y,section#live-blog-headlines-promo > div > div > div > a,0,Live,0,Live,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/div/a,A,Live,71,42,72,1465
+25,0,section#live-blog-headlines-promo > div > div > ul > li > h3 > a,0,".css-11f6h48{margin-right:5px;}.css-11f6h48:hover{border-bottom:1px solid #e2e2e2;}‘Joe Biden is on track to win this election,’ his campaign manager says..css-m7dmkp{font-family:nyt-franklin,helvetica,arial,sans-serif;color:#d0021b;font-weight:600;font-size:0.75rem;line-height:0.8125rem;display:inline-block;}7m ago",0,.css-11f6h,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/ul/li/h3/a,A,".css-11f6h48{margin-right:5px;}.css-11f6h48:hover{border-bottom:1px solid #e2e2e2;}‘Joe Biden is on track to win this election,’ his campaign manager says..css-m7dmkp{font-family:nyt-franklin,helvetica,arial,sans-serif;color:#d0021b;font-weight:600;font-size:0.75rem;line-height:0.8125rem;display:inline-block;}7m ago",72,611,72,1498
+14,0,section#live-blog-headlines-promo > div > div > ul > li:nth-of-type(2) > h3 > a,0,North Dakota candidate who died of Covid-19 wins seat in state legislature.11m ago,0,North Dako,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/ul/li[2]/h3/a,A,North Dakota candidate who died of Covid-19 wins seat in state legislature.11m ago,73,493,72,1536
+14,0,section#live-blog-headlines-promo > div > div > ul > li:nth-of-type(3) > h3 > a,0,"With eyes on Georgia, officials will soon give an update on counting remaining ballots.36m ago",0,With eyes ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/ul/li[3]/h3/a,A,"With eyes on Georgia, officials will soon give an update on counting remaining ballots.36m ago",74,555,72,1566
+14,0,section#live-blog-headlines-promo > div > div > ul > li:nth-of-type(4) > h3 > a,0,The view in North Carolina: The math is favorable for Trump and Tillis.1h ago,0,The view i,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/ul/li[4]/h3/a,A,The view in North Carolina: The math is favorable for Trump and Tillis.1h ago,75,448,72,1596
+14,0,section#live-blog-headlines-promo > div > div > ul > li:nth-of-type(5) > h3 > a,0,"Trump’s campaign manager projects victory, saying, ‘If we count all legal ballots, the president wins.’1h ago",0,Trump’s ca,A,/html/body/div/div[2]/main/div/div/div/section/div/section[2]/div[2]/section/div/div/ul/li[5]/h3/a,A,"Trump’s campaign manager projects victory, saying, ‘If we count all legal ballots, the president wins.’1h ago",76,628,72,1626
+25,electionNavbar__logo,div#e-spotlight-footer > div > div > div > div > div > div > a,0,.st0{fill:#f4564a}.st1{fill:#fff}.st2{fill:#2b8ad8},0,.st0{fill:,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div/a,A,.st0{fill:#f4564a}.st1{fill:#fff}.st2{fill:#2b8ad8},77,100,-7,1762
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a,0,President,0,President,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a,A,President,78,94,237,1769
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(2),0,Forecast,0,Forecast,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a[2],A,Forecast,79,88,331,1769
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(3),0,What’s Left to Count,0,What’s Lef,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a[3],A,What’s Left to Count,80,161,418,1769
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(4),0,Senate,0,Senate,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a[4],A,Senate,81,79,580,1769
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(5),0,House,0,House,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a[5],A,House,82,74,658,1769
+15,e-link-display,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > a:nth-of-type(6),0,Exit Polls,0,Exit Polls,A,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/a[6],A,Exit Polls,83,91,732,1769
+29,e-hp-nav-item,div#e-spotlight-footer > div > div > div > div > div > div:nth-of-type(2) > div > div > select,0,,0,,SELECT,/html/body/div/div[2]/main/div/div/div/section/div/div[8]/section/section/div/div/section/div/div/div/div/div/div/div/div[2]/div/div/select,SELECT,Select a state  Alabama   Alaska   Arizona   Arkansas   California   Colorado   Connecticut   Delaware   District of Columbia   Florida   Georgia   Hawaii   Idaho   Illinois   Indiana   Iowa   Kansas   Kentucky   Louisiana   Maine   Maryland   Massachusetts   Michigan   Minnesota   Mississippi   Missouri   Montana   Nebraska   Nevada   New Hampshire   New Jersey   New Mexico   New York   North Carolina   North Dakota   Ohio   Oklahoma   Oregon   Pennsylvania   Rhode Island   South Carolina   South Dakota   Tennessee   Texas   Utah   Vermont   Virginia   Washington   West Virginia   Wisconsin   Wyoming,84,154,922,1760
+30,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(3) > a,0,Can Biden Still Win? Can Trump Still Win? Yes. Here Are the Paths.,0,Can Biden ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[3]/a,A,Can Biden Still Win? Can Trump Still Win? Yes. Here Are the Paths.,85,1051,67,1923
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(3) > a:nth-of-type(2),0,"President Trump was able to close off several avenues to an early Joe Biden win, but Mr. Biden still has a number of options.",0,President ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[3]/a[2],A,"President Trump was able to close off several avenues to an early Joe Biden win, but Mr. Biden still has a number of options.",86,1051,67,1961
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(4) > a,0,"With Election Still Undecided, Trump Falsely Claims Victory",0,With Elect,A,/html/body/div/div[2]/main/div/div/div/section/div/section[4]/a,A,"With Election Still Undecided, Trump Falsely Claims Victory",87,1051,67,2140
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(4) > a:nth-of-type(2),0,"The claim was unprecedented in U.S. politics. President Trump also said vote counting should stop, which the Biden campaign manager said “will not happen.”",0,The claim ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[4]/a[2],A,"The claim was unprecedented in U.S. politics. President Trump also said vote counting should stop, which the Biden campaign manager said “will not happen.”",88,1051,67,2171
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(5) > a,0,It was a long night. Here’s where things stand and how to follow along today.,0,It was a l,A,/html/body/div/div[2]/main/div/div/div/section/div/section[5]/a,A,It was a long night. Here’s where things stand and how to follow along today.,89,1051,67,2320
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(6) > a,0,Wall Street Confronts an Uncertain Election Outcome,0,Wall Stree,A,/html/body/div/div[2]/main/div/div/div/section/div/section[6]/a,A,Wall Street Confronts an Uncertain Election Outcome,90,1051,67,2491
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(6) > a:nth-of-type(2),0,"As Election Day failed to produce a clear victor, investors waited and watched. Stock futures swung between gains and losses. Get the latest on the economy.",0,As Electio,A,/html/body/div/div[2]/main/div/div/div/section/div/section[6]/a[2],A,"As Election Day failed to produce a clear victor, investors waited and watched. Stock futures swung between gains and losses. Get the latest on the economy.",91,1051,67,2522
+21,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a,0,The Seven States That Will Decide the Race,0,The Seven ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[2]/section/a,A,The Seven States That Will Decide the Race,92,423,67,2668
+38,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a:nth-of-type(2),0,"Though they’re still too close to call, they’re tilting in Joe Biden’s direction for now.",0,Though the,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[2]/section/a[2],A,"Though they’re still too close to call, they’re tilting in Joe Biden’s direction for now.",93,423,67,2693
+42,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(3) > section > a,0,"What We Know About the Vote in Wisconsin, Michigan and Pennsylvania",0,What We Kn,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[3]/section/a,A,"What We Know About the Vote in Wisconsin, Michigan and Pennsylvania",94,423,521,2668
+38,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(3) > section > a:nth-of-type(2),0,"President Trump carried all three of the so-called “Blue Wall’’ states in 2016, and they are pivotal battlegrounds again.",0,President ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[3]/section/a[2],A,"President Trump carried all three of the so-called “Blue Wall’’ states in 2016, and they are pivotal battlegrounds again.",95,423,521,2714
+42,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(4) > section > a,0,Democrats Battle for Senate Control as They Maintain Grip on House Majority,0,Democrats ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[4]/section/a,A,Democrats Battle for Senate Control as They Maintain Grip on House Majority,96,423,975,2668
+57,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(4) > section > a:nth-of-type(2),0,Democrats’ path to seizing the Senate majority was rapidly narrowing as both parties continued to fight for control of the levers of power in Congress.,0,Democrats’,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[4]/section/a[2],A,Democrats’ path to seizing the Senate majority was rapidly narrowing as both parties continued to fight for control of the levers of power in Congress.,97,423,975,2714
+42,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(5) > section > a,0,Kelly Loeffler is trailing a Democrat in a Georgia Senate race that will be decided in a January runoff.,0,Kelly Loef,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[5]/section/a,A,Kelly Loeffler is trailing a Democrat in a Georgia Senate race that will be decided in a January runoff.,98,423,1429,2668
+63,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(6) > section > a,0,"Fox News made a big call in Arizona, buoying Joe Biden and angering President Trump, when others played it safe.",0,Fox News m,A,/html/body/div/div[2]/main/div/div/div/section/div/section[7]/div[2]/div/div/div[6]/section/a,A,"Fox News made a big call in Arizona, buoying Joe Biden and angering President Trump, when others played it safe.",99,423,1883,2668
+30,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(8) > a,0,A Look at the Supreme Court and the Election,0,A Look at ,A,/html/body/div/div[2]/main/div/div/div/section/div/section[8]/a,A,A Look at the Supreme Court and the Election,100,1051,67,2901
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(8) > a:nth-of-type(2),0,"While there have been countless election cases filed around the nation, it is not clear which of them might reach the court in the coming days.",0,While ther,A,/html/body/div/div[2]/main/div/div/div/section/div/section[8]/a[2],A,"While there have been countless election cases filed around the nation, it is not clear which of them might reach the court in the coming days.",101,1051,67,2939
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(9) > a,0,Uber and Lyft Drivers in California Will Remain Independent,0,Uber and L,A,/html/body/div/div[2]/main/div/div/div/section/div/section[9]/a,A,Uber and Lyft Drivers in California Will Remain Independent,102,1051,67,3088
+19,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(9) > a:nth-of-type(2),0,"The victory of Proposition 22, the most expensive initiative in the state’s history, could help gig companies remake labor laws throughout the country.",0,The victor,A,/html/body/div/div[2]/main/div/div/div/section/div/section[9]/a[2],A,"The victory of Proposition 22, the most expensive initiative in the state’s history, could help gig companies remake labor laws throughout the country.",103,1051,67,3119
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(10) > a,0,"In New York, Republican candidates lead in several House races that were thought to be competitive.",0,In New Yor,A,/html/body/div/div[2]/main/div/div/div/section/div/section[10]/a,A,"In New York, Republican candidates lead in several House races that were thought to be competitive.",104,1051,67,3268
+23,css-kej3w4,main#site-content > div > div > div > section > div > section:nth-of-type(11) > a,0,"Madison Cawthorn, 25, won in North Carolina, becoming the youngest Republican elected to the House.",0,Madison Ca,A,/html/body/div/div[2]/main/div/div/div/section/div/section[11]/a,A,"Madison Cawthorn, 25, won in North Carolina, becoming the youngest Republican elected to the House.",105,1051,67,3421
+108,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div > article > div > div > div > a,0,"LIVERaging Virus in Swing States Loomed Over Election DayAcross the United States, voters cast ballots in a presidential election during a pandemic that was both a top issue and a threat. Here’s the latest.",0,LIVERaging,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div/article/div/div/div/a,A,"LIVERaging Virus in Swing States Loomed Over Election DayAcross the United States, voters cast ballots in a presidential election during a pandemic that was both a top issue and a threat. Here’s the latest.",106,520,68,3509
+98,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div:nth-of-type(2) > article > div > div > a,0,"With Winter Coming and Trump Still in Charge, Virus Experts Fear the WorstRegardless of the election results, President Trump will be the one directing the government’s pandemic response as infections climb.",0,With Winte,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div[2]/article/div/div/a,A,"With Winter Coming and Trump Still in Charge, Virus Experts Fear the WorstRegardless of the election results, President Trump will be the one directing the government’s pandemic response as infections climb.",107,570,43,3689
+98,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div > div > div > div:nth-of-type(3) > article > div > div > a,0,Covid-19 Is the Big Story on Campus. College Reporters Have the Scoop.University outbreaks are significant contributors to the pandemic. The campus paper might be the only one left to cover them.,0,Covid-19 I,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div/div/div/div[3]/article/div/div/a,A,Covid-19 Is the Big Story on Campus. College Reporters Have the Scoop.University outbreaks are significant contributors to the pandemic. The campus paper might be the only one left to cover them.,108,570,43,3827
+108,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(3) > article > div > div > div > a,0,A New Front Opens in the Russia-Ukraine Conflict: BorschtA Ukrainian chef is leading a drive to recognize the soup as an intangible part of the country’s cultural heritage.,0,A New Fron,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[3]/article/div/div/div/a,A,A New Front Opens in the Russia-Ukraine Conflict: BorschtA Ukrainian chef is leading a drive to recognize the soup as an intangible part of the country’s cultural heritage.,109,520,68,4101
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(3) > article > div > div > div:nth-of-type(2) > a,0,Oksana Parafeniuk for The New York Times,0,Oksana Par,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[3]/article/div/div/div[2]/a,A,Oksana Parafeniuk for The New York Times,110,520,68,4251
+111,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(4) > article > div > div > div > a,0,"Home Sweet Home in OrbitTake a visual tour of the International Space Station, humanity’s high-tech home in the sky.",0,Home Sweet,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[4]/article/div/div/div/a,A,"Home Sweet Home in OrbitTake a visual tour of the International Space Station, humanity’s high-tech home in the sky.",111,520,68,4825
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(4) > article > div > div > div:nth-of-type(2) > a,0,Paolo Nespoli and Roland Miller,0,Paolo Nesp,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[4]/article/div/div/div[2]/a,A,Paolo Nespoli and Roland Miller,112,520,68,4978
+80,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div > article > div > div > div > a,0,"Take a BreakWe have tips for managing worry, new films to stream and more ideas for relaxing at home today.",0,Take a Bre,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div/article/div/div/div/a,A,"Take a BreakWe have tips for managing worry, new films to stream and more ideas for relaxing at home today.",113,520,68,5553
+495,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div > article > div > div > div:nth-of-type(2) > a,0,Łukasz Golędzinowski,0,Łukasz Gol,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div/article/div/div/div[2]/a,A,Łukasz Golędzinowski,114,520,68,5675
+23,0,main#site-content > div > div:nth-of-type(2) > div > div > div > section > div:nth-of-type(5) > div > div > div:nth-of-type(2) > article > div > div > a,0,Feeling on edge? We’ll help you take a deep breath.,0,Feeling on,A,/html/body/div/div[2]/main/div/div[2]/div/div/div/section/div[5]/div/div/div[2]/article/div/div/a,A,Feeling on edge? We’ll help you take a deep breath.,115,570,43,6216
+150,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div > article > div > div > div > a,0,"The MorningMake sense of the news, every day, with David Leonhardt.",0,The Mornin,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div/article/div/div/div/a,A,"The MorningMake sense of the news, every day, with David Leonhardt.",116,65,654,3510
+145,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div > article > div > div > div > div > a,0,,0,,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div/article/div/div/div/div/a,A,,117,60,739,3512
+137,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(2) > article > div > div > a,0,California TodayWhat we know about election results in California.,0,California,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div[2]/article/div/div/a,A,California TodayWhat we know about election results in California.,118,62,855,3510
+105,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(3) > article > div > div > div > a,0,Listen to ‘The Daily’An unfinished election.,0,Listen to ,A,/html/body/div/div[2]/main/div/div[2]/div/div[2]/section/div/div/div/div[3]/article/div/div/div/a,A,Listen to ‘The Daily’An unfinished election.,119,64,973,3532
+1,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div > div > a,0,Continue reading the main story,0,Continue r,A,/html/body/div/div[2]/main/div/div[2]/div/div[3]/div/div/div/a,A,Continue reading the main story,120,1,-8,6290
+14,css-c7fqqs,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > header > a,0,Opinion,0,Opinion,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/header/a,A,Opinion,121,61,58,6590
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div > article > div > div > div > a,0,Illustration by The New York Times; photograph by Jim Wilson/The New York Times,0,Illustrati,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div/article/div/div/div/a,A,Illustration by The New York Times; photograph by Jim Wilson/The New York Times,122,521,83,6641
+77,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div > article > div > div > div:nth-of-type(2) > a,0,"Farhad Manjoo2020 Should Be the Last Time We Vote Like ThisTurnout was inspiring, but our voting system is badly flawed.",0,Farhad Man,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div/article/div/div/div[2]/a,A,"Farhad Manjoo2020 Should Be the Last Time We Vote Like ThisTurnout was inspiring, but our voting system is badly flawed.",123,521,83,7156
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div:nth-of-type(2) > article > div > div > div > a,0,The New York Times,0,The New Yo,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div[2]/article/div/div/div/a,A,The New York Times,124,521,83,7326
+77,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div > div:nth-of-type(2) > article > div > div > div:nth-of-type(2) > a,0,Jeneen InterlandiI Love My Twin. How Did We End Up So Far Apart?The Democrats kept me but lost him.,0,Jeneen Int,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div/div[2]/article/div/div/div[2]/a,A,Jeneen InterlandiI Love My Twin. How Did We End Up So Far Apart?The Democrats kept me but lost him.,125,521,83,7841
+44,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div > article > div > a,0,Ross Douthat2020 Will Not Be Decisive,0,Ross Douth,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div/article/div/a,A,Ross Douthat2020 Will Not Be Decisive,126,271,58,7983
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(2) > article > div > a,0,Margaret O’MaraWhy the Social Media Rage Machine Won’t Stop,0,Margaret O,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[2]/article/div/a,A,Margaret O’MaraWhy the Social Media Rage Machine Won’t Stop,127,271,58,8053
+38,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(3) > article > div > a,0,"A Nation on Edge, a Presidency in the Balance",0,A Nation o,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[3]/article/div/a,A,"A Nation on Edge, a Presidency in the Balance",128,271,58,8142
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(4) > article > div > a,0,Yuval LevinEither Trump or Biden Will Win. But Our Deepest Problems Will Remain.,0,Yuval Levi,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[4]/article/div/a,A,Yuval LevinEither Trump or Biden Will Win. But Our Deepest Problems Will Remain.,129,271,58,8206
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(5) > article > div > a,0,Ron SuskindWhat Will Trump Do After Election Day?,0,Ron Suskin,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[5]/article/div/a,A,Ron SuskindWhat Will Trump Do After Election Day?,130,271,58,8295
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(6) > article > div > a,0,Charlie WarzelYou’re Waiting for Election Results. It’s Agony. Here’s What to Do.,0,Charlie Wa,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[6]/article/div/a,A,Charlie WarzelYou’re Waiting for Election Results. It’s Agony. Here’s What to Do.,131,271,358,7983
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(7) > article > div > a,0,Gus WezerekThe State That Could Decide How Far Republicans Will Go to Win,0,Gus Wezere,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[7]/article/div/a,A,Gus WezerekThe State That Could Decide How Far Republicans Will Go to Win,132,271,358,8072
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(8) > article > div > a,0,Daniel LarsenWhat Happens if Neither Trump Nor Biden Concedes?,0,Daniel Lar,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[8]/article/div/a,A,Daniel LarsenWhat Happens if Neither Trump Nor Biden Concedes?,133,271,358,8161
+63,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(4) > div > section > div:nth-of-type(2) > div:nth-of-type(9) > article > div > a,0,Betsy MasonElection Maps Are Everywhere. Don’t Let Them Fool You.,0,Betsy Maso,A,/html/body/div/div[2]/main/div/div[2]/div/div[4]/div/section/div[2]/div[9]/article/div/a,A,Betsy MasonElection Maps Are Everywhere. Don’t Let Them Fool You.,134,271,358,8250
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div > div > article > div > div > div > a,0,Melinda Sue Gordon/Netflix,0,Melinda Su,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div/div/article/div/div/div/a,A,Melinda Sue Gordon/Netflix,135,448,669,6630
+181,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div > div > article > div > div > div:nth-of-type(2) > a,0,"‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",0,‘Hamilton’,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div/div/article/div/div/div[2]/a,A,"‘Hamilton’ Was Just the Beginning. Hollywood Loves Broadway, Again.Theaters may be closed, but streamers and studios are flocking to the stage to meet the insatiable demand for content.",136,448,669,7145
+495,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div > article > div > div > div > a,0,.,0,.,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div/article/div/div/div/a,A,.,137,448,669,7420
+165,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div > article > div > div > div:nth-of-type(2) > a,0,"Review: Writers Pace the Streets, and See Symptoms of Social IllsIn “The Walker,” Matthew Beaumont profiles some of literature’s most obsessive pedestrians to analyze their troubled relationships to their eras.",0,Review: Wr,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div/article/div/div/div[2]/a,A,"Review: Writers Pace the Streets, and See Symptoms of Social IllsIn “The Walker,” Matthew Beaumont profiles some of literature’s most obsessive pedestrians to analyze their troubled relationships to their eras.",138,448,669,7935
+75,0,main#site-content > div > div:nth-of-type(2) > div > div:nth-of-type(5) > section > div > div:nth-of-type(2) > div:nth-of-type(2) > article > div > div > a,0,The Hardest Fight to Have With Your TeenIt’s rough for adolescents during the pandemic. Here’s what they’re going through and how you can help.,0,The Hardes,A,/html/body/div/div[2]/main/div/div[2]/div/div[5]/section/div/div[2]/div[2]/article/div/div/a,A,The Hardest Fight to Have With Your TeenIt’s rough for adolescents during the pandemic. Here’s what they’re going through and how you can help.,139,498,644,8166
+44,0,nav#site-index > div > header > a,0,,0,,A,/html/body/div/div[2]/nav/div/header/a,A,,140,184,43,8443
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li > a,0,Home Page,0,Home Page,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li/a,A,Home Page,141,150,43,8525
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(2) > a,0,World,0,World,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[2]/a,A,World,142,150,43,8551
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(3) > a,0,U.S.,0,U.S.,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[3]/a,A,U.S.,143,150,43,8577
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(4) > a,0,Politics,0,Politics,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[4]/a,A,Politics,144,150,43,8603
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(5) > a,0,Election 2020,0,Election 2,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[5]/a,A,Election 2020,145,150,43,8629
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(6) > a,0,New York,0,New York,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[6]/a,A,New York,146,150,43,8655
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(7) > a,0,Business,0,Business,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[7]/a,A,Business,147,150,43,8681
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(8) > a,0,Tech,0,Tech,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[8]/a,A,Tech,148,150,43,8707
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(9) > a,0,Science,0,Science,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[9]/a,A,Science,149,150,43,8733
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(11) > a,0,Sports,0,Sports,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[11]/a,A,Sports,150,150,43,8759
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(12) > a,0,Obituaries,0,Obituaries,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[12]/a,A,Obituaries,151,150,43,8785
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(18) > a,0,Today's Paper,0,Today's Pa,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[18]/a,A,Today's Paper,152,150,43,8811
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section > ul > li:nth-of-type(19) > a,0,Corrections,0,Correction,A,/html/body/div/div[2]/nav/div/div[2]/div/section/ul/li[19]/a,A,Corrections,153,150,43,8837
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li > a,0,Today's Opinion,0,Today's Op,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li/a,A,Today's Opinion,154,150,224,8525
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Op-Ed Columnists,0,Op-Ed Colu,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[2]/a,A,Op-Ed Columnists,155,150,224,8551
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Editorials,0,Editorials,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[3]/a,A,Editorials,156,150,224,8577
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Op-Ed Contributors,0,Op-Ed Cont,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[4]/a,A,Op-Ed Contributors,157,150,224,8603
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Letters,0,Letters,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[5]/a,A,Letters,158,150,224,8629
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Sunday Review,0,Sunday Rev,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[6]/a,A,Sunday Review,159,150,224,8655
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Video: Opinion,0,Video: Opi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[2]/ul/li[7]/a,A,Video: Opinion,160,150,224,8681
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li > a,0,Today's Arts,0,Today's Ar,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li/a,A,Today's Arts,161,150,404,8525
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Art & Design,0,Art & Desi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[2]/a,A,Art & Design,162,150,404,8551
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Books,0,Books,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[3]/a,A,Books,163,150,404,8577
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Dance,0,Dance,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[4]/a,A,Dance,164,150,404,8603
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Movies,0,Movies,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[5]/a,A,Movies,165,150,404,8629
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Music,0,Music,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[6]/a,A,Music,166,150,404,8655
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Pop Culture,0,Pop Cultur,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[7]/a,A,Pop Culture,167,150,404,8681
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(8) > a,0,Television,0,Television,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[8]/a,A,Television,168,150,404,8707
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(9) > a,0,Theater,0,Theater,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[9]/a,A,Theater,169,150,404,8733
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(3) > ul > li:nth-of-type(11) > a,0,Video: Arts,0,Video: Art,A,/html/body/div/div[2]/nav/div/div[2]/div/section[3]/ul/li[11]/a,A,Video: Arts,170,150,404,8759
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li > a,0,At Home,0,At Home,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li/a,A,At Home,171,150,584,8525
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Automobiles,0,Automobile,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[2]/a,A,Automobiles,172,150,584,8551
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Games,0,Games,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[3]/a,A,Games,173,150,584,8577
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Education,0,Education,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[4]/a,A,Education,174,150,584,8603
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Food,0,Food,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[5]/a,A,Food,175,150,584,8629
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Health,0,Health,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[6]/a,A,Health,176,150,584,8655
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,Jobs,0,Jobs,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[7]/a,A,Jobs,177,150,584,8681
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,Love,0,Love,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[8]/a,A,Love,178,150,584,8707
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,Magazine,0,Magazine,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[9]/a,A,Magazine,179,150,584,8733
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(10) > a,0,Parenting,0,Parenting,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[10]/a,A,Parenting,180,150,584,8759
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(11) > a,0,Real Estate,0,Real Estat,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[11]/a,A,Real Estate,181,150,584,8785
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(12) > a,0,Recipes,0,Recipes,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[12]/a,A,Recipes,182,150,584,8811
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(13) > a,0,Style,0,Style,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[13]/a,A,Style,183,150,584,8837
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(14) > a,0,T Magazine,0,T Magazine,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[14]/a,A,T Magazine,184,150,584,8863
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(4) > ul > li:nth-of-type(15) > a,0,Travel,0,Travel,A,/html/body/div/div[2]/nav/div/div[2]/div/section[4]/ul/li[15]/a,A,Travel,185,150,584,8889
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li > a,0,Reader Center,0,Reader Cen,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li/a,A,Reader Center,186,150,765,8525
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Wirecutter,0,Wirecutter,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[2]/a,A,Wirecutter,187,150,765,8551
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Live Events,0,Live Event,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[3]/a,A,Live Events,188,150,765,8577
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,The Learning Network,0,The Learni,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[4]/a,A,The Learning Network,189,150,765,8603
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,Tools & Services,0,Tools & Se,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[5]/a,A,Tools & Services,190,150,765,8629
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(6) > a,0,Multimedia,0,Multimedia,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[6]/a,A,Multimedia,191,150,765,8655
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(7) > a,0,Photography,0,Photograph,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[7]/a,A,Photography,192,150,765,8681
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(8) > a,0,Video,0,Video,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[8]/a,A,Video,193,150,765,8707
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(9) > a,0,Newsletters,0,Newsletter,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[9]/a,A,Newsletters,194,150,765,8733
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(10) > a,0,TimesMachine,0,TimesMachi,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[10]/a,A,TimesMachine,195,150,765,8759
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(11) > a,0,NYT Store,0,NYT Store,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[11]/a,A,NYT Store,196,150,765,8785
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(12) > a,0,Times Journeys,0,Times Jour,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[12]/a,A,Times Journeys,197,150,765,8811
+23,css-wbbhzv,nav#site-index > div > div:nth-of-type(2) > div > section:nth-of-type(5) > ul > li:nth-of-type(13) > a,0,Manage My Account,0,Manage My ,A,/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[13]/a,A,Manage My Account,198,150,765,8837
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li > a,0,Home Delivery,0,Home Deliv,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li/a,A,Home Delivery,199,150,961,8524
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,Digital Subscriptions,0,Digital Su,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[2]/a,A,Digital Subscriptions,200,150,961,8557
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3) > a,0,Games,0,Games,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[3]/a,A,Games,201,150,961,8589
+25,css-1oyjjn8,nav#site-index > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(4) > a,0,Cooking,0,Cooking,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul/li[4]/a,A,Cooking,202,150,961,8622
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li > a,0,Email Newsletters,0,Email News,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li/a,A,Email Newsletters,203,150,961,8658
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Corporate Subscriptions,0,Corporate ,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li[2]/a,A,Corporate Subscriptions,204,150,961,8682
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Education Rate,0,Education ,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[2]/li[3]/a,A,Education Rate,205,150,961,8706
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li > a,0,Mobile Applications,0,Mobile App,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li/a,A,Mobile Applications,206,150,961,8743
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(2) > a,0,Replica Edition,0,Replica Ed,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[2]/a,A,Replica Edition,207,150,961,8767
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,International,0,Internatio,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[3]/a,A,International,208,150,961,8791
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(4) > a,0,Canada,0,Canada,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[4]/a,A,Canada,209,150,961,8815
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(5) > a,0,Español,0,Español,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[5]/a,A,Español,210,150,961,8839
+23,css-1jmp9xk,nav#site-index > div > div:nth-of-type(2) > div > div > ul:nth-of-type(3) > li:nth-of-type(6) > a,0,中文网,0,中文网,A,/html/body/div/div[2]/nav/div/div[2]/div/div/ul[3]/li[6]/a,A,中文网,211,150,961,8863
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul > li > a,0,© 2020 The New York Times Company,0,© 2020 The,A,/html/body/div/div[2]/footer/nav/ul/li/a,A,© 2020 The New York Times Company,212,177,54,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li > a,0,NYTCo,0,NYTCo,A,/html/body/div/div[2]/footer/nav/ul[2]/li/a,A,NYTCo,213,32,242,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Contact Us,0,Contact Us,A,/html/body/div/div[2]/footer/nav/ul[2]/li[2]/a,A,Contact Us,214,51,294,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Work with us,0,Work with ,A,/html/body/div/div[2]/footer/nav/ul[2]/li[3]/a,A,Work with us,215,59,365,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Advertise,0,Advertise,A,/html/body/div/div[2]/footer/nav/ul[2]/li[4]/a,A,Advertise,216,43,444,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,T Brand Studio,0,T Brand St,A,/html/body/div/div[2]/footer/nav/ul[2]/li[5]/a,A,T Brand Studio,217,69,508,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,Your Ad Choices,0,Your Ad Ch,A,/html/body/div/div[2]/footer/nav/ul[2]/li[6]/a,A,Your Ad Choices,218,74,597,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(7) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div/div[2]/footer/nav/ul[2]/li[7]/a,A,Privacy Policy,219,64,691,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(8) > a,0,Terms of Service,0,Terms of S,A,/html/body/div/div[2]/footer/nav/ul[2]/li[8]/a,A,Terms of Service,220,77,775,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(9) > a,0,Terms of Sale,0,Terms of S,A,/html/body/div/div[2]/footer/nav/ul[2]/li[9]/a,A,Terms of Sale,221,63,872,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(10) > a,0,Site Map,0,Site Map,A,/html/body/div/div[2]/footer/nav/ul[2]/li[10]/a,A,Site Map,222,41,955,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(13) > a,0,Help,0,Help,A,/html/body/div/div[2]/footer/nav/ul[2]/li[13]/a,A,Help,223,21,1016,8926
+31,css-jq1cx6,div#app > div:nth-of-type(2) > footer > nav > ul:nth-of-type(2) > li:nth-of-type(14) > a,0,Subscriptions,0,Subscripti,A,/html/body/div/div[2]/footer/nav/ul[2]/li[14]/a,A,Subscriptions,224,63,1058,8926

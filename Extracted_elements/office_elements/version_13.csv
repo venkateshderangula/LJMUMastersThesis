@@ -1,0 +1,65 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+1,m-skip-to-main,a#uhfSkipToMain,uhfSkipToMain,跳转至主内容,0,跳转至主内容,A,/html/body/div[2]/div/div/div/div/div/div/a,A,跳转至主内容,1,1,-999,0
+54,c-logo c-sgl-stk-uhfLogo,a#uhfLogo,uhfLogo,Microsoft,0,Microsoft,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/a,A,Microsoft,2,137,60,1
+54,c-logo c-cat-logo,a#uhfCatLogo,uhfCatLogo,Office,0,Office,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/div[2]/a,A,Office,3,67,215,1
+53,0,button#Products,Products,,0,,BUTTON,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[2]/div/button,BUTTON,产品,4,70,283,1
+53,0,button#resources,resources,,0,,BUTTON,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[3]/div/button,BUTTON,资讯,5,70,347,1
+48,c-uhf-nav-link,a#c-shellmenu_32,c-shellmenu_32,模板,0,模板,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[4]/a,A,模板,6,44,410,1
+48,c-uhf-nav-link,a#support,support,支持,0,支持,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[5]/a,A,支持,7,44,458,1
+48,c-uhf-nav-link,a#My account,My account,我的帐户,0,我的帐户,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[6]/a,A,我的帐户,8,70,505,1
+31,c-uhf-nav-link,li#c-uhf-nav-cta > a,0,购买 Office 365,0,购买 Office ,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/nav/ul/li[8]/a,A,购买 Office 365,9,110,589,11
+53,c-button-logo all-ms-nav,nav#uhf-c-nav > ul > li > div > button,0,,0,,BUTTON,/html/body/div[2]/div/div/div/div/div/div/header/div/div/div[4]/div/nav/ul/li/div/button,BUTTON,所有 Microsoft,10,121,963,1
+48,mectrl_resetStyle mectrl_trigger,a#mectrl_main_trigger,mectrl_main_trigger,,0,,A,/html/body/div[2]/div/div/div/div/div/div/header/div/div/div[4]/div[2]/div/a,A,,11,50,1090,1
+48,button hero__button text--medium,a#hero-banner-get-office-link,hero-banner-get-office-link,获取 Office,0,获取 Office,A,/html/body/div[2]/div/div[2]/div/div/ul/li/a,A,获取 Office,12,158,432,328
+48,text--medium button hero__button hero__button--alternative text--medium,a#hero-banner-sign-in-to-office-365-link,hero-banner-sign-in-to-office-365-link,登录,0,登录,A,/html/body/div[2]/div/div[2]/div/div/ul/li[2]/a,A,登录,13,158,610,328
+48,hero__scroll-button fade,button#scroll-button,scroll-button,,0,,BUTTON,/html/body/div[2]/div/div[2]/div/button,BUTTON,,14,48,576,474
+20,button get-office-today__button text--medium,a#get-office-today-for-home-link,get-office-today-for-home-link,家用,0,家用,A,/html/body/div[2]/div/div[2]/div[3]/ul/li/a,A,家用,15,49,491,2476
+20,button get-office-today__button text--medium,a#get-office-today-for-business-link,get-office-today-for-business-link,商业版,0,商业版,A,/html/body/div[2]/div/div[2]/div[3]/ul/li[2]/a,A,商业版,16,64,561,2476
+20,button get-office-today__button text--medium,a#get-office-today-edu-link,get-office-today-edu-link,教育版,0,教育版,A,/html/body/div[2]/div/div[2]/div[3]/ul/li[3]/a,A,教育版,17,64,645,2476
+48,social-media__link,a#social-media-linkedin,social-media-linkedin,,0,,A,/html/body/div[2]/div/div[2]/div[4]/div/a,A,,18,24,158,2544
+48,social-media__link,a#social-media-facebook,social-media-facebook,,0,,A,/html/body/div[2]/div/div[2]/div[4]/div/a[2],A,,19,24,203,2544
+48,social-media__link,a#social-media-twitter,social-media-twitter,,0,,A,/html/body/div[2]/div/div[2]/div[4]/div/a[3],A,,20,24,247,2544
+48,social-media__link,a#social-media-instagram,social-media-instagram,,0,,A,/html/body/div[2]/div/div[2]/div[4]/div/a[4],A,,21,24,292,2544
+48,social-media__link,a#social-media-office-blogs-link,social-media-office-blogs-link,Office 博客,0,Office 博客,A,/html/body/div[2]/div/div[2]/div[4]/div/a[5],A,Office 博客,22,80,336,2544
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li > a,0,Surface Pro 6,0,Surface Pr,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li/a,A,Surface Pro 6,23,64,60,2661
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(2) > a,0,Surface Laptop 2,0,Surface La,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li[2]/a,A,Surface Laptop 2,24,82,60,2693
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(3) > a,0,Surface Go,0,Surface Go,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li[3]/a,A,Surface Go,25,53,60,2725
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(4) > a,0,Xbox One X,0,Xbox One X,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li[4]/a,A,Xbox One X,26,57,60,2757
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(5) > a,0,Xbox One S,0,Xbox One S,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li[5]/a,A,Xbox One S,27,57,60,2789
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(6) > a,0,Windows 10 应用程序,0,Windows 10,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div/ul/li[6]/a,A,Windows 10 应用程序,28,107,60,2821
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li > a,0,帐户个人资料,0,帐户个人资料,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[2]/ul/li/a,A,帐户个人资料,29,66,252,2661
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,下载中心,0,下载中心,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[2]/ul/li[2]/a,A,下载中心,30,44,252,2693
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,订单跟踪,0,订单跟踪,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[2]/ul/li[3]/a,A,订单跟踪,31,44,252,2725
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li > a,0,Microsoft 教育领域,0,Microsoft ,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[3]/ul/li/a,A,Microsoft 教育领域,32,93,432,2661
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,适合学生的 Office,0,适合学生的 Offi,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[3]/ul/li[2]/a,A,适合学生的 Office,33,87,432,2693
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,适用于学校的 Office 365,0,适用于学校的 Off,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[3]/ul/li[3]/a,A,适用于学校的 Office 365,34,118,432,2725
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Microsoft Azure 教育领域,0,Microsoft ,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div/div[3]/ul/li[4]/a,A,Microsoft Azure 教育领域,35,124,432,2757
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li > a,0,Azure,0,Azure,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li/a,A,Azure,36,28,600,2661
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,AppSource,0,AppSource,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[2]/a,A,AppSource,37,53,600,2693
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,汽车,0,汽车,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[3]/a,A,汽车,38,22,600,2725
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,政府机构,0,政府机构,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[4]/a,A,政府机构,39,44,600,2757
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,医疗保健,0,医疗保健,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[5]/a,A,医疗保健,40,44,600,2789
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,制造业,0,制造业,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[6]/a,A,制造业,41,33,600,2821
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,金融服务,0,金融服务,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[7]/a,A,金融服务,42,44,600,2853
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > a,0,零售业,0,零售业,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div/ul/li[8]/a,A,零售业,43,33,600,2885
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Microsoft Visual Studio,0,Microsoft ,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li/a,A,Microsoft Visual Studio,44,112,792,2661
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Windows 开发人员中心,0,Windows 开发,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a,A,Windows 开发人员中心,45,114,792,2693
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,开发人员网络,0,开发人员网络,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a,A,开发人员网络,46,66,792,2725
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,TechNet,0,TechNet,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a,A,TechNet,47,41,792,2757
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Microsoft 开发人员计划,0,Microsoft ,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a,A,Microsoft 开发人员计划,48,115,792,2789
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,第9频道,0,第9频道,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a,A,第9频道,49,39,792,2821
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Office 开发人员中心,0,Office 开发人,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a,A,Office 开发人员中心,50,98,792,2853
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li > a,0,招贤纳士,0,招贤纳士,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li/a,A,招贤纳士,51,44,972,2661
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,关于 Microsoft,0,关于 Microso,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a,A,关于 Microsoft,52,71,972,2693
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,公司新闻,0,公司新闻,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a,A,公司新闻,53,44,972,2725
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Microsoft 隐私,0,Microsoft ,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li[4]/a,A,Microsoft 隐私,54,71,972,2757
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,投资人,0,投资人,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a,A,投资人,55,33,972,2789
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,安全性,0,安全性,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/nav/div[2]/div[3]/ul/li[6]/a,A,安全性,56,33,972,2821
+24,c-uhff-link c-uhff-lang-selector c-glyph glyph-world,a#locale-picker-link,locale-picker-link,中文(中国),0,中文(中国),A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/a,A,中文(中国),57,105,60,2938
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li > a,0,与 Microsoft 联系,0,与 Microsof,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li/a,A,与 Microsoft 联系,58,85,296,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(2) > a,0,隐私与 Cookie,0,隐私与 Cookie,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[2]/a,A,隐私与 Cookie,59,70,408,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(3) > a,0,使用条款,0,使用条款,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[3]/a,A,使用条款,60,44,505,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(4) > a,0,商标,0,商标,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[4]/a,A,商标,61,22,576,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(5) > a,0,关于我们的广告,0,关于我们的广告,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[5]/a,A,关于我们的广告,62,77,625,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(6) > a,0,京ICP备09042378号-6,0,京ICP备09042,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[6]/a,A,京ICP备09042378号-6,63,107,729,2942
+15,c-uhff-link,footer#uhf-footer > div > nav > ul > li:nth-of-type(7) > a,0,京公网安备 11010802023178,0,京公网安备 1101,A,/html/body/div[2]/div/div[3]/div/div/div/div/footer/div/nav/ul/li[7]/a,A,京公网安备 11010802023178,64,141,862,2942

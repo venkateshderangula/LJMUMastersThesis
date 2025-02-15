@@ -1,0 +1,286 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/yt-icon-button[2]/button,BUTTON,,1,24,24,16
+24,yt-simple-endpoint style-scope ytd-topbar-logo-renderer,a#logo,logo,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/ytd-topbar-logo-renderer/a,A,,2,80,72,16
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#skip-navigation > ytd-button-renderer > a,0,略過導覽,0,略過導覽,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div/div/ytd-button-renderer/a,A,略過導覽,3,88,16,-1000
+26,0,input#search,search,,search_query,,INPUT,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div/div/input,INPUT,,4,566,269,15
+32,style-scope ytd-searchbox,button#search-icon-legacy,search-icon-legacy,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/button,BUTTON,搜尋,5,65,833,12
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a,A,,6,40,956,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button,BUTTON,,7,24,964,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a,A,,8,40,1004,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[2]/div/a/yt-icon-button/button,BUTTON,,9,24,1012,16
+40,yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer,div#button > a,0,,0,,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a,A,,10,40,1052,8
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-topbar-menu-button-renderer[3]/div/a/yt-icon-button/button,BUTTON,,11,24,1060,16
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#buttons > ytd-button-renderer > a,0,登入,0,登入,A,/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a,A,登入,12,84,1100,8
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Home
+  
+    
+
+    
+      
+    Home",0,"Home
+  
+  ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer/a,A,"Home
+  
+    
+
+    
+      
+    Home",13,72,0,60
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Trending
+  
+    
+
+    
+      
+    Trending",0,"Trending
+ ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]/a,A,"Trending
+  
+    
+
+    
+      
+    Trending",14,72,0,134
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Subscriptions
+  
+    
+
+    
+      
+    Subscriptions",0,Subscripti,A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]/a,A,"Subscriptions
+  
+    
+
+    
+      
+    Subscriptions",15,72,0,208
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"Library
+  
+    
+
+    
+      
+    Library",0,"Library
+  ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]/a,A,"Library
+  
+    
+
+    
+      
+    Library",16,72,0,282
+74,yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer,a#endpoint,endpoint,"History
+  
+    
+
+    
+      
+    History",0,"History
+  ",A,/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a,A,"History
+  
+    
+
+    
+      
+    History",17,72,0,356
+24,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#dismiss-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-banner-promo-renderer/div/ytd-button-renderer/a,A,,18,24,1163,69
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-banner-promo-renderer/div/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,19,24,1163,69
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#action-button > a,0,立⁠即⁠下⁠載,0,立⁠即⁠下⁠載,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[2]/ytd-banner-promo-renderer/div/div/div/div/ytd-button-renderer/a,A,立⁠即⁠下⁠載,20,88,106,240
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"11:54:57
+現正播放",0,"11:54:57
+現",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"11:54:57
+現正播放",21,258,96,372
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/a,A,,22,36,96,529
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,2020年最火的英文歌曲 + 歐美流行音樂 + 超好聽中文+英文歌曲(精心挑選) 2020最近很火的英文歌 + KKBOX綜合排行榜 2020,0,2020年最火的英文,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/h3/a,A,2020年最火的英文歌曲 + 歐美流行音樂 + 超好聽中文+英文歌曲(精心挑選) 2020最近很火的英文歌 + KKBOX綜合排行榜 2020,23,186,144,529
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,超好聽的英文歌,0,超好聽的英文歌,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,超好聽的英文歌,24,99,144,575
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,25,24,330,529
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:56
+現正播放",0,"1:56
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:56
+現正播放",26,258,370,372
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/a,A,,27,36,370,529
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【微辣】一枝竹仔會易折彎 |六毫子沒用的說話｜微辣Manner,0,【微辣】一枝竹仔會易,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【微辣】一枝竹仔會易折彎 |六毫子沒用的說話｜微辣Manner,28,186,418,529
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,微辣 Manner,0,微辣 Manner,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,微辣 Manner,29,80,418,575
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,30,24,604,529
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"10:00
+現正播放",0,"10:00
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"10:00
+現正播放",31,258,644,372
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/a,A,,32,36,644,529
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【憲哥、KID走錯棚？歡迎收看國光玩很大之康哥快哭了～】綜藝玩很大 精華 @國光幫幫忙之大哥是對的 The Gang of Kuo Kuan - Yes Sir!,0,【憲哥、KID走錯棚,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【憲哥、KID走錯棚？歡迎收看國光玩很大之康哥快哭了～】綜藝玩很大 精華 @國光幫幫忙之大哥是對的 The Gang of Kuo Kuan - Yes Sir!,33,186,692,529
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,綜藝玩很大 Mr.Player,0,綜藝玩很大 Mr.P,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,綜藝玩很大 Mr.Player,34,133,692,575
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,35,24,878,529
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:26
+現正播放",0,"3:26
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:26
+現正播放",36,258,918,372
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/a,A,,37,36,918,529
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,夏天Alex - 不再聯繫『我和你斷了聯繫 不代表我不想你。』【動態歌詞Lyrics】,0,夏天Alex - 不,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/h3/a,A,夏天Alex - 不再聯繫『我和你斷了聯繫 不代表我不想你。』【動態歌詞Lyrics】,38,186,966,529
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,EHPMusicChannel,0,EHPMusicCh,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,EHPMusicChannel,39,117,966,575
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,40,24,1152,529
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"8:07
+現正播放",0,"8:07
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"8:07
+現正播放",41,258,96,669
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/a,A,,42,36,96,826
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,娶着個港女—東京相遇為愛追到香港 法男學廣東話拍攝繁體招牌 「比起法國這裏更像我的家」（果籽 Apple daily）,0,娶着個港女—東京相遇,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div/h3/a,A,娶着個港女—東京相遇為愛追到香港 法男學廣東話拍攝繁體招牌 「比起法國這裏更像我的家」（果籽 Apple daily）,43,186,144,826
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,果籽,0,果籽,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,果籽,44,29,144,872
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,45,24,330,826
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"13:15:03
+現正播放",0,"13:15:03
+現",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"13:15:03
+現正播放",46,258,370,669
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/a,A,,47,36,370,826
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【作業用BGM】 13時間カフェMUSIC！ジャズ＆ボサノバBGM！勉強＋集中用にも！,0,【作業用BGM】 1,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【作業用BGM】 13時間カフェMUSIC！ジャズ＆ボサノバBGM！勉強＋集中用にも！,48,186,418,826
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Cafe Music BGM channel,0,Cafe Music,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Cafe Music BGM channel,49,158,418,872
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[6]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,50,24,604,826
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:16:44
+現正播放",0,"3:16:44
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:16:44
+現正播放",51,258,644,669
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/a,A,,52,36,644,826
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"#2020不能不聽的100首歌 ( #少年 - 夢然 , 說好不哭 Won't Cry, 阿冗 - 你的答案 , 音闕詩聽 - 芒種, , 陳雪凝 - 綠色 ) KKBOX 華語新歌",0,#2020不能不聽的,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"#2020不能不聽的100首歌 ( #少年 - 夢然 , 說好不哭 Won't Cry, 阿冗 - 你的答案 , 音闕詩聽 - 芒種, , 陳雪凝 - 綠色 ) KKBOX 華語新歌",53,186,692,826
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,KKBOX 華語新歌 2019,0,KKBOX 華語新歌,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,KKBOX 華語新歌 2019,54,140,692,872
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[7]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,55,24,878,826
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"13:52
+現正播放",0,"13:52
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"13:52
+現正播放",56,258,918,669
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/a,A,,57,36,918,826
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,餓底港女單拖 鳳凰山 Lantau Peak 大東鳳凰連走（下）｜香港第二高山峰 一個人行山 人見人愛的芒草 大嶼山 我愛大魚 郊遊 香港 航拍 自拍｜Kata在山上,0,餓底港女單拖 鳳凰山,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div/h3/a,A,餓底港女單拖 鳳凰山 Lantau Peak 大東鳳凰連走（下）｜香港第二高山峰 一個人行山 人見人愛的芒草 大嶼山 我愛大魚 郊遊 香港 航拍 自拍｜Kata在山上,58,186,966,826
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Kata 在山上,0,Kata 在山上,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Kata 在山上,59,75,966,872
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[8]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,60,24,1152,826
+24,yt-simple-endpoint style-scope ytd-rich-shelf-renderer,div#title-text > a,0,熱爆影片,0,熱爆影片,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div/h2/div/div/div/a,A,熱爆影片,61,80,104,976
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:00:28
+現正播放",0,"1:00:28
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:00:28
+現正播放",62,258,96,1024
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/a,A,,63,36,96,1181
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,張敬軒 X 香港中樂團盛樂演唱會預習歌單 Hins Cheung X HKCO [冤枉音樂],0,張敬軒 X 香港中樂,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/h3/a,A,張敬軒 X 香港中樂團盛樂演唱會預習歌單 Hins Cheung X HKCO [冤枉音樂],64,186,144,1181
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,冤枉娛樂,0,冤枉娛樂,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,冤枉娛樂,65,57,144,1227
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,66,24,330,1181
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"18:32
+現正播放",0,"18:32
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"18:32
+現正播放",67,258,370,1024
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/a,A,,68,36,370,1181
+20,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,《我來自YouTube 2.5》,0,《我來自YouTub,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/h3/a,A,《我來自YouTube 2.5》,69,186,418,1181
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,FHProductionHK,0,FHProducti,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,FHProductionHK,70,106,418,1207
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,71,24,604,1181
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:40
+現正播放",0,"3:40
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:40
+現正播放",72,258,644,1024
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/a,A,,73,36,644,1181
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,G.E.M.鄧紫棋【萬國覺醒 RISE】Official Music Video,0,G.E.M.鄧紫棋【,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/h3/a,A,G.E.M.鄧紫棋【萬國覺醒 RISE】Official Music Video,74,186,692,1181
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,GEM鄧紫棋,0,GEM鄧紫棋,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,GEM鄧紫棋,75,73,692,1227
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,76,24,878,1181
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"40:16
+現正播放",0,"40:16
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"40:16
+現正播放",77,258,918,1024
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/a,A,,78,36,918,1181
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,香港本土9款懷舊小食面臨失傳！後生仔你哋食過未？炸油糍＋龍鬚糖＋香蕉糕＋蠔油豆＋光酥餅＋雞仔餅＋蝦子扎蹄＋錦鹵雲吞＋芝麻卷 #飲食專題 飲食男女 Apple Daily,0,香港本土9款懷舊小食,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/h3/a,A,香港本土9款懷舊小食面臨失傳！後生仔你哋食過未？炸油糍＋龍鬚糖＋香蕉糕＋蠔油豆＋光酥餅＋雞仔餅＋蝦子扎蹄＋錦鹵雲吞＋芝麻卷 #飲食專題 飲食男女 Apple Daily,79,186,966,1181
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,飲食男女,0,飲食男女,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,飲食男女,80,57,966,1227
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[2]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,81,24,1152,1181
+40,yt-simple-endpoint style-scope ytd-button-renderer,ytd-button-renderer#show-more-button > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a,A,,82,40,616,1285
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer/div/ytd-rich-shelf-renderer/div/div[3]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,83,24,624,1293
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"14:12
+現正播放",0,"14:12
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"14:12
+現正播放",84,258,96,1371
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/a,A,,85,36,96,1528
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【越哥】豆瓣9分，不得不佩服，日本人把这种电影拍到了极致！,0,【越哥】豆瓣9分，不,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【越哥】豆瓣9分，不得不佩服，日本人把这种电影拍到了极致！,86,186,144,1528
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,越哥说电影,0,越哥说电影,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,越哥说电影,87,71,144,1574
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[9]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,88,24,330,1528
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"15:01
+現正播放",0,"15:01
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"15:01
+現正播放",89,258,370,1371
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/a,A,,90,36,370,1528
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,NBA準傳奇 - 濫投之王【Antoine Walker】,0,NBA準傳奇 - 濫,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div/h3/a,A,NBA準傳奇 - 濫投之王【Antoine Walker】,91,186,418,1528
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,ABN,0,ABN,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,ABN,92,29,418,1574
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[10]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,93,24,604,1528
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"38:29
+現正播放",0,"38:29
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"38:29
+現正播放",94,258,644,1371
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/a,A,,95,36,644,1528
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【娛樂百分百】2020.12.01《凹嗚狼人殺》黃偉晉、邱鋒澤│陳零九、陳敬宣、孫沁岳、賴晏駒、詹子晴、采子、艾莉兒、徐少麟,0,【娛樂百分百】202,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【娛樂百分百】2020.12.01《凹嗚狼人殺》黃偉晉、邱鋒澤│陳零九、陳敬宣、孫沁岳、賴晏駒、詹子晴、采子、艾莉兒、徐少麟,96,186,692,1528
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,八大電視娛樂百分百,0,八大電視娛樂百分百,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,八大電視娛樂百分百,97,127,692,1574
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[11]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,98,24,878,1528
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"5:21
+現正播放",0,"5:21
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"5:21
+現正播放",99,258,918,1371
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/a,A,,100,36,918,1528
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【港實測】洋蔥！老友記這一生有甚麼後悔的事？,0,【港實測】洋蔥！老友,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【港實測】洋蔥！老友記這一生有甚麼後悔的事？,101,186,966,1528
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,港。實測Testhongkong,0,港。實測Testho,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,港。實測Testhongkong,102,146,966,1574
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[12]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,103,24,1152,1528
+100,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/ytd-thumbnail/a,A,,104,100,96,1678
+36,yt-simple-endpoint style-scope ytd-button-renderer,div#button > ytd-button-renderer > a,0,詳情,0,詳情,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div/div[2]/ytd-button-renderer/a,A,詳情,105,92,212,1743
+40,yt-simple-endpoint style-scope ytd-button-renderer,div#dismiss-button > ytd-button-renderer > a,0,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a,A,,106,40,1136,1670
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-section-renderer[2]/div/ytd-compact-promoted-item-renderer/div/div[2]/ytd-button-renderer/a/yt-icon-button/button,BUTTON,,107,24,1144,1678
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:27:55
+現正播放",0,"3:27:55
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:27:55
+現正播放",108,258,96,1847
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/a,A,,109,36,96,2005
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,「無廣告版」森林系音樂& 鋼琴吉他和大自然音律 ☕ 最放鬆讀書＆工作音樂 RELAX STUDYING MUSIC FOR CONCENTRATION,0,「無廣告版」森林系音,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div/h3/a,A,「無廣告版」森林系音樂& 鋼琴吉他和大自然音律 ☕ 最放鬆讀書＆工作音樂 RELAX STUDYING MUSIC FOR CONCENTRATION,110,186,144,2005
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Music For Studying,0,Music For ,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Music For Studying,111,121,144,2051
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[13]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,112,24,330,2005
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"2:59:41
+現正播放",0,"2:59:41
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"2:59:41
+現正播放",113,258,370,1847
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/a,A,,114,36,370,2005
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,50首突破百萬的洗腦神曲你一定有聽過多想留在你身邊 53首首動聽 曲曲感人 聽到第二首眼淚不知不覺滑下了 @甜美的旋律 Sweet Melody,0,50首突破百萬的洗腦,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div/h3/a,A,50首突破百萬的洗腦神曲你一定有聽過多想留在你身邊 53首首動聽 曲曲感人 聽到第二首眼淚不知不覺滑下了 @甜美的旋律 Sweet Melody,115,186,418,2005
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,甜美的旋律 Sweet Melody,0,甜美的旋律 Swee,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,甜美的旋律 Sweet Melody,116,162,418,2051
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[14]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,117,24,604,2005
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"12:07
+現正播放",0,"12:07
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"12:07
+現正播放",118,258,644,1847
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/a,A,,119,36,644,2005
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,VPN才是主流？比Shadowsocks和v2ray好在哪里？【硬核翻墙系列】第七期,0,VPN才是主流？比S,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div/h3/a,A,VPN才是主流？比Shadowsocks和v2ray好在哪里？【硬核翻墙系列】第七期,120,186,692,2005
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,电丸科技AK,0,电丸科技AK,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,电丸科技AK,121,75,692,2051
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[15]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,122,24,878,2005
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"2:01:04
+現正播放",0,"2:01:04
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"2:01:04
+現正播放",123,258,918,1847
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/a,A,,124,36,918,2005
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,"【100%無廣告 ,放鬆音樂】治療音樂冥想舒緩按摩, 深度睡眠,深度睡眠 ,放鬆音樂, 治療音樂,舒壓按摩音樂, 睡眠音樂, Relaxing Relax Music,Spa Music,Study",0,"【100%無廣告 ,",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div/h3/a,A,"【100%無廣告 ,放鬆音樂】治療音樂冥想舒緩按摩, 深度睡眠,深度睡眠 ,放鬆音樂, 治療音樂,舒壓按摩音樂, 睡眠音樂, Relaxing Relax Music,Spa Music,Study",125,186,966,2005
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,放鬆音樂 - Relaxing Music Sleep,0,放鬆音樂 - Rel,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,放鬆音樂 - Relaxing Music Sleep,126,187,966,2051
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[16]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,127,24,1152,2005
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"49:32
+現正播放",0,"49:32
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"49:32
+現正播放",128,258,96,2127
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/a,A,,129,36,96,2284
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,【完整版】梳化間秘密爆料大會 2020.11.02小明星大跟班,0,【完整版】梳化間秘密,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div/h3/a,A,【完整版】梳化間秘密爆料大會 2020.11.02小明星大跟班,130,186,144,2284
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,我愛小明星大跟班,0,我愛小明星大跟班,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,我愛小明星大跟班,131,113,144,2330
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[17]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,132,24,330,2284
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:22
+現正播放",0,"3:22
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:22
+現正播放",133,258,370,2127
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/a,A,,134,36,370,2284
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,延禧攻略的明玉（姜梓新）唱喜帖街，超好聽！Story of Yanxi Palace MingYu Sing Song（part 7）,0,延禧攻略的明玉（姜梓,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div/h3/a,A,延禧攻略的明玉（姜梓新）唱喜帖街，超好聽！Story of Yanxi Palace MingYu Sing Song（part 7）,135,186,418,2284
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,頭像是女友自拍,0,頭像是女友自拍,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,頭像是女友自拍,136,99,418,2330
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[18]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,137,24,604,2284
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"1:13:01
+現正播放",0,"1:13:01
+現正",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"1:13:01
+現正播放",138,258,644,2127
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/a,A,,139,36,644,2284
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,D+26 聽証2 龔小夏 何良𢡟 袁弓夷,0,D+26 聽証2 龔,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div/h3/a,A,D+26 聽証2 龔小夏 何良𢡟 袁弓夷,140,186,692,2284
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,袁爸爸 袁弓夷政經評論,0,袁爸爸 袁弓夷政經評,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,袁爸爸 袁弓夷政經評論,141,145,692,2330
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[19]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,142,24,878,2284
+145,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,"3:26
+現正播放",0,"3:26
+現正播放",A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/ytd-thumbnail/a,A,"3:26
+現正播放",143,258,918,2127
+36,yt-simple-endpoint style-scope ytd-rich-grid-media,a#avatar-link,avatar-link,,0,,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/a,A,,144,36,918,2284
+40,yt-simple-endpoint style-scope ytd-rich-grid-media,a#video-title-link,video-title-link,Way Back Home - SHAUN (ft.Conor Maynard) | Lyrics Video,0,Way Back H,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div/h3/a,A,Way Back Home - SHAUN (ft.Conor Maynard) | Lyrics Video,145,186,966,2284
+18,yt-simple-endpoint style-scope yt-formatted-string,yt-formatted-string#text > a,0,Planet Lyrics,0,Planet Lyr,A,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a,A,Planet Lyrics,146,80,966,2330
+24,style-scope yt-icon-button,button#button,button,,0,,BUTTON,/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[20]/div/ytd-rich-grid-media/div/div/div[2]/ytd-menu-renderer/yt-icon-button/button,BUTTON,,147,24,1152,2284
+44,yt-simple-endpoint inline-block style-scope ytd-thumbnail,a#thumbnail,thumbnail,,0,,A,/html/body/ytd-app/ytd-miniplayer/div[2]/div/ytd-miniplayer-toast/ytd-thumbnail/a,A,,148,78,788,622

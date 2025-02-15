@@ -1,0 +1,1167 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+14,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a,0,Cookie Policy,0,Cookie Pol,A,/html/body/div[2]/div/div[2]/div[2]/p/a,A,Cookie Policy,1,77,456,389
+14,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a:nth-of-type(2),0,Privacy Settings,0,Privacy Se,A,/html/body/div[2]/div/div[2]/div[2]/p/a[2],A,Privacy Settings,2,92,329,409
+48,wt-btn wt-btn--transparent wt-width-full wt-mb-xs-2 wt-mb-md-0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div/button,BUTTON,Update settings,3,158,616,438
+48,wt-btn wt-btn--secondary wt-width-full,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div[2]/button,BUTTON,Accept,4,91,780,438
+18,0,html > body > div:nth-of-type(3) > div > div > div > a,0,Terms of Use,0,Terms of U,A,/html/body/div[3]/div/div/div/a,A,Terms of Use,5,99,172,17
+18,0,html > body > div:nth-of-type(3) > div > div > div > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div[3]/div/div/div/a[2],A,Privacy Policy,6,105,337,17
+48,wt-btn wt-btn--secondary,html > body > div:nth-of-type(3) > div > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[3]/div/div/div[2]/button,BUTTON,I understand,7,133,1043,16
+40,0,header#gnav-header-inner > div > a,0,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",0,"Etsy
+     ",A,/html/body/div[5]/header/div/a,A,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",8,80,36,96
+48,wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input wt-pr-xs-7,input#global-enhancements-search-query,global-enhancements-search-query,,search_query,,INPUT,/html/body/div[5]/header/div[2]/div/form/div/div/input,INPUT,,9,836,122,92
+48,wt-input-btn-group__btn,form#gnav-search > div > div > button,0,,0,,BUTTON,/html/body/div[5]/header/div[2]/div/form/div/div/button,BUTTON,,10,61,958,92
+1,global-enhancements-skip-to-content wt-screen-reader-only wt-focusable,header#gnav-header-inner > a,0,Skip to Content,0,Skip to Co,A,/html/body/div[5]/header/a,A,Skip to Content,11,1,35,116
+36,wt-btn wt-btn--small wt-btn--transparent wt-mr-xs-1 inline-overlay-trigger signin-header-action select-signin,header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li > button,0,,0,,BUTTON,/html/body/div[5]/header/div[4]/nav/ul/li/button,BUTTON,Sign in,12,73,1037,98
+48,"wt-tooltip__trigger wt-tooltip__trigger--icon-only
+            wt-btn wt-btn--transparent wt-btn--icon
+            ",header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li:nth-of-type(2) > span > a,0,"Cart
+
+            
+    0",0,"Cart
+
+    ",A,/html/body/div[5]/header/div[4]/nav/ul/li[2]/span/a,A,"Cart
+
+            
+    0",13,48,1116,92
+18,flag,div#desktop-category-nav > div > div > ul > li > a,0,Masks,0,Masks,A,/html/body/div[6]/div/div/ul/li/a,A,Masks,14,38,36,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(2) > a,0,Jewelry & Accessories,0,Jewelry & ,A,/html/body/div[6]/div/div/ul/li[2]/a,A,Jewelry & Accessories,15,137,107,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(3) > a,0,Clothing & Shoes,0,Clothing &,A,/html/body/div[6]/div/div/ul/li[3]/a,A,Clothing & Shoes,16,108,277,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(4) > a,0,Home & Living,0,Home & Liv,A,/html/body/div[6]/div/div/ul/li[4]/a,A,Home & Living,17,91,418,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(5) > a,0,Wedding & Party,0,Wedding & ,A,/html/body/div[6]/div/div/ul/li[5]/a,A,Wedding & Party,18,103,542,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(6) > a,0,Toys & Entertainment,0,Toys & Ent,A,/html/body/div[6]/div/div/ul/li[6]/a,A,Toys & Entertainment,19,132,678,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(7) > a,0,Art & Collectibles,0,Art & Coll,A,/html/body/div[6]/div/div/ul/li[7]/a,A,Art & Collectibles,20,109,843,156
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(8) > a,0,Craft Supplies,0,Craft Supp,A,/html/body/div[6]/div/div/ul/li[8]/a,A,Craft Supplies,21,88,985,156
+18,flag,div#desktop-category-nav > div > div > ul > li:nth-of-type(9) > a,0,Gifts,0,Gifts,A,/html/body/div[6]/div/div/ul/li[9]/a,A,Gifts,22,45,1106,156
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div > a,0,Face masks,0,Face masks,A,/html/body/div[7]/div/div/div[2]/div/div/a,A,Face masks,23,155,45,304
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,Wall decor,0,Wall decor,A,/html/body/div[7]/div/div/div[2]/div/div[2]/a,A,Wall decor,24,155,236,304
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > a,0,Gift ideas,0,Gift ideas,A,/html/body/div[7]/div/div/div[2]/div/div[3]/a,A,Gift ideas,25,155,427,304
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a,0,Outdoor & garden,0,Outdoor & ,A,/html/body/div[7]/div/div/div[2]/div/div[4]/a,A,Outdoor & garden,26,155,618,304
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > a,0,Self-care,0,Self-care,A,/html/body/div[7]/div/div/div[2]/div/div[5]/a,A,Self-care,27,155,809,304
+188,wt-text-caption wt-arrow-link wt-arrow-link--forward,div#content > div > div > div:nth-of-type(2) > div > div:nth-of-type(6) > a,0,Craft kits,0,Craft kits,A,/html/body/div[7]/div/div/div[2]/div/div[6]/a,A,Craft kits,28,155,1000,304
+247," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li > a,0,"Skeleton Dancing Halloween Tee Shirt
+                
+                
+                    
+        mollylouiseshop
+        From shop mollylouiseshop
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (35)
+                35 reviews
+        
+
+                        
+
+
+                $19.99
+
+                    
+                    
+    
+    
+        Bestseller",0,Skeleton D,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li/a,A,"Skeleton Dancing Halloween Tee Shirt
+                
+                
+                    
+        mollylouiseshop
+        From shop mollylouiseshop
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (35)
+                35 reviews
+        
+
+                        
+
+
+                $19.99
+
+                    
+                    
+    
+    
+        Bestseller",29,173,36,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li/div/button,BUTTON,Favorite,30,24,181,743
+247," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(2) > a,0,"Neutral Boho | iPhone iOS14 App Icons | 50 different icons in 6 colors | High Quality JPG & Vector SVG
+                
+                
+                    
+        SYMBLS
+        From shop SYMBLS
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (52)
+                52 reviews
+        
+
+                        
+
+
+                $3.99
+
+                    
+                    
+    
+    
+        Bestseller",0,Neutral Bo,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li[2]/a,A,"Neutral Boho | iPhone iOS14 App Icons | 50 different icons in 6 colors | High Quality JPG & Vector SVG
+                
+                
+                    
+        SYMBLS
+        From shop SYMBLS
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (52)
+                52 reviews
+        
+
+                        
+
+
+                $3.99
+
+                    
+                    
+    
+    
+        Bestseller",31,173,227,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li[2]/div/button,BUTTON,Favorite,32,24,372,743
+227," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(3) > a,0,"Tyler Childers Lyrics Signs - All Your’n - Wall Signs
+                
+                
+                    
+        JacksonPrintDesigns
+        From shop JacksonPrintDesigns
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (41)
+                41 reviews
+        
+
+                        
+
+
+                $60.00
+                            
+                                
+    FREE shipping",0,Tyler Chil,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li[3]/a,A,"Tyler Childers Lyrics Signs - All Your’n - Wall Signs
+                
+                
+                    
+        JacksonPrintDesigns
+        From shop JacksonPrintDesigns
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (41)
+                41 reviews
+        
+
+                        
+
+
+                $60.00
+                            
+                                
+    FREE shipping",33,173,418,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li[3]/div/button,BUTTON,Favorite,34,24,563,743
+253," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(4) > a,0,"Peonies and Roses Mama bear tumbler 22oz
+                
+                
+                    
+        EspysDesigns
+        From shop EspysDesigns
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (331)
+                331 reviews
+        
+
+                        
+
+
+                    
+                        Sale Price $47.70
+                    
+                    
+                        $47.70
+                    
+
+                        
+
+                            $53.00
+                            
+                                Original Price $53.00
+                            
+                                
+                                (10% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,Peonies an,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li[4]/a,A,"Peonies and Roses Mama bear tumbler 22oz
+                
+                
+                    
+        EspysDesigns
+        From shop EspysDesigns
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (331)
+                331 reviews
+        
+
+                        
+
+
+                    
+                        Sale Price $47.70
+                    
+                    
+                        $47.70
+                    
+
+                        
+
+                            $53.00
+                            
+                                Original Price $53.00
+                            
+                                
+                                (10% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",35,173,609,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(4) > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li[4]/div/button,BUTTON,Favorite,36,24,754,743
+227," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(5) > a,0,"Hocus Pocus SVG Bundle, Sanderson Sisters Shirt,  SVG, Halloween SVG, Hocus Pocus Vectors, Halloween Shirt, Svg, Eps, Hocus Pocus Cricut
+                
+                
+                    
+        SVGHoneyBees
+        From shop SVGHoneyBees
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (734)
+                734 reviews
+        
+
+                        
+
+
+                $3.30",0,Hocus Pocu,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li[5]/a,A,"Hocus Pocus SVG Bundle, Sanderson Sisters Shirt,  SVG, Halloween SVG, Hocus Pocus Vectors, Halloween Shirt, Svg, Eps, Hocus Pocus Cricut
+                
+                
+                    
+        SVGHoneyBees
+        From shop SVGHoneyBees
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (734)
+                734 reviews
+        
+
+                        
+
+
+                $3.30",37,173,800,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(5) > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li[5]/div/button,BUTTON,Favorite,38,24,945,743
+227," display-inline-block listing-link
+",div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(6) > a,0,"Be A Witch, Eat The Rich Print | Witch Decor, Witchy Art Print, Halloween Decor, Black Cat Wall Art, Social Activism Art, Witch Tattoo Print
+                
+                
+                    
+        TheAlphaLoft
+        From shop TheAlphaLoft
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (40)
+                40 reviews
+        
+
+                        
+
+
+                $8.76",0,Be A Witch,A,/html/body/div[7]/div/div[4]/div/div/div/ul/li[6]/a,A,"Be A Witch, Eat The Rich Print | Witch Decor, Witchy Art Print, Halloween Decor, Black Cat Wall Art, Social Activism Art, Witch Tattoo Print
+                
+                
+                    
+        TheAlphaLoft
+        From shop TheAlphaLoft
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (40)
+                40 reviews
+        
+
+                        
+
+
+                $8.76",39,173,991,743
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(6) > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[4]/div/div/div/ul/li[6]/div/button,BUTTON,Favorite,40,24,1136,743
+46,wt-arrow-link wt-arrow-link--forward wt-pb-lg-3 wt-pb-xs-0 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div > a,0,Shop these unique finds,0,Shop these,A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div/a,A,Shop these unique finds,41,336,78,1232
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(2) > a,0,"$42.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTE Stud Earrings",0,"$42.00
+
+
+ ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[2]/a,A,"$42.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTE Stud Earrings",42,248,432,1068
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(3) > a,0,"$69.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Custom Unisex Sweatshirt. Monogram Sweatshirt. Personalized Sweatshirt. Political Sweatshirt. Custom Embroidered Shirt. Vote. SHIPS FREE",0,"$69.00
+
+
+ ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[3]/a,A,"$69.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Custom Unisex Sweatshirt. Monogram Sweatshirt. Personalized Sweatshirt. Political Sweatshirt. Custom Embroidered Shirt. Vote. SHIPS FREE",43,159,697,1068
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(4) > a,0,"$6.25
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Vote Modern Floral Print - Printable Wall Art, Political Decor, Square Art Print, Activist Decor, Dorm Room Art, Digital Download",0,"$6.25
+
+
+  ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[4]/a,A,"$6.25
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Vote Modern Floral Print - Printable Wall Art, Political Decor, Square Art Print, Activist Decor, Dorm Room Art, Digital Download",44,248,874,1068
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(5) > a,0,"$6.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTING/ELECTION BUTTONS set of 8 | vote flair pin badge magnet president elect i voted voter registration",0,"$6.00
+
+
+  ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[5]/a,A,"$6.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTING/ELECTION BUTTONS set of 8 | vote flair pin badge magnet president elect i voted voter registration",45,336,78,1289
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(6) > a,0,"$49.29
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTE Necklace - Vote  Initial Necklace - Name Necklace Initial - Gold Letters Necklace - Personalized Name Jewelry - Initial Necklace",0,"$49.29
+
+
+ ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[6]/a,A,"$49.29
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    VOTE Necklace - Vote  Initial Necklace - Name Necklace Initial - Gold Letters Necklace - Personalized Name Jewelry - Initial Necklace",46,248,432,1289
+198,"wt-display-inline-block listing-link
+                wt-height-full
+            ",div#content > div > div:nth-of-type(5) > div > div > div > div > div > div > div:nth-of-type(7) > a,0,"$28.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Vote Dog bandana 2020 presidential Election Republican Democrat Libertarian Party bandanna pet vote for president red buffalo plaid flannel",0,"$28.99
+
+
+ ",A,/html/body/div[7]/div/div[5]/div/div/div/div/div/div/div[7]/a,A,"$28.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Vote Dog bandana 2020 presidential Election Republican Democrat Libertarian Party bandanna pet vote for president red buffalo plaid flannel",47,159,697,1289
+42,wt-tab__item wt-skeleton-ui--width-40 ,div#content > div > div:nth-of-type(6) > div > div > div > button,0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button,BUTTON,,48,168,36,1593
+42,wt-tab__item wt-skeleton-ui--width-40 ,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button[2],BUTTON,,49,168,228,1593
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(3),0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button[3],BUTTON,,50,168,420,1593
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-md,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(4),0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button[4],BUTTON,,51,168,612,1593
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-lg,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(5),0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button[5],BUTTON,,52,168,804,1593
+42,wt-tab__item wt-skeleton-ui--width-40 wt-hide-xs wt-show-lg,div#content > div > div:nth-of-type(6) > div > div > div > button:nth-of-type(6),0,,0,,BUTTON,/html/body/div[7]/div/div[6]/div/div/div/button[6],BUTTON,,53,168,996,1593
+22,wt-hide-sm wt-show-md wt-arrow-link wt-arrow-link--forward,div#content > div > div:nth-of-type(7) > div > div > div > div > div > a,0,See more,0,See more,A,/html/body/div[7]/div/div[7]/div/div/div/div/div/a,A,See more,54,334,69,2272
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(2) > a,0,"$34.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    PREORDER - Pumpkins Needle Felting Kit - beginner friendly - includes video instructions - DIY Craft Gift - Halloween Fall Autumn Decoration",0,"$34.99
+
+
+ ",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[2]/a,A,"$34.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    PREORDER - Pumpkins Needle Felting Kit - beginner friendly - includes video instructions - DIY Craft Gift - Halloween Fall Autumn Decoration",55,158,421,2167
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(3) > a,0,"$18.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    girl ghost costume - kids halloween tee - cute ghost t-shirt - girly ghost bodysuit - white tutu outfit",0,"$18.00
+
+
+ ",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[3]/a,A,"$18.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    girl ghost costume - kids halloween tee - cute ghost t-shirt - girly ghost bodysuit - white tutu outfit",56,158,597,2167
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(4) > a,0,"$7.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Bath Bomb MONSTER MASH Fall gift for Her. Pumpkin Pecan Waffle Bath Bombs. Autumn Gifts. Fall Bath gifts. Halloween party favors bath bombs",0,"$7.99
+
+
+  ",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[4]/a,A,"$7.99
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Bath Bomb MONSTER MASH Fall gift for Her. Pumpkin Pecan Waffle Bath Bombs. Autumn Gifts. Fall Bath gifts. Halloween party favors bath bombs",57,158,69,2348
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(5) > a,0,"$20.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Pumpkin pie cat and small pet hat felt costume",0,"$20.00
+
+
+ ",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[5]/a,A,"$20.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Pumpkin pie cat and small pet hat felt costume",58,158,245,2348
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(6) > a,0,"$125.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    CUSTOM Velvet Colorblock Pillow Cover by JillianReneDecor, Modern Fall Home Decor, Two Tone Color Block Pillow, Velvet and Linen",0,"$125.00
+
+
+",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[6]/a,A,"$125.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    CUSTOM Velvet Colorblock Pillow Cover by JillianReneDecor, Modern Fall Home Decor, Two Tone Color Block Pillow, Velvet and Linen",59,158,421,2348
+160,"wt-display-inline-block listing-link
+",div#content > div > div:nth-of-type(7) > div > div > div > div > div:nth-of-type(7) > a,0,"$57.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Mystical Marseille Necklace • Magic Necklaces for Friends • Pendant Gifts • GNV_0112_17_MY",0,"$57.00
+
+
+ ",A,/html/body/div[7]/div/div[7]/div/div/div/div/div[7]/a,A,"$57.00
+
+
+    
+                            
+                            
+                        
+                
+            
+        
+    
+
+            
+        
+
+        
+        
+            
+                
+                    Mystical Marseille Necklace • Magic Necklaces for Friends • Pendant Gifts • GNV_0112_17_MY",60,158,597,2348
+410,secondary-grid-featured-listing wt-hide-xs wt-show-lg wt-width-full wt-height-full wt-position-relative,div#content > div > div:nth-of-type(7) > div > div > div > div:nth-of-type(2) > a,0,$19.99,0,$19.99,A,/html/body/div[7]/div/div[7]/div/div/div/div[2]/a,A,$19.99,61,376,788,2134
+18,wt-text-link-no-underline,div#content > div > div:nth-of-type(8) > div > div > div > div > div > h2 > a,0,Shop our selections,0,Shop our s,A,/html/body/div[7]/div/div[8]/div/div/div/div/div/h2/a,A,Shop our selections,62,152,36,2599
+21,wt-display-inline-block float-right wt-arrow-link wt-arrow-link--forward wt-text-caption,div#content > div > div:nth-of-type(8) > div > div > div > div > div > a,0,More like these,0,More like ,A,/html/body/div[7]/div/div[8]/div/div/div/div/div/a,A,More like these,63,116,1048,2598
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li > a,0,Black-owned Etsy shops,0,Black-owne,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li/a,A,Black-owned Etsy shops,64,173,36,2631
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(2) > a,0,Back-to-school,0,Back-to-sc,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li[2]/a,A,Back-to-school,65,173,227,2631
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(3) > a,0,Tan France x Etsy,0,Tan France,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li[3]/a,A,Tan France x Etsy,66,173,418,2631
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(4) > a,0,Personalized gifts,0,Personaliz,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li[4]/a,A,Personalized gifts,67,173,609,2631
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(5) > a,0,For kids,0,For kids,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li[5]/a,A,For kids,68,173,800,2631
+207,"shop-for-gifts-card-link wt-display-block wt-arrow-link wt-height-full wt-rounded-02 wt-b-xs
+    ",div#content > div > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(6) > a,0,Masks and more,0,Masks and ,A,/html/body/div[7]/div/div[8]/div/div/div/ul/li[6]/a,A,Masks and more,69,173,991,2631
+16,wt-text-link,div#content > div > div:nth-of-type(9) > div > div > div > div:nth-of-type(2) > a,0,Read our wonderfully weird story,0,Read our w,A,/html/body/div[7]/div/div[9]/div/div/div/div[2]/a,A,Read our wonderfully weird story,70,221,489,3019
+48,wt-mt-xs-2 button wt-btn wt-text-black wt-btn--outline,div#content > div > div:nth-of-type(9) > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Go to Help Center,0,Go to Help,A,/html/body/div[7]/div/div[9]/div/div/div/div[2]/div[2]/a,A,Go to Help Center,71,174,513,3367
+18,wt-text-link-no-underline,div#content > div > div:nth-of-type(10) > div > div > div > div > h2 > a,0,"Top trends, fresh shops, and style tips",0,Top trends,A,/html/body/div[7]/div/div[10]/div/div/div/div/h2/a,A,"Top trends, fresh shops, and style tips",72,290,36,3506
+18,display-inline-block parent-hover-underline ml-sm-2 wt-text-caption,div#content > div > div:nth-of-type(10) > div > div > div > div > a,0,Read the Etsy Journal,0,Read the E,A,/html/body/div[7]/div/div[10]/div/div/div/div/a,A,Read the Etsy Journal,73,133,341,3507
+412,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2018/02/Forest2-small-1.jpeg"" alt="""">
+        
+        
+            Featured Shops
+            Giftable Scents to Warm the Heart From Tokyn Candles
+            Treat yourself (or your loved ones) to joy in a jar with these fragrant candles inspired by personal memories.",0,<img class,A,/html/body/div[7]/div/div[10]/div/div/div/ul/li/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2018/02/Forest2-small-1.jpeg"" alt="""">
+        
+        
+            Featured Shops
+            Giftable Scents to Warm the Heart From Tokyn Candles
+            Treat yourself (or your loved ones) to joy in a jar with these fragrant candles inspired by personal memories.",74,364,36,3537
+432,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li:nth-of-type(2) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2060/09/Bowl-small.jpeg"" alt="""">
+        
+        
+            Shopping Guides
+            4 Fab Vintage Shops to Add to Your Favorites Today
+            Discover your new go-to destinations for retro decor, throwback threads, rare jewels, and more—all vouched for by vintage lovers.",0,<img class,A,/html/body/div[7]/div/div[10]/div/div/div/ul/li[2]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2060/09/Bowl-small.jpeg"" alt="""">
+        
+        
+            Shopping Guides
+            4 Fab Vintage Shops to Add to Your Favorites Today
+            Discover your new go-to destinations for retro decor, throwback threads, rare jewels, and more—all vouched for by vintage lovers.",75,364,418,3537
+432,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div > div:nth-of-type(10) > div > div > div > ul > li:nth-of-type(3) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2060/09/HBH—feature.jpeg"" alt="""">
+        
+        
+            Inspiration
+            Introducing the Half Baked Harvest x Etsy Holiday Collection
+            These exclusive, foodie-inspired finds will make holiday traditions like baking and decorating extra special—and they’re great for gifting, too.",0,<img class,A,/html/body/div[7]/div/div[10]/div/div/div/ul/li[3]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20201002165647im_/https://blog.etsy.com/en/files/2060/09/HBH—feature.jpeg"" alt="""">
+        
+        
+            Inspiration
+            Introducing the Half Baked Harvest x Etsy Holiday Collection
+            These exclusive, foodie-inspired finds will make holiday traditions like baking and decorating extra special—and they’re great for gifting, too.",76,364,800,3537
+48,wt-input-btn-group__input wt-text-body-01,input#email-list-signup-email-input,email-list-signup-email-input,,email_address,,INPUT,/html/body/div[9]/footer/div[2]/div/form/div[2]/div/input,INPUT,,77,365,360,4115
+48,wt-input-btn-group__btn,div#collage-footer > footer > div:nth-of-type(2) > div > form > div:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[9]/footer/div[2]/div/form/div[2]/div/button,BUTTON,Subscribe,78,115,725,4115
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li > a,0,Gift cards,0,Gift cards,A,/html/body/div[9]/footer/div[3]/nav/div/div/div/ul/li/a,A,Gift cards,79,61,24,4317
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li:nth-of-type(2) > a,0,Etsy blog,0,Etsy blog,A,/html/body/div[9]/footer/div[3]/nav/div/div/div/ul/li[2]/a,A,Etsy blog,80,57,24,4347
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li > a,0,Sell on Etsy,0,Sell on Et,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li/a,A,Sell on Etsy,81,71,312,4317
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Teams,0,Teams,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[2]/a,A,Teams,82,40,312,4347
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Forums,0,Forums,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[3]/a,A,Forums,83,46,312,4377
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Affiliates,0,Affiliates,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[4]/a,A,Affiliates,84,54,312,4407
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li > a,0,"Etsy, Inc.",0,"Etsy, Inc.",A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li/a,A,"Etsy, Inc.",85,55,600,4317
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Policies,0,Policies,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[2]/a,A,Policies,86,48,600,4347
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Investors,0,Investors,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[3]/a,A,Investors,87,57,600,4377
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Careers,0,Careers,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[4]/a,A,Careers,88,48,600,4407
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Press,0,Press,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[5]/a,A,Press,89,33,600,4437
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Impact,0,Impact,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[6]/a,A,Impact,90,44,600,4467
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li > a,0,Help Center,0,Help Cente,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/ul/li/a,A,Help Center,91,75,888,4317
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Privacy settings,0,Privacy se,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/ul/li[2]/a,A,Privacy settings,92,98,888,4347
+36,wt-mt-xs-4 wt-btn wt-btn--small wt-btn--outline wt-btn--light wt-pt-xs-1 wt-pb-xs-1 wt-display-inline-flex-xs wt-align-items-center wt-text-left-xs,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > a,0,Download the Etsy App,0,Download t,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/a,A,Download the Etsy App,93,205,888,4405
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li > a,0,Instagram,0,Instagram,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li/a,A,Instagram,94,48,876,4459
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(2) > a,0,Facebook,0,Facebook,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[2]/a,A,Facebook,95,48,927,4459
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(3) > a,0,Pinterest,0,Pinterest,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[3]/a,A,Pinterest,96,48,979,4459
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(4) > a,0,Twitter,0,Twitter,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[4]/a,A,Twitter,97,48,1030,4459
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(5) > a,0,Youtube,0,Youtube,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[5]/a,A,Youtube,98,48,1082,4459
+39,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div > button,0,,0,,BUTTON,/html/body/div[9]/footer/div[3]/div[2]/div/div/div/button,BUTTON,"US
+
+      United States   |   English (US)   |   $ (USD)",99,307,9,4561
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > a,0,Terms of Use,0,Terms of U,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li/a,A,Terms of Use,100,80,821,4573
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Privacy,0,Privacy,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[2]/a,A,Privacy,101,45,923,4573
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Cookies,0,Cookies,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[3]/a,A,Cookies,102,50,989,4573
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Interest-based ads,0,Interest-b,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[4]/a,A,Interest-based ads,103,115,1061,4573

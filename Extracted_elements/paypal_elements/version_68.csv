@@ -1,0 +1,56 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,paypal-img-logo,div#body > header > div > div > a:nth-of-type(2),0,PayPal,0,PayPal,A,/html/body/div/header/div/div/a[2],A,PayPal,1,136,25,13
+67,0,a#header-personal,header-personal,Personal,0,Personal,A,/html/body/div/header/div/div/nav/ul/li/a,A,Personal,2,111,326,3
+67,0,a#header-business,header-business,Business,0,Business,A,/html/body/div/header/div/div/nav/ul/li[2]/a,A,Business,3,105,437,3
+67,desktop-only,a#header-send,header-send,Send,0,Send,A,/html/body/div/header/div/div/nav/ul/li[3]/a,A,Send,4,67,546,3
+67,desktop-only,a#header-request,header-request,Request,0,Request,A,/html/body/div/header/div/div/nav/ul/li[4]/a,A,Request,5,92,617,3
+67,desktop-only,a#header-help,header-help,Help,0,Help,A,/html/body/div/header/div/div/nav/ul/li[5]/a,A,Help,6,66,713,3
+67,languageMenu,nav#main-menu > ul > li:nth-of-type(6) > a,0,"Fr
+
+            
+                Français",0,"Fr
+
+      ",A,/html/body/div/header/div/div/nav/ul/li[6]/a,A,"Fr
+
+            
+                Français",7,47,783,3
+36,btn btn-small btn-secondary,a#ul-btn,ul-btn,Log In,0,Log In,A,/html/body/div/header/div/div/div/a,A,Log In,8,84,972,18
+36,btn btn-small btn-signup,a#signup-button,signup-button,Sign Up,0,Sign Up,A,/html/body/div/header/div/div/div/a[2],A,Sign Up,9,84,1068,18
+51,btn heroBtn span8 col-sm-8 ,div#main > div > div > ul > li > section > div:nth-of-type(2) > div > div > a,0,Find Out More,0,Find Out M,A,/html/body/div/div/div/div/ul/li/section/div[2]/div/div/a,A,Find Out More,10,350,-1164,367
+51,btn btn-white-border span8 col-sm-8,div#main > div > div > ul > li > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Sign up for Free,0,Sign up fo,A,/html/body/div/div/div/div/ul/li/section/div[2]/div/div/p[2]/a,A,Sign up for Free,11,350,-1164,437
+51,btn heroBtn span8 col-sm-8 ,div#main > div > div > ul > li:nth-of-type(2) > section > div:nth-of-type(2) > div > div > a,0,Activate Now,0,Activate N,A,/html/body/div/div/div/div/ul/li[2]/section/div[2]/div/div/a,A,Activate Now,12,387,36,370
+51,btn btn-white-border span8 col-sm-8,div#main > div > div > ul > li:nth-of-type(2) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Sign up for Free,0,Sign up fo,A,/html/body/div/div/div/div/ul/li[2]/section/div[2]/div/div/p[2]/a,A,Sign up for Free,13,387,36,440
+19,0,div#main > div > div > ul > li:nth-of-type(2) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > span > a,0,*Limitations Apply.,0,*Limitatio,A,/html/body/div/div/div/div/ul/li[2]/section/div[2]/div/div/p[2]/span/a,A,*Limitations Apply.,14,129,36,508
+51,btn heroBtn span8 col-sm-8 ,div#main > div > div > ul > li:nth-of-type(3) > section > div:nth-of-type(2) > div > div > a,0,Add a Way to Pay,0,Add a Way ,A,/html/body/div/div/div/div/ul/li[3]/section/div[2]/div/div/a,A,Add a Way to Pay,15,350,1236,373
+51,btn btn-white-border span8 col-sm-8,div#main > div > div > ul > li:nth-of-type(3) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Sign up for Free,0,Sign up fo,A,/html/body/div/div/div/div/ul/li[3]/section/div[2]/div/div/p[2]/a,A,Sign up for Free,16,350,1236,444
+51,btn heroBtn span8 col-sm-8 ,div#main > div > div > ul > li:nth-of-type(4) > section > div:nth-of-type(2) > div > div > a,0,Find Out More,0,Find Out M,A,/html/body/div/div/div/div/ul/li[4]/section/div[2]/div/div/a,A,Find Out More,17,350,2436,367
+51,btn btn-white-border span8 col-sm-8,div#main > div > div > ul > li:nth-of-type(4) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Sign up for Free,0,Sign up fo,A,/html/body/div/div/div/div/ul/li[4]/section/div[2]/div/div/p[2]/a,A,Sign up for Free,18,350,2436,437
+51,btn heroBtn span8 col-sm-8 ,div#main > div > div > ul > li:nth-of-type(5) > section > div:nth-of-type(2) > div > div > a,0,Activate Now,0,Activate N,A,/html/body/div/div/div/div/ul/li[5]/section/div[2]/div/div/a,A,Activate Now,19,387,3636,370
+51,btn btn-white-border span8 col-sm-8,div#main > div > div > ul > li:nth-of-type(5) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Sign up for Free,0,Sign up fo,A,/html/body/div/div/div/div/ul/li[5]/section/div[2]/div/div/p[2]/a,A,Sign up for Free,20,387,3636,440
+19,0,div#main > div > div > ul > li:nth-of-type(5) > section > div:nth-of-type(2) > div > div > p:nth-of-type(2) > span > a,0,*Limitations Apply.,0,*Limitatio,A,/html/body/div/div/div/div/ul/li[5]/section/div[2]/div/div/p[2]/span/a,A,*Limitations Apply.,21,129,3636,508
+10,bx-pager-link active,div#main > div > div:nth-of-type(2) > div > div > a,0,1,0,1,A,/html/body/div/div/div/div[2]/div/div/a,A,1,22,10,575,579
+10,bx-pager-link,div#main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,2,0,2,A,/html/body/div/div/div/div[2]/div/div[2]/a,A,2,23,10,595,579
+10,bx-pager-link,div#main > div > div:nth-of-type(2) > div > div:nth-of-type(3) > a,0,3,0,3,A,/html/body/div/div/div/div[2]/div/div[3]/a,A,3,24,10,615,579
+19,signup-link,div#main > section > div > div > p:nth-of-type(2) > a,0,Sign up for free,0,Sign up fo,A,/html/body/div/div/section/div/div/p[2]/a,A,Sign up for free,25,103,102,637
+52,btn btn-primary center-block,div#main > section:nth-of-type(2) > div > div > a,0,Explore business solutions,0,Explore bu,A,/html/body/div/div/section[2]/div/div/a,A,Explore business solutions,26,248,476,922
+23,contentLink,div#main > section:nth-of-type(3) > div > div > a,0,More about security,0,More about,A,/html/body/div/div/section[3]/div/div/a,A,More about security,27,133,36,1839
+23,contentLink,div#main > section:nth-of-type(3) > div > div:nth-of-type(5) > a,0,More about Send Money,0,More about,A,/html/body/div/div/section[3]/div/div[5]/a,A,More about Send Money,28,161,899,1817
+24,contentLink,div#main > section:nth-of-type(4) > div > div > a,0,Shop now,0,Shop now,A,/html/body/div/div/section[4]/div/div/a,A,Shop now,29,69,563,2102
+51,btn closing-cta center-block ,div#main > section:nth-of-type(6) > div > div > a,0,Sign Up for Free,0,Sign Up fo,A,/html/body/div/div/section[6]/div/div/a,A,Sign Up for Free,30,338,431,2655
+44,0,div#body > footer > div > ul > li > a,0,Help,0,Help,A,/html/body/div/footer/div/ul/li/a,A,Help,31,29,36,2835
+44,0,div#body > footer > div > ul > li:nth-of-type(2) > a,0,Contact,0,Contact,A,/html/body/div/footer/div/ul/li[2]/a,A,Contact,32,48,95,2835
+44,0,div#body > footer > div > ul > li:nth-of-type(3) > a,0,Fees,0,Fees,A,/html/body/div/footer/div/ul/li[3]/a,A,Fees,33,28,172,2835
+44,0,div#body > footer > div > ul > li:nth-of-type(4) > a,0,Security,0,Security,A,/html/body/div/footer/div/ul/li[4]/a,A,Security,34,51,230,2835
+44,0,div#body > footer > div > ul > li:nth-of-type(5) > a,0,App,0,App,A,/html/body/div/footer/div/ul/li[5]/a,A,App,35,25,311,2835
+44,0,div#body > footer > div > ul > li:nth-of-type(6) > a,0,Shop,0,Shop,A,/html/body/div/footer/div/ul/li[6]/a,A,Shop,36,31,365,2835
+16,language,div#body > footer > div > ul > li:nth-of-type(7) > a,0,Français,0,Français,A,/html/body/div/footer/div/ul/li[7]/a,A,Français,37,54,1070,2850
+24,country CA,div#body > footer > div > ul > li:nth-of-type(7) > a:nth-of-type(2),0,See all countries/regions,0,See all co,A,/html/body/div/footer/div/ul/li[7]/a[2],A,See all countries/regions,38,32,1132,2846
+26,0,div#body > footer > div > ul:nth-of-type(2) > li > a,0,About,0,About,A,/html/body/div/footer/div/ul[2]/li/a,A,About,39,33,36,2888
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,PayPal Blog,0,PayPal Blo,A,/html/body/div/footer/div/ul[2]/li[2]/a,A,PayPal Blog,40,62,90,2888
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(3) > a,0,Jobs,0,Jobs,A,/html/body/div/footer/div/ul[2]/li[3]/a,A,Jobs,41,22,174,2888
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Site map,0,Site map,A,/html/body/div/footer/div/ul[2]/li[4]/a,A,Site map,42,47,218,2888
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(5) > a,0,Developers,0,Developers,A,/html/body/div/footer/div/ul[2]/li[5]/a,A,Developers,43,59,287,2888
+26,0,div#body > footer > div > ul:nth-of-type(2) > li:nth-of-type(6) > a,0,Partners,0,Partners,A,/html/body/div/footer/div/ul[2]/li[6]/a,A,Partners,44,46,368,2888
+26,0,li#footer-privacy > a,0,Privacy,0,Privacy,A,/html/body/div/footer/div/ul[3]/li[2]/a,A,Privacy,45,39,1004,2888
+26,0,div#body > footer > div > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,Legal,0,Legal,A,/html/body/div/footer/div/ul[3]/li[3]/a,A,Legal,46,28,1065,2888
+26,0,li#siteFeedback > a,0,Feedback,0,Feedback,A,/html/body/div/footer/div/ul[3]/li[4]/a,A,Feedback,47,50,1114,2888

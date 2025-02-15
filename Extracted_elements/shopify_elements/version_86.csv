@@ -1,0 +1,99 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+19,body-link,div#Announcements > div > section > div > a,0,Learn about the actions we’re taking to address the impact of COVID‑19,0,Learn abou,A,/html/body/div[3]/div/section/div/a,A,Learn about the actions we’re taking to address the impact of COVID‑19,1,452,484,15
+49,announcement__close js-announcement__close,div#Announcements > div > section > button,0,,button,,BUTTON,/html/body/div[3]/div/section/button,BUTTON,,2,44,943,0
+1,in-page-link skip-to-main visuallyhidden focusable,header#SiteNavContainer > div > a,0,Skip to Content,0,Skip to Co,A,/html/body/header/div/a,A,Skip to Content,3,1,-1,49
+35,marketing-nav__logo__shopify,nav#ShopifyMainNav > div > a,0,Shopify,0,Shopify,A,/html/body/header/div/nav/div/a,A,Shopify,4,121,78,72
+80,popover__trigger marketing-nav__item marketing-nav__item--primary,nav#ShopifyMainNav > ul > li > div > button,0,,0,,BUTTON,/html/body/header/div/nav/ul/li/div/button,BUTTON,Products,5,90,239,50
+80,popover__trigger marketing-nav__item marketing-nav__item--primary,nav#ShopifyMainNav > ul > li:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/header/div/nav/ul/li[2]/div/button,BUTTON,Examples,6,95,359,50
+80,popover__trigger marketing-nav__item marketing-nav__item--primary,nav#ShopifyMainNav > ul > li:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/header/div/nav/ul/li[3]/div/button,BUTTON,Learn,7,62,484,50
+80,marketing-nav__item marketing-nav__item--user,nav#ShopifyMainNav > ul:nth-of-type(3) > li > a,0,About,0,About,A,/html/body/header/div/nav/ul[3]/li/a,A,About,8,49,733,50
+80,marketing-nav__item marketing-nav__item--user,nav#ShopifyMainNav > ul:nth-of-type(3) > li:nth-of-type(2) > a,0,Pricing,0,Pricing,A,/html/body/header/div/nav/ul[3]/li[2]/a,A,Pricing,9,57,812,50
+80,marketing-nav__item marketing-nav__item--user,nav#ShopifyMainNav > ul:nth-of-type(3) > li:nth-of-type(3) > a,0,Log In,0,Log In,A,/html/body/header/div/nav/ul[3]/li[3]/a,A,Log In,10,50,899,50
+44,js-open-signup marketing-nav__button marketing-button marketing-button--small,input#MainNavSignupButton,MainNavSignupButton,,0,,INPUT,/html/body/header/div/nav/ul[3]/li[4]/form/input,INPUT,,11,143,979,68
+51,marketing-input-button-pair__input marketing-input marketing-input--floating,input#SignupEmail-2783,SignupEmail-2783,,signup[email],,INPUT,/html/body/div[4]/main/section/div/div/div[2]/form/div/div/input,INPUT,,12,262,78,502
+52,marketing-button marketing-form__button marketing-input-button-pair__button,section#Hero > div > div > div:nth-of-type(2) > form > div > div > button,0,,button,,BUTTON,/html/body/div[4]/main/section/div/div/div[2]/form/div/div/button,BUTTON,Start free trial,13,164,356,502
+30,js-wistia-modal homepage-hero-video__play,section#Hero > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[4]/main/section/div[2]/button,BUTTON,Play video,14,115,1065,673
+24,color-white link link--secondary,main#Main > section:nth-of-type(2) > div > div > section > div > div > div:nth-of-type(2) > a,0,Explore more examples,0,Explore mo,A,/html/body/div[4]/main/section[2]/div/div/section/div/div/div[2]/a,A,Explore more examples,15,227,78,929
+57,example-merchant__link,main#Main > section:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div > div > a,0,"Alfred
+                  Food & Drink",0,"Alfred
+   ",A,/html/body/div[4]/main/section[2]/div/div/section/div[2]/div/div/a,A,"Alfred
+                  Food & Drink",16,196,78,1375
+57,example-merchant__link,main#Main > section:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(2) > div > a,0,"Corey Moranis
+                  Jewelry",0,Corey Mora,A,/html/body/div[4]/main/section[2]/div/div/section/div[2]/div[2]/div/a,A,"Corey Moranis
+                  Jewelry",17,196,290,1375
+57,example-merchant__link,main#Main > section:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(3) > div > a,0,"Detour Coffee
+                  Food & Drink",0,Detour Cof,A,/html/body/div[4]/main/section[2]/div/div/section/div[2]/div[3]/div/a,A,"Detour Coffee
+                  Food & Drink",18,196,502,1375
+57,example-merchant__link,main#Main > section:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(4) > div > a,0,"Then I Met You
+                  Beauty & Cosmetics",0,Then I Met,A,/html/body/div[4]/main/section[2]/div/div/section/div[2]/div[4]/div/a,A,"Then I Met You
+                  Beauty & Cosmetics",19,196,714,1375
+57,example-merchant__link,main#Main > section:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(5) > div > a,0,"Miss Boon
+                  Home & Garden",0,"Miss Boon
+",A,/html/body/div[4]/main/section[2]/div/div/section/div[2]/div[5]/div/a,A,"Miss Boon
+                  Home & Garden",20,196,926,1375
+27,pillars__block-link link link--secondary,div#Sell > div:nth-of-type(2) > a,0,Explore ways to sell,0,Explore wa,A,/html/body/div[4]/main/section[3]/div/div[2]/div[2]/a,A,Explore ways to sell,21,224,570,2562
+27,pillars__block-link link link--secondary,div#Market > div > a,0,Explore how to market your business,0,Explore ho,A,/html/body/div[4]/main/section[3]/div/div[3]/div/a,A,Explore how to market your business,22,365,150,2929
+27,pillars__block-link link link--secondary,div#Manage > div:nth-of-type(2) > a,0,Explore how to manage your business,0,Explore ho,A,/html/body/div[4]/main/section[3]/div/div[4]/div[2]/a,A,Explore how to manage your business,23,374,643,3376
+52,js-wistia-modal featured-testimonial__video-play-button marketing-button marketing-button--secondary,main#Main > section:nth-of-type(4) > div > div > div > div > div:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[4]/main/section[4]/div/div/div/div/div[2]/div/button,BUTTON,Play Chioma and Uchenna’s story,24,331,696,4184
+24,link link--secondary,main#Main > section:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div > div > p:nth-of-type(2) > a,0,Contact support,0,Contact su,A,/html/body/div[4]/main/section[5]/div/div/div/div[2]/div/div/p[2]/a,A,Contact support,25,176,78,4881
+48,link link--secondary,main#Main > section:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Visit the Shopify App Store,0,Visit the ,A,/html/body/div[4]/main/section[5]/div/div/div/div[2]/div[2]/div/p[2]/a,A,Visit the Shopify App Store,26,218,332,4905
+48,link link--secondary,main#Main > section:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div > p:nth-of-type(2) > a,0,Explore the Shopify Experts Marketplace,0,Explore th,A,/html/body/div[4]/main/section[5]/div/div/div/div[2]/div[3]/div/p[2]/a,A,Explore the Shopify Experts Marketplace,27,327,78,5146
+52,marketing-button js-open-signup signup-footer__button,main#Main > section:nth-of-type(6) > div > div > div > form > button,0,,0,,BUTTON,/html/body/div[4]/main/section[6]/div/div/div/form/button,BUTTON,Start free trial,28,163,518,5528
+27,back-to-top-link link-scroll-to link link--secondary link--point-up,main#Main > div > div > a,0,Back to top,0,Back to to,A,/html/body/div[4]/main/div/div/a,A,Back to top,29,174,993,5712
+72,0,footer#ShopifyMainFooter > div > div > div > nav > a,0,About,0,About,A,/html/body/div[4]/footer/div/div/div/nav/a,A,About,30,45,78,5771
+72,0,footer#ShopifyMainFooter > div > div > div > nav > a:nth-of-type(2),0,Careers,0,Careers,A,/html/body/div[4]/footer/div/div/div/nav/a[2],A,Careers,31,57,143,5771
+72,0,footer#ShopifyMainFooter > div > div > div > nav > a:nth-of-type(3),0,Press and Media,0,Press and ,A,/html/body/div[4]/footer/div/div/div/nav/a[3],A,Press and Media,32,120,221,5771
+72,0,footer#ShopifyMainFooter > div > div > div > nav > a:nth-of-type(4),0,Shopify Plus,0,Shopify Pl,A,/html/body/div[4]/footer/div/div/div/nav/a[4],A,Shopify Plus,33,91,360,5771
+72,0,footer#ShopifyMainFooter > div > div > div > nav > a:nth-of-type(5),0,Sitemap,0,Sitemap,A,/html/body/div[4]/footer/div/div/div/nav/a[5],A,Sitemap,34,61,472,5771
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a,0,Start your business,0,Start your,A,/html/body/div[4]/footer/div/div/div[2]/div/a,A,Start your business,35,157,78,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(2),0,Sell everywhere,0,Sell every,A,/html/body/div[4]/footer/div/div/div[2]/div/a[2],A,Sell everywhere,36,157,78,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(3),0,Market your business,0,Market you,A,/html/body/div[4]/footer/div/div/div[2]/div/a[3],A,Market your business,37,157,78,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(4),0,Manage everything,0,Manage eve,A,/html/body/div[4]/footer/div/div/div[2]/div/a[4],A,Manage everything,38,157,78,5988
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(5),0,Sell online,0,Sell onlin,A,/html/body/div[4]/footer/div/div/div[2]/div/a[5],A,Sell online,39,157,78,6020
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(6),0,Features,0,Features,A,/html/body/div[4]/footer/div/div/div[2]/div/a[6],A,Features,40,157,78,6051
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(7),0,Examples,0,Examples,A,/html/body/div[4]/footer/div/div/div[2]/div/a[7],A,Examples,41,157,78,6083
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(8),0,Website editor,0,Website ed,A,/html/body/div[4]/footer/div/div/div[2]/div/a[8],A,Website editor,42,157,78,6114
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(9),0,Online retail,0,Online ret,A,/html/body/div[4]/footer/div/div/div[2]/div/a[9],A,Online retail,43,157,251,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(10),0,Ecommerce website,0,Ecommerce ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[10],A,Ecommerce website,44,157,251,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(11),0,Domain names,0,Domain nam,A,/html/body/div[4]/footer/div/div/div[2]/div/a[11],A,Domain names,45,157,251,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(12),0,Themes,0,Themes,A,/html/body/div[4]/footer/div/div/div[2]/div/a[12],A,Themes,46,157,251,5988
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(13),0,Shopping cart,0,Shopping c,A,/html/body/div[4]/footer/div/div/div[2]/div/a[13],A,Shopping cart,47,157,251,6020
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(14),0,Ecommerce hosting,0,Ecommerce ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[14],A,Ecommerce hosting,48,157,251,6051
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(15),0,Mobile commerce,0,Mobile com,A,/html/body/div[4]/footer/div/div/div[2]/div/a[15],A,Mobile commerce,49,157,251,6083
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(16),0,Ecommerce software,0,Ecommerce ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[16],A,Ecommerce software,50,157,251,6114
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(17),0,Online store builder,0,Online sto,A,/html/body/div[4]/footer/div/div/div[2]/div/a[17],A,Online store builder,51,157,425,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(18),0,Oberlo,0,Oberlo,A,/html/body/div[4]/footer/div/div/div[2]/div/a[18],A,Oberlo,52,157,425,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(19),0,Dropshipping Business,0,Dropshippi,A,/html/body/div[4]/footer/div/div/div[2]/div/a[19],A,Dropshipping Business,53,157,425,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(20),0,Sell with Instagram,0,Sell with ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[20],A,Sell with Instagram,54,157,425,5988
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(21),0,Sell with Facebook Shop,0,Sell with ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[21],A,Sell with Facebook Shop,55,157,425,6020
+53,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(22),0,Sell with Walmart Marketplace,0,Sell with ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[22],A,Sell with Walmart Marketplace,56,157,425,6051
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(23),0,Sell Amazon,0,Sell Amazo,A,/html/body/div[4]/footer/div/div/div[2]/div/a[23],A,Sell Amazon,57,157,425,6104
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(2) > div > a:nth-of-type(24),0,Sell with eBay,0,Sell with ,A,/html/body/div[4]/footer/div/div/div[2]/div/a[24],A,Sell with eBay,58,157,425,6135
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(3) > div > a,0,Point of sale,0,Point of s,A,/html/body/div[4]/footer/div/div/div[3]/div/a,A,Point of sale,59,144,618,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(3) > div > a:nth-of-type(2),0,Features,0,Features,A,/html/body/div[4]/footer/div/div/div[3]/div/a[2],A,Features,60,144,618,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(3) > div > a:nth-of-type(3),0,Hardware,0,Hardware,A,/html/body/div[4]/footer/div/div/div[3]/div/a[3],A,Hardware,61,144,618,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a,0,24/7 support,0,24/7 suppo,A,/html/body/div[4]/footer/div/div/div[4]/div/a,A,24/7 support,62,144,798,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(2),0,Shopify Help Center,0,Shopify He,A,/html/body/div[4]/footer/div/div/div[4]/div/a[2],A,Shopify Help Center,63,144,798,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(3),0,Forums,0,Forums,A,/html/body/div[4]/footer/div/div/div[4]/div/a[3],A,Forums,64,144,798,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(4),0,API documentation,0,API docume,A,/html/body/div[4]/footer/div/div/div[4]/div/a[4],A,API documentation,65,144,798,5988
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(5),0,Free tools,0,Free tools,A,/html/body/div[4]/footer/div/div/div[4]/div/a[5],A,Free tools,66,144,798,6020
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(6),0,Free stock photos,0,Free stock,A,/html/body/div[4]/footer/div/div/div[4]/div/a[6],A,Free stock photos,67,144,798,6051
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(7),0,Websites for sale,0,Websites f,A,/html/body/div[4]/footer/div/div/div[4]/div/a[7],A,Websites for sale,68,144,798,6083
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(8),0,Hatchful,0,Hatchful,A,/html/body/div[4]/footer/div/div/div[4]/div/a[8],A,Hatchful,69,144,798,6114
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(9),0,Web address,0,Web addres,A,/html/body/div[4]/footer/div/div/div[4]/div/a[9],A,Web address,70,144,798,6146
+53,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(4) > div > a:nth-of-type(10),0,Business name generator,0,Business n,A,/html/body/div[4]/footer/div/div/div[4]/div/a[10],A,Business name generator,71,144,798,6177
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a,0,Contact,0,Contact,A,/html/body/div[4]/footer/div/div/div[5]/div/a,A,Contact,72,144,978,5894
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a:nth-of-type(2),0,Partner program,0,Partner pr,A,/html/body/div[4]/footer/div/div/div[5]/div/a[2],A,Partner program,73,144,978,5925
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a:nth-of-type(3),0,Affiliate program,0,Affiliate ,A,/html/body/div[4]/footer/div/div/div[5]/div/a[3],A,Affiliate program,74,144,978,5957
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a:nth-of-type(4),0,App developers,0,App develo,A,/html/body/div[4]/footer/div/div/div[5]/div/a[4],A,App developers,75,144,978,5988
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a:nth-of-type(5),0,Investors,0,Investors,A,/html/body/div[4]/footer/div/div/div[5]/div/a[5],A,Investors,76,144,978,6020
+32,footer-link  ,footer#ShopifyMainFooter > div > div > div:nth-of-type(5) > div > a:nth-of-type(6),0,Blog topics,0,Blog topic,A,/html/body/div[4]/footer/div/div/div[5]/div/a[6],A,Blog topics,77,144,978,6051
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a,0,Facebook,0,Facebook,A,/html/body/div[4]/footer/div[2]/div/div/a,A,Facebook,78,18,78,6293
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a:nth-of-type(2),0,Twitter,0,Twitter,A,/html/body/div[4]/footer/div[2]/div/div/a[2],A,Twitter,79,18,108,6293
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a:nth-of-type(3),0,YouTube,0,YouTube,A,/html/body/div[4]/footer/div[2]/div/div/a[3],A,YouTube,80,18,138,6293
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a:nth-of-type(4),0,Instagram,0,Instagram,A,/html/body/div[4]/footer/div[2]/div/div/a[4],A,Instagram,81,18,168,6293
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a:nth-of-type(5),0,LinkedIn,0,LinkedIn,A,/html/body/div[4]/footer/div[2]/div/div/a[5],A,LinkedIn,82,18,198,6293
+18,footer-social__icon ,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div > a:nth-of-type(6),0,Pinterest,0,Pinterest,A,/html/body/div[4]/footer/div[2]/div/div/a[6],A,Pinterest,83,18,228,6293
+22,0,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > a,0,Terms of Service,0,Terms of S,A,/html/body/div[4]/footer/div[2]/div/div[2]/a,A,Terms of Service,84,121,792,6293
+22,0,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div[4]/footer/div[2]/div/div[2]/a[2],A,Privacy Policy,85,99,933,6293
+32,popover__trigger footer-country-select__trigger,footer#ShopifyMainFooter > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > button,0,,0,,BUTTON,/html/body/div[4]/footer/div[2]/div/div[2]/div/div/button,BUTTON,USAChange your country or region.,86,70,1052,6288

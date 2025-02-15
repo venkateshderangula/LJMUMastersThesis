@@ -1,0 +1,20 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+28,0,html > body > section > div > nav > div > div > a,0,,0,,A,/html/body/section/div/nav/div/div/a,A,,1,108,60,11
+18,linkButtonFixedHeader office-signIn,html > body > section > div > nav > div > div > div > a,0,Sign in,0,Sign in,A,/html/body/section/div/nav/div/div/div/a,A,Sign in,2,70,1070,16
+39,linkButtonFixedHeader,html > body > section > div > header > div > div > a,0,Outlook,0,Outlook,A,/html/body/section/div/header/div/div/a,A,Outlook,3,135,60,60
+39,linkButtonFixedHeader,html > body > section > div > header > div > div > div > nav > a,0,Create free account,0,Create fre,A,/html/body/section/div/header/div/div/div/nav/a,A,Create free account,4,132,195,55
+39,linkButtonFixedHeader,html > body > section > div > header > div > div > div > nav > a:nth-of-type(2),0,Support,0,Support,A,/html/body/section/div/header/div/div/div/nav/a[2],A,Support,5,54,495,55
+38,buyO365Button,html > body > section > div > header > div > div > a:nth-of-type(2),0,Buy Office 365,0,Buy Office,A,/html/body/section/div/header/div/div/a[2],A,Buy Office 365,6,170,970,60
+46,linkButtonSigninHeader linkButtonSigninHeader--premium,html > body > section > div > div:nth-of-type(2) > a,0,Create free account,0,Create fre,A,/html/body/section/div/div[2]/a,A,Create free account,7,214,373,448
+46,linkButtonSigninHeader,html > body > section > div > div:nth-of-type(2) > a:nth-of-type(2),0,Sign in,0,Sign in,A,/html/body/section/div/div[2]/a[2],A,Sign in,8,214,613,448
+56,linkButtonSigninHeader linkButtonSigninHeader--premium,html > body > section > div > div:nth-of-type(3) > div > div > div > a,0,Buy Office 365,0,Buy Office,A,/html/body/section/div/div[3]/div/div/div/a,A,Buy Office 365,9,214,493,3331
+50,outlookAppstore,html > body > section > div > div:nth-of-type(4) > div:nth-of-type(2) > a,0,,0,,A,/html/body/section/div/div[4]/div[2]/a,A,,10,197,275,3574
+50,outlookPlaystore,html > body > section > div > div:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2),0,,0,,A,/html/body/section/div/div[4]/div[2]/a[2],A,,11,202,500,3574
+50,outlookWinstore,html > body > section > div > div:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(3),0,,0,,A,/html/body/section/div/div[4]/div[2]/a[3],A,,12,195,730,3574
+19,0,html > body > section > div > div:nth-of-type(5) > div > div > a,0,,0,,A,/html/body/section/div/div[5]/div/div/a,A,,13,108,60,3766
+21,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div > div > a,0,Privacy & cookies,0,Privacy & ,A,/html/body/section/div/div[5]/div/div/div/a,A,Privacy & cookies,14,124,60,3809
+21,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div > div > a:nth-of-type(2),0,Legal,0,Legal,A,/html/body/section/div/div[5]/div/div/div/a[2],A,Legal,15,38,208,3809
+21,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div > div > a:nth-of-type(3),0,Trademarks,0,Trademarks,A,/html/body/section/div/div[5]/div/div/div/a[3],A,Trademarks,16,81,270,3809
+21,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div > div > a:nth-of-type(4),0,Contact Us,0,Contact Us,A,/html/body/section/div/div[5]/div/div/div/a[4],A,Contact Us,17,80,375,3809
+40,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div:nth-of-type(2) > a,0,Support,0,Support,A,/html/body/section/div/div[5]/div/div[2]/a,A,Support,18,90,760,3758
+40,linkButtonFixedFooter,html > body > section > div > div:nth-of-type(5) > div > div:nth-of-type(2) > a:nth-of-type(2),0,Create free account,0,Create fre,A,/html/body/section/div/div[5]/div/div[2]/a[2],A,Create free account,19,168,849,3758

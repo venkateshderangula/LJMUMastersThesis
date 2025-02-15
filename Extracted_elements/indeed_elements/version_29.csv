@@ -1,0 +1,27 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+38,selected,a#jobsLink,jobsLink,Find Jobs,0,Find Jobs,A,/html/body/div/div/table/tbody/tr/td/div/span/a,A,Find Jobs,1,56,32,1
+38,0,div#p_nav > span:nth-of-type(2) > a,0,Company Reviews,0,Company Re,A,/html/body/div/div/table/tbody/tr/td/div/span[2]/a,A,Company Reviews,2,103,112,1
+38,0,div#p_nav > span:nth-of-type(3) > a,0,Find Salaries,0,Find Salar,A,/html/body/div/div/table/tbody/tr/td/div/span[3]/a,A,Find Salaries,3,72,239,1
+38,0,a#rezLink,rezLink,Find Resumes,0,Find Resum,A,/html/body/div/div/table/tbody/tr/td/div/span[4]/a,A,Find Resumes,4,79,335,1
+38,0,a#empLink,empLink,Employers / Post Job,0,Employers ,A,/html/body/div/div/table/tbody/tr/td/div/span[5]/a,A,Employers / Post Job,5,119,438,1
+38,0,span#navpromo > a,0,Upload your resume,0,Upload you,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span/span/a,A,Upload your resume,6,117,983,1
+42,0,a#userOptionsLabel,userOptionsLabel,Sign in,0,Sign in,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span[2]/a,A,Sign in,7,42,1128,-1
+40,input_text,input#what,what,,q,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td/span/input,INPUT,,8,280,313,131
+40,input_text,input#where,where,,l,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[2]/span/input,INPUT,,9,280,594,131
+41,input_submit,input#fj,fj,,0,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[3]/span/span/input,INPUT,,10,110,883,131
+13,sl,form#jobsearch > table > tbody > tr:nth-of-type(5) > td:nth-of-type(3) > a,0,Advanced Job Search,0,Advanced J,A,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[5]/td[3]/a,A,Advanced Job Search,11,129,886,181
+20,resume-promo-link,p#resPromoDisplay > a:nth-of-type(2),0,Upload your resume,0,Upload you,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p/a[2],A,Upload your resume,12,154,424,242
+20,post-jobs-promo-link,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div > div > p:nth-of-type(2) > span > a:nth-of-type(2),0,Employers: Post a job,0,Employers:,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p[2]/span/a[2],A,Employers: Post a job,13,167,429,281
+24,0,div#hp_welcome_message > a,0,jobs,0,jobs,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div[2]/a,A,jobs,14,41,551,410
+16,0,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > p > a,0,español,0,español,A,/html/body/div/div[2]/table/tbody/tr[2]/td/p/a,A,español,15,47,674,497
+48,sl,div#gajui > a,0,Over 10 million stories shared,0,Over 10 mi,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div[3]/a,A,Over 10 million stories shared,16,250,528,602
+13,0,div#footerMainLinks > a,0,Job Category Trends,0,Job Catego,A,/html/body/div/div[2]/div[2]/span/div/a,A,Job Category Trends,17,109,30,780
+13,0,div#footerMainLinks > a:nth-of-type(2),0,Hiring Lab,0,Hiring Lab,A,/html/body/div/div[2]/div[2]/span/div/a[2],A,Hiring Lab,18,54,149,780
+13,0,div#footerMainLinks > a:nth-of-type(3),0,Browse Jobs,0,Browse Job,A,/html/body/div/div[2]/div[2]/span/div/a[3],A,Browse Jobs,19,68,214,780
+13,0,div#footerMainLinks > a:nth-of-type(4),0,Work at Indeed,0,Work at In,A,/html/body/div/div[2]/div[2]/span/div/a[4],A,Work at Indeed,20,79,292,780
+13,0,div#footerMainLinks > a:nth-of-type(5),0,API,0,API,A,/html/body/div/div[2]/div[2]/span/div/a[5],A,API,21,18,382,780
+13,sl,div#footerMainLinks > a:nth-of-type(6),0,Countries,0,Countries,A,/html/body/div/div[2]/div[2]/span/div/a[6],A,Countries,22,51,411,780
+13,0,div#footerMainLinks > a:nth-of-type(7),0,About,0,About,A,/html/body/div/div[2]/div[2]/span/div/a[7],A,About,23,31,472,780
+13,0,div#footerMainLinks > a:nth-of-type(8),0,Help Center,0,Help Cente,A,/html/body/div/div[2]/div[2]/span/div/a[8],A,Help Center,24,63,514,780
+13,0,div#footerLegal > a,0,"Cookies, Privacy and Terms",0,"Cookies, P",A,/html/body/div/div[2]/div[2]/div/a,A,"Cookies, Privacy and Terms",25,145,30,800
+43,icl-Button icl-Button--primary icl-Button--sm cta_button blue,div#resumeCtaFooter > div > div > span > a,0,Upload Your Resume,0,Upload You,A,/html/body/div/div[2]/div[2]/div[2]/div/div/span/a,A,Upload Your Resume,26,188,506,878

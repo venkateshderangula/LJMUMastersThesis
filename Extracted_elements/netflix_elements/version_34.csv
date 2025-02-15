@@ -1,0 +1,28 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+19,0,div#cookie-disclosure > p > a,0,Learn more,0,Learn more,A,/html/body/div/div/div/p/a,A,Learn more,1,74,673,16
+19,pointer,div#cookie-disclosure > p > a:nth-of-type(2),0,change your cookie preferences,0,change you,A,/html/body/div/div/div/p/a[2],A,change your cookie preferences,2,203,769,16
+19,0,div#cookie-disclosure > p:nth-of-type(2) > a,0,why?,0,why?,A,/html/body/div/div/div/p[2]/a,A,why?,3,35,116,69
+19,pointer,div#cookie-disclosure > p:nth-of-type(2) > a:nth-of-type(2),0,cookie preferences,0,cookie pre,A,/html/body/div/div/div/p[2]/a[2],A,cookie preferences,4,120,269,69
+19,close-link,div#cookie-disclosure > div > a,0,Close,0,Close,A,/html/body/div/div/div/div/a,A,Close,5,36,8,104
+19,svg-nfLogo signupBasicHeader,div#appMountPoint > div > div:nth-of-type(2) > a,0,Netflix,0,Netflix,A,/html/body/div/div/div[2]/a,A,Netflix,6,344,8,258
+19,authLinks signupBasicHeader,div#appMountPoint > div > div:nth-of-type(2) > a:nth-of-type(2),0,Sign In,0,Sign In,A,/html/body/div/div/div[2]/a[2],A,Sign In,7,47,352,258
+22,btn hero-cta-btn btn-large btn-red,form#formstart > button,0,,0,,BUTTON,/html/body/div/div/div[3]/div/div/div[2]/div[3]/form/button,BUTTON,JOIN FREE FOR A MONTH,8,181,8,1144
+22,btn btn-large btn-red,form#formstart > button,0,,0,,BUTTON,/html/body/div/div/div[3]/div[2]/div[3]/div/div/div/div[2]/form/button,BUTTON,JOIN FREE FOR A MONTH,9,181,8,2201
+22,btn btn-large btn-red,form#formstart > button,0,,0,,BUTTON,/html/body/div/div/div[3]/div[2]/div[3]/div[2]/div/div/div/div[2]/div/form/button,BUTTON,JOIN FREE FOR A MONTH,10,181,8,2894
+22,btn btn-red btn-large,form#formstart > button,0,,0,,BUTTON,/html/body/div/div/div[3]/div[2]/div[3]/div[3]/div/div/div[2]/div/form/button,BUTTON,JOIN FREE FOR A MONTH,11,181,8,4488
+19,footer-top-a,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > p > a,0,0800-917812,0,0800-91781,A,/html/body/div/div/div[4]/div[2]/p/a,A,0800-917812,12,85,114,4910
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li > a,0,FAQ,0,FAQ,A,/html/body/div/div/div[4]/div[2]/ul/li/a,A,FAQ,13,31,48,4945
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Help Center,0,Help Cente,A,/html/body/div/div/div[4]/div[2]/ul/li[2]/a,A,Help Center,14,78,48,4963
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Account,0,Account,A,/html/body/div/div/div[4]/div[2]/ul/li[3]/a,A,Account,15,54,48,4982
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Media Center,0,Media Cent,A,/html/body/div/div/div[4]/div[2]/ul/li[4]/a,A,Media Center,16,88,48,5000
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Investor Relations,0,Investor R,A,/html/body/div/div/div[4]/div[2]/ul/li[5]/a,A,Investor Relations,17,117,48,5019
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Jobs,0,Jobs,A,/html/body/div/div/div[4]/div[2]/ul/li[6]/a,A,Jobs,18,28,48,5037
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Gift Cards,0,Gift Cards,A,/html/body/div/div/div[4]/div[2]/ul/li[7]/a,A,Gift Cards,19,67,48,5056
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(8) > a,0,Ways to Watch,0,Ways to Wa,A,/html/body/div/div/div[4]/div[2]/ul/li[8]/a,A,Ways to Watch,20,96,48,5074
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(9) > a,0,Terms of Use,0,Terms of U,A,/html/body/div/div/div[4]/div[2]/ul/li[9]/a,A,Terms of Use,21,86,48,5093
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(10) > a,0,Privacy,0,Privacy,A,/html/body/div/div/div[4]/div[2]/ul/li[10]/a,A,Privacy,22,49,48,5111
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(11) > a,0,Cookie Preferences,0,Cookie Pre,A,/html/body/div/div/div[4]/div[2]/ul/li[11]/a,A,Cookie Preferences,23,125,48,5130
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(12) > a,0,Speed Test,0,Speed Test,A,/html/body/div/div/div[4]/div[2]/ul/li[12]/a,A,Speed Test,24,69,48,5148
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(13) > a,0,Contact Details,0,Contact De,A,/html/body/div/div/div[4]/div[2]/ul/li[13]/a,A,Contact Details,25,99,48,5167
+19,footer-link,div#appMountPoint > div > div:nth-of-type(4) > div:nth-of-type(2) > ul > li:nth-of-type(14) > a,0,Netflix Originals,0,Netflix Or,A,/html/body/div/div/div[4]/div[2]/ul/li[14]/a,A,Netflix Originals,26,108,48,5185
+19,ui-select medium,div#lang-switcher > div > div > select,0,,0,,SELECT,/html/body/div/div/div[4]/div[2]/div/div/div/select,SELECT,FrançaisEnglish,27,74,8,5220

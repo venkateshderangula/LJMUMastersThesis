@@ -1,0 +1,162 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+52,0,a#skip-nav2,skip-nav2,Skip to Main Content,0,Skip to Ma,A,/html/body/div/div/a,A,Skip to Main Content,1,128,1072,-21
+52,anchor,a#multiling-anchor,multiling-anchor,English,anchor-login,English,A,/html/body/div/div[2]/div/a,A,English,2,109,692,-1
+52,multi-lang-link,div#lang_select > div > div > a,0,English,0,English,A,/html/body/div/div[2]/div/div/div/div/a,A,English,3,63,826,0
+52,multi-lang-link,div#lang_select > div > div:nth-of-type(2) > a,0,Español,0,Español,A,/html/body/div/div[2]/div/div/div/div[2]/a,A,Español,4,66,824,33
+52,multi-lang-link chinese,div#lang_select > div > div:nth-of-type(3) > a,0,,0,,A,/html/body/div/div[2]/div/div/div/div[3]/a,A,,5,31,842,76
+52,0,a#link-customer,link-customer,Customer  Service,0,Customer  ,A,/html/body/div/div[2]/a,A,Customer  Service,6,141,803,-1
+52,0,a#link-myusps,link-myusps,Informed Delivery,0,Informed D,A,/html/body/div/div[2]/a[2],A,Informed Delivery,7,137,947,-1
+52,link-reg,a#login-register-header,login-register-header,Register / Sign In,0,Register /,A,/html/body/div/div[2]/a[3],A,Register / Sign In,8,110,1087,-1
+51,0,div#global-menu > div > nav > ol > li > a,0,,0,,A,/html/body/div[2]/div[2]/div/nav/ol/li/a,A,,9,192,0,41
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(2) > a,0,Click-N-Ship,0,Click-N-Sh,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[2]/a,A,Click-N-Ship,10,214,336,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(3) > a,0,Order Stamps & Supplies,0,Order Stam,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[3]/a,A,Order Stamps & Supplies,11,214,336,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(4) > a,0,Calculate a Price,0,Calculate ,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[4]/a,A,Calculate a Price,12,214,336,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(5) > a,0,Schedule a Pickup,0,Schedule a,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[5]/a,A,Schedule a Pickup,13,214,336,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(6) > a,0,Look Up a ZIP Code,0,Look Up a ,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[6]/a,A,Look Up a ZIP Code,14,214,336,257
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(7) > a,0,Find USPS Locations,0,Find USPS ,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[7]/a,A,Find USPS Locations,15,214,336,297
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(8) > a,0,Claims & Refunds,0,Claims & R,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[8]/a,A,Claims & Refunds,16,214,336,337
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(3) > ol > li:nth-of-type(9) > a,0,Learn about Mail & Shipping,0,Learn abou,A,/html/body/div[2]/div[2]/div/nav/ol/li[3]/ol/li[9]/a,A,Learn about Mail & Shipping,17,214,336,377
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(2) > a,0,Tracking,0,Tracking,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[2]/a,A,Tracking,18,208,484,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(3) > a,0,Informed Delivery,0,Informed D,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[3]/a,A,Informed Delivery,19,208,484,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(4) > a,0,Intercept a Package,0,Intercept ,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[4]/a,A,Intercept a Package,20,208,484,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(5) > a,0,Schedule a Redelivery,0,Schedule a,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[5]/a,A,Schedule a Redelivery,21,208,484,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(6) > a,0,Hold Mail,0,Hold Mail,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[6]/a,A,Hold Mail,22,208,484,257
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(7) > a,0,Forward Mail,0,Forward Ma,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[7]/a,A,Forward Mail,23,208,484,297
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(8) > a,0,Change of Address,0,Change of ,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[8]/a,A,Change of Address,24,208,484,337
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(9) > a,0,Rent or Renew PO Box,0,Rent or Re,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[9]/a,A,Rent or Renew PO Box,25,208,484,377
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(4) > ol > li:nth-of-type(10) > a,0,Learn about Managing Mail,0,Learn abou,A,/html/body/div[2]/div[2]/div/nav/ol/li[4]/ol/li[10]/a,A,Learn about Managing Mail,26,208,484,417
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(2) > a,0,Stamps,0,Stamps,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[2]/a,A,Stamps,27,250,655,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(3) > a,0,Shipping Supplies,0,Shipping S,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[3]/a,A,Shipping Supplies,28,250,655,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(4) > a,0,Cards & Envelopes,0,Cards & En,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[4]/a,A,Cards & Envelopes,29,250,655,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(5) > a,0,Collectors,0,Collectors,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[5]/a,A,Collectors,30,250,655,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(6) > a,0,Personalized Stamped Envelopes,0,Personaliz,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[6]/a,A,Personalized Stamped Envelopes,31,250,655,257
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(7) > a,0,Gifts,0,Gifts,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[7]/a,A,Gifts,32,250,655,297
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(8) > a,0,Money Orders,0,Money Orde,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[8]/a,A,Money Orders,33,250,655,337
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(5) > ol > li:nth-of-type(9) > a,0,Returns &  Exchanges,0,Returns & ,A,/html/body/div[2]/div[2]/div/nav/ol/li[5]/ol/li[9]/a,A,Returns &  Exchanges,34,250,655,377
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(2) > a,0,Calculate a  Business Price,0,Calculate ,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[2]/a,A,Calculate a  Business Price,35,205,803,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(3) > a,0,Every Door Direct Mail,0,Every Door,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[3]/a,A,Every Door Direct Mail,36,205,803,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(4) > a,0,Shipping For Business,0,Shipping F,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[4]/a,A,Shipping For Business,37,205,803,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(5) > a,0,Advertise with Mail,0,Advertise ,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[5]/a,A,Advertise with Mail,38,205,803,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(6) > a,0,Postage Options,0,Postage Op,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[6]/a,A,Postage Options,39,205,803,257
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(7) > a,0,Returns Services,0,Returns Se,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[7]/a,A,Returns Services,40,205,803,297
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(8) > a,0,Take Your Business Global,0,Take Your ,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[8]/a,A,Take Your Business Global,41,205,803,337
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(6) > ol > li:nth-of-type(9) > a,0,Manage Business Mail,0,Manage Bus,A,/html/body/div[2]/div[2]/div/nav/ol/li[6]/ol/li[9]/a,A,Manage Business Mail,42,205,803,377
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(2) > a,0,Print & Ship International,0,Print & Sh,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[2]/a,A,Print & Ship International,43,255,915,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(3) > a,0,Calculate International Prices,0,Calculate ,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[3]/a,A,Calculate International Prices,44,255,915,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(4) > a,0,International Mail Services,0,Internatio,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[4]/a,A,International Mail Services,45,255,915,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(5) > a,0,Preparing International Shipments,0,Preparing ,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[5]/a,A,Preparing International Shipments,46,255,915,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(6) > a,0,Complete Customs Forms,0,Complete C,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[6]/a,A,Complete Customs Forms,47,255,915,257
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(7) > a,0,Military & Diplomatic Mail,0,Military &,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[7]/a,A,Military & Diplomatic Mail,48,255,915,297
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(8) > a,0,Send Money Abroad,0,Send Money,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[8]/a,A,Send Money Abroad,49,255,915,337
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(7) > ol > li:nth-of-type(9) > a,0,Passports,0,Passports,A,/html/body/div[2]/div[2]/div/nav/ol/li[7]/ol/li[9]/a,A,Passports,50,255,915,377
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(8) > ol > li:nth-of-type(2) > a,0,Find Missing Mail,0,Find Missi,A,/html/body/div[2]/div[2]/div/nav/ol/li[8]/ol/li[2]/a,A,Find Missing Mail,51,146,1050,97
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(8) > ol > li:nth-of-type(3) > a,0,File a Claim,0,File a Cla,A,/html/body/div[2]/div[2]/div/nav/ol/li[8]/ol/li[3]/a,A,File a Claim,52,146,1050,137
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(8) > ol > li:nth-of-type(4) > a,0,Request a Refund,0,Request a ,A,/html/body/div[2]/div[2]/div/nav/ol/li[8]/ol/li[4]/a,A,Request a Refund,53,146,1050,177
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(8) > ol > li:nth-of-type(5) > a,0,Contact Us,0,Contact Us,A,/html/body/div[2]/div[2]/div/nav/ol/li[8]/ol/li[5]/a,A,Contact Us,54,146,1050,217
+28,menu--tier-two-link,div#global-menu > div > nav > ol > li:nth-of-type(8) > ol > li:nth-of-type(6) > a,0,FAQs,0,FAQs,A,/html/body/div[2]/div[2]/div/nav/ol/li[8]/ol/li[6]/a,A,FAQs,55,146,1050,257
+16,menu--tier-one-link menu--item,div#global-menu > div > nav > ol > li:nth-of-type(9) > a,0,Search USPS.com,0,Search USP,A,/html/body/div[2]/div[2]/div/nav/ol/li[9]/a,A,Search USPS.com,56,46,1157,64
+19,0,div#shortcuts-menu > div > div > a,0,,0,,A,/html/body/div[4]/div/div/div/a,A,,57,19,-295,-785
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div > a,0,"Track a
+                            Package",0,"Track a
+  ",A,/html/body/div[4]/div/div/div[3]/div/a,A,"Track a
+                            Package",58,109,-765,-732
+79,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(2) > a,0,Informed Delivery,0,Informed D,A,/html/body/div[4]/div/div/div[3]/div[2]/a,A,Informed Delivery,59,109,-653,-731
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(3) > a,0,"Find USPS
+                             Locations",0,"Find USPS
+",A,/html/body/div[4]/div/div/div[3]/div[3]/a,A,"Find USPS
+                             Locations",60,109,-541,-732
+79,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(4) > a,0,Buy Stamps,0,Buy Stamps,A,/html/body/div[4]/div/div/div[3]/div[4]/a,A,Buy Stamps,61,109,-765,-619
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(5) > a,0,"Schedule
+                             a Pickup",0,"Schedule
+ ",A,/html/body/div[4]/div/div/div[3]/div[5]/a,A,"Schedule
+                             a Pickup",62,109,-653,-618
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(6) > a,0,"Calculate
+                             a Price",0,"Calculate
+",A,/html/body/div[4]/div/div/div[3]/div[6]/a,A,"Calculate
+                             a Price",63,109,-541,-618
+95,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(7) > a,0,"Look Up a
+                             ZIP Code™",0,"Look Up a
+",A,/html/body/div[4]/div/div/div[3]/div[7]/a,A,"Look Up a
+                             ZIP Code™",64,109,-765,-506
+79,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(8) > a,0,Hold Mail,0,Hold Mail,A,/html/body/div[4]/div/div/div[3]/div[8]/a,A,Hold Mail,65,109,-653,-506
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(9) > a,0,"Change
+                            My Address",0,"Change
+   ",A,/html/body/div[4]/div/div/div[3]/div[9]/a,A,"Change
+                            My Address",66,109,-541,-505
+94,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(10) > a,0,"Rent/Renew
+                            a PO Box",0,Rent/Renew,A,/html/body/div[4]/div/div/div[3]/div[10]/a,A,"Rent/Renew
+                            a PO Box",67,109,-765,-391
+79,0,div#shortcuts-menu > div > div:nth-of-type(3) > div:nth-of-type(11) > a,0,Free Boxes,0,Free Boxes,A,/html/body/div[4]/div/div/div[3]/div[11]/a,A,Free Boxes,68,109,-653,-392
+321,hero-wrapper-link,div#maincontent > div > a,0,"If it’s in the mail, it’s in your email.
+						Sign up for Informed Delivery® notifications and get a daily email showing you what letter-sized mail is coming soon to your mailbox.
+							
+								Sign Up for Free
+							
+					
+
+                
+				
+					
+				
+                
+                    If it’s in the mail, it’s in your email.
+                    Sign up for Informed Delivery® notifications and get a daily email showing you what letter-sized mail is coming soon to your mailbox.
+					Sign Up for Free ›",0,If it’s in,A,/html/body/div[7]/div/a,A,"If it’s in the mail, it’s in your email.
+						Sign up for Informed Delivery® notifications and get a daily email showing you what letter-sized mail is coming soon to your mailbox.
+							
+								Sign Up for Free
+							
+					
+
+                
+				
+					
+				
+                
+                    If it’s in the mail, it’s in your email.
+                    Sign up for Informed Delivery® notifications and get a daily email showing you what letter-sized mail is coming soon to your mailbox.
+					Sign Up for Free ›",69,1200,0,92
+40, quickMenuInput input--field,input#quick-tools--input,quick-tools--input,,tLabels,,INPUT,/html/body/div[7]/div[2]/div/div/div/form/div/span[2]/input,INPUT,,70,285,53,525
+42,input--search button--primary,input#trackButton,trackButton,,0,,INPUT,/html/body/div[7]/div[2]/div/div/div/form/div[2]/input,INPUT,,71,170,110,593
+42,button--primary,a#quickMenuButtonShip,quickMenuButtonShip,Create a Label,0,Create a L,A,/html/body/div[7]/div[2]/div/div[2]/div/div[3]/a,A,Create a Label,72,170,525,593
+42,button--primary,a#stampButton,stampButton,Buy Stamps,0,Buy Stamps,A,/html/body/div[7]/div[2]/div/div[3]/div/div[3]/a,A,Buy Stamps,73,170,816,593
+42,button--primary,a#orderButton,orderButton,Order Boxes,0,Order Boxe,A,/html/body/div[7]/div[2]/div/div[3]/div/div[3]/a[2],A,Order Boxes,74,170,1008,593
+35,toggle,div#maincontent > div:nth-of-type(3) > ul > li > a,0,Expand,0,Expand,A,/html/body/div[7]/div[3]/ul/li/a,A,Expand,75,70,375,740
+22,0,div#maincontent > div:nth-of-type(3) > ul > li > div > p:nth-of-type(2) > a,0,Get a New PO Box,0,Get a New ,A,/html/body/div[7]/div[3]/ul/li/div/p[2]/a,A,Get a New PO Box,76,173,97,948
+22,0,div#maincontent > div:nth-of-type(3) > ul > li > div > p:nth-of-type(3) > a,0,Manage Your PO Box,0,Manage You,A,/html/body/div[7]/div[3]/ul/li/div/p[3]/a,A,Manage Your PO Box,77,197,85,982
+35,toggle,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Expand,0,Expand,A,/html/body/div[7]/div[3]/ul/li[2]/a,A,Expand,78,70,735,740
+22,0,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Get a New Passport,0,Get a New ,A,/html/body/div[7]/div[3]/ul/li[2]/div/p[2]/a,A,Get a New Passport,79,186,511,999
+22,0,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(2) > div > p:nth-of-type(3) > a,0,Renew Your Passport,0,Renew Your,A,/html/body/div[7]/div[3]/ul/li[2]/div/p[3]/a,A,Renew Your Passport,80,200,504,1032
+35,toggle,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Expand,0,Expand,A,/html/body/div[7]/div[3]/ul/li[3]/a,A,Expand,81,70,1099,740
+22,0,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(3) > div > p:nth-of-type(2) > a,0,Explore Services,0,Explore Se,A,/html/body/div[7]/div[3]/ul/li[3]/div/p[2]/a,A,Explore Services,82,158,925,1020
+22,0,div#maincontent > div:nth-of-type(3) > ul > li:nth-of-type(3) > div > p:nth-of-type(3) > a,0,Every Door Direct Mail,0,Every Door,A,/html/body/div[7]/div[3]/ul/li[3]/div/p[3]/a,A,Every Door Direct Mail,83,208,900,1054
+252,0,div#maincontent > div:nth-of-type(6) > div > div > div > a,0,,0,,A,/html/body/div[7]/div[6]/div/div/div/a,A,,84,528,26,1280
+30,0,div#maincontent > div:nth-of-type(6) > div > div > div > p > span > a,0,Go Now,0,Go Now,A,/html/body/div[7]/div[6]/div/div/div/p/span/a,A,Go Now,85,77,355,1580
+252,0,div#maincontent > div:nth-of-type(6) > div > div:nth-of-type(2) > div > a,0,,0,,A,/html/body/div[7]/div[6]/div/div[2]/div/a,A,,86,528,601,1280
+30,0,div#maincontent > div:nth-of-type(6) > div > div:nth-of-type(2) > div > p > span > a,0,Go Now,0,Go Now,A,/html/body/div[7]/div[6]/div/div[2]/div/p/span/a,A,Go Now,87,77,926,1580
+16,global-footer--logo-link,div#global-footer--wrap > footer > a,0,,0,,A,/html/body/div[9]/footer/a,A,,88,132,20,1682
+13,0,div#global-footer--wrap > footer > nav > ol > li > ol > li > a,0,Contact Us,0,Contact Us,A,/html/body/div[9]/footer/nav/ol/li/ol/li/a,A,Contact Us,89,57,20,1753
+13,0,div#global-footer--wrap > footer > nav > ol > li > ol > li:nth-of-type(2) > a,0,Site Index,0,Site Index,A,/html/body/div[9]/footer/nav/ol/li/ol/li[2]/a,A,Site Index,90,51,20,1773
+13,0,div#global-footer--wrap > footer > nav > ol > li > ol > li:nth-of-type(3) > a,0,FAQs,0,FAQs,A,/html/body/div[9]/footer/nav/ol/li/ol/li[3]/a,A,FAQs,91,27,20,1793
+13,0,div#global-footer--wrap > footer > nav > ol > li > ol > li:nth-of-type(4) > ol > li > a,0,Careers,0,Careers,A,/html/body/div[9]/footer/nav/ol/li/ol/li[4]/ol/li/a,A,Careers,92,40,20,1848
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li > ol > li > a,0,About USPS Home,0,About USPS,A,/html/body/div[9]/footer/nav/ol[2]/li/ol/li/a,A,About USPS Home,93,96,307,1753
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li > ol > li:nth-of-type(2) > a,0,Newsroom,0,Newsroom,A,/html/body/div[9]/footer/nav/ol[2]/li/ol/li[2]/a,A,Newsroom,94,55,307,1773
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li > ol > li:nth-of-type(3) > a,0,USPS Service Updates,0,USPS Servi,A,/html/body/div[9]/footer/nav/ol[2]/li/ol/li[3]/a,A,USPS Service Updates,95,116,307,1793
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li > ol > li:nth-of-type(4) > a,0,Forms & Publications,0,Forms & Pu,A,/html/body/div[9]/footer/nav/ol[2]/li/ol/li[4]/a,A,Forms & Publications,96,108,307,1813
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li > ol > li:nth-of-type(5) > a,0,Government Services,0,Government,A,/html/body/div[9]/footer/nav/ol[2]/li/ol/li[5]/a,A,Government Services,97,109,307,1833
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li > a,0,Business Customer Gateway,0,Business C,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li/a,A,Business Customer Gateway,98,147,593,1753
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(2) > a,0,Postal Inspectors,0,Postal Ins,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[2]/a,A,Postal Inspectors,99,89,593,1773
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(3) > a,0,Inspector General,0,Inspector ,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[3]/a,A,Inspector General,100,91,593,1793
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(4) > a,0,Postal Explorer,0,Postal Exp,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[4]/a,A,Postal Explorer,101,77,593,1813
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(5) > a,0,National Postal Museum,0,National P,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[5]/a,A,National Postal Museum,102,124,593,1833
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(6) > a,0,Resources for Developers,0,Resources ,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[6]/a,A,Resources for Developers,103,131,593,1853
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(7) > a,0,PostalPro,0,PostalPro,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[7]/a,A,PostalPro,104,50,593,1873
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(2) > ol > li:nth-of-type(8) > a,0,CyberSafe at USPS,0,CyberSafe ,A,/html/body/div[9]/footer/nav/ol[2]/li[2]/ol/li[8]/a,A,CyberSafe at USPS,105,99,593,1893
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(3) > ol > li > a,0,Privacy Policy,0,Privacy Po,A,/html/body/div[9]/footer/nav/ol[2]/li[3]/ol/li/a,A,Privacy Policy,106,72,880,1753
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(3) > ol > li:nth-of-type(2) > a,0,Terms of Use,0,Terms of U,A,/html/body/div[9]/footer/nav/ol[2]/li[3]/ol/li[2]/a,A,Terms of Use,107,66,880,1773
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(3) > ol > li:nth-of-type(3) > a,0,FOIA,0,FOIA,A,/html/body/div[9]/footer/nav/ol[2]/li[3]/ol/li[3]/a,A,FOIA,108,25,880,1793
+13,0,div#global-footer--wrap > footer > nav > ol:nth-of-type(2) > li:nth-of-type(3) > ol > li:nth-of-type(4) > a,0,No FEAR Act EEO Data,0,No FEAR Ac,A,/html/body/div[9]/footer/nav/ol[2]/li[3]/ol/li[4]/a,A,No FEAR Act EEO Data,109,118,880,1813
+16,0,div#global-footer--wrap > footer > ul > li > a,0,,0,,A,/html/body/div[9]/footer/ul/li/a,A,,110,50,20,2049
+16,0,div#global-footer--wrap > footer > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[9]/footer/ul/li[2]/a,A,,111,50,94,2048
+16,0,div#global-footer--wrap > footer > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/div[9]/footer/ul/li[3]/a,A,,112,50,167,2049
+16,0,div#global-footer--wrap > footer > ul > li:nth-of-type(4) > a,0,,0,,A,/html/body/div[9]/footer/ul/li[4]/a,A,,113,50,241,2042

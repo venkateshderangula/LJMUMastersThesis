@@ -1,0 +1,1158 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+14,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a,0,Cookie Policy,0,Cookie Pol,A,/html/body/div[2]/div/div[2]/div[2]/p/a,A,Cookie Policy,1,77,456,372
+14,0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p > a:nth-of-type(2),0,Privacy Settings,0,Privacy Se,A,/html/body/div[2]/div/div[2]/div[2]/p/a[2],A,Privacy Settings,2,92,329,393
+38,width-full btn btn-transparent text-gray-darker mb-xs-2 mb-sm-0,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div/button,BUTTON,Update settings,3,132,662,423
+38,width-full btn btn-outline btn-outline-black,html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[2]/div/div[2]/div[3]/div[2]/button,BUTTON,Accept,4,76,795,422
+16,0,html > body > div:nth-of-type(3) > div > div > div > div > div > a,0,Terms of Use,0,Terms of U,A,/html/body/div[3]/div/div/div/div/div/a,A,Terms of Use,5,86,153,14
+16,0,html > body > div:nth-of-type(3) > div > div > div > div > div > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div[3]/div/div/div/div/div/a[2],A,Privacy Policy,6,92,298,14
+38,btn btn-outline btn-outline-black strong,html > body > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/div[3]/div/div/div/div/div[2]/button,BUTTON,I understand,7,113,1075,13
+40,0,header#gnav-header-inner > div > div > a,0,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",0,"Etsy
+     ",A,/html/body/div[5]/header/div/div/a,A,"Etsy
+        
+        window.requestAnimationFrame(function(){ if (window.performance && window.performance.mark) window.performance.mark(""logo_render""); });",8,80,36,79
+48,wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input wt-pr-xs-7,input#global-enhancements-search-query,global-enhancements-search-query,,search_query,,INPUT,/html/body/div[5]/header/div[2]/div/form/div/div/input,INPUT,,9,818,122,75
+48,wt-input-btn-group__btn,form#gnav-search > div > div > button,0,,0,,BUTTON,/html/body/div[5]/header/div[2]/div/form/div/div/button,BUTTON,,10,61,940,75
+1,global-enhancements-skip-to-content wt-screen-reader-only wt-focusable,header#gnav-header-inner > a,0,Skip to Content,0,Skip to Co,A,/html/body/div[5]/header/a,A,Skip to Content,11,1,35,99
+36,wt-btn wt-btn--small wt-btn--transparent wt-mr-xs-1 inline-overlay-trigger signin-header-action select-signin,header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li > button,0,,0,,BUTTON,/html/body/div[5]/header/div[4]/nav/ul/li/button,BUTTON,Sign in,12,73,1037,81
+48,wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon,header#gnav-header-inner > div:nth-of-type(4) > nav > ul > li:nth-of-type(2) > span > a,0,0,0,0,A,/html/body/div[5]/header/div[4]/nav/ul/li[2]/span/a,A,0,13,48,1116,75
+18,flag,div#desktop-category-nav > div > div > ul > li > a,0,Sale,0,Sale,A,/html/body/div[6]/div/div/ul/li/a,A,Sale,14,27,36,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(2) > a,0,Jewelry & Accessories,0,Jewelry & ,A,/html/body/div[6]/div/div/ul/li[2]/a,A,Jewelry & Accessories,15,137,97,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(3) > a,0,Clothing & Shoes,0,Clothing &,A,/html/body/div[6]/div/div/ul/li[3]/a,A,Clothing & Shoes,16,108,269,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(4) > a,0,Home & Living,0,Home & Liv,A,/html/body/div[6]/div/div/ul/li[4]/a,A,Home & Living,17,91,411,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(5) > a,0,Wedding & Party,0,Wedding & ,A,/html/body/div[6]/div/div/ul/li[5]/a,A,Wedding & Party,18,103,536,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(6) > a,0,Toys & Entertainment,0,Toys & Ent,A,/html/body/div[6]/div/div/ul/li[6]/a,A,Toys & Entertainment,19,132,674,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(7) > a,0,Art & Collectibles,0,Art & Coll,A,/html/body/div[6]/div/div/ul/li[7]/a,A,Art & Collectibles,20,109,841,139
+18,0,div#desktop-category-nav > div > div > ul > li:nth-of-type(8) > a,0,Craft Supplies,0,Craft Supp,A,/html/body/div[6]/div/div/ul/li[8]/a,A,Craft Supplies,21,88,984,139
+18,flag,div#desktop-category-nav > div > div > ul > li:nth-of-type(9) > a,0,Gifts,0,Gifts,A,/html/body/div[6]/div/div/ul/li[9]/a,A,Gifts,22,45,1107,139
+96,wt-text-link-no-underline cyber-text-link-no-underline-override cyber-arrow-link-container,div#content > div > div > a,0,"Hooray! Up to 60% off.
+
+            
+                
+    Oh boy, do these Cyber Week deals look good.
+
+                     Shop now
+            
+            Sale terms vary. See listings for details.",0,Hooray! Up,A,/html/body/div[7]/div/div/a,A,"Hooray! Up to 60% off.
+
+            
+                
+    Oh boy, do these Cyber Week deals look good.
+
+                     Shop now
+            
+            Sale terms vary. See listings for details.",23,1200,0,169
+227," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li > a,0,"PokéNatomy: The Science of Pokémon (An Unofficial Guide)
+                    
+                
+                    
+        MultiverseBooks
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (1,010)
+        
+
+                        
+
+
+                $45.00
+                            
+                                
+    FREE shipping",0,PokéNatomy,A,/html/body/div[7]/div[3]/div/div/div/ul/li/a,A,"PokéNatomy: The Science of Pokémon (An Unofficial Guide)
+                    
+                
+                    
+        MultiverseBooks
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (1,010)
+        
+
+                        
+
+
+                $45.00
+                            
+                                
+    FREE shipping",24,173,36,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li/div/button,BUTTON,Favorite,25,24,181,362
+253," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(2) > a,0,"Custom Family Address Stamp, The Duncans Script Address Stamp, Self-Inking Return Address Stamps
+                    
+                
+                    
+        904Custom
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (8,553)
+        
+
+                        
+
+
+                    
+                        $17.99
+                    
+
+                        
+
+                            $23.99
+                            
+                                $23.99
+                            
+                                
+                                (25% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,Custom Fam,A,/html/body/div[7]/div[3]/div/div/div/ul/li[2]/a,A,"Custom Family Address Stamp, The Duncans Script Address Stamp, Self-Inking Return Address Stamps
+                    
+                
+                    
+        904Custom
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (8,553)
+        
+
+                        
+
+
+                    
+                        $17.99
+                    
+
+                        
+
+                            $23.99
+                            
+                                $23.99
+                            
+                                
+                                (25% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",26,173,227,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li[2]/div/button,BUTTON,Favorite,27,24,372,362
+253," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(3) > a,0,"Kids BIRTHDAY Crayons - Crayon Name Set - Custom Alphabet Name Crayons in a Gift Box - Crayon Toy - Birthday Gift Kids - Birthday Gift Kids
+                    
+                
+                    
+        art2theextreme
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (3,567)
+        
+
+                        
+
+
+                    
+                        $15.96
+                    
+
+                        
+
+                            $19.95
+                            
+                                $19.95
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,Kids BIRTH,A,/html/body/div[7]/div[3]/div/div/div/ul/li[3]/a,A,"Kids BIRTHDAY Crayons - Crayon Name Set - Custom Alphabet Name Crayons in a Gift Box - Crayon Toy - Birthday Gift Kids - Birthday Gift Kids
+                    
+                
+                    
+        art2theextreme
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (3,567)
+        
+
+                        
+
+
+                    
+                        $15.96
+                    
+
+                        
+
+                            $19.95
+                            
+                                $19.95
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",28,173,418,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li[3]/div/button,BUTTON,Favorite,29,24,563,362
+253," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(4) > a,0,"Personalized Velvet Dog Collar (20 colors available) - Custom Dog Collar - Hand Embroidered Collar with your dog's name- Monogram dog collar
+                    
+                
+                    
+        shopmimigreen
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (12,127)
+        
+
+                        
+
+
+                    
+                        $39.16
+                    
+
+                        
+
+                            $48.95
+                            
+                                $48.95
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,Personaliz,A,/html/body/div[7]/div[3]/div/div/div/ul/li[4]/a,A,"Personalized Velvet Dog Collar (20 colors available) - Custom Dog Collar - Hand Embroidered Collar with your dog's name- Monogram dog collar
+                    
+                
+                    
+        shopmimigreen
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (12,127)
+        
+
+                        
+
+
+                    
+                        $39.16
+                    
+
+                        
+
+                            $48.95
+                            
+                                $48.95
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",30,173,609,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(4) > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li[4]/div/button,BUTTON,Favorite,31,24,754,362
+227," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(5) > a,0,"38 Ways to Make a Perfect Coffee - 3rd EDITION - home print, coffee gift, coffee poster, kitchen print
+                    
+                
+                    
+        Follygraph
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (354)
+        
+
+                        
+
+
+                    
+                        $23.20
+                    
+
+                        
+
+                            $30.93
+                            
+                                $30.93
+                            
+                                
+                                (25% off)",0,38 Ways to,A,/html/body/div[7]/div[3]/div/div/div/ul/li[5]/a,A,"38 Ways to Make a Perfect Coffee - 3rd EDITION - home print, coffee gift, coffee poster, kitchen print
+                    
+                
+                    
+        Follygraph
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (354)
+        
+
+                        
+
+
+                    
+                        $23.20
+                    
+
+                        
+
+                            $30.93
+                            
+                                $30.93
+                            
+                                
+                                (25% off)",32,173,800,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(5) > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li[5]/div/button,BUTTON,Favorite,33,24,945,362
+227," display-inline-block listing-link
+",div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(6) > a,0,"Pallet Sign / Last Name Sign / Custom Wood Sign / Established Sign /  Personalized Wedding gift / Wedding Sign / 3D Sign / Family Name Sign
+                    
+                
+                    
+        JaxleyDesign
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (2,329)
+        
+
+                        
+
+
+                    
+                        $32.00
+                    
+
+                        
+
+                            $40.00
+                            
+                                $40.00
+                            
+                                
+                                (20% off)",0,Pallet Sig,A,/html/body/div[7]/div[3]/div/div/div/ul/li[6]/a,A,"Pallet Sign / Last Name Sign / Custom Wood Sign / Established Sign /  Personalized Wedding gift / Wedding Sign / 3D Sign / Family Name Sign
+                    
+                
+                    
+        JaxleyDesign
+        
+                
+    
+    
+    5 out of 5 stars
+
+    
+        
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                    
+                
+            
+        
+    
+
+                (2,329)
+        
+
+                        
+
+
+                    
+                        $32.00
+                    
+
+                        
+
+                            $40.00
+                            
+                                $40.00
+                            
+                                
+                                (20% off)",34,173,991,362
+24,v2-listing-card__favorite favorite-container inline-overlay-trigger favorite-item-action,div#content > div:nth-of-type(3) > div > div > div > ul > li:nth-of-type(6) > div > button,0,,0,,BUTTON,/html/body/div[7]/div[3]/div/div/div/ul/li[6]/div/button,BUTTON,Favorite,35,24,1136,362
+18,wt-text-link-no-underline,div#content > div:nth-of-type(4) > div > div > div > div > h2 > a,0,Holiday gatherings and decor,0,Holiday ga,A,/html/body/div[7]/div[4]/div/div/div/div/h2/a,A,Holiday gatherings and decor,36,227,36,688
+18,display-inline-block parent-hover-underline ml-sm-2 wt-text-caption,div#content > div:nth-of-type(4) > div > div > div > div > a,0,See more,0,See more,A,/html/body/div[7]/div[4]/div/div/div/div/a,A,See more,37,59,279,689
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li > a,0,"$80.00
+                    
+
+                        
+
+                            $100.00
+                            
+                                $100.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$80.00
+   ",A,/html/body/div[7]/div[4]/div/div/div/ul/li/a,A,"$80.00
+                    
+
+                        
+
+                            $100.00
+                            
+                                $100.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",38,173,36,719
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(2) > a,0,"$39.60
+                    
+
+                        
+
+                            $49.50
+                            
+                                $49.50
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$39.60
+   ",A,/html/body/div[7]/div[4]/div/div/div/ul/li[2]/a,A,"$39.60
+                    
+
+                        
+
+                            $49.50
+                            
+                                $49.50
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",39,173,227,719
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(3) > a,0,"$24.75
+                    
+
+                        
+
+                            $30.93
+                            
+                                $30.93
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$24.75
+   ",A,/html/body/div[7]/div[4]/div/div/div/ul/li[3]/a,A,"$24.75
+                    
+
+                        
+
+                            $30.93
+                            
+                                $30.93
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",40,173,418,719
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(4) > a,0,"$25.60
+                    
+
+                        
+
+                            $32.00
+                            
+                                $32.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$25.60
+   ",A,/html/body/div[7]/div[4]/div/div/div/ul/li[4]/a,A,"$25.60
+                    
+
+                        
+
+                            $32.00
+                            
+                                $32.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",41,173,609,719
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(5) > a,0,"$151.20
+                    
+
+                        
+
+                            $189.00
+                            
+                                $189.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$151.20
+  ",A,/html/body/div[7]/div[4]/div/div/div/ul/li[5]/a,A,"$151.20
+                    
+
+                        
+
+                            $189.00
+                            
+                                $189.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",42,173,800,719
+186," display-inline-block listing-link
+",div#content > div:nth-of-type(4) > div > div > div > ul > li:nth-of-type(6) > a,0,"$24.21
+                            
+                                
+    FREE shipping
+
+                            
+
+                    
+                    
+    
+    
+        Bestseller",0,"$24.21
+   ",A,/html/body/div[7]/div[4]/div/div/div/ul/li[6]/a,A,"$24.21
+                            
+                                
+    FREE shipping
+
+                            
+
+                    
+                    
+    
+    
+        Bestseller",43,173,991,719
+18,wt-text-link-no-underline,div#content > div:nth-of-type(5) > div > div > div > div > h2 > a,0,"Jewelry, handbags and accessories",0,"Jewelry, h",A,/html/body/div[7]/div[5]/div/div/div/div/h2/a,A,"Jewelry, handbags and accessories",44,269,36,947
+18,display-inline-block parent-hover-underline ml-sm-2 wt-text-caption,div#content > div:nth-of-type(5) > div > div > div > div > a,0,See more,0,See more,A,/html/body/div[7]/div[5]/div/div/div/div/a,A,See more,45,59,321,948
+217," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li > a,0,"$340.00
+                    
+
+                        
+
+                            $425.00
+                            
+                                $425.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$340.00
+  ",A,/html/body/div[7]/div[5]/div/div/div/ul/li/a,A,"$340.00
+                    
+
+                        
+
+                            $425.00
+                            
+                                $425.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",46,173,36,979
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li:nth-of-type(2) > a,0,"$37.49
+                    
+
+                        
+
+                            $62.49
+                            
+                                $62.49
+                            
+                                
+                                (40% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$37.49
+   ",A,/html/body/div[7]/div[5]/div/div/div/ul/li[2]/a,A,"$37.49
+                    
+
+                        
+
+                            $62.49
+                            
+                                $62.49
+                            
+                                
+                                (40% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",47,173,227,979
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li:nth-of-type(3) > a,0,"$57.60
+                    
+
+                        
+
+                            $72.00
+                            
+                                $72.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$57.60
+   ",A,/html/body/div[7]/div[5]/div/div/div/ul/li[3]/a,A,"$57.60
+                    
+
+                        
+
+                            $72.00
+                            
+                                $72.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",48,173,418,979
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li:nth-of-type(4) > a,0,"$27.49
+                    
+
+                        
+
+                            $36.66
+                            
+                                $36.66
+                            
+                                
+                                (25% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$27.49
+   ",A,/html/body/div[7]/div[5]/div/div/div/ul/li[4]/a,A,"$27.49
+                    
+
+                        
+
+                            $36.66
+                            
+                                $36.66
+                            
+                                
+                                (25% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",49,173,609,979
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li:nth-of-type(5) > a,0,"$22.40
+                    
+
+                        
+
+                            $28.00
+                            
+                                $28.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$22.40
+   ",A,/html/body/div[7]/div[5]/div/div/div/ul/li[5]/a,A,"$22.40
+                    
+
+                        
+
+                            $28.00
+                            
+                                $28.00
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",50,173,800,979
+191," display-inline-block listing-link
+",div#content > div:nth-of-type(5) > div > div > div > ul > li:nth-of-type(6) > a,0,"$18.29
+                    
+
+                        
+
+                            $22.86
+                            
+                                $22.86
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",0,"$18.29
+   ",A,/html/body/div[7]/div[5]/div/div/div/ul/li[6]/a,A,"$18.29
+                    
+
+                        
+
+                            $22.86
+                            
+                                $22.86
+                            
+                                
+                                (20% off)
+                            
+                        
+
+
+                    
+                    
+                        
+    FREE shipping",51,173,991,979
+18,wt-text-link-no-underline,div#content > div:nth-of-type(6) > div > div > div > div > h2 > a,0,Shop for gifts,0,Shop for g,A,/html/body/div[7]/div[6]/div/div/div/div/h2/a,A,Shop for gifts,52,104,36,1233
+18,display-inline-block parent-hover-underline ml-sm-2 wt-text-caption,div#content > div:nth-of-type(6) > div > div > div > div > a,0,See more,0,See more,A,/html/body/div[7]/div[6]/div/div/div/div/a,A,See more,53,59,156,1234
+196,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li > a,0,Women's fashion,0,Women's fa,A,/html/body/div[7]/div[6]/div/div/div/ul/li/a,A,Women's fashion,54,173,36,1264
+196,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li:nth-of-type(2) > a,0,Home gallery,0,Home galle,A,/html/body/div[7]/div[6]/div/div/div/ul/li[2]/a,A,Home gallery,55,173,227,1264
+197,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li:nth-of-type(3) > a,0,Personalized and custom jewelry,0,Personaliz,A,/html/body/div[7]/div[6]/div/div/div/ul/li[3]/a,A,Personalized and custom jewelry,56,173,418,1264
+196,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li:nth-of-type(4) > a,0,DIY craft projects,0,DIY craft ,A,/html/body/div[7]/div[6]/div/div/div/ul/li[4]/a,A,DIY craft projects,57,173,609,1264
+196,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li:nth-of-type(5) > a,0,Etsy weddings,0,Etsy weddi,A,/html/body/div[7]/div[6]/div/div/div/ul/li[5]/a,A,Etsy weddings,58,173,800,1264
+197,display-block card text-gray-darker,div#content > div:nth-of-type(6) > div > div > div > ul > li:nth-of-type(6) > a,0,One-of-a-kind gift ideas,0,One-of-a-k,A,/html/body/div[7]/div[6]/div/div/div/ul/li[6]/a,A,One-of-a-kind gift ideas,59,173,991,1264
+16,wt-text-link,div#content > div:nth-of-type(7) > div > div > div > div:nth-of-type(2) > a,0,Read our wonderfully weird story,0,Read our w,A,/html/body/div[7]/div[7]/div/div/div/div[2]/a,A,Read our wonderfully weird story,60,221,489,1643
+48,wt-mt-xs-2 button wt-btn wt-text-black wt-btn--outline,div#content > div:nth-of-type(7) > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a,0,Go to Help Center,0,Go to Help,A,/html/body/div[7]/div[7]/div/div/div/div[2]/div[2]/a,A,Go to Help Center,61,174,513,1991
+285,display-block parent-hover-underline pb-xs-2,div#content > div:nth-of-type(8) > div > div > div > ul > li > div > a,0,Mid-Century Modern Solid Walnut Nightstand with double drawers,0,Mid-Centur,A,/html/body/div[7]/div[8]/div/div/div/ul/li/div/a,A,Mid-Century Modern Solid Walnut Nightstand with double drawers,62,328,54,2353
+285,display-block parent-hover-underline pb-xs-2,div#content > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(2) > div > a,0,Millie Sweater,0,Millie Swe,A,/html/body/div[7]/div[8]/div/div/div/ul/li[2]/div/a,A,Millie Sweater,63,328,436,2353
+285,display-block parent-hover-underline pb-xs-2,div#content > div:nth-of-type(8) > div > div > div > ul > li:nth-of-type(3) > div > a,0,"Concrete Oddish  Planter, Air Plant Holder, Succulent Planter, Pokemon Planter",0,Concrete O,A,/html/body/div[7]/div[8]/div/div/div/ul/li[3]/div/a,A,"Concrete Oddish  Planter, Air Plant Holder, Succulent Planter, Pokemon Planter",64,328,818,2353
+18,wt-text-link-no-underline,div#content > div:nth-of-type(9) > div > div > div > div > h2 > a,0,"Top trends, fresh shops, and style tips",0,Top trends,A,/html/body/div[7]/div[9]/div/div/div/div/h2/a,A,"Top trends, fresh shops, and style tips",65,290,36,2681
+18,display-inline-block parent-hover-underline ml-sm-2 wt-text-caption,div#content > div:nth-of-type(9) > div > div > div > div > a,0,Read the Etsy Journal,0,Read the E,A,/html/body/div[7]/div[9]/div/div/div/div/a,A,Read the Etsy Journal,66,133,341,2682
+389,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div:nth-of-type(9) > div > div > div > ul > li > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2019/11/Header7.jpg"" alt="""">
+        
+        
+            Featured Shops
+            Big, Bold Winter Knits From Loop’n Threads
+            Lush, cozy, and effortlessly wearable, the chunky accessories from this knitwear designer are gifting gold.",0,<img class,A,/html/body/div[7]/div[9]/div/div/div/ul/li/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2019/11/Header7.jpg"" alt="""">
+        
+        
+            Featured Shops
+            Big, Bold Winter Knits From Loop’n Threads
+            Lush, cozy, and effortlessly wearable, the chunky accessories from this knitwear designer are gifting gold.",67,364,36,2713
+432,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div:nth-of-type(9) > div > div > div > ul > li:nth-of-type(2) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2022/11/cyber_header.jpg"" alt="""">
+        
+        
+            Shopping Guides
+            Surprising Cyber Week Finds to Make You Smile
+            Cozy knits with friendly faces. Hand-painted handbags. Secret message jewelry. There’s more to these one-of-a-kind treasures than meets the eye.",0,<img class,A,/html/body/div[7]/div[9]/div/div/div/ul/li[2]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2022/11/cyber_header.jpg"" alt="""">
+        
+        
+            Shopping Guides
+            Surprising Cyber Week Finds to Make You Smile
+            Cozy knits with friendly faces. Hand-painted handbags. Secret message jewelry. There’s more to these one-of-a-kind treasures than meets the eye.",68,364,418,2713
+432,display-block col-group text-gray-darker parent-hover-underline p-xs-0,div#content > div:nth-of-type(9) > div > div > div > ul > li:nth-of-type(3) > a,0,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2020/11/GT_Header.jpg"" alt="""">
+        
+        
+            Inspiration
+            Shop the Year’s Top Gift Trends with Mastercard®  and Get Even More Merry
+            From chunky knit beanies to animal-print throws, loading up on these popular picks could land a little something extra in your stocking. Get the scoop.",0,<img class,A,/html/body/div[7]/div[9]/div/div/div/ul/li[3]/a,A,"<img class=""display-block width-full position-absolute vertical-center placeholder-content"" src=""//web.archive.org/web/20191201160811im_/https://blog.etsy.com/en/files/2020/11/GT_Header.jpg"" alt="""">
+        
+        
+            Inspiration
+            Shop the Year’s Top Gift Trends with Mastercard®  and Get Even More Merry
+            From chunky knit beanies to animal-print throws, loading up on these popular picks could land a little something extra in your stocking. Get the scoop.",69,364,800,2713
+48,wt-input-btn-group__input wt-text-body-01,input#email-list-signup-email-input,email-list-signup-email-input,,email_address,,INPUT,/html/body/div[9]/footer/div[2]/form/div[2]/div/input,INPUT,,70,365,360,3291
+48,wt-input-btn-group__btn,div#collage-footer > footer > div:nth-of-type(2) > form > div:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/div[9]/footer/div[2]/form/div[2]/div/button,BUTTON,Subscribe,71,115,725,3291
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li > a,0,Gift cards,0,Gift cards,A,/html/body/div[9]/footer/div[3]/nav/div/div/div/ul/li/a,A,Gift cards,72,61,24,3492
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div > ul > li:nth-of-type(2) > a,0,Etsy blog,0,Etsy blog,A,/html/body/div[9]/footer/div[3]/nav/div/div/div/ul/li[2]/a,A,Etsy blog,73,57,24,3522
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li > a,0,Sell on Etsy,0,Sell on Et,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li/a,A,Sell on Etsy,74,71,312,3492
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Teams,0,Teams,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[2]/a,A,Teams,75,40,312,3522
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Forums,0,Forums,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[3]/a,A,Forums,76,46,312,3552
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Affiliates,0,Affiliates,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[2]/ul/li[4]/a,A,Affiliates,77,54,312,3582
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li > a,0,"Etsy, Inc.",0,"Etsy, Inc.",A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li/a,A,"Etsy, Inc.",78,55,600,3492
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Policies,0,Policies,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[2]/a,A,Policies,79,48,600,3522
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Investors,0,Investors,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[3]/a,A,Investors,80,57,600,3552
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Careers,0,Careers,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[4]/a,A,Careers,81,48,600,3582
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Press,0,Press,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[5]/a,A,Press,82,33,600,3612
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Impact,0,Impact,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[3]/ul/li[6]/a,A,Impact,83,44,600,3642
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li > a,0,Help Center,0,Help Cente,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/ul/li/a,A,Help Center,84,75,888,3492
+15,wt-text-caption wt-text-white wt-text-link-no-underline,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Privacy settings,0,Privacy se,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/ul/li[2]/a,A,Privacy settings,85,98,888,3522
+36,wt-mt-xs-4 wt-btn wt-btn--small wt-btn--outline wt-btn--light wt-pt-xs-1 wt-pb-xs-1 wt-display-inline-flex-xs wt-align-items-center wt-text-left-xs,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > a,0,Download the Etsy App,0,Download t,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/a,A,Download the Etsy App,86,205,888,3581
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li > a,0,Instagram,0,Instagram,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li/a,A,Instagram,87,48,876,3635
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(2) > a,0,Facebook,0,Facebook,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[2]/a,A,Facebook,88,48,927,3635
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(3) > a,0,Pinterest,0,Pinterest,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[3]/a,A,Pinterest,89,48,979,3635
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(4) > a,0,Twitter,0,Twitter,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[4]/a,A,Twitter,90,48,1030,3635
+48,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1,div#collage-footer > footer > div:nth-of-type(3) > nav > div > div > div:nth-of-type(4) > div > div > ul > li:nth-of-type(5) > a,0,Youtube,0,Youtube,A,/html/body/div[9]/footer/div[3]/nav/div/div/div[4]/div/div/ul/li[5]/a,A,Youtube,91,48,1082,3635
+43,wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div > button,0,,0,,BUTTON,/html/body/div[9]/footer/div[3]/div[2]/div/div/div/button,BUTTON,"US
+
+      United States   |   English (US)   |   $ (USD)",92,311,9,3737
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > a,0,Terms of Use,0,Terms of U,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li/a,A,Terms of Use,93,80,821,3751
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Privacy,0,Privacy,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[2]/a,A,Privacy,94,45,923,3751
+15,wt-text-gray wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Cookies,0,Cookies,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[3]/a,A,Cookies,95,50,989,3751
+15, wt-text-white,div#collage-footer > footer > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Interest-based ads,0,Interest-b,A,/html/body/div[9]/footer/div[3]/div[2]/div/div/div[2]/ul/li[4]/a,A,Interest-based ads,96,115,1061,3751

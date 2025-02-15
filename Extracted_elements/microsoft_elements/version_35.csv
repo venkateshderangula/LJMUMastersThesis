@@ -1,0 +1,478 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+48,c-logo,a#uhfLogo,uhfLogo,Microsoft,0,Microsoft,A,/html/body/header/div/div/header/div/div/a,A,Microsoft,1,137,48,1
+48,c-uhf-nav-link,a#shellmenu_0,shellmenu_0,Office,0,Office,A,/html/body/header/div/div/header/div/div/nav/ul/li/a,A,Office,2,93,186,1
+48,c-uhf-nav-link,a#shellmenu_1,shellmenu_1,Windows,0,Windows,A,/html/body/header/div/div/header/div/div/nav/ul/li[2]/a,A,Windows,3,115,279,1
+48,c-uhf-nav-link,a#shellmenu_2,shellmenu_2,Surface,0,Surface,A,/html/body/header/div/div/header/div/div/nav/ul/li[3]/a,A,Surface,4,103,394,1
+48,c-uhf-nav-link,a#shellmenu_3,shellmenu_3,Xbox,0,Xbox,A,/html/body/header/div/div/header/div/div/nav/ul/li[4]/a,A,Xbox,5,87,497,1
+48,c-uhf-nav-link,a#shellmenu_4,shellmenu_4,Deals,0,Deals,A,/html/body/header/div/div/header/div/div/nav/ul/li[5]/a,A,Deals,6,90,584,1
+48,c-uhf-nav-link,a#l1_support,l1_support,Support,0,Support,A,/html/body/header/div/div/header/div/div/nav/ul/li[6]/a,A,Support,7,107,674,1
+48,0,button#More-navigation,More-navigation,,0,,BUTTON,/html/body/header/div/div/header/div/div/nav/ul/li[7]/div/button,BUTTON,More,8,101,781,1
+36,0,input#cli_shellHeaderSearchInput,cli_shellHeaderSearchInput,,q,,INPUT,/html/body/header/div/div/header/div/div/div[2]/form/input,INPUT,,9,2,1020,6
+32,c-glyph,button#search,search,,0,,BUTTON,/html/body/header/div/div/header/div/div/div[2]/form/button,BUTTON,,10,34,984,8
+46,c-action-trigger c-glyph glyph-shopping-cart,a#uhf-shopping-cart,uhf-shopping-cart,0,0,0,A,/html/body/header/div/div/header/div/div/div[2]/a,A,0,11,40,1040,2
+48,c-flipper f-next,div#coreui-contentplacement-2l9pf9d > div > div:nth-of-type(2) > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div/div/div/div[2]/button[2],BUTTON,,12,48,1080,153
+235,0,div#coreui-contentplacement-2l9pf9d > div > div:nth-of-type(2) > div > ul > li > section > a,0,Starting at $799            Save $200 on Surface Pro with Intel Core i5,0,Starting a,A,/html/body/section/div/div/div/div[2]/div/ul/li/section/a,A,Starting at $799            Save $200 on Surface Pro with Intel Core i5,13,299,60,50
+215,0,div#coreui-contentplacement-2l9pf9d > div > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > section > a,0,Office 365            Bring your ideas to life,0,Office 365,A,/html/body/section/div/div/div/div[2]/div/ul/li[2]/section/a,A,Office 365            Bring your ideas to life,14,299,365,50
+215,0,div#coreui-contentplacement-2l9pf9d > div > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > section > a,0,Surface Book 2            Powerhouse performance,0,Surface Bo,A,/html/body/section/div/div/div/div[2]/div/ul/li[3]/section/a,A,Surface Book 2            Powerhouse performance,15,299,670,50
+235,0,div#coreui-contentplacement-2l9pf9d > div > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > section > a,0,"Starting at $229            Save $50 on Xbox One S consoles, get a free select game of choice",0,Starting a,A,/html/body/section/div/div/div/div[2]/div/ul/li[4]/section/a,A,"Starting at $229            Save $50 on Xbox One S consoles, get a free select game of choice",16,299,975,50
+48,c-flipper f-next,div#coreui-contentplacement-mcr66q1 > div > div:nth-of-type(2) > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[3]/div/div/div[2]/button[2],BUTTON,,17,48,1080,524
+235,0,div#coreui-contentplacement-mcr66q1 > div > div:nth-of-type(2) > div > ul > li > section > a,0,Limited time only            Buy Xbox One X and get PLAYERUNKNOWN'S BATTLEGROUNDS,0,Limited ti,A,/html/body/section/div[3]/div/div/div[2]/div/ul/li/section/a,A,Limited time only            Buy Xbox One X and get PLAYERUNKNOWN'S BATTLEGROUNDS,18,299,60,445
+215,0,div#coreui-contentplacement-mcr66q1 > div > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > section > a,0,Surface Laptop            Now starting at $799,0,Surface La,A,/html/body/section/div[3]/div/div/div[2]/div/ul/li[2]/section/a,A,Surface Laptop            Now starting at $799,19,299,365,445
+215,0,div#coreui-contentplacement-mcr66q1 > div > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > section > a,0,PC sale            Save up to $500 on select PCs,0,PC sale   ,A,/html/body/section/div[3]/div/div/div[2]/div/ul/li[3]/section/a,A,PC sale            Save up to $500 on select PCs,20,299,670,445
+215,0,div#coreui-contentplacement-mcr66q1 > div > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > section > a,0,Windows Mixed Reality            Immerse yourself in a new reality,0,Windows Mi,A,/html/body/section/div[3]/div/div/div[2]/div/ul/li[4]/section/a,A,Windows Mixed Reality            Immerse yourself in a new reality,21,299,975,445
+18,c-hyperlink,div#coreui-linknavigation-8ex3j5y > div > nav > ul > li > a,0,SURFACE DEALS,0,SURFACE DE,A,/html/body/section/div[5]/div/div/nav/ul/li/a,A,SURFACE DEALS,22,99,147,747
+18,c-hyperlink,div#coreui-linknavigation-8ex3j5y > div > nav > ul > li:nth-of-type(2) > a,0,XBOX DEALS,0,XBOX DEALS,A,/html/body/section/div[5]/div/div/nav/ul/li[2]/a,A,XBOX DEALS,23,78,366,747
+18,c-hyperlink,div#coreui-linknavigation-8ex3j5y > div > nav > ul > li:nth-of-type(3) > a,0,PC DEALS,0,PC DEALS,A,/html/body/section/div[5]/div/div/nav/ul/li[3]/a,A,PC DEALS,24,59,585,747
+18,c-hyperlink,div#coreui-linknavigation-8ex3j5y > div > nav > ul > li:nth-of-type(4) > a,0,ALL DEALS,0,ALL DEALS,A,/html/body/section/div[5]/div/div/nav/ul/li[4]/a,A,ALL DEALS,25,66,792,747
+18,c-hyperlink,div#coreui-linknavigation-8ex3j5y > div > nav > ul > li:nth-of-type(5) > a,0,OFFICE,0,OFFICE,A,/html/body/section/div[5]/div/div/nav/ul/li[5]/a,A,OFFICE,26,43,1012,747
+41,c-call-to-action c-glyph,div#coreui-hero-laj50w8 > div > section > div > div > div:nth-of-type(2) > a,0,SHOP NOW,0,SHOP NOW,A,/html/body/section/div[6]/div/div/section/div/div/div[2]/a,A,SHOP NOW,27,149,127,1039
+20,c-hyperlink f-show-all,div#coreui-productplacement-jnndogn > div > h2 > a,0,Show all,0,Show all,A,/html/body/section/div[7]/div/div/h2/a,A,Show all,28,55,1085,1275
+48,c-flipper f-next,div#coreui-productplacement-jnndogn > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[7]/div/div/div/button[2],BUTTON,,29,24,1140,1482
+289,0,li#xbox design lab > section > a,0,"Xbox Design Lab        
+From     $94.99",0,Xbox Desig,A,/html/body/section/div[7]/div/div/div/div/ul/li/section/a,A,"Xbox Design Lab        
+From     $94.99",30,272,61,1312
+337,0,li#surface laptop > section > a,0,"SAVE UP TO $269.90
+Surface Laptop  
+              
+            4.09999990463257
+            5
+        
+        
+
+  
+        
+From          $799.00
+                 
+    $719.10",0,SAVE UP TO,A,/html/body/section/div[7]/div/div/div/div/ul/li[2]/section/a,A,"SAVE UP TO $269.90
+Surface Laptop  
+              
+            4.09999990463257
+            5
+        
+        
+
+  
+        
+From          $799.00
+                 
+    $719.10",31,272,357,1312
+377,0,li#lenovo explorer windows mixed reality headset with motion controllers > section > a,0,"SAVE $39.90
+Lenovo Explorer Windows Mixed Reality Headset with Motion Controllers  
+              
+            3.59999990463257
+            5
+        
+        
+
+  
+        
+         $399.00
+                 
+    $359.10",0,SAVE $39.9,A,/html/body/section/div[7]/div/div/div/div/ul/li[3]/section/a,A,"SAVE $39.90
+Lenovo Explorer Windows Mixed Reality Headset with Motion Controllers  
+              
+            3.59999990463257
+            5
+        
+        
+
+  
+        
+         $399.00
+                 
+    $359.10",32,272,653,1312
+357,0,li#harman kardon invoke with cortana by microsoft > section > a,0,"SAVE $100.00
+Harman Kardon Invoke with Cortana by Microsoft  
+              
+            4.19999980926514
+            5
+        
+        
+
+  
+        
+From          $199.95
+                 
+    $99.95",0,SAVE $100.,A,/html/body/section/div[7]/div/div/div/div/ul/li[4]/section/a,A,"SAVE $100.00
+Harman Kardon Invoke with Cortana by Microsoft  
+              
+            4.19999980926514
+            5
+        
+        
+
+  
+        
+From          $199.95
+                 
+    $99.95",33,272,949,1312
+327,0,li#xbox one s 1tb console – playerunknown's battlegrounds bundle + free select game > section > a,0,"Xbox One S 1TB Console – PLAYERUNKNOWN'S BATTLEGROUNDS Bundle + Free Select Game  
+              
+            4.19999980926514
+            5",0,Xbox One S,A,/html/body/section/div[7]/div/div/div/div/ul/li[5]/section/a,A,"Xbox One S 1TB Console – PLAYERUNKNOWN'S BATTLEGROUNDS Bundle + Free Select Game  
+              
+            4.19999980926514
+            5",34,272,1245,1312
+399,0,li#office 365 home > section > a,0,"Office 365 Home  
+              
+            3.90000009536743
+            5
+        
+        
+
+  
+        
+        $99.99 per year
+
+        
+        
+            
+            Free
+        
+        Try one month for free
+
+        
+        
+        $9.99 per month
+
+        
+        
+From             
+            Free",0,Office 365,A,/html/body/section/div[7]/div/div/div/div/ul/li[6]/section/a,A,"Office 365 Home  
+              
+            3.90000009536743
+            5
+        
+        
+
+  
+        
+        $99.99 per year
+
+        
+        
+            
+            Free
+        
+        Try one month for free
+
+        
+        
+        $9.99 per month
+
+        
+        
+From             
+            Free",35,272,1541,1312
+315,0,li#surface studio > section > a,0,"Surface Studio  
+              
+            4.09999990463257
+            5
+        
+        
+
+  
+        
+From     $2,999.00",0,Surface St,A,/html/body/section/div[7]/div/div/div/div/ul/li[7]/section/a,A,"Surface Studio  
+              
+            4.09999990463257
+            5
+        
+        
+
+  
+        
+From     $2,999.00",36,272,1837,1312
+355,0,li#playerunknown's battlegrounds – game preview edition for xbox one > section > a,0,"PLAYERUNKNOWN'S BATTLEGROUNDS – Game Preview Edition for Xbox One  
+              
+            3.09999990463257
+            5
+        
+        
+
+  
+        
+    $29.99",0,PLAYERUNKN,A,/html/body/section/div[7]/div/div/div/div/ul/li[8]/section/a,A,"PLAYERUNKNOWN'S BATTLEGROUNDS – Game Preview Edition for Xbox One  
+              
+            3.09999990463257
+            5
+        
+        
+
+  
+        
+    $29.99",37,272,2133,1312
+399,0,li#office 365 personal > section > a,0,"Office 365 Personal  
+              
+            3.90000009536743
+            5
+        
+        
+
+  
+        
+        $69.99 per year
+
+        
+        
+            
+            Free
+        
+        Try one month for free
+
+        
+        
+From             
+            Free
+        
+    
+
+        
+        
+        $6.99 per month",0,Office 365,A,/html/body/section/div[7]/div/div/div/div/ul/li[9]/section/a,A,"Office 365 Personal  
+              
+            3.90000009536743
+            5
+        
+        
+
+  
+        
+        $69.99 per year
+
+        
+        
+            
+            Free
+        
+        Try one month for free
+
+        
+        
+From             
+            Free
+        
+    
+
+        
+        
+        $6.99 per month",38,272,2429,1312
+315,0,li#fitbit ionic (charcoal/smoke gray) > section > a,0,"Fitbit Ionic (Charcoal/Smoke Gray)  
+              
+            5
+            5
+        
+        
+
+  
+        
+    $299.95",0,Fitbit Ion,A,/html/body/section/div[7]/div/div/div/div/ul/li[10]/section/a,A,"Fitbit Ionic (Charcoal/Smoke Gray)  
+              
+            5
+            5
+        
+        
+
+  
+        
+    $299.95",39,272,2725,1312
+337,0,li#dell xps 13 9370 laptop > section > a,0,"SAVE UP TO $300.00
+Dell XPS 13 9370 Laptop  
+              
+            4.5
+            5
+        
+        
+
+  
+        
+From          $1,399.00
+                 
+    $1,259.10",0,SAVE UP TO,A,/html/body/section/div[7]/div/div/div/div/ul/li[11]/section/a,A,"SAVE UP TO $300.00
+Dell XPS 13 9370 Laptop  
+              
+            4.5
+            5
+        
+        
+
+  
+        
+From          $1,399.00
+                 
+    $1,259.10",40,272,3021,1312
+337,0,li#surface mouse > section > a,0,"SAVE $5.00
+Surface Mouse  
+              
+            3.5
+            5
+        
+        
+
+  
+        
+         $49.99
+                 
+    $44.99",0,SAVE $5.00,A,/html/body/section/div[7]/div/div/div/div/ul/li[12]/section/a,A,"SAVE $5.00
+Surface Mouse  
+              
+            3.5
+            5
+        
+        
+
+  
+        
+         $49.99
+                 
+    $44.99",41,272,3317,1312
+315,0,li#forza motorsport 7 for xbox one > section > a,0,"Forza Motorsport 7 for Xbox One  
+              
+            2.59999990463257
+            5
+        
+        
+
+  
+        
+    $59.99",0,Forza Moto,A,/html/body/section/div[7]/div/div/div/div/ul/li[13]/section/a,A,"Forza Motorsport 7 for Xbox One  
+              
+            2.59999990463257
+            5
+        
+        
+
+  
+        
+    $59.99",42,272,3613,1312
+335,0,li#xbox wireless controller – sea of thieves limited edition > section > a,0,"Xbox Wireless Controller – Sea of Thieves Limited Edition  
+              
+            3.40000009536743
+            5
+        
+        
+
+  
+        
+    $74.99",0,Xbox Wirel,A,/html/body/section/div[7]/div/div/div/div/ul/li[14]/section/a,A,"Xbox Wireless Controller – Sea of Thieves Limited Edition  
+              
+            3.40000009536743
+            5
+        
+        
+
+  
+        
+    $74.99",43,272,3909,1312
+337,0,li#surface keyboard > section > a,0,"SAVE $10.00
+Surface Keyboard  
+              
+            3.40000009536743
+            5
+        
+        
+
+  
+        
+         $99.99
+                 
+    $89.99",0,SAVE $10.0,A,/html/body/section/div[7]/div/div/div/div/ul/li[15]/section/a,A,"SAVE $10.00
+Surface Keyboard  
+              
+            3.40000009536743
+            5
+        
+        
+
+  
+        
+         $99.99
+                 
+    $89.99",44,272,4205,1312
+315,0,li#razer phone  > section > a,0,"Razer Phone   
+              
+            4.19999980926514
+            5
+        
+        
+
+  
+        
+From     $699.99",0,Razer Phon,A,/html/body/section/div[7]/div/div/div/div/ul/li[16]/section/a,A,"Razer Phone   
+              
+            4.19999980926514
+            5
+        
+        
+
+  
+        
+From     $699.99",45,272,4501,1312
+39,c-call-to-action c-glyph,div#coreui-contentplacement-snk7h91 > div:nth-of-type(2) > div > div > div > section > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[8]/div/div[2]/div/div/div/section/a,A,LEARN MORE,46,114,60,2140
+39,c-call-to-action c-glyph,div#coreui-contentplacement-snk7h91 > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a,0,DOWNLOAD NOW,0,DOWNLOAD N,A,/html/body/section/div[8]/div/div[2]/div/div/div[2]/section/a,A,DOWNLOAD NOW,47,148,336,2140
+39,c-call-to-action c-glyph,div#coreui-contentplacement-snk7h91 > div:nth-of-type(2) > div > div:nth-of-type(2) > div > section > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[8]/div/div[2]/div/div[2]/div/section/a,A,LEARN MORE,48,114,612,2140
+39,c-call-to-action c-glyph,div#coreui-contentplacement-snk7h91 > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[8]/div/div[2]/div/div[2]/div[2]/section/a,A,LEARN MORE,49,114,888,2140
+10,f-active,div#coreui-hero-dhxampx > div > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[9]/div/div/div/div/div/button,BUTTON,,50,12,558,2603
+10,0,div#coreui-hero-dhxampx > div > div > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[9]/div/div/div/div/div/button[2],BUTTON,,51,12,570,2603
+38,c-action-toggle c-glyph f-toggle glyph-pause,div#coreui-hero-dhxampx > div > div > div > button,0,,0,,BUTTON,/html/body/section/div[9]/div/div/div/div/button,BUTTON,,52,38,594,2590
+48,c-flipper f-previous,div#coreui-hero-dhxampx > div > div > button,0,,0,,BUTTON,/html/body/section/div[9]/div/div/div/button,BUTTON,,53,24,60,2409
+48,c-flipper f-next,div#coreui-hero-dhxampx > div > div > button:nth-of-type(2),0,,0,,BUTTON,/html/body/section/div[9]/div/div/div/button[2],BUTTON,,54,24,1116,2409
+41,c-call-to-action c-glyph,li#coreui-hero-dhxampx-item-1 > section > div > div > div:nth-of-type(2) > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[9]/div/div/div/div[2]/ul/li/section/div/div/div[2]/a,A,LEARN MORE,55,160,127,2465
+39,c-call-to-action c-glyph,div#coreui-contentplacement-ns7ysiv > div:nth-of-type(2) > div > div > div > section > a,0,SEE DETAILS,0,SEE DETAIL,A,/html/body/section/div[10]/div/div[2]/div/div/div/section/a,A,SEE DETAILS,56,108,60,3083
+39,c-call-to-action c-glyph,div#coreui-contentplacement-ns7ysiv > div:nth-of-type(2) > div > div > div:nth-of-type(2) > section > a,0,LEARN MORE,0,LEARN MORE,A,/html/body/section/div[10]/div/div[2]/div/div/div[2]/section/a,A,LEARN MORE,57,114,336,3083
+39,c-call-to-action c-glyph,div#coreui-contentplacement-ns7ysiv > div:nth-of-type(2) > div > div:nth-of-type(2) > div > section > a,0,CONTACT US,0,CONTACT US,A,/html/body/section/div[10]/div/div[2]/div/div[2]/div/section/a,A,CONTACT US,58,113,612,3083
+39,c-call-to-action c-glyph,div#coreui-contentplacement-ns7ysiv > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > a,0,FIND A STORE,0,FIND A STO,A,/html/body/section/div[10]/div/div[2]/div/div[2]/div[2]/section/a,A,FIND A STORE,59,120,888,3083
+32,0,div#coreui-social-g1l6zq6 > section > ul > li > a,0,,0,,A,/html/body/section/div[11]/div/section/ul/li/a,A,,60,32,182,3174
+32,0,div#coreui-social-g1l6zq6 > section > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/section/div[11]/div/section/ul/li[2]/a,A,,61,32,226,3174
+32,0,div#coreui-social-g1l6zq6 > section > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/section/div[11]/div/section/ul/li[3]/a,A,,62,32,270,3174
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li > a,0,Surface Book 2,0,Surface Bo,A,/html/body/footer/div/div/footer/nav/div/div/ul/li/a,A,Surface Book 2,63,72,60,3323
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(2) > a,0,Surface Pro,0,Surface Pr,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[2]/a,A,Surface Pro,64,55,60,3355
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(3) > a,0,Xbox One X,0,Xbox One X,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[3]/a,A,Xbox One X,65,57,60,3387
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(4) > a,0,Xbox One S,0,Xbox One S,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[4]/a,A,Xbox One S,66,57,60,3419
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(5) > a,0,VR & mixed reality,0,VR & mixed,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[5]/a,A,VR & mixed reality,67,90,60,3451
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(6) > a,0,Windows 10 apps,0,Windows 10,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[6]/a,A,Windows 10 apps,68,86,60,3483
+15,c-uhff-link,footer#uhf-footer > nav > div > div > ul > li:nth-of-type(7) > a,0,Office apps,0,Office app,A,/html/body/footer/div/div/footer/nav/div/div/ul/li[7]/a,A,Office apps,69,55,60,3515
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li > a,0,Account profile,0,Account pr,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li/a,A,Account profile,70,74,252,3323
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Download Center,0,Download C,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[2]/a,A,Download Center,71,85,252,3355
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Sales & support,0,Sales & su,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[3]/a,A,Sales & support,72,77,252,3387
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Returns,0,Returns,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[4]/a,A,Returns,73,37,252,3419
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Order tracking,0,Order trac,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[5]/a,A,Order tracking,74,70,252,3451
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Store locations,0,Store loca,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[6]/a,A,Store locations,75,72,252,3483
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Support,0,Support,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[7]/a,A,Support,76,39,252,3515
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(2) > ul > li:nth-of-type(8) > a,0,"Buy online, pick up in store",0,Buy online,A,/html/body/footer/div/div/footer/nav/div/div[2]/ul/li[8]/a,A,"Buy online, pick up in store",77,131,252,3547
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li > a,0,Microsoft in education,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div/div[3]/ul/li/a,A,Microsoft in education,78,109,432,3323
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Office for students,0,Office for,A,/html/body/footer/div/div/footer/nav/div/div[3]/ul/li[2]/a,A,Office for students,79,90,432,3355
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Office 365 for schools,0,Office 365,A,/html/body/footer/div/div/footer/nav/div/div[3]/ul/li[3]/a,A,Office 365 for schools,80,105,432,3387
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Deals for students & educators,0,Deals for ,A,/html/body/footer/div/div/footer/nav/div/div[3]/ul/li[4]/a,A,Deals for students & educators,81,150,432,3419
+15,c-uhff-link,footer#uhf-footer > nav > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Microsoft Azure in education,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div/div[3]/ul/li[5]/a,A,Microsoft Azure in education,82,140,432,3451
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li > a,0,Microsoft Azure,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li/a,A,Microsoft Azure,83,77,600,3323
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Enterprise,0,Enterprise,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[2]/a,A,Enterprise,84,48,600,3355
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,Data platform,0,Data platf,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[3]/a,A,Data platform,85,67,600,3387
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Find a solutions provider,0,Find a sol,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[4]/a,A,Find a solutions provider,86,120,600,3419
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Microsoft partner resources,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[5]/a,A,Microsoft partner resources,87,134,600,3451
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,Microsoft AppSource,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[6]/a,A,Microsoft AppSource,88,102,600,3483
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,Manufacturing & resources,0,Manufactur,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[7]/a,A,Manufacturing & resources,89,132,600,3515
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > a,0,Financial services,0,Financial ,A,/html/body/footer/div/div/footer/nav/div[2]/div/ul/li[8]/a,A,Financial services,90,83,600,3547
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Microsoft Visual Studio,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li/a,A,Microsoft Visual Studio,91,112,792,3323
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Windows Dev Center,0,Windows De,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a,A,Windows Dev Center,92,102,792,3355
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Developer Network,0,Developer ,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a,A,Developer Network,93,94,792,3387
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,TechNet,0,TechNet,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a,A,TechNet,94,41,792,3419
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Microsoft Virtual Academy,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a,A,Microsoft Virtual Academy,95,129,792,3451
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Microsoft developer program,0,Microsoft ,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a,A,Microsoft developer program,96,143,792,3483
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,Channel 9,0,Channel 9,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a,A,Channel 9,97,48,792,3515
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(8) > a,0,Office Dev Center,0,Office Dev,A,/html/body/footer/div/div/footer/nav/div[2]/div[2]/ul/li[8]/a,A,Office Dev Center,98,86,792,3547
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li > a,0,Careers,0,Careers,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li/a,A,Careers,99,36,972,3323
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,About Microsoft,0,About Micr,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a,A,About Microsoft,100,79,972,3355
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Company news,0,Company ne,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a,A,Company news,101,74,972,3387
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Privacy at Microsoft,0,Privacy at,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[4]/a,A,Privacy at Microsoft,102,95,972,3419
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Investors,0,Investors,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a,A,Investors,103,44,972,3451
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(6) > a,0,Diversity and inclusion,0,Diversity ,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[6]/a,A,Diversity and inclusion,104,109,972,3483
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(7) > a,0,Accessibility,0,Accessibil,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[7]/a,A,Accessibility,105,59,972,3515
+15,c-uhff-link,footer#uhf-footer > nav > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(8) > a,0,Security,0,Security,A,/html/body/footer/div/div/footer/nav/div[2]/div[3]/ul/li[8]/a,A,Security,106,38,972,3547
+24,c-uhff-link c-uhff-lang-selector c-glyph glyph-world,a#locale-picker-link,locale-picker-link,English (United States),0,English (U,A,/html/body/footer/div/div/footer/div/a,A,English (United States),107,163,60,3608
+15,c-uhff-link,footer#uhf-footer > div > ul > li > a,0,Sitemap,0,Sitemap,A,/html/body/footer/div/div/footer/div/ul/li/a,A,Sitemap,108,40,504,3612
+15,c-uhff-link,footer#uhf-footer > div > ul > li:nth-of-type(2) > a,0,Contact us,0,Contact us,A,/html/body/footer/div/div/footer/div/ul/li[2]/a,A,Contact us,109,52,571,3612
+15,c-uhff-link,footer#uhf-footer > div > ul > li:nth-of-type(3) > a,0,Privacy & cookies,0,Privacy & ,A,/html/body/footer/div/div/footer/div/ul/li[3]/a,A,Privacy & cookies,110,85,649,3612
+15,c-uhff-link,footer#uhf-footer > div > ul > li:nth-of-type(4) > a,0,Terms of use,0,Terms of u,A,/html/body/footer/div/div/footer/div/ul/li[4]/a,A,Terms of use,111,62,762,3612
+15,c-uhff-link,footer#uhf-footer > div > ul > li:nth-of-type(5) > a,0,Trademarks,0,Trademarks,A,/html/body/footer/div/div/footer/div/ul/li[5]/a,A,Trademarks,112,56,851,3612
+15,c-uhff-link,footer#uhf-footer > div > ul > li:nth-of-type(6) > a,0,About our ads,0,About our ,A,/html/body/footer/div/div/footer/div/ul/li[6]/a,A,About our ads,113,69,934,3612

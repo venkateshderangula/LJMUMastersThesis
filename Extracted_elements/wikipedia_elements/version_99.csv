@@ -1,0 +1,162 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+45,link-box,a#js-link-box-en,js-link-box-en,"English
+6 183 000+ articles",0,"English
+6 ",A,/html/body/div[2]/div/a,A,"English
+6 183 000+ articles",1,156,389,135
+45,link-box,a#js-link-box-es,js-link-box-es,"Español
+1 637 000+ artículos",0,"Español
+1 ",A,/html/body/div[2]/div[2]/a,A,"Español
+1 637 000+ artículos",2,156,655,135
+45,link-box,a#js-link-box-ja,js-link-box-ja,"日本語
+1 235 000+ 記事",0,"日本語
+1 235 ",A,/html/body/div[2]/div[3]/a,A,"日本語
+1 235 000+ 記事",3,156,335,200
+45,link-box,a#js-link-box-de,js-link-box-de,"Deutsch
+2 495 000+ Artikel",0,"Deutsch
+2 ",A,/html/body/div[2]/div[4]/a,A,"Deutsch
+2 495 000+ Artikel",4,156,709,200
+45,link-box,a#js-link-box-ru,js-link-box-ru,"Русский
+1 672 000+ статей",0,"Русский
+1 ",A,/html/body/div[2]/div[5]/a,A,"Русский
+1 672 000+ статей",5,156,324,265
+45,link-box,a#js-link-box-fr,js-link-box-fr,"Français
+2 262 000+ articles",0,"Français
+2",A,/html/body/div[2]/div[6]/a,A,"Français
+2 262 000+ articles",6,156,720,265
+45,link-box,a#js-link-box-it,js-link-box-it,"Italiano
+1 645 000+ voci",0,"Italiano
+1",A,/html/body/div[2]/div[7]/a,A,"Italiano
+1 645 000+ voci",7,156,335,330
+45,link-box,a#js-link-box-zh,js-link-box-zh,"中文
+1 155 000+ 條目",0,"中文
+1 155 0",A,/html/body/div[2]/div[8]/a,A,"中文
+1 155 000+ 條目",8,156,709,330
+45,link-box,a#js-link-box-pt,js-link-box-pt,"Português
+1 045 000+ artigos",0,"Português
+",A,/html/body/div[2]/div[9]/a,A,"Português
+1 045 000+ artigos",9,156,389,395
+45,link-box,a#js-link-box-pl,js-link-box-pl,"Polski
+1 435 000+ haseł",0,"Polski
+1 4",A,/html/body/div[2]/div[10]/a,A,"Polski
+1 435 000+ haseł",10,156,655,395
+44,0,input#searchInput,searchInput,,search,,INPUT,/html/body/div[3]/form/fieldset/div/input,INPUT,,11,394,375,470
+24,0,select#searchLanguage,searchLanguage,,language,,SELECT,/html/body/div[3]/form/fieldset/div/div/div/select,SELECT,"العربية
+Asturianu
+Azərbaycanca
+Български
+Bân-lâm-gú / Hō-ló-oē
+Беларуская
+Català
+Čeština
+Cymraeg
+Dansk
+Deutsch
+Eesti
+Ελληνικά
+English
+Español
+Esperanto
+Euskara
+فارسی
+Français
+Galego
+Հայերեն
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+Italiano
+עברית
+ქართული
+Latina
+Latviešu
+Lietuvių
+Magyar
+Македонски
+مصرى
+Bahasa Melayu
+Bahaso Minangkabau
+Nederlands
+日本語
+Norsk (bokmål)
+Norsk (nynorsk)
+Нохчийн
+Oʻzbekcha / Ўзбекча
+Polski
+Português
+Қазақша / Qazaqşa / قازاقشا
+Română
+Русский
+Simple English
+Sinugboanong Binisaya
+Slovenčina
+Slovenščina
+Српски / Srpski
+Srpskohrvatski / Српскохрватски
+Suomi
+Svenska
+தமிழ்
+Татарча / Tatarça
+ภาษาไทย
+Тоҷикӣ
+تۆرکجه
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Volapük
+Winaray
+粵語
+中文
+한국어",12,110,708,480
+44,pure-button pure-button-primary-progressive,form#search-form > fieldset > button,0,,0,,BUTTON,/html/body/div[3]/form/fieldset/button,BUTTON,Search,13,56,769,470
+36,lang-list-button,button#js-lang-list-button,js-lang-list-button,,0,,BUTTON,/html/body/div[4]/button,BUTTON,Read Wikipedia in your language,14,305,447,545
+35,0,body#www-wikipedia-org > div:nth-of-type(7) > div > div > div:nth-of-type(2) > a,0,Wikimedia Foundation,0,Wikimedia ,A,/html/body/div[7]/div/div/div[2]/a,A,Wikimedia Foundation,15,225,103,661
+15,jsl10n,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(2) > div > div > strong > a,0,Download Wikipedia for Android or iOS,0,Download W,A,/html/body/div[7]/div[2]/div/div/strong/a,A,Download Wikipedia for Android or iOS,16,250,103,759
+15,0,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(2) > div > div > ul > li > a,0,,0,,A,/html/body/div[7]/div[2]/div/div/ul/li/a,A,,17,124,103,891
+15,0,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[7]/div[2]/div/div/ul/li[2]/a,A,,18,110,231,891
+60,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div > a,0,"Commons
+Freely usable photos & more",0,"Commons
+Fr",A,/html/body/div[7]/div[3]/div/a,A,"Commons
+Freely usable photos & more",19,252,424,659
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(2) > a,0,"Wikivoyage
+Free travel guide",0,Wikivoyage,A,/html/body/div[7]/div[3]/div[2]/a,A,"Wikivoyage
+Free travel guide",20,252,676,659
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(3) > a,0,"Wiktionary
+Free dictionary",0,Wiktionary,A,/html/body/div[7]/div[3]/div[3]/a,A,"Wiktionary
+Free dictionary",21,252,928,659
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(4) > a,0,"Wikibooks
+Free textbooks",0,"Wikibooks
+",A,/html/body/div[7]/div[3]/div[4]/a,A,"Wikibooks
+Free textbooks",22,252,424,749
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(5) > a,0,"Wikinews
+Free news source",0,"Wikinews
+F",A,/html/body/div[7]/div[3]/div[5]/a,A,"Wikinews
+Free news source",23,252,676,749
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(6) > a,0,"Wikidata
+Free knowledge base",0,"Wikidata
+F",A,/html/body/div[7]/div[3]/div[6]/a,A,"Wikidata
+Free knowledge base",24,252,928,749
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(7) > a,0,"Wikiversity
+Free course materials",0,Wikiversit,A,/html/body/div[7]/div[3]/div[7]/a,A,"Wikiversity
+Free course materials",25,252,424,839
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(8) > a,0,"Wikiquote
+Free quote compendium",0,"Wikiquote
+",A,/html/body/div[7]/div[3]/div[8]/a,A,"Wikiquote
+Free quote compendium",26,252,676,839
+60,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(9) > a,0,"MediaWiki
+Free & open wiki application",0,"MediaWiki
+",A,/html/body/div[7]/div[3]/div[9]/a,A,"MediaWiki
+Free & open wiki application",27,252,928,839
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(10) > a,0,"Wikisource
+Free library",0,Wikisource,A,/html/body/div[7]/div[3]/div[10]/a,A,"Wikisource
+Free library",28,252,424,929
+50,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(11) > a,0,"Wikispecies
+Free species directory",0,Wikispecie,A,/html/body/div[7]/div[3]/div[11]/a,A,"Wikispecies
+Free species directory",29,252,676,929
+60,other-project-link,body#www-wikipedia-org > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(12) > a,0,"Meta-Wiki
+Community coordination & documentation",0,"Meta-Wiki
+",A,/html/body/div[7]/div[3]/div[12]/a,A,"Meta-Wiki
+Community coordination & documentation",30,252,928,929
+15,0,body#www-wikipedia-org > p > small > a,0,Creative Commons Attribution-ShareAlike License,0,Creative C,A,/html/body/p/small/a,A,Creative Commons Attribution-ShareAlike License,31,302,441,1040
+15,0,body#www-wikipedia-org > p > small:nth-of-type(2) > a,0,Terms of Use,0,Terms of U,A,/html/body/p/small[2]/a,A,Terms of Use,32,80,766,1040
+15,0,body#www-wikipedia-org > p > small:nth-of-type(3) > a,0,Privacy Policy,0,Privacy Po,A,/html/body/p/small[3]/a,A,Privacy Policy,33,84,869,1040

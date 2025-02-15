@@ -1,0 +1,65 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,0,html > body > a,0,Skip to main content,0,Skip to ma,A,/html/body/a,A,Skip to main content,1,186,534,-1000
+23,0,div#lca-cookie-notification > div > span:nth-of-type(2) > a,0,En savoir plus,0,En savoir ,A,/html/body/div/span[2]/div/div/div/span[2]/a,A,En savoir plus,2,90,1024,0
+23,0,a#lca-disclaimer-close,lca-disclaimer-close,Fermer,0,Fermer,A,/html/body/div/span[2]/div/div/div/span[2]/a[2],A,Fermer,3,26,1114,0
+23,0,a#srv_shellHeaderMicrosoftLogo,srv_shellHeaderMicrosoftLogo,,0,,A,/html/body/div/span[2]/div/div[3]/div/div/a,A,,4,108,60,40
+48,0,a#Boutique-navigation,Boutique-navigation,Boutique,0,Boutique,A,/html/body/div/span[2]/div/div[3]/div/div[2]/ul/li[2]/div/a,A,Boutique,5,117,186,27
+48,0,a#Produits-navigation,Produits-navigation,Produits,0,Produits,A,/html/body/div/span[2]/div/div[3]/div/div[2]/ul/li[3]/div/a,A,Produits,6,112,303,27
+48,top-level-link-text ctl_headerNavLink,li#l1_support > a,0,Support technique,0,Support te,A,/html/body/div/span[2]/div/div[3]/div/div[2]/ul/li[4]/a,A,Support technique,7,168,414,27
+36,0,input#cli_shellHeaderSearchInput,cli_shellHeaderSearchInput,,q,,INPUT,/html/body/div/span[2]/div/div[3]/div/div[5]/form/div/input,INPUT,,8,244,715,34
+36,0,form#srv_shellHeaderSearchForm > div > button,0,,0,,BUTTON,/html/body/div/span[2]/div/div[3]/div/div[5]/form/div/button,BUTTON,Search,9,33,955,34
+48,0,a#shell-header-shopping-cart,shell-header-shopping-cart,items in cart,0,items in c,A,/html/body/div/span[2]/div/div[3]/div/div[5]/div/a,A,items in cart,10,40,1004,27
+216,contact-tab,button#feedback_text,feedback_text,,0,,BUTTON,/html/body/main/div/div/div/div/button,BUTTON,Commentaires sur le site,11,37,1156,222
+10,0,button#slide1_radio,slide1_radio,,0,,BUTTON,/html/body/main/section/div/div/div/button,BUTTON,,12,12,588,432
+10,0,button#slide2_radio,slide2_radio,,0,,BUTTON,/html/body/main/section/div/div/div/button[2],BUTTON,,13,12,600,432
+48,c-flipper f-previous flDark,button#fprevious,fprevious,,0,,BUTTON,/html/body/main/section/div/div/button,BUTTON,,14,24,60,246
+48,c-flipper f-next flDark,button#fnext,fnext,,0,,BUTTON,/html/body/main/section/div/div/button[2],BUTTON,,15,24,1116,246
+41,mscom-link c-call-to-action c-glyph,a#slide2_CTA_1,slide2_CTA_1,Acheter maintenant,0,Acheter ma,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/div/a,A,Acheter maintenant,16,210,140,308
+41,mscom-link c-call-to-action c-glyph,a#slide2_CTA_2,slide2_CTA_2,En savoir plus,0,En savoir ,A,/html/body/main/section/div/div/div[2]/ul/li[2]/section/div/div/div/a[2],A,En savoir plus,17,168,140,353
+20,dark,button#pause,pause,,0,,BUTTON,/html/body/main/section/div/div/div[2]/div/div/button,BUTTON,,18,50,140,428
+20,light,button#play,play,,0,,BUTTON,/html/body/main/section/div/div/div[2]/div/div/button[2],BUTTON,,19,50,194,428
+53,mscom-link c-call-to-action c-glyph,section#home1 > a,0,ACHETER OFFICE 365 MAINTENANT,0,ACHETER OF,A,/html/body/main/section[2]/div/ul/div/li/section/a,A,ACHETER OFFICE 365 MAINTENANT,20,228,57,740
+53,mscom-link c-call-to-action c-glyph,section#home2 > a,0,OBTENEZ LE PACK FORZA HORIZON 3,0,OBTENEZ LE,A,/html/body/main/section[2]/div/ul/div/li[2]/div/section/a,A,OBTENEZ LE PACK FORZA HORIZON 3,21,228,327,740
+53,mscom-link c-call-to-action c-glyph,section#home3 > a,0,VOIR LA WINDOWS 10 CREATORS UPDATE,0,VOIR LA WI,A,/html/body/main/section[2]/div/ul/div[2]/li/div/section/a,A,VOIR LA WINDOWS 10 CREATORS UPDATE,22,228,597,740
+37,mscom-link c-call-to-action c-glyph,section#home4 > a,0,REJOIGNEZ LE CLUB,0,REJOIGNEZ ,A,/html/body/main/section[2]/div/ul/div[2]/li[2]/section/a,A,REJOIGNEZ LE CLUB,23,148,867,740
+41,mscom-link c-call-to-action c-glyph,a#slim_CTA,slim_CTA,Achetez maintenant,0,Achetez ma,A,/html/body/main/section[3]/div/div/div/div/a,A,Achetez maintenant,24,209,140,1127
+53,mscom-link c-call-to-action c-glyph,section#work1 > a,0,EN SAVOIR PLUS SUR OFFICE 365,0,EN SAVOIR ,A,/html/body/main/section[4]/div/ul/div/li/div/section/a,A,EN SAVOIR PLUS SUR OFFICE 365,25,228,57,1741
+53,mscom-link c-call-to-action c-glyph,section#work2 > a,0,TÉLÉCHARGER WINDOWS 10 ENTREPRISE,0,TÉLÉCHARGE,A,/html/body/main/section[4]/div/ul/div/li[2]/section/a,A,TÉLÉCHARGER WINDOWS 10 ENTREPRISE,26,228,327,1733
+53,mscom-link c-call-to-action c-glyph,section#work3 > a,0,TÉLÉCHARGEZ VISUAL STUDIO 2017,0,TÉLÉCHARGE,A,/html/body/main/section[4]/div/ul/div[2]/li/section/a,A,TÉLÉCHARGEZ VISUAL STUDIO 2017,27,228,597,1733
+53,mscom-link c-call-to-action c-glyph,section#work4 > a,0,EN SAVOIR PLUS SUR MICROSOFT CLOUD,0,EN SAVOIR ,A,/html/body/main/section[4]/div/ul/div[2]/li[2]/section/a,A,EN SAVOIR PLUS SUR MICROSOFT CLOUD,28,228,867,1713
+32,mscom-link,html > body > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Facebook,0,Facebook,A,/html/body/div[2]/ul/li[2]/a,A,Facebook,29,32,195,1871
+32,mscom-link,html > body > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Twitter,0,Twitter,A,/html/body/div[2]/ul/li[3]/a,A,Twitter,30,32,239,1871
+32,mscom-link,html > body > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,LinkedIn,0,LinkedIn,A,/html/body/div[2]/ul/li[4]/a,A,LinkedIn,31,32,283,1871
+32,mscom-link,html > body > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,YouTube,0,YouTube,A,/html/body/div[2]/ul/li[5]/a,A,YouTube,32,32,327,1871
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li > a,0,Windows,0,Windows,A,/html/body/div[3]/span/div/div/div/div/ul/li/a,A,Windows,33,49,60,1973
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(2) > a,0,Office,0,Office,A,/html/body/div[3]/span/div/div/div/div/ul/li[2]/a,A,Office,34,31,60,1997
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(3) > a,0,Skype,0,Skype,A,/html/body/div[3]/span/div/div/div/div/ul/li[3]/a,A,Skype,35,31,60,2021
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(4) > a,0,Outlook,0,Outlook,A,/html/body/div[3]/span/div/div/div/div/ul/li[4]/a,A,Outlook,36,43,60,2045
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(5) > a,0,OneDrive,0,OneDrive,A,/html/body/div[3]/span/div/div/div/div/ul/li[5]/a,A,OneDrive,37,50,60,2069
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(6) > a,0,MSN,0,MSN,A,/html/body/div[3]/span/div/div/div/div/ul/li[6]/a,A,MSN,38,26,60,2093
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li > a,0,Microsoft Surface,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li/a,A,Microsoft Surface,39,93,233,1973
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,PC & laptops,0,PC & lapto,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[2]/a,A,PC & laptops,40,70,233,1997
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Microsoft Lumia,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[3]/a,A,Microsoft Lumia,41,85,233,2021
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li > a,0,Compte,0,Compte,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li/a,A,Compte,42,42,406,1973
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Commandes,0,Commandes,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[2]/a,A,Commandes,43,66,406,1997
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Retours,0,Retours,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[3]/a,A,Retours,44,41,406,2021
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Ventes et support,0,Ventes et ,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[4]/a,A,Ventes et support,45,94,406,2045
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li > a,0,Centre de téléchargement,0,Centre de ,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li/a,A,Centre de téléchargement,46,138,578,1973
+34,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Téléchargements pour Windows,0,Télécharge,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[2]/a,A,Téléchargements pour Windows,47,119,578,1997
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Windows 10 Apps,0,Windows 10,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[3]/a,A,Windows 10 Apps,48,95,578,2039
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Office Apps,0,Office App,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[4]/a,A,Office Apps,49,62,578,2063
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Microsoft Lumia Apps,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[5]/a,A,Microsoft Lumia Apps,50,116,578,2087
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Internet Explorer,0,Internet E,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[6]/a,A,Internet Explorer,51,88,578,2111
+34,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li > a,0,La confidentialité chez Microsoft,0,La confide,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li/a,A,La confidentialité chez Microsoft,52,118,751,1973
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Éducation,0,Éducation,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[2]/a,A,Éducation,53,52,751,2015
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li > a,0,Carrières,0,Carrières,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li/a,A,Carrières,54,47,924,1973
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(2) > a,0,Microsoft en France,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[2]/a,A,Microsoft en France,55,105,924,1997
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(3) > a,0,Presse,0,Presse,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[3]/a,A,Presse,56,34,924,2021
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(4) > a,0,Plan du site de Microsoft,0,Plan du si,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[4]/a,A,Plan du site de Microsoft,57,132,924,2045
+16,0,a#locale-picker-link,locale-picker-link,Français (France)‎,0,Français (,A,/html/body/div[3]/span/div/div/div[2]/ul/li[2]/a,A,Français (France)‎,58,88,89,2175
+16,ctl_footerNavLink,a#shellmenu_0,shellmenu_0,Contactez Microsoft,0,Contactez ,A,/html/body/div[3]/span/div/div/div[3]/ul/li/a,A,Contactez Microsoft,59,106,493,2175
+16,ctl_footerNavLink,a#shellmenu_1,shellmenu_1,Confidentialité et Cookies,0,Confidenti,A,/html/body/div[3]/span/div/div/div[3]/ul/li[2]/a,A,Confidentialité et Cookies,60,136,623,2175
+16,ctl_footerNavLink,a#shellmenu_2,shellmenu_2,Conditions d'utilisation,0,Conditions,A,/html/body/div[3]/span/div/div/div[3]/ul/li[3]/a,A,Conditions d'utilisation,61,122,783,2175
+16,ctl_footerNavLink,a#shellmenu_3,shellmenu_3,Marques,0,Marques,A,/html/body/div[3]/span/div/div/div[3]/ul/li[4]/a,A,Marques,62,46,929,2175
+16,ctl_footerNavLink,a#shellmenu_4,shellmenu_4,À propos de nos annonces,0,À propos d,A,/html/body/div[3]/span/div/div/div[3]/ul/li[5]/a,A,À propos de nos annonces,63,141,999,2175
+16,ctl_footerNavLink,a#shellmenu_5,shellmenu_5,EU Compliance DoCs,0,EU Complia,A,/html/body/div[3]/span/div/div/div[3]/ul/li[6]/a,A,EU Compliance DoCs,64,111,911,2200

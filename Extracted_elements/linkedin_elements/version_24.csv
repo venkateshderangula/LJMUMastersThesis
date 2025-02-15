@@ -1,0 +1,32 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+40,reg-firstname,input#reg-firstname,reg-firstname,,firstName,,INPUT,/html/body/div/div[3]/form[2]/section/input,INPUT,,1,1168,16,154
+40,reg-lastname,input#reg-lastname,reg-lastname,,lastName,,INPUT,/html/body/div/div[3]/form[2]/section/input[2],INPUT,,2,1168,16,194
+40,reg-email,input#reg-email,reg-email,,session_key,,INPUT,/html/body/div/div[3]/form[2]/section/input[3],INPUT,,3,1168,16,234
+40,reg-password,input#reg-password,reg-password,,session_password,,INPUT,/html/body/div/div[3]/form[2]/section/input[4],INPUT,,4,1168,16,274
+40,registration submit-button,input#registration-submit,registration-submit,,0,,INPUT,/html/body/div/div[3]/form[2]/section/input[5],INPUT,,5,1168,16,330
+14,0,form#regForm > section > span > a,0,User Agreement,0,User Agree,A,/html/body/div/div[3]/form[2]/section/span/a,A,User Agreement,6,92,302,383
+14,0,form#regForm > section > span > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div/div[3]/form[2]/section/span/a[2],A,Privacy Policy,7,78,401,383
+14,0,form#regForm > section > span > a:nth-of-type(3),0,Cookie Policy,0,Cookie Pol,A,/html/body/div/div[3]/form[2]/section/span/a[3],A,Cookie Policy,8,75,510,383
+20,link-login form-toggle,form#regForm > section > span:nth-of-type(2) > a,0,Sign in,0,Sign in,A,/html/body/div/div[3]/form[2]/section/span[2]/a,A,Sign in,9,46,952,386
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li > a,0,Sign Up,0,Sign Up,A,/html/body/div/div[3]/div[2]/div/ul/li/a,A,Sign Up,10,44,20,642
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Help Center,0,Help Cente,A,/html/body/div/div[3]/div[2]/div/ul/li[2]/a,A,Help Center,11,68,20,668
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,About,0,About,A,/html/body/div/div[3]/div[2]/div/ul/li[3]/a,A,About,12,34,20,694
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,Press,0,Press,A,/html/body/div/div[3]/div[2]/div/ul/li[4]/a,A,Press,13,31,20,720
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,Blog,0,Blog,A,/html/body/div/div[3]/div[2]/div/ul/li[5]/a,A,Blog,14,25,20,746
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > a,0,Careers,0,Careers,A,/html/body/div/div[3]/div[2]/div/ul/li[6]/a,A,Careers,15,44,20,772
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div > ul > li:nth-of-type(7) > a,0,Developers,0,Developers,A,/html/body/div/div[3]/div[2]/div/ul/li[7]/a,A,Developers,16,64,20,798
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(2) > ul > li > a,0,Talent,0,Talent,A,/html/body/div/div[3]/div[2]/div[2]/ul/li/a,A,Talent,17,34,620,642
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Marketing,0,Marketing,A,/html/body/div/div[3]/div[2]/div[2]/ul/li[2]/a,A,Marketing,18,56,620,668
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Sales,0,Sales,A,/html/body/div/div[3]/div[2]/div[2]/ul/li[3]/a,A,Sales,19,30,620,694
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Learning,0,Learning,A,/html/body/div/div[3]/div[2]/div[2]/ul/li[4]/a,A,Learning,20,49,620,720
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(3) > ul > li > a,0,Learning,0,Learning,A,/html/body/div/div[3]/div[2]/div[3]/ul/li/a,A,Learning,21,49,20,888
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/div/div[3]/div[2]/div[3]/ul/li[2]/a,A,Jobs,22,27,20,914
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Salary,0,Salary,A,/html/body/div/div[3]/div[2]/div[3]/ul/li[3]/a,A,Salary,23,35,20,940
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Mobile,0,Mobile,A,/html/body/div/div[3]/div[2]/div[3]/ul/li[4]/a,A,Mobile,24,38,20,966
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,ProFinder,0,ProFinder,A,/html/body/div/div[3]/div[2]/div[3]/ul/li[5]/a,A,ProFinder,25,55,20,992
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li > a,0,Members,0,Members,A,/html/body/div/div[3]/div[2]/div[4]/ul/li/a,A,Members,26,53,620,888
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Jobs,0,Jobs,A,/html/body/div/div[3]/div[2]/div[4]/ul/li[2]/a,A,Jobs,27,27,620,914
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Companies,0,Companies,A,/html/body/div/div[3]/div[2]/div[4]/ul/li[3]/a,A,Companies,28,63,620,940
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Salaries,0,Salaries,A,/html/body/div/div[3]/div[2]/div[4]/ul/li[4]/a,A,Salaries,29,45,620,966
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Universities,0,Universiti,A,/html/body/div/div[3]/div[2]/div[4]/ul/li[5]/a,A,Universities,30,66,620,992
+14,ghp-footer__link,div#main-container > div:nth-of-type(2) > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Top Jobs,0,Top Jobs,A,/html/body/div/div[3]/div[2]/div[4]/ul/li[6]/a,A,Top Jobs,31,51,620,1018

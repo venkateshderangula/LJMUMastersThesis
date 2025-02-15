@@ -1,0 +1,42 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+80,navbar-brand,header#js-navbar > div > div > a:nth-of-type(2),0,Spotify,0,Spotify,A,/html/body/div[2]/header/div/div/a[2],A,Spotify,1,132,30,0
+80,0,a#nav-link-premium,nav-link-premium,Premium,0,Premium,A,/html/body/div[2]/header/div/nav/ul/li[2]/a,A,Premium,2,101,703,0
+80,0,a#nav-link-help,nav-link-help,Help,0,Help,A,/html/body/div[2]/header/div/nav/ul/li[3]/a,A,Help,3,69,803,0
+80,js-get-spotify js-gtm-event,a#nav-link-download,nav-link-download,Download,0,Download,A,/html/body/div[2]/header/div/nav/ul/li[4]/a,A,Download,4,110,872,0
+80,0,a#nav-link-sign-up,nav-link-sign-up,Sign up,0,Sign up,A,/html/body/div[2]/header/div/nav/ul/li[6]/a,A,Sign up,5,90,1017,0
+80,user-link ,a#header-login-link,header-login-link,Log In,0,Log In,A,/html/body/div[2]/header/div/nav/ul/li[7]/a,A,Log In,6,80,1107,0
+56,btn btn-lg btn-solid js-button-hero-get-premium,div#carousel-tour > div > div > a,0,Learn More,0,Learn More,A,/html/body/div[2]/div[2]/div[2]/div/div/div/a,A,Learn More,7,235,482,218
+27,js-goto-signup,div#carousel-tour > div > div > p > a,0,free service,0,free servi,A,/html/body/div[2]/div[2]/div[2]/div/div/div/p/a,A,free service,8,98,624,309
+60,left carousel-control js-button-hero-carousel-left-arrow,div#carousel-tour > a,0,Previous,0,Previous,A,/html/body/div[2]/div[2]/div[2]/div/a,A,Previous,9,60,30,230
+60,right carousel-control js-button-hero-carousel-right-arrow,div#carousel-tour > a:nth-of-type(2),0,Next,0,Next,A,/html/body/div[2]/div[2]/div[2]/div/a[2],A,Next,10,60,1104,230
+5,btn-scroll btn-scroll-aquamarine ,html > body > div:nth-of-type(2) > div:nth-of-type(3) > a,0,LEARN ABOUT SPOTIFY,whats-on-spotify,LEARN ABOU,A,/html/body/div[2]/div[3]/a,A,LEARN ABOUT SPOTIFY,11,211,494,537
+30,btn btn-stroked-light,div#album-slot1 > div > div > a,0,GET STARTED,0,GET STARTE,A,/html/body/div[2]/div[4]/div/div/div[2]/div/div/div/div/a,A,GET STARTED,12,187,75,862
+30,btn btn-stroked-light,div#album-slot2 > div > div > a,0,GET STARTED,0,GET STARTE,A,/html/body/div[2]/div[4]/div/div/div[2]/div/div[2]/div/div/a,A,GET STARTED,13,187,353,862
+30,btn btn-stroked-light,div#album-slot3 > div > div > a,0,GET STARTED,0,GET STARTE,A,/html/body/div[2]/div[4]/div/div/div[2]/div/div[3]/div/div/a,A,GET STARTED,14,187,75,1139
+30,btn btn-stroked-light,div#album-slot4 > div > div > a,0,GET STARTED,0,GET STARTE,A,/html/body/div[2]/div[4]/div/div/div[2]/div/div[4]/div/div/a,A,GET STARTED,15,187,353,1139
+24,0,html > body > div:nth-of-type(2) > div:nth-of-type(8) > div > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,PlayStation®,0,PlayStatio,A,/html/body/div[2]/div[8]/div/ul[2]/li[2]/a,A,PlayStation®,16,121,677,2827
+24,hidden-xs js-button-webplayerlink,html > body > div:nth-of-type(2) > div:nth-of-type(8) > div > ul:nth-of-type(2) > li:nth-of-type(4) > a,0,Web Player,0,Web Player,A,/html/body/div[2]/div[8]/div/ul[2]/li[4]/a,A,Web Player,17,98,887,2827
+48,btn btn-solid js-goto-signup js-button-module-get-free,html > body > div:nth-of-type(2) > div:nth-of-type(10) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > a,0,GET SPOTIFY FREE,0,GET SPOTIF,A,/html/body/div[2]/div[10]/div[2]/div/div/div[2]/div/div/a,A,GET SPOTIFY FREE,18,253,30,3432
+26,0,html > body > div:nth-of-type(2) > div:nth-of-type(10) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > p > a,0,Family,0,Family,A,/html/body/div[2]/div[10]/div[2]/div/div/div[2]/div/div[3]/div[2]/p/a,A,Family,19,52,30,3630
+26,0,html > body > div:nth-of-type(2) > div:nth-of-type(10) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > p > a:nth-of-type(2),0,Student,0,Student,A,/html/body/div[2]/div[10]/div[2]/div/div/div[2]/div/div[3]/div[2]/p/a[2],A,Student,20,62,120,3630
+48,btn btn-solid js-button-module-get-premium,html > body > div:nth-of-type(2) > div:nth-of-type(10) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > a,0,GET SPOTIFY PREMIUM,0,GET SPOTIF,A,/html/body/div[2]/div[10]/div[2]/div/div/div[2]/div/div[3]/a,A,GET SPOTIFY PREMIUM,21,292,30,3878
+17,0,html > body > div:nth-of-type(2) > div:nth-of-type(10) > div:nth-of-type(2) > p > a,0,Terms apply.,0,Terms appl,A,/html/body/div[2]/div[10]/div[2]/p/a,A,Terms apply.,22,66,778,4003
+40,0,html > body > footer > div > nav > div > div > a,0,Spotify,0,Spotify,A,/html/body/footer/div/nav/div/div/a,A,Spotify,23,132,30,4119
+30,0,a#nav-link-about,nav-link-about,About,0,About,A,/html/body/footer/div/nav/div[2]/ul/li/a,A,About,24,45,225,4176
+30,0,a#nav-link-jobs,nav-link-jobs,Jobs,0,Jobs,A,/html/body/footer/div/nav/div[2]/ul/li[2]/a,A,Jobs,25,35,225,4218
+30,0,a#nav-link-press,nav-link-press,Press,0,Press,A,/html/body/footer/div/nav/div[2]/ul/li[3]/a,A,Press,26,38,225,4260
+30,0,a#nav-link-news,nav-link-news,News,0,News,A,/html/body/footer/div/nav/div[2]/ul/li[4]/a,A,News,27,41,225,4302
+30,0,a#nav-link-artists,nav-link-artists,For Artists,0,For Artist,A,/html/body/footer/div/nav/div[3]/ul/li/a,A,For Artists,28,74,420,4176
+30,0,a#nav-link-developers,nav-link-developers,Developers,0,Developers,A,/html/body/footer/div/nav/div[3]/ul/li[2]/a,A,Developers,29,82,420,4218
+30,0,a#nav-link-brands,nav-link-brands,Brands,0,Brands,A,/html/body/footer/div/nav/div[3]/ul/li[3]/a,A,Brands,30,50,420,4260
+30,0,a#nav-link-help,nav-link-help,Help,0,Help,A,/html/body/footer/div/nav/div[4]/ul/li/a,A,Help,31,34,615,4176
+30,0,a#nav-link-gift,nav-link-gift,Gift,0,Gift,A,/html/body/footer/div/nav/div[4]/ul/li[2]/a,A,Gift,32,27,615,4218
+30,0,a#nav-link-play,nav-link-play,Web Player,0,Web Player,A,/html/body/footer/div/nav/div[4]/ul/li[3]/a,A,Web Player,33,83,615,4260
+54,0,html > body > footer > div > nav > div:nth-of-type(5) > ul > li > a,0,Instagram,0,Instagram,A,/html/body/footer/div/nav/div[5]/ul/li/a,A,Instagram,34,54,978,4139
+54,0,html > body > footer > div > nav > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Twitter,0,Twitter,A,/html/body/footer/div/nav/div[5]/ul/li[2]/a,A,Twitter,35,54,1047,4139
+54,0,html > body > footer > div > nav > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Facebook,0,Facebook,A,/html/body/footer/div/nav/div[5]/ul/li[3]/a,A,Facebook,36,54,1116,4139
+42,0,html > body > footer > div > nav:nth-of-type(2) > div > ul > li > a,0,Legal,0,Legal,A,/html/body/footer/div/nav[2]/div/ul/li/a,A,Legal,37,41,30,4444
+42,0,html > body > footer > div > nav:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,Privacy,0,Privacy,A,/html/body/footer/div/nav[2]/div/ul/li[2]/a,A,Privacy,38,64,71,4444
+42,0,html > body > footer > div > nav:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,Cookies,0,Cookies,A,/html/body/footer/div/nav[2]/div/ul/li[3]/a,A,Cookies,39,68,135,4444
+42,0,html > body > footer > div > nav:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,About Ads,0,About Ads,A,/html/body/footer/div/nav[2]/div/ul/li[4]/a,A,About Ads,40,81,203,4444
+23,market,html > body > footer > div > nav:nth-of-type(2) > div:nth-of-type(2) > a,0,USA,0,USA,A,/html/body/footer/div/nav[2]/div[2]/a,A,USA,41,58,1112,4424

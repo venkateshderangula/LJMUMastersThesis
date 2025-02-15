@@ -1,0 +1,27 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+15,selected,a#jobsLink,jobsLink,Find Jobs,0,Find Jobs,A,/html/body/div/div/table/tbody/tr/td/div/span/a,A,Find Jobs,1,63,17,11
+15,0,a#rezLink,rezLink,Find Resumes,0,Find Resum,A,/html/body/div/div/table/tbody/tr/td/div/span[2]/a,A,Find Resumes,2,86,104,11
+15,0,a#empLink,empLink,Employers / Post Job,0,Employers ,A,/html/body/div/div/table/tbody/tr/td/div/span[3]/a,A,Employers / Post Job,3,126,214,11
+15,0,span#navpromo > a,0,Upload your resume,0,Upload you,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span/span/a,A,Upload your resume,4,120,977,11
+15,0,a#userOptionsLabel,userOptionsLabel,Sign in,0,Sign in,A,/html/body/div/div/table/tbody/tr/td[2]/div/div/span[2]/a,A,Sign in,5,63,1125,11
+30,input_text,input#what,what,,q,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td/span/input,INPUT,,6,309,250,198
+30,input_text,input#where,where,,l,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[2]/span/input,INPUT,,7,271,562,198
+25,input_submit,input#fj,fj,,0,,INPUT,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td[3]/span/span/input,INPUT,,8,83,837,202
+13,sl,form#jobsearch > table > tbody > tr:nth-of-type(5) > td:nth-of-type(3) > a,0,Advanced Job Search,0,Advanced J,A,/html/body/div/div[2]/table/tbody/tr[2]/td/form/table/tbody/tr[5]/td[3]/a,A,Advanced Job Search,9,108,839,234
+15,0,p#resPromoDisplay > a,0,,0,,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p/a,A,,10,21,448,279
+15,resume-promo-link,p#resPromoDisplay > a:nth-of-type(2),0,Upload your resume,0,Upload you,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p/a[2],A,Upload your resume,11,129,473,279
+15,0,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div > div > p:nth-of-type(2) > span > a,0,,0,,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p[2]/span/a,A,,12,21,448,309
+15,post-jobs-promo-link,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div > div > p:nth-of-type(2) > span > a:nth-of-type(2),0,Employers: Post a job,0,Employers:,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div/div/p[2]/span/a[2],A,Employers: Post a job,13,140,473,309
+15,0,div#hp_welcome_message > a,0,jobs,0,jobs,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div[2]/a,A,jobs,14,24,576,384
+15,0,div#viewport > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > p > a,0,español,0,español,A,/html/body/div/div[2]/table/tbody/tr[2]/td/p/a,A,español,15,47,680,429
+15,sl,div#gajui > a,0,Over 10 million stories shared,0,Over 10 mi,A,/html/body/div/div[2]/table/tbody/tr[2]/td/div[3]/a,A,Over 10 million stories shared,16,176,601,484
+14,0,a#companies_product_link,companies_product_link,Browse Companies,0,Browse Com,A,/html/body/div/div[2]/div[2]/div/span/div/a,A,Browse Companies,17,104,12,566
+14,0,a#salaries_product_link,salaries_product_link,Salaries,0,Salaries,A,/html/body/div/div[2]/div[2]/div/span/div/a[2],A,Salaries,18,43,127,566
+14,0,a#trends_product_link,trends_product_link,Trends,0,Trends,A,/html/body/div/div[2]/div[2]/div/span/div/a[3],A,Trends,19,37,181,566
+14,0,div#footerMainLinks > a:nth-of-type(4),0,Browse Jobs,0,Browse Job,A,/html/body/div/div[2]/div[2]/div/span/div/a[4],A,Browse Jobs,20,69,228,566
+14,0,div#footerMainLinks > a:nth-of-type(5),0,Work at Indeed,0,Work at In,A,/html/body/div/div[2]/div[2]/div/span/div/a[5],A,Work at Indeed,21,81,307,566
+14,0,div#footerMainLinks > a:nth-of-type(6),0,API,0,API,A,/html/body/div/div[2]/div[2]/div/span/div/a[6],A,API,22,19,399,566
+14,sl,div#footerMainLinks > a:nth-of-type(7),0,Countries,0,Countries,A,/html/body/div/div[2]/div[2]/div/span/div/a[7],A,Countries,23,51,429,566
+14,0,div#footerMainLinks > a:nth-of-type(8),0,About,0,About,A,/html/body/div/div[2]/div[2]/div/span/div/a[8],A,About,24,31,490,566
+14,0,div#footerMainLinks > a:nth-of-type(9),0,Help Center,0,Help Cente,A,/html/body/div/div[2]/div[2]/div/span/div/a[9],A,Help Center,25,64,532,566
+14,0,div#footerLegal > a,0,"Cookies, Privacy and Terms",0,"Cookies, P",A,/html/body/div/div[2]/div[2]/div/span/div[2]/a,A,"Cookies, Privacy and Terms",26,149,1040,566

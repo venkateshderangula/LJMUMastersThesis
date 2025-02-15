@@ -1,0 +1,67 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+34,nav__logo-link,html > body > nav > a,0,LinkedIn,0,LinkedIn,A,/html/body/nav/a,A,LinkedIn,1,135,36,15
+40,switcher-tabs__placeholder hide-on-mobile,html > body > nav > section > div > button,0,,0,,BUTTON,/html/body/nav/section/div/button,BUTTON,求人,2,62,203,12
+40,dismissable-input__input,html > body > nav > section > section:nth-of-type(2) > form > section > input,0,,keywords,,INPUT,/html/body/nav/section/section[2]/form/section/input,INPUT,,3,243,265,12
+40,dismissable-input__button,html > body > nav > section > section:nth-of-type(2) > form > section > button,0,,0,,BUTTON,/html/body/nav/section/section[2]/form/section/button,BUTTON,閉じる,4,24,508,12
+40,dismissable-input__input,html > body > nav > section > section:nth-of-type(2) > form > section:nth-of-type(2) > input,0,,location,,INPUT,/html/body/nav/section/section[2]/form/section[2]/input,INPUT,,5,243,541,12
+40,dismissable-input__button dismissable-input__button--show,html > body > nav > section > section:nth-of-type(2) > form > section:nth-of-type(2) > button,0,,0,,BUTTON,/html/body/nav/section/section[2]/form/section[2]/button,BUTTON,閉じる,6,24,783,12
+40,base-search-bar__submit-btn,html > body > nav > section > section:nth-of-type(2) > form > button,0,,0,,BUTTON,/html/body/nav/section/section[2]/form/button,BUTTON,,7,40,816,12
+40,nav__button-tertiary,html > body > nav > a:nth-of-type(2),0,今すぐ登録する,0,今すぐ登録する,A,/html/body/nav/a[2],A,今すぐ登録する,8,136,888,12
+40,nav__button-secondary,html > body > nav > a:nth-of-type(3),0,サインイン,0,サインイン,A,/html/body/nav/a[3],A,サインイン,9,128,1036,12
+48,input__input,input#email-or-phone,email-or-phone,,email-or-phone,,INPUT,/html/body/main/section/form/section/div[2]/div/input,INPUT,,10,408,36,276
+48,input__input,input#password,password,,password,,INPUT,/html/body/main/section/form/section/div[2]/div[2]/input,INPUT,,11,408,36,336
+34,join-form__form-body-agreement-item-link,html > body > main > section > form > section > p > a,0,利用規約,0,利用規約,A,/html/body/main/section/form/section/p/a,A,利用規約,12,394,36,399
+14,join-form__form-body-agreement-item-link,html > body > main > section > form > section > p > a:nth-of-type(2),0,プライバシーポリシー,0,プライバシーポリシー,A,/html/body/main/section/form/section/p/a[2],A,プライバシーポリシー,13,139,78,418
+14,join-form__form-body-agreement-item-link,html > body > main > section > form > section > p > a:nth-of-type(3),0,Cookieポリシー,0,Cookieポリシー,A,/html/body/main/section/form/section/p/a[3],A,Cookieポリシー,14,108,231,418
+56,join-form__form-body-submit-button,button#join-form-submit,join-form-submit,,0,,BUTTON,/html/body/main/section/form/section/button,BUTTON,同意して登録,15,408,36,468
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li > a,0,エンジニアリング,0,エンジニアリング,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li/a,A,エンジニアリング,16,199,591,868
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2) > a,0,事業開発,0,事業開発,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[2]/a,A,事業開発,17,120,796,868
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3) > a,0,金融,0,金融,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[3]/a,A,金融,18,80,922,868
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(4) > a,0,事務補助,0,事務補助,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[4]/a,A,事務補助,19,120,1008,868
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(5) > a,0,小売店員,0,小売店員,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[5]/a,A,小売店員,20,120,591,936
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(6) > a,0,カスタマーサービス,0,カスタマーサービス,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[6]/a,A,カスタマーサービス,21,219,717,936
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(7) > a,0,運営,0,運営,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[7]/a,A,運営,22,80,943,936
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(8) > a,0,IT,0,IT,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[8]/a,A,IT,23,60,1029,936
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(9) > a,0,マーケティング,0,マーケティング,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[9]/a,A,マーケティング,24,179,591,1004
+56,pill,html > body > main > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(10) > a,0,人事,0,人事,A,/html/body/main/section[2]/div/div[2]/div/div/ul/li[10]/a,A,人事,25,80,777,1004
+56,pill pill--transparent,html > body > main > section:nth-of-type(3) > div > a,0,求人を掲載する,0,求人を掲載する,A,/html/body/main/section[3]/div/a,A,求人を掲載する,26,182,516,1317
+56,pill pill--transparent,html > body > main > section:nth-of-type(4) > div > div > div > a,0,知り合いを見つける,0,知り合いを見つける,A,/html/body/main/section[4]/div/div/div/a,A,知り合いを見つける,27,221,36,1831
+57,brand-discovery__button,html > body > main > section:nth-of-type(5) > div > div > ul > li > a,0,同僚やクラスメートを見つける,0,同僚やクラスメートを,A,/html/body/main/section[5]/div/div/ul/li/a,A,同僚やクラスメートを見つける,28,408,36,2429
+57,brand-discovery__button,html > body > main > section:nth-of-type(5) > div > div > ul > li:nth-of-type(2) > a,0,新しい仕事を探す,0,新しい仕事を探す,A,/html/body/main/section[5]/div/div/ul/li[2]/a,A,新しい仕事を探す,29,408,36,2502
+57,brand-discovery__button,html > body > main > section:nth-of-type(5) > div > div > ul > li:nth-of-type(3) > a,0,コースまたはトレーニングを検索,0,コースまたはトレーニ,A,/html/body/main/section[5]/div/div/ul/li[3]/a,A,コースまたはトレーニングを検索,30,408,36,2575
+56,pill pill--blue pill--join-cta,html > body > main > section:nth-of-type(6) > div > a,0,今すぐ開始,0,今すぐ開始,A,/html/body/main/section[6]/div/a,A,今すぐ開始,31,140,36,3119
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li > a,0,メンバー登録,0,メンバー登録,A,/html/body/main/section[7]/div/div/div/ul/li/a,A,メンバー登録,32,83,300,3757
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(2) > a,0,ヘルプセンター,0,ヘルプセンター,A,/html/body/main/section[7]/div/div/div/ul/li[2]/a,A,ヘルプセンター,33,97,300,3781
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(3) > a,0,概要,0,概要,A,/html/body/main/section[7]/div/div/div/ul/li[3]/a,A,概要,34,28,300,3806
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(4) > a,0,広報,0,広報,A,/html/body/main/section[7]/div/div/div/ul/li[4]/a,A,広報,35,28,300,3830
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(5) > a,0,ブログ,0,ブログ,A,/html/body/main/section[7]/div/div/div/ul/li[5]/a,A,ブログ,36,42,300,3855
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(6) > a,0,キャリア,0,キャリア,A,/html/body/main/section[7]/div/div/div/ul/li[6]/a,A,キャリア,37,56,300,3879
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div > ul > li:nth-of-type(7) > a,0,開発者,0,開発者,A,/html/body/main/section[7]/div/div/div/ul/li[7]/a,A,開発者,38,42,300,3904
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(2) > ul > li > a,0,ラーニング,0,ラーニング,A,/html/body/main/section[7]/div/div/div[2]/ul/li/a,A,ラーニング,39,70,516,3757
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,求人,0,求人,A,/html/body/main/section[7]/div/div/div[2]/ul/li[2]/a,A,求人,40,28,516,3781
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,給与,0,給与,A,/html/body/main/section[7]/div/div/div[2]/ul/li[3]/a,A,給与,41,28,516,3806
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,モバイル,0,モバイル,A,/html/body/main/section[7]/div/div/div[2]/ul/li[4]/a,A,モバイル,42,55,516,3830
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,ProFinder,0,ProFinder,A,/html/body/main/section[7]/div/div/div[2]/ul/li[5]/a,A,ProFinder,43,74,516,3855
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(3) > ul > li > a,0,採用,0,採用,A,/html/body/main/section[7]/div/div/div[3]/ul/li/a,A,採用,44,28,732,3757
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,マーケティング,0,マーケティング,A,/html/body/main/section[7]/div/div/div[3]/ul/li[2]/a,A,マーケティング,45,98,732,3781
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,セールス,0,セールス,A,/html/body/main/section[7]/div/div/div[3]/ul/li[3]/a,A,セールス,46,55,732,3806
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,ラーニング,0,ラーニング,A,/html/body/main/section[7]/div/div/div[3]/ul/li[4]/a,A,ラーニング,47,70,732,3830
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li > a,0,メンバー,0,メンバー,A,/html/body/main/section[7]/div/div/div[4]/ul/li/a,A,メンバー,48,55,948,3757
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,求人,0,求人,A,/html/body/main/section[7]/div/div/div[4]/ul/li[2]/a,A,求人,49,28,948,3781
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,会社,0,会社,A,/html/body/main/section[7]/div/div/div[4]/ul/li[3]/a,A,会社,50,28,948,3806
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,給与,0,給与,A,/html/body/main/section[7]/div/div/div[4]/ul/li[4]/a,A,給与,51,28,948,3830
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,おすすめ,0,おすすめ,A,/html/body/main/section[7]/div/div/div[4]/ul/li[5]/a,A,おすすめ,52,56,948,3855
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,ラーニング,0,ラーニング,A,/html/body/main/section[7]/div/div/div[4]/ul/li[6]/a,A,ラーニング,53,70,948,3879
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(7) > a,0,投稿,0,投稿,A,/html/body/main/section[7]/div/div/div[4]/ul/li[7]/a,A,投稿,54,28,948,3904
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(8) > a,0,記事,0,記事,A,/html/body/main/section[7]/div/div/div[4]/ul/li[8]/a,A,記事,55,28,948,3928
+14,directory__link,html > body > main > section:nth-of-type(7) > div > div > div:nth-of-type(4) > ul > li:nth-of-type(9) > a,0,学校,0,学校,A,/html/body/main/section[7]/div/div/div[4]/ul/li[9]/a,A,学校,56,28,948,3953
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(2) > a,0,概要,0,概要,A,/html/body/footer/ul/li[2]/a,A,概要,57,24,166,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(3) > a,0,アクセシビリティ,0,アクセシビリティ,A,/html/body/footer/ul/li[3]/a,A,アクセシビリティ,58,95,206,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(4) > a,0,利用規約,0,利用規約,A,/html/body/footer/ul/li[4]/a,A,利用規約,59,48,317,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(5) > a,0,プライバシーポリシー,0,プライバシーポリシー,A,/html/body/footer/ul/li[5]/a,A,プライバシーポリシー,60,119,381,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(6) > a,0,Cookieポリシー,0,Cookieポリシー,A,/html/body/footer/ul/li[6]/a,A,Cookieポリシー,61,89,516,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(7) > a,0,著作権ポリシー,0,著作権ポリシー,A,/html/body/footer/ul/li[7]/a,A,著作権ポリシー,62,84,621,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(8) > a,0,ブランドポリシー,0,ブランドポリシー,A,/html/body/footer/ul/li[8]/a,A,ブランドポリシー,63,96,721,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(9) > a,0,ゲスト向け管理ページ,0,ゲスト向け管理ページ,A,/html/body/footer/ul/li[9]/a,A,ゲスト向け管理ページ,64,120,833,4003
+16,li-footer__item-link,html > body > footer > ul > li:nth-of-type(10) > a,0,コミュニティガイドライン,0,コミュニティガイドラ,A,/html/body/footer/ul/li[10]/a,A,コミュニティガイドライン,65,143,969,4003
+18,language-selector__button,html > body > footer > ul > li:nth-of-type(11) > div > button,0,,0,,BUTTON,/html/body/footer/ul/li[11]/div/button,BUTTON,言語,66,46,44,4034

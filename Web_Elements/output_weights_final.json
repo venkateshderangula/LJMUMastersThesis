@@ -1,0 +1,613 @@
+{
+    "bing_elements": {
+        "locators": {
+            "locator_class": 0.398,
+            "locator_css": 0.547,
+            "locator_id": 1.0,
+            "locator_linkText": 0.844,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.838,
+            "locator_tag": 0.006,
+            "locator_xpath": 0.549,
+            "text": 0.846
+        }
+    },
+    "microsoft_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.68,
+            "locator_id": 0.563,
+            "locator_linkText": 0.671,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.675,
+            "locator_tag": 0.368,
+            "locator_xpath": 0.683,
+            "text": 0.682
+        }
+    },
+    "zillow_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.707,
+            "locator_id": 0.546,
+            "locator_linkText": 0.931,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.928,
+            "locator_tag": 0.082,
+            "locator_xpath": 0.651,
+            "text": 0.934
+        }
+    },
+    "instructure_elements": {
+        "locators": {
+            "locator_class": 0.328,
+            "locator_css": 0.949,
+            "locator_id": 0.035,
+            "locator_linkText": 0.744,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.735,
+            "locator_tag": 0.117,
+            "locator_xpath": 1.0,
+            "text": 0.778
+        }
+    },
+    "chase_elements": {
+        "locators": {
+            "locator_class": 0.453,
+            "locator_css": 1.0,
+            "locator_id": 0.051,
+            "locator_linkText": 0.991,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.985,
+            "locator_tag": 0.032,
+            "locator_xpath": 1.0,
+            "text": 0.999
+        }
+    },
+    "apple_elements": {
+        "locators": {
+            "locator_class": 0.38,
+            "locator_css": 0.907,
+            "locator_id": 0.014,
+            "locator_linkText": 0.999,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.996,
+            "locator_tag": 0.003,
+            "locator_xpath": 0.906,
+            "text": 1.0
+        }
+    },
+    "usps_elements": {
+        "locators": {
+            "locator_class": 0.332,
+            "locator_css": 0.896,
+            "locator_id": 0.054,
+            "locator_linkText": 0.715,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.706,
+            "locator_tag": 0.025,
+            "locator_xpath": 1.0,
+            "text": 0.728
+        }
+    },
+    "outlook_widget_csv": {
+        "locators": {
+            "locator_class": 0.5,
+            "locator_css": 0.5,
+            "locator_id": 0.5,
+            "locator_linkText": 0.5,
+            "locator_name": 0.5,
+            "locator_partialLinkText": 0.5,
+            "locator_tag": 0.5,
+            "locator_xpath": 0.5,
+            "text": 0.5
+        }
+    },
+    "okta_elements": {
+        "locators": {
+            "locator_class": 0.589,
+            "locator_css": 0.909,
+            "locator_id": 0.076,
+            "locator_linkText": 1.0,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.059,
+            "locator_xpath": 0.908,
+            "text": 0.97
+        }
+    },
+    "facebook_elements": {
+        "locators": {
+            "locator_class": 0.993,
+            "locator_css": 0.146,
+            "locator_id": 1.0,
+            "locator_linkText": 0.408,
+            "locator_name": 0.557,
+            "locator_partialLinkText": 0.456,
+            "locator_tag": 0.453,
+            "locator_xpath": 0.0,
+            "text": 0.328
+        }
+    },
+    "foxnews_elements": {
+        "locators": {
+            "locator_class": 0.0,
+            "locator_css": 0.95,
+            "locator_id": 0.279,
+            "locator_linkText": 0.324,
+            "locator_name": 0.278,
+            "locator_partialLinkText": 0.32,
+            "locator_tag": 0.253,
+            "locator_xpath": 1.0,
+            "text": 0.324
+        }
+    },
+    "outlook_elements": {
+        "locators": {
+            "locator_class": 0.664,
+            "locator_css": 1.0,
+            "locator_id": 0.064,
+            "locator_linkText": 0.608,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.589,
+            "locator_tag": 0.064,
+            "locator_xpath": 1.0,
+            "text": 0.641
+        }
+    },
+    "amazon_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.0,
+            "locator_id": 0.419,
+            "locator_linkText": 0.947,
+            "locator_name": 0.302,
+            "locator_partialLinkText": 0.945,
+            "locator_tag": 0.356,
+            "locator_xpath": 0.022,
+            "text": 0.947
+        }
+    },
+    "spotify_elements": {
+        "locators": {
+            "locator_class": 0.493,
+            "locator_css": 0.914,
+            "locator_id": 0.355,
+            "locator_linkText": 0.997,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.995,
+            "locator_tag": 0.007,
+            "locator_xpath": 0.919,
+            "text": 1.0
+        }
+    },
+    "aliexpress_elements": {
+        "locators": {
+            "locator_class": 0.926,
+            "locator_css": 0.383,
+            "locator_id": 0.095,
+            "locator_linkText": 1.0,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.997,
+            "locator_tag": 0.128,
+            "locator_xpath": 0.398,
+            "text": 1.0
+        }
+    },
+    "ups_elements": {
+        "locators": {
+            "locator_class": 0.752,
+            "locator_css": 0.978,
+            "locator_id": 0.409,
+            "locator_linkText": 0.971,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.923,
+            "locator_tag": 0.207,
+            "locator_xpath": 1.0,
+            "text": 0.971
+        }
+    },
+    "twitter_elements": {
+        "locators": {
+            "locator_class": 0.374,
+            "locator_css": 0.304,
+            "locator_id": 0.0,
+            "locator_linkText": 1.0,
+            "locator_name": 0.048,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.513,
+            "locator_xpath": 0.304,
+            "text": 0.353
+        }
+    },
+    "netflix_elements": {
+        "locators": {
+            "locator_class": 0.312,
+            "locator_css": 0.975,
+            "locator_id": 0.02,
+            "locator_linkText": 0.863,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.861,
+            "locator_tag": 0.177,
+            "locator_xpath": 0.985,
+            "text": 1.0
+        }
+    },
+    "zoom_elements": {
+        "locators": {
+            "locator_class": 0.5,
+            "locator_css": 0.901,
+            "locator_id": 0.08,
+            "locator_linkText": 0.842,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.842,
+            "locator_tag": 0.058,
+            "locator_xpath": 1.0,
+            "text": 0.862
+        }
+    },
+    "wikipedia_elements": {
+        "locators": {
+            "locator_class": 0.008,
+            "locator_css": 0.337,
+            "locator_id": 0.183,
+            "locator_linkText": 0.982,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.425,
+            "locator_tag": 0.0,
+            "locator_xpath": 0.295,
+            "text": 1.0
+        }
+    },
+    "nytimes_elements": {
+        "locators": {
+            "locator_class": 0.0,
+            "locator_css": 0.996,
+            "locator_id": 0.498,
+            "locator_linkText": 0.663,
+            "locator_name": 0.499,
+            "locator_partialLinkText": 0.662,
+            "locator_tag": 0.442,
+            "locator_xpath": 1.0,
+            "text": 0.722
+        }
+    },
+    "shopify_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.005,
+            "locator_id": 0.087,
+            "locator_linkText": 0.576,
+            "locator_name": 0.114,
+            "locator_partialLinkText": 0.611,
+            "locator_tag": 0.423,
+            "locator_xpath": 0.0,
+            "text": 0.402
+        }
+    },
+    "walmart_elements": {
+        "locators": {
+            "locator_class": 0.792,
+            "locator_css": 1.0,
+            "locator_id": 0.227,
+            "locator_linkText": 0.838,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.835,
+            "locator_tag": 0.273,
+            "locator_xpath": 0.995,
+            "text": 0.903
+        }
+    },
+    "adobe_elements": {
+        "locators": {
+            "locator_class": 0.341,
+            "locator_css": 1.0,
+            "locator_id": 0.016,
+            "locator_linkText": 0.908,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.908,
+            "locator_tag": 0.016,
+            "locator_xpath": 1.0,
+            "text": 0.916
+        }
+    },
+    "wellsfargo_elements": {
+        "locators": {
+            "locator_class": 0.538,
+            "locator_css": 0.844,
+            "locator_id": 0.031,
+            "locator_linkText": 0.994,
+            "locator_name": 0.021,
+            "locator_partialLinkText": 0.945,
+            "locator_tag": 0.0,
+            "locator_xpath": 0.863,
+            "text": 1.0
+        }
+    },
+    "ebay_elements": {
+        "locators": {
+            "locator_class": 0.682,
+            "locator_css": 0.889,
+            "locator_id": 0.13,
+            "locator_linkText": 0.972,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.811,
+            "locator_tag": 0.317,
+            "locator_xpath": 0.889,
+            "text": 1.0
+        }
+    },
+    "google_elements": {
+        "locators": {
+            "locator_class": 0.297,
+            "locator_css": 0.0,
+            "locator_id": 0.833,
+            "locator_linkText": 1.0,
+            "locator_name": 0.808,
+            "locator_partialLinkText": 0.999,
+            "locator_tag": 0.697,
+            "locator_xpath": 0.07,
+            "text": 0.844
+        }
+    },
+    "fidelity_elements": {
+        "locators": {
+            "locator_class": 0.103,
+            "locator_css": 0.691,
+            "locator_id": 0.546,
+            "locator_linkText": 0.748,
+            "locator_name": 0.57,
+            "locator_partialLinkText": 0.736,
+            "locator_tag": 0.0,
+            "locator_xpath": 1.0,
+            "text": 0.784
+        }
+    },
+    "twitch_elements": {
+        "locators": {
+            "locator_class": 0.783,
+            "locator_css": 0.966,
+            "locator_id": 0.16,
+            "locator_linkText": 0.548,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.542,
+            "locator_tag": 0.196,
+            "locator_xpath": 1.0,
+            "text": 0.65
+        }
+    },
+    "dropbox_elements": {
+        "locators": {
+            "locator_class": 0.778,
+            "locator_css": 0.14,
+            "locator_id": 0.257,
+            "locator_linkText": 0.865,
+            "locator_name": 0.192,
+            "locator_partialLinkText": 0.861,
+            "locator_tag": 0.625,
+            "locator_xpath": 0.0,
+            "text": 1.0
+        }
+    },
+    "instagram_elements": {
+        "locators": {
+            "locator_class": 0.538,
+            "locator_css": 1.0,
+            "locator_id": 0.018,
+            "locator_linkText": 0.635,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.635,
+            "locator_tag": 0.148,
+            "locator_xpath": 0.876,
+            "text": 0.753
+        }
+    },
+    "office_elements": {
+        "locators": {
+            "locator_class": 0.07,
+            "locator_css": 0.97,
+            "locator_id": 0.0,
+            "locator_linkText": 0.702,
+            "locator_name": 0.512,
+            "locator_partialLinkText": 0.633,
+            "locator_tag": 0.402,
+            "locator_xpath": 1.0,
+            "text": 0.96
+        }
+    },
+    "indeed_elements": {
+        "locators": {
+            "locator_class": 0.858,
+            "locator_css": 1.0,
+            "locator_id": 0.205,
+            "locator_linkText": 0.093,
+            "locator_name": 0.099,
+            "locator_partialLinkText": 0.093,
+            "locator_tag": 0.205,
+            "locator_xpath": 0.259,
+            "text": 0.0
+        }
+    },
+    "yahoo_elements": {
+        "locators": {
+            "locator_class": 0.398,
+            "locator_css": 0.708,
+            "locator_id": 0.123,
+            "locator_linkText": 0.991,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.343,
+            "locator_xpath": 0.71,
+            "text": 0.913
+        }
+    },
+    "etsy_elements": {
+        "locators": {
+            "locator_class": 0.621,
+            "locator_css": 0.967,
+            "locator_id": 0.003,
+            "locator_linkText": 0.712,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.726,
+            "locator_tag": 0.173,
+            "locator_xpath": 1.0,
+            "text": 0.757
+        }
+    },
+    "youtube_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.961,
+            "locator_id": 0.794,
+            "locator_linkText": 0.857,
+            "locator_name": 0.132,
+            "locator_partialLinkText": 0.856,
+            "locator_tag": 0.576,
+            "locator_xpath": 0.0,
+            "text": 0.812
+        }
+    },
+    "intuit_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.919,
+            "locator_id": 0.022,
+            "locator_linkText": 0.976,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.966,
+            "locator_tag": 0.22,
+            "locator_xpath": 0.919,
+            "text": 0.916
+        }
+    },
+    "reddit_elements": {
+        "locators": {
+            "locator_class": 0.938,
+            "locator_css": 0.986,
+            "locator_id": 0.224,
+            "locator_linkText": 1.0,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.444,
+            "locator_xpath": 0.979,
+            "text": 0.972
+        }
+    },
+    "imdb_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.25,
+            "locator_id": 0.034,
+            "locator_linkText": 0.777,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.779,
+            "locator_tag": 0.017,
+            "locator_xpath": 0.251,
+            "text": 0.779
+        }
+    },
+    "bestbuy_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.0,
+            "locator_id": 0.258,
+            "locator_linkText": 0.88,
+            "locator_name": 0.152,
+            "locator_partialLinkText": 0.882,
+            "locator_tag": 0.453,
+            "locator_xpath": 0.291,
+            "text": 0.803
+        }
+    },
+    "hulu_elements": {
+        "locators": {
+            "locator_class": 0.975,
+            "locator_css": 0.305,
+            "locator_id": 0.0,
+            "locator_linkText": 0.966,
+            "locator_name": 0.113,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.423,
+            "locator_xpath": 0.312,
+            "text": 0.911
+        }
+    },
+    "linkedin_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.264,
+            "locator_id": 0.0,
+            "locator_linkText": 0.398,
+            "locator_name": 0.077,
+            "locator_partialLinkText": 0.397,
+            "locator_tag": 0.28,
+            "locator_xpath": 0.265,
+            "text": 0.336
+        }
+    },
+    "cnn_elements": {
+        "locators": {
+            "locator_class": 0.0,
+            "locator_css": 0.956,
+            "locator_id": 0.57,
+            "locator_linkText": 0.786,
+            "locator_name": 0.436,
+            "locator_partialLinkText": 0.734,
+            "locator_tag": 0.53,
+            "locator_xpath": 1.0,
+            "text": 0.826
+        }
+    },
+    "paypal_elements": {
+        "locators": {
+            "locator_class": 1.0,
+            "locator_css": 0.147,
+            "locator_id": 0.366,
+            "locator_linkText": 0.329,
+            "locator_name": 0.0,
+            "locator_partialLinkText": 0.329,
+            "locator_tag": 0.048,
+            "locator_xpath": 0.164,
+            "text": 0.23
+        }
+    },
+    "salesforce_elements": {
+        "locators": {
+            "locator_class": 0.975,
+            "locator_css": 0.565,
+            "locator_id": 0.0,
+            "locator_linkText": 0.971,
+            "locator_name": 0.44,
+            "locator_partialLinkText": 1.0,
+            "locator_tag": 0.006,
+            "locator_xpath": 0.647,
+            "text": 0.971
+        }
+    },
+    "espn_elements": {
+        "locators": {
+            "locator_class": 0.0,
+            "locator_css": 0.908,
+            "locator_id": 0.631,
+            "locator_linkText": 1.0,
+            "locator_name": 0.257,
+            "locator_partialLinkText": 0.996,
+            "locator_tag": 0.585,
+            "locator_xpath": 0.908,
+            "text": 1.0
+        }
+    },
+    "craigslist_elements": {
+        "locators": {
+            "locator_class": 0.722,
+            "locator_css": 0.983,
+            "locator_id": 0.005,
+            "locator_linkText": 1.0,
+            "locator_name": 0.001,
+            "locator_partialLinkText": 0.997,
+            "locator_tag": 0.0,
+            "locator_xpath": 0.983,
+            "text": 1.0
+        }
+    }
+}

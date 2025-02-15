@@ -1,0 +1,368 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+12,0,a#jumpToContent,jumpToContent,jump to content,0,jump to co,A,/html/body/div[2]/a,A,jump to content,1,90,-865,25
+11,choice,div#sr-header-area > div > div:nth-of-type(3) > ul > li > a,0,popular,0,popular,A,/html/body/div[2]/div/div/div[3]/ul/li/a,A,popular,2,48,112,4
+11,choice,div#sr-header-area > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,all,0,all,A,/html/body/div[2]/div/div/div[3]/ul/li[2]/a,A,all,3,16,171,4
+11,random choice,div#sr-header-area > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,random,0,random,A,/html/body/div[2]/div/div/div[3]/ul/li[3]/a,A,random,4,41,198,4
+11,choice,div#sr-header-area > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,users,0,users,A,/html/body/div[2]/div/div/div[3]/ul/li[4]/a,A,users,5,31,250,4
+11,choice,ul#sr-bar > li > a,0,AskReddit,0,AskReddit,A,/html/body/div[2]/div/div/div[3]/ul[2]/li/a,A,AskReddit,6,54,298,4
+11,choice,ul#sr-bar > li:nth-of-type(2) > a,0,worldnews,0,worldnews,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[2]/a,A,worldnews,7,62,363,4
+11,choice,ul#sr-bar > li:nth-of-type(3) > a,0,videos,0,videos,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[3]/a,A,videos,8,36,435,4
+11,choice,ul#sr-bar > li:nth-of-type(4) > a,0,funny,0,funny,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[4]/a,A,funny,9,31,482,4
+11,choice,ul#sr-bar > li:nth-of-type(5) > a,0,todayilearned,0,todayilear,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[5]/a,A,todayilearned,10,77,524,4
+11,choice,ul#sr-bar > li:nth-of-type(6) > a,0,pics,0,pics,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[6]/a,A,pics,11,22,612,4
+11,choice,ul#sr-bar > li:nth-of-type(7) > a,0,gaming,0,gaming,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[7]/a,A,gaming,12,38,644,4
+11,choice,ul#sr-bar > li:nth-of-type(8) > a,0,movies,0,movies,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[8]/a,A,movies,13,36,694,4
+11,choice,ul#sr-bar > li:nth-of-type(9) > a,0,news,0,news,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[9]/a,A,news,14,27,741,4
+11,choice,ul#sr-bar > li:nth-of-type(10) > a,0,gifs,0,gifs,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[10]/a,A,gifs,15,22,779,4
+11,choice,ul#sr-bar > li:nth-of-type(11) > a,0,mildlyinteresting,0,mildlyinte,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[11]/a,A,mildlyinteresting,16,96,813,4
+11,choice,ul#sr-bar > li:nth-of-type(12) > a,0,aww,0,aww,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[12]/a,A,aww,17,24,920,4
+11,choice,ul#sr-bar > li:nth-of-type(13) > a,0,Showerthoughts,0,Showerthou,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[13]/a,A,Showerthoughts,18,92,954,4
+11,choice,ul#sr-bar > li:nth-of-type(14) > a,0,Jokes,0,Jokes,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[14]/a,A,Jokes,19,29,1057,4
+11,choice,ul#sr-bar > li:nth-of-type(15) > a,0,science,0,science,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[15]/a,A,science,20,41,1097,4
+11,choice,ul#sr-bar > li:nth-of-type(16) > a,0,OldSchoolCool,0,OldSchoolC,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[16]/a,A,OldSchoolCool,21,83,1149,4
+11,choice,ul#sr-bar > li:nth-of-type(17) > a,0,sports,0,sports,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[17]/a,A,sports,22,36,1243,4
+11,choice,ul#sr-bar > li:nth-of-type(18) > a,0,IAmA,0,IAmA,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[18]/a,A,IAmA,23,24,1290,4
+11,choice,ul#sr-bar > li:nth-of-type(19) > a,0,Documentaries,0,Documentar,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[19]/a,A,Documentaries,24,80,1325,4
+11,choice,ul#sr-bar > li:nth-of-type(20) > a,0,TwoXChromosomes,0,TwoXChromo,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[20]/a,A,TwoXChromosomes,25,101,1415,4
+11,choice,ul#sr-bar > li:nth-of-type(21) > a,0,explainlikeimfive,0,explainlik,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[21]/a,A,explainlikeimfive,26,92,1528,4
+11,choice,ul#sr-bar > li:nth-of-type(22) > a,0,personalfinance,0,personalfi,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[22]/a,A,personalfinance,27,89,1631,4
+11,choice,ul#sr-bar > li:nth-of-type(23) > a,0,books,0,books,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[23]/a,A,books,28,33,1731,4
+11,choice,ul#sr-bar > li:nth-of-type(24) > a,0,tifu,0,tifu,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[24]/a,A,tifu,29,21,1774,4
+11,choice,ul#sr-bar > li:nth-of-type(25) > a,0,Futurology,0,Futurology,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[25]/a,A,Futurology,30,62,1806,4
+11,choice,ul#sr-bar > li:nth-of-type(26) > a,0,dataisbeautiful,0,dataisbeau,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[26]/a,A,dataisbeautiful,31,84,1879,4
+11,choice,ul#sr-bar > li:nth-of-type(27) > a,0,WritingPrompts,0,WritingPro,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[27]/a,A,WritingPrompts,32,85,1974,4
+11,choice,ul#sr-bar > li:nth-of-type(28) > a,0,nottheonion,0,nottheonio,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[28]/a,A,nottheonion,33,68,2071,4
+11,choice,ul#sr-bar > li:nth-of-type(29) > a,0,food,0,food,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[29]/a,A,food,34,26,2150,4
+11,choice,ul#sr-bar > li:nth-of-type(30) > a,0,Music,0,Music,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[30]/a,A,Music,35,30,2187,4
+11,choice,ul#sr-bar > li:nth-of-type(31) > a,0,photoshopbattles,0,photoshopb,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[31]/a,A,photoshopbattles,36,96,2229,4
+11,choice,ul#sr-bar > li:nth-of-type(32) > a,0,EarthPorn,0,EarthPorn,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[32]/a,A,EarthPorn,37,56,2336,4
+11,choice,ul#sr-bar > li:nth-of-type(33) > a,0,philosophy,0,philosophy,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[33]/a,A,philosophy,38,59,2402,4
+11,choice,ul#sr-bar > li:nth-of-type(34) > a,0,Art,0,Art,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[34]/a,A,Art,39,18,2472,4
+11,choice,ul#sr-bar > li:nth-of-type(35) > a,0,nosleep,0,nosleep,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[35]/a,A,nosleep,40,42,2501,4
+11,choice,ul#sr-bar > li:nth-of-type(36) > a,0,GetMotivated,0,GetMotivat,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[36]/a,A,GetMotivated,41,72,2554,4
+11,choice,ul#sr-bar > li:nth-of-type(37) > a,0,askscience,0,askscience,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[37]/a,A,askscience,42,59,2636,4
+11,choice,ul#sr-bar > li:nth-of-type(38) > a,0,LifeProTips,0,LifeProTip,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[38]/a,A,LifeProTips,43,59,2706,4
+11,choice,ul#sr-bar > li:nth-of-type(39) > a,0,space,0,space,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[39]/a,A,space,44,29,2776,4
+11,choice,ul#sr-bar > li:nth-of-type(40) > a,0,UpliftingNews,0,UpliftingN,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[40]/a,A,UpliftingNews,45,77,2817,4
+11,choice,ul#sr-bar > li:nth-of-type(41) > a,0,DIY,0,DIY,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[41]/a,A,DIY,46,16,2905,4
+11,choice,ul#sr-bar > li:nth-of-type(42) > a,0,history,0,history,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[42]/a,A,history,47,41,2932,4
+11,choice,ul#sr-bar > li:nth-of-type(43) > a,0,gadgets,0,gadgets,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[43]/a,A,gadgets,48,44,2984,4
+11,choice,ul#sr-bar > li:nth-of-type(44) > a,0,creepy,0,creepy,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[44]/a,A,creepy,49,35,3039,4
+11,choice,ul#sr-bar > li:nth-of-type(45) > a,0,listentothis,0,listentoth,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[45]/a,A,listentothis,50,67,3085,4
+11,choice,ul#sr-bar > li:nth-of-type(46) > a,0,blog,0,blog,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[46]/a,A,blog,51,25,3163,4
+11,choice,ul#sr-bar > li:nth-of-type(47) > a,0,announcements,0,announceme,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[47]/a,A,announcements,52,84,3199,4
+11,choice,ul#sr-bar > li:nth-of-type(48) > a,0,InternetIsBeautiful,0,InternetIs,A,/html/body/div[2]/div/div/div[3]/ul[2]/li[48]/a,A,InternetIsBeautiful,53,107,3294,4
+18,0,a#sr-more-link,sr-more-link,more »,0,more »,A,/html/body/div[2]/div/div/a,A,more »,54,60,1140,0
+40,default-header,a#header-img,header-img,reddit.com,0,reddit.com,A,/html/body/div[2]/div[2]/a,A,reddit.com,55,120,0,21
+19,choice,div#header-bottom-left > ul > li > a,0,hot,0,hot,A,/html/body/div[2]/div[2]/ul/li/a,A,hot,56,36,132,47
+17,choice,div#header-bottom-left > ul > li:nth-of-type(2) > a,0,new,0,new,A,/html/body/div[2]/div[2]/ul/li[2]/a,A,new,57,40,174,48
+17,choice,div#header-bottom-left > ul > li:nth-of-type(3) > a,0,rising,0,rising,A,/html/body/div[2]/div[2]/ul/li[3]/a,A,rising,58,50,221,48
+17,choice,div#header-bottom-left > ul > li:nth-of-type(4) > a,0,controversial,0,controvers,A,/html/body/div[2]/div[2]/ul/li[4]/a,A,controversial,59,101,277,48
+17,choice,div#header-bottom-left > ul > li:nth-of-type(5) > a,0,top,0,top,A,/html/body/div[2]/div[2]/ul/li[5]/a,A,top,60,34,384,48
+17,choice,div#header-bottom-left > ul > li:nth-of-type(6) > a,0,gilded,0,gilded,A,/html/body/div[2]/div[2]/ul/li[6]/a,A,gilded,61,53,424,48
+17,choice,div#header-bottom-left > ul > li:nth-of-type(7) > a,0,wiki,0,wiki,A,/html/body/div[2]/div[2]/ul/li[7]/a,A,wiki,62,40,483,48
+12,login-required login-link,div#header-bottom-right > span > a,0,Log in,0,Log in,A,/html/body/div[2]/div[3]/span/a,A,Log in,63,30,999,48
+12,login-required,div#header-bottom-right > span > a:nth-of-type(2),0,sign up,0,sign up,A,/html/body/div[2]/div[3]/span/a[2],A,sign up,64,37,1046,48
+12,pref-lang choice,div#header-bottom-right > ul > li > a,0,English,0,English,A,/html/body/div[2]/div[3]/ul/li/a,A,English,65,41,1155,48
+30,0,form#search > input,0,,q,,INPUT,/html/body/div[3]/div/form/input,INPUT,,66,300,895,72
+13,0,form#search > input:nth-of-type(2),0,,0,,INPUT,/html/body/div[3]/div/form/input[2],INPUT,,67,13,1173,80
+28,0,form#login_login-main > input:nth-of-type(2),0,,user,,INPUT,/html/body/div[3]/div[2]/form/input[2],INPUT,,68,141,901,120
+28,0,form#login_login-main > input:nth-of-type(3),0,,passwd,,INPUT,/html/body/div[3]/div[2]/form/input[3],INPUT,,69,142,1047,120
+13,0,input#rem-login-main,rem-login-main,,rem,,INPUT,/html/body/div[3]/div[2]/form/div[3]/input,INPUT,,70,13,901,168
+12,recover-password,div#remember-me > a,0,reset password,0,reset pass,A,/html/body/div[3]/div[2]/form/div[3]/a,A,reset password,71,76,1005,168
+25,btn,form#login_login-main > div:nth-of-type(4) > button,0,,0,,BUTTON,/html/body/div[3]/div[2]/form/div[4]/button,BUTTON,login,72,44,1146,161
+29,login-required access-required,html > body > div:nth-of-type(3) > div:nth-of-type(3) > div > div > a,0,Submit a new link,0,Submit a n,A,/html/body/div[3]/div[3]/div/div/a,A,Submit a new link,73,298,896,204
+29,login-required access-required,html > body > div:nth-of-type(3) > div:nth-of-type(4) > div > div > a,0,Submit a new text post,0,Submit a n,A,/html/body/div[3]/div[4]/div/div/a,A,Submit a new text post,74,298,896,247
+92,login-required listingsignupbar__container,html > body > div:nth-of-type(4) > section > a,0,"Welcome to Reddit.Come for the cats, stay for the empathy.Become a Redditorand start exploring.",0,Welcome to,A,/html/body/div[4]/section/a,A,"Welcome to Reddit.Come for the cats, stay for the empathy.Become a Redditorand start exploring.",75,520,10,88
+24,listingsignupbar__close,html > body > div:nth-of-type(4) > section > a:nth-of-type(2),0,×,0,×,A,/html/body/div[4]/section/a[2],A,×,76,24,866,72
+12,0,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li > a,0,r/reddeadmysteries,0,r/reddeadm,A,/html/body/div[4]/div[3]/div/div[3]/ul/li/a,A,r/reddeadmysteries,77,99,211,232
+12,0,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,r/RobinHood,0,r/RobinHoo,A,/html/body/div[4]/div[3]/div/div[3]/ul/li[2]/a,A,r/RobinHood,78,63,315,232
+12,0,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,r/dayz,0,r/dayz,A,/html/body/div[4]/div[3]/div/div[3]/ul/li[3]/a,A,r/dayz,79,32,383,232
+12,0,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,r/KingdomHearts,0,r/KingdomH,A,/html/body/div[4]/div[3]/div/div[3]/ul/li[4]/a,A,r/KingdomHearts,80,86,420,232
+12,0,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,r/TalesFromTheSquadCar,0,r/TalesFro,A,/html/body/div[4]/div[3]/div/div[3]/ul/li[5]/a,A,r/TalesFromTheSquadCar,81,127,511,232
+12,comments may-blank,html > body > div:nth-of-type(4) > div:nth-of-type(3) > div > div:nth-of-type(3) > a,0,1 comment,0,1 comment,A,/html/body/div[4]/div[3]/div/div[3]/a,A,1 comment,82,63,648,232
+50,thumbnail invisible-when-pinned default may-blank outbound,div#thing_t3_a79z9p > a,0,,0,,A,/html/body/div[4]/div[4]/div/div/a,A,,83,70,84,255
+20,title may-blank outbound,div#thing_t3_a79z9p > div:nth-of-type(2) > div > p > a,0,Giraffes just silently went to the list of endangered animals facing extinction,0,Giraffes j,A,/html/body/div[4]/div[4]/div/div/div[2]/div/p/a,A,Giraffes just silently went to the list of endangered animals facing extinction,84,615,159,255
+12,0,div#thing_t3_a79z9p > div:nth-of-type(2) > div > p > span > a,0,indiatoday.in,0,indiatoday,A,/html/body/div[4]/div[4]/div/div/div[2]/div/p/span/a,A,indiatoday.in,85,64,790,262
+12,author may-blank id-t2_10ziub,div#thing_t3_a79z9p > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,IanSausage,0,IanSausage,A,/html/body/div[4]/div[4]/div/div/div[2]/div/p[2]/a,A,IanSausage,86,59,292,276
+12,subreddit hover may-blank,div#thing_t3_a79z9p > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/worldnews,0,r/worldnew,A,/html/body/div[4]/div[4]/div/div/div[2]/div/p[2]/a[2],A,r/worldnews,87,62,373,276
+12,0,div#thing_t3_a79z9p > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div/div[2]/div/p[2]/span[2]/a,A,,88,22,435,276
+12,bylink comments may-blank,div#thing_t3_a79z9p > div:nth-of-type(2) > div > ul > li > a,0,1333 comments,0,1333 comme,A,/html/body/div[4]/div[4]/div/div/div[2]/div/ul/li/a,A,1333 comments,89,92,159,291
+12,post-sharing-button,div#thing_t3_a79z9p > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div/div[2]/div/ul/li[2]/a,A,share,90,33,259,291
+12,0,div#thing_t3_a79z9p > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div/div[2]/div/ul/li[3]/a,A,save,91,28,300,291
+12, ,div#thing_t3_a79z9p > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div/div[2]/div/ul/li[4]/form/span/a,A,hide,92,26,336,291
+12,reportbtn access-required,div#thing_t3_a79z9p > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div/div[2]/div/ul/li[5]/a,A,report,93,37,370,291
+50,thumbnail invisible-when-pinned self may-blank ,div#thing_t3_a72nr4 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[3]/a,A,,94,70,84,315
+20,title may-blank ,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p > a,0,What’s something small you can start doing today to better yourself?,0,What’s som,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p/a,A,What’s something small you can start doing today to better yourself?,95,558,159,315
+12,0,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p > span > a,0,self.AskReddit,0,self.AskRe,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p/span/a,A,self.AskReddit,96,70,734,322
+12,author may-blank id-t2_okedccr,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,84-sheepdog,0,84-sheepdo,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p[2]/a,A,84-sheepdog,97,65,298,336
+12,subreddit hover may-blank,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/AskReddit,0,r/AskReddi,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p[2]/a[2],A,r/AskReddit,98,59,385,336
+12,0,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,x13,0,x13,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p[2]/span[2]/a,A,x13,99,39,444,336
+12,0,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2),0,x10,0,x10,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p[2]/span[2]/a[2],A,x10,100,39,483,336
+12,0,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(3),0,,0,,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/p[2]/span[2]/a[3],A,,101,22,522,336
+12,bylink comments may-blank,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > ul > li > a,0,20544 comments,0,20544 comm,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/ul/li/a,A,20544 comments,102,99,159,351
+12,post-sharing-button,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/ul/li[2]/a,A,share,103,33,266,351
+12,0,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/ul/li[3]/a,A,save,104,28,307,351
+12, ,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/ul/li[4]/form/span/a,A,hide,105,26,343,351
+12,reportbtn access-required,div#thing_t3_a72nr4 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[3]/div[2]/div/ul/li[5]/a,A,report,106,37,377,351
+50,thumbnail invisible-when-pinned self may-blank ,div#thing_t3_a75f0o > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[5]/a,A,,107,70,84,375
+39,title may-blank ,div#thing_t3_a75f0o > div:nth-of-type(2) > div > p > a,0,"(AZ) Our neighbors dog was poisoned. Police want to look through our ""internet history"" (a very nebulous term). Wife says we should let them because we have nothing to hide. I say absolutely not. How should we proceed?",0,(AZ) Our n,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/p/a,A,"(AZ) Our neighbors dog was poisoned. Police want to look through our ""internet history"" (a very nebulous term). Wife says we should let them because we have nothing to hide. I say absolutely not. How should we proceed?",108,1022,159,375
+12,0,div#thing_t3_a75f0o > div:nth-of-type(2) > div > p > span > a,0,self.legaladvice,0,self.legal,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/p/span/a,A,self.legaladvice,109,76,953,402
+12,author may-blank id-t2_2t3fcn6r,div#thing_t3_a75f0o > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,carlinbajaAZ,0,carlinbaja,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/p[2]/a,A,carlinbajaAZ,110,63,326,415
+12,subreddit hover may-blank,div#thing_t3_a75f0o > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/legaladvice,0,r/legaladv,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/p[2]/a[2],A,r/legaladvice,111,65,411,415
+12,bylink comments may-blank,div#thing_t3_a75f0o > div:nth-of-type(2) > div > ul > li > a,0,53 comments,0,53 comment,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/ul/li/a,A,53 comments,112,78,187,430
+12,post-sharing-button,div#thing_t3_a75f0o > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/ul/li[2]/a,A,share,113,33,273,430
+12,0,div#thing_t3_a75f0o > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/ul/li[3]/a,A,save,114,28,314,430
+12, ,div#thing_t3_a75f0o > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/ul/li[4]/form/span/a,A,hide,115,26,350,430
+12,reportbtn access-required,div#thing_t3_a75f0o > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[5]/div[2]/div/ul/li[5]/a,A,report,116,37,384,430
+50,thumbnail invisible-when-pinned default may-blank outbound,div#thing_t3_a73a1f > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[7]/a,A,,117,70,84,453
+20,title may-blank outbound,div#thing_t3_a73a1f > div:nth-of-type(2) > div > p > a,0,Mother stabs rapist to death after catching him attacking her daughter,0,Mother sta,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/p/a,A,Mother stabs rapist to death after catching him attacking her daughter,118,570,159,453
+12,0,div#thing_t3_a73a1f > div:nth-of-type(2) > div > p > span > a,0,independent.co.uk,0,independen,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/p/span/a,A,independent.co.uk,119,93,745,460
+12,author may-blank id-t2_1upquyef,div#thing_t3_a73a1f > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Amamazing,0,Amamazing,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/p[2]/a,A,Amamazing,120,59,298,474
+12,subreddit hover may-blank,div#thing_t3_a73a1f > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/news,0,r/news,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/p[2]/a[2],A,r/news,121,34,379,474
+12,bylink comments may-blank,div#thing_t3_a73a1f > div:nth-of-type(2) > div > ul > li > a,0,2628 comments,0,2628 comme,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/ul/li/a,A,2628 comments,122,92,159,489
+12,post-sharing-button,div#thing_t3_a73a1f > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/ul/li[2]/a,A,share,123,33,259,489
+12,0,div#thing_t3_a73a1f > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/ul/li[3]/a,A,save,124,28,300,489
+12, ,div#thing_t3_a73a1f > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/ul/li[4]/form/span/a,A,hide,125,26,336,489
+12,reportbtn access-required,div#thing_t3_a73a1f > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[7]/div[2]/div/ul/li[5]/a,A,report,126,37,370,489
+52,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a73bco > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[9]/a,A,,127,70,84,513
+20,title may-blank outbound,div#thing_t3_a73bco > div:nth-of-type(2) > div > p > a,0,Alfonso Ribeiro Sues Fortnite Creators for Stealing His Carlton Dance,0,Alfonso Ri,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/p/a,A,Alfonso Ribeiro Sues Fortnite Creators for Stealing His Carlton Dance,128,555,159,513
+12,0,div#thing_t3_a73bco > div:nth-of-type(2) > div > p > span > a,0,tmz.com,0,tmz.com,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/p/span/a,A,tmz.com,129,44,730,520
+12,author may-blank id-t2_acnro,div#thing_t3_a73bco > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Redwinevino,0,Redwinevin,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/p[2]/a,A,Redwinevino,130,63,298,534
+12,subreddit hover may-blank,div#thing_t3_a73bco > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/PS4,0,r/PS4,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/p[2]/a[2],A,r/PS4,131,28,383,534
+12,bylink comments may-blank,div#thing_t3_a73bco > div:nth-of-type(2) > div > ul > li > a,0,2388 comments,0,2388 comme,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/ul/li/a,A,2388 comments,132,92,159,549
+12,post-sharing-button,div#thing_t3_a73bco > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/ul/li[2]/a,A,share,133,33,259,549
+12,0,div#thing_t3_a73bco > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/ul/li[3]/a,A,save,134,28,300,549
+12, ,div#thing_t3_a73bco > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/ul/li[4]/form/span/a,A,hide,135,26,336,549
+12,reportbtn access-required,div#thing_t3_a73bco > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[9]/div[2]/div/ul/li[5]/a,A,report,136,37,370,549
+50,thumbnail invisible-when-pinned self may-blank ,div#thing_t3_a715d4 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[11]/a,A,,137,70,84,575
+20,title may-blank ,div#thing_t3_a715d4 > div:nth-of-type(2) > div > p > a,0,Are there no autistic girls?,0,Are there ,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/p/a,A,Are there no autistic girls?,138,212,159,575
+12,0,div#thing_t3_a715d4 > div:nth-of-type(2) > div > p > span > a,0,self.NoStupidQuestions,0,self.NoStu,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/p/span/a,A,self.NoStupidQuestions,139,116,388,582
+12,author may-blank id-t2_2aublzrw,div#thing_t3_a715d4 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,45Shusui,0,45Shusui,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/p[2]/a,A,45Shusui,140,46,326,596
+12,subreddit hover may-blank,div#thing_t3_a715d4 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/NoStupidQuestions,0,r/NoStupid,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/p[2]/a[2],A,r/NoStupidQuestions,141,104,395,596
+12,0,div#thing_t3_a715d4 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/p[2]/span[2]/a,A,,142,22,499,596
+12,bylink comments may-blank,div#thing_t3_a715d4 > div:nth-of-type(2) > div > ul > li > a,0,2205 comments,0,2205 comme,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/ul/li/a,A,2205 comments,143,92,187,611
+12,post-sharing-button,div#thing_t3_a715d4 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/ul/li[2]/a,A,share,144,33,287,611
+12,0,div#thing_t3_a715d4 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/ul/li[3]/a,A,save,145,28,328,611
+12, ,div#thing_t3_a715d4 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/ul/li[4]/form/span/a,A,hide,146,26,364,611
+12,reportbtn access-required,div#thing_t3_a715d4 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[11]/div[2]/div/ul/li[5]/a,A,report,147,37,398,611
+38,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79uxy > a,0,0:05,0,0:05,A,/html/body/div[4]/div[4]/div/div[13]/a,A,0:05,148,70,84,635
+20,title may-blank ,div#thing_t3_a79uxy > div:nth-of-type(2) > div > p > a,0,Carlton from the Fresh Prince claims Fortnite stole his dance moves. Looks like he's right.,0,Carlton fr,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/p/a,A,Carlton from the Fresh Prince claims Fortnite stole his dance moves. Looks like he's right.,149,722,159,635
+12,0,div#thing_t3_a79uxy > div:nth-of-type(2) > div > p > span > a,0,v.redd.it,0,v.redd.it,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/p/span/a,A,v.redd.it,150,42,898,642
+12,author may-blank id-t2_i3q32,div#thing_t3_a79uxy > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,MoreStonedThanMost,0,MoreStoned,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/p[2]/a,A,MoreStonedThanMost,151,109,320,656
+12,subreddit hover may-blank,div#thing_t3_a79uxy > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/gifs,0,r/gifs,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/p[2]/a[2],A,r/gifs,152,27,450,656
+12,bylink comments may-blank,div#thing_t3_a79uxy > div:nth-of-type(2) > div > ul > li > a,0,1611 comments,0,1611 comme,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/ul/li/a,A,1611 comments,153,92,187,671
+12,post-sharing-button,div#thing_t3_a79uxy > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/ul/li[2]/a,A,share,154,33,287,671
+12,0,div#thing_t3_a79uxy > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/ul/li[3]/a,A,save,155,28,328,671
+12, ,div#thing_t3_a79uxy > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/ul/li[4]/form/span/a,A,hide,156,26,364,671
+12,reportbtn access-required,div#thing_t3_a79uxy > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[13]/div[2]/div/ul/li[5]/a,A,report,157,37,398,671
+66,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79kud > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[15]/a,A,,158,70,84,694
+20,title may-blank ,div#thing_t3_a79kud > div:nth-of-type(2) > div > p > a,0,Mad lad,0,Mad lad,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/p/a,A,Mad lad,159,63,159,694
+12,0,div#thing_t3_a79kud > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/p/span/a,A,i.redd.it,160,39,238,701
+12,author may-blank id-t2_smrapiv,div#thing_t3_a79kud > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,MuvHugginInc,0,MuvHugginI,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/p[2]/a,A,MuvHugginInc,161,72,320,714
+12,subreddit hover may-blank,div#thing_t3_a79kud > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/madlads,0,r/madlads,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/p[2]/a[2],A,r/madlads,162,51,413,714
+12,bylink comments may-blank,div#thing_t3_a79kud > div:nth-of-type(2) > div > ul > li > a,0,220 comments,0,220 commen,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/ul/li/a,A,220 comments,163,85,187,729
+12,post-sharing-button,div#thing_t3_a79kud > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/ul/li[2]/a,A,share,164,33,280,729
+12,0,div#thing_t3_a79kud > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/ul/li[3]/a,A,save,165,28,321,729
+12, ,div#thing_t3_a79kud > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/ul/li[4]/form/span/a,A,hide,166,26,357,729
+12,reportbtn access-required,div#thing_t3_a79kud > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[15]/div[2]/div/ul/li[5]/a,A,report,167,37,391,729
+52,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a73hpf > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[17]/a,A,,168,70,84,770
+20,title may-blank outbound,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p > a,0,Package Thief vs. Glitter Bomb Trap,0,Package Th,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p/a,A,Package Thief vs. Glitter Bomb Trap,169,288,159,770
+12,0,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p > span > a,0,youtu.be,0,youtu.be,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p/span/a,A,youtu.be,170,44,463,777
+12,author may-blank id-t2_2hugfyot,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Marc_0110,0,Marc_0110,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p[2]/a,A,Marc_0110,171,56,326,790
+12,subreddit hover may-blank,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/instant_regret,0,r/instant_,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p[2]/a[2],A,r/instant_regret,172,80,404,790
+12,0,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p[2]/span[2]/a,A,,173,22,484,790
+12,0,div#thing_t3_a73hpf > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2),0,,0,,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/p[2]/span[2]/a[2],A,,174,22,506,790
+12,bylink comments may-blank,div#thing_t3_a73hpf > div:nth-of-type(2) > div > ul > li > a,0,1993 comments,0,1993 comme,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/ul/li/a,A,1993 comments,175,92,187,805
+12,post-sharing-button,div#thing_t3_a73hpf > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/ul/li[2]/a,A,share,176,33,287,805
+12,0,div#thing_t3_a73hpf > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/ul/li[3]/a,A,save,177,28,328,805
+12, ,div#thing_t3_a73hpf > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/ul/li[4]/form/span/a,A,hide,178,26,364,805
+12,reportbtn access-required,div#thing_t3_a73hpf > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[17]/div[2]/div/ul/li[5]/a,A,report,179,37,398,805
+56,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a78rqk > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[19]/a,A,,180,70,84,832
+20,title may-blank ,div#thing_t3_a78rqk > div:nth-of-type(2) > div > p > a,0,It’s a good point,0,It’s a goo,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/p/a,A,It’s a good point,181,132,159,832
+12,0,div#thing_t3_a78rqk > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/p/span/a,A,i.redd.it,182,39,307,839
+12,author may-blank id-t2_ibprc,div#thing_t3_a78rqk > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Mrdazjames,0,Mrdazjames,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/p[2]/a,A,Mrdazjames,183,61,320,852
+12,subreddit hover may-blank,div#thing_t3_a78rqk > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/funny,0,r/funny,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/p[2]/a[2],A,r/funny,184,37,402,852
+12,bylink comments may-blank,div#thing_t3_a78rqk > div:nth-of-type(2) > div > ul > li > a,0,548 comments,0,548 commen,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/ul/li/a,A,548 comments,185,85,187,867
+12,post-sharing-button,div#thing_t3_a78rqk > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/ul/li[2]/a,A,share,186,33,280,867
+12,0,div#thing_t3_a78rqk > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/ul/li[3]/a,A,save,187,28,321,867
+12, ,div#thing_t3_a78rqk > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/ul/li[4]/form/span/a,A,hide,188,26,357,867
+12,reportbtn access-required,div#thing_t3_a78rqk > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[19]/div[2]/div/ul/li[5]/a,A,report,189,37,391,867
+70,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79j7w > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[21]/a,A,,190,70,84,898
+20,title may-blank ,div#thing_t3_a79j7w > div:nth-of-type(2) > div > p > a,0,This girl at work taking part in the 'Most Christmassy Desk Competition',0,This girl ,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/p/a,A,This girl at work taking part in the 'Most Christmassy Desk Competition',191,580,159,898
+12,0,div#thing_t3_a79j7w > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/p/span/a,A,i.redd.it,192,39,755,905
+12,author may-blank id-t2_ab85b,div#thing_t3_a79j7w > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,djlr,0,djlr,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/p[2]/a,A,djlr,193,17,320,918
+12,subreddit hover may-blank,div#thing_t3_a79j7w > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/CasualUK,0,r/CasualUK,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/p[2]/a[2],A,r/CasualUK,194,56,358,918
+12,bylink comments may-blank,div#thing_t3_a79j7w > div:nth-of-type(2) > div > ul > li > a,0,174 comments,0,174 commen,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/ul/li/a,A,174 comments,195,85,187,933
+12,post-sharing-button,div#thing_t3_a79j7w > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/ul/li[2]/a,A,share,196,33,280,933
+12,0,div#thing_t3_a79j7w > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/ul/li[3]/a,A,save,197,28,321,933
+12, ,div#thing_t3_a79j7w > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/ul/li[4]/form/span/a,A,hide,198,26,357,933
+12,reportbtn access-required,div#thing_t3_a79j7w > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[21]/div[2]/div/ul/li[5]/a,A,report,199,37,391,933
+50,thumbnail invisible-when-pinned default may-blank outbound,div#thing_t3_a751q7 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[23]/a,A,,200,70,84,978
+59,title may-blank outbound,div#thing_t3_a751q7 > div:nth-of-type(2) > div > p > a,0,"2018 worst year on record for violence and abuse against journalists, with at least 80 killed in connection with work, further 348 imprisoned and 60 held hostage, according to Reporters Without Borders...figures suggest more than half of journalists killed in 2018 were deliberately targeted.",0,2018 worst,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/p/a,A,"2018 worst year on record for violence and abuse against journalists, with at least 80 killed in connection with work, further 348 imprisoned and 60 held hostage, according to Reporters Without Borders...figures suggest more than half of journalists killed in 2018 were deliberately targeted.",201,1002,159,978
+12,0,div#thing_t3_a751q7 > div:nth-of-type(2) > div > p > span > a,0,telegraph.co.uk,0,telegraph.,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/p/span/a,A,telegraph.co.uk,202,78,507,1024
+12,author may-blank id-t2_cu3ni,div#thing_t3_a751q7 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,madazzahatter,0,madazzahat,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/p[2]/a,A,madazzahatter,203,75,298,1037
+12,subreddit hover may-blank,div#thing_t3_a751q7 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/worldnews,0,r/worldnew,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/p[2]/a[2],A,r/worldnews,204,62,395,1037
+12,0,div#thing_t3_a751q7 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/p[2]/span[2]/a,A,,205,22,457,1037
+12,bylink comments may-blank,div#thing_t3_a751q7 > div:nth-of-type(2) > div > ul > li > a,0,1896 comments,0,1896 comme,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/ul/li/a,A,1896 comments,206,92,159,1052
+12,post-sharing-button,div#thing_t3_a751q7 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/ul/li[2]/a,A,share,207,33,259,1052
+12,0,div#thing_t3_a751q7 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/ul/li[3]/a,A,save,208,28,300,1052
+12, ,div#thing_t3_a751q7 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/ul/li[4]/form/span/a,A,hide,209,26,336,1052
+12,reportbtn access-required,div#thing_t3_a751q7 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[23]/div[2]/div/ul/li[5]/a,A,report,210,37,370,1052
+57,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79xpl > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[25]/a,A,,211,70,84,1075
+20,title may-blank ,div#thing_t3_a79xpl > div:nth-of-type(2) > div > p > a,0,i just gave u a reason to like donkey's your welcome.,0,i just gav,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/p/a,A,i just gave u a reason to like donkey's your welcome.,212,429,159,1075
+12,0,div#thing_t3_a79xpl > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/p/span/a,A,i.redd.it,213,39,605,1082
+12,author may-blank id-t2_2k89gmaz,div#thing_t3_a79xpl > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Sokkenwaap,0,Sokkenwaap,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/p[2]/a,A,Sokkenwaap,214,63,320,1096
+12,subreddit hover may-blank,div#thing_t3_a79xpl > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/aww,0,r/aww,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/p[2]/a[2],A,r/aww,215,31,405,1096
+12,bylink comments may-blank,div#thing_t3_a79xpl > div:nth-of-type(2) > div > ul > li > a,0,138 comments,0,138 commen,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/ul/li/a,A,138 comments,216,85,187,1111
+12,post-sharing-button,div#thing_t3_a79xpl > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/ul/li[2]/a,A,share,217,33,280,1111
+12,0,div#thing_t3_a79xpl > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/ul/li[3]/a,A,save,218,28,321,1111
+12, ,div#thing_t3_a79xpl > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/ul/li[4]/form/span/a,A,hide,219,26,357,1111
+12,reportbtn access-required,div#thing_t3_a79xpl > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[25]/div[2]/div/ul/li[5]/a,A,report,220,37,391,1111
+59,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a793gv > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[27]/a,A,,221,70,84,1142
+20,title may-blank ,div#thing_t3_a793gv > div:nth-of-type(2) > div > p > a,0,OOf got em,0,OOf got em,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/p/a,A,OOf got em,222,93,159,1142
+12,0,div#thing_t3_a793gv > div:nth-of-type(2) > div > p > span:nth-of-type(2) > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/p/span[2]/a,A,i.redd.it,223,39,315,1149
+12,author may-blank id-t2_1yfavb45,div#thing_t3_a793gv > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,urmomschesthair_,0,urmomsches,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/p[2]/a,A,urmomschesthair_,224,94,320,1163
+12,subreddit hover may-blank,div#thing_t3_a793gv > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/quityourbullshit,0,r/quityour,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/p[2]/a[2],A,r/quityourbullshit,225,87,435,1163
+12,bylink comments may-blank,div#thing_t3_a793gv > div:nth-of-type(2) > div > ul > li > a,0,97 comments,0,97 comment,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/ul/li/a,A,97 comments,226,78,187,1178
+12,post-sharing-button,div#thing_t3_a793gv > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/ul/li[2]/a,A,share,227,33,273,1178
+12,0,div#thing_t3_a793gv > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/ul/li[3]/a,A,save,228,28,314,1178
+12, ,div#thing_t3_a793gv > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/ul/li[4]/form/span/a,A,hide,229,26,350,1178
+12,reportbtn access-required,div#thing_t3_a793gv > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[27]/div[2]/div/ul/li[5]/a,A,report,230,37,384,1178
+46,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a75ler > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[29]/a,A,,231,70,84,1211
+59,title may-blank outbound,div#thing_t3_a75ler > div:nth-of-type(2) > div > p > a,0,"TIL Ray Lewis grew up using a deck of cards to do push ups and sit ups. If he drew a 7 he would do 7. An ace was 25 and a Joker 30. He would go through the whole deck. In the nfl, he would do it 3 times for each exercise. Also the reason he wore 52 was because of the number of cards in the deck",0,TIL Ray Le,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/p/a,A,"TIL Ray Lewis grew up using a deck of cards to do push ups and sit ups. If he drew a 7 he would do 7. An ace was 25 and a Joker 30. He would go through the whole deck. In the nfl, he would do it 3 times for each exercise. Also the reason he wore 52 was because of the number of cards in the deck",232,1027,159,1211
+12,0,div#thing_t3_a75ler > div:nth-of-type(2) > div > p > span > a,0,livestrong.com,0,livestrong,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/p/span/a,A,livestrong.com,233,74,562,1257
+12,author may-blank id-t2_2es5fkwr,div#thing_t3_a75ler > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Orangeraza,0,Orangeraza,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/p[2]/a,A,Orangeraza,234,58,298,1271
+12,subreddit hover may-blank,div#thing_t3_a75ler > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/todayilearned,0,r/todayile,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/p[2]/a[2],A,r/todayilearned,235,77,378,1271
+12,0,div#thing_t3_a75ler > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/p[2]/span[2]/a,A,,236,22,455,1271
+12,bylink comments may-blank,div#thing_t3_a75ler > div:nth-of-type(2) > div > ul > li > a,0,1756 comments,0,1756 comme,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/ul/li/a,A,1756 comments,237,92,159,1286
+12,post-sharing-button,div#thing_t3_a75ler > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/ul/li[2]/a,A,share,238,33,259,1286
+12,0,div#thing_t3_a75ler > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/ul/li[3]/a,A,save,239,28,300,1286
+12, ,div#thing_t3_a75ler > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/ul/li[4]/form/span/a,A,hide,240,26,336,1286
+12,reportbtn access-required,div#thing_t3_a75ler > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[29]/div[2]/div/ul/li[5]/a,A,report,241,37,370,1286
+52,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a74f7p > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[31]/a,A,,242,70,84,1309
+20,title may-blank outbound,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p > a,0,YouTube's content claim system is out of control,0,YouTube's ,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p/a,A,YouTube's content claim system is out of control,243,388,159,1309
+12,0,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p > span:nth-of-type(2) > a,0,youtube.com,0,youtube.co,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p/span[2]/a,A,youtube.com,244,65,673,1316
+12,author may-blank id-t2_cejsa,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Hoban9331,0,Hoban9331,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p[2]/a,A,Hoban9331,245,58,326,1330
+12,subreddit hover may-blank,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/videos,0,r/videos,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p[2]/a[2],A,r/videos,246,41,406,1330
+12,0,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,x3,0,x3,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p[2]/span[2]/a,A,x3,247,33,447,1330
+12,0,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2),0,x4,0,x4,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p[2]/span[2]/a[2],A,x4,248,33,480,1330
+12,0,div#thing_t3_a74f7p > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(3),0,x2,0,x2,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/p[2]/span[2]/a[3],A,x2,249,33,513,1330
+12,bylink comments may-blank,div#thing_t3_a74f7p > div:nth-of-type(2) > div > ul > li > a,0,1647 comments,0,1647 comme,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/ul/li/a,A,1647 comments,250,92,187,1345
+12,post-sharing-button,div#thing_t3_a74f7p > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/ul/li[2]/a,A,share,251,33,287,1345
+12,0,div#thing_t3_a74f7p > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/ul/li[3]/a,A,save,252,28,328,1345
+12, ,div#thing_t3_a74f7p > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/ul/li[4]/form/span/a,A,hide,253,26,364,1345
+12,reportbtn access-required,div#thing_t3_a74f7p > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[31]/div[2]/div/ul/li[5]/a,A,report,254,37,398,1345
+39,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a70akr > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[33]/a,A,,255,70,84,1371
+20,title may-blank outbound,div#thing_t3_a70akr > div:nth-of-type(2) > div > p > a,0,"Missouri man must watch ‘Bambi’ monthly as part of poaching punishment, judge rules",0,Missouri m,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/p/a,A,"Missouri man must watch ‘Bambi’ monthly as part of poaching punishment, judge rules",256,704,159,1371
+12,0,div#thing_t3_a70akr > div:nth-of-type(2) > div > p > span > a,0,foxnews.com,0,foxnews.co,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/p/span/a,A,foxnews.com,257,66,879,1378
+12,author may-blank id-t2_7kela,div#thing_t3_a70akr > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,emitremmus27,0,emitremmus,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/p[2]/a,A,emitremmus27,258,76,298,1391
+12,subreddit hover may-blank,div#thing_t3_a70akr > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/nottheonion,0,r/nottheon,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/p[2]/a[2],A,r/nottheonion,259,69,396,1391
+12,bylink comments may-blank,div#thing_t3_a70akr > div:nth-of-type(2) > div > ul > li > a,0,1698 comments,0,1698 comme,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/ul/li/a,A,1698 comments,260,92,159,1406
+12,post-sharing-button,div#thing_t3_a70akr > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/ul/li[2]/a,A,share,261,33,259,1406
+12,0,div#thing_t3_a70akr > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/ul/li[3]/a,A,save,262,28,300,1406
+12, ,div#thing_t3_a70akr > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/ul/li[4]/form/span/a,A,hide,263,26,336,1406
+12,reportbtn access-required,div#thing_t3_a70akr > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[33]/div[2]/div/ul/li[5]/a,A,report,264,37,370,1406
+70,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a75oa2 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[35]/a,A,,265,70,84,1429
+20,title may-blank outbound,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > p > a,0,How to fix a dent in a car...,0,How to fix,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/p/a,A,How to fix a dent in a car...,266,219,159,1429
+12,0,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > p > span > a,0,i.imgur.com,0,i.imgur.co,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/p/span/a,A,i.imgur.com,267,59,395,1436
+12,author may-blank id-t2_1bz7ss1u,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,commonvanilla,0,commonvani,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/p[2]/a,A,commonvanilla,268,75,326,1450
+12,subreddit hover may-blank,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/gifs,0,r/gifs,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/p[2]/a[2],A,r/gifs,269,27,423,1450
+12,bylink comments may-blank,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > ul > li > a,0,1695 comments,0,1695 comme,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/ul/li/a,A,1695 comments,270,92,187,1465
+12,post-sharing-button,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/ul/li[2]/a,A,share,271,33,287,1465
+12,0,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/ul/li[3]/a,A,save,272,28,328,1465
+12, ,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/ul/li[4]/form/span/a,A,hide,273,26,364,1465
+12,reportbtn access-required,div#thing_t3_a75oa2 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[35]/div[2]/div/ul/li[5]/a,A,report,274,37,398,1465
+70,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a74wz6 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[37]/a,A,,275,70,84,1509
+20,title may-blank ,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p > a,0,[Image] Truly ascended in career path,0,[Image] Tr,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p/a,A,[Image] Truly ascended in career path,276,310,159,1509
+12,0,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p/span/a,A,i.redd.it,277,39,485,1516
+12,author may-blank id-t2_236wv9jg,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,basslover0,0,basslover0,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p[2]/a,A,basslover0,278,54,326,1530
+12,subreddit hover may-blank,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/GetMotivated,0,r/GetMotiv,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p[2]/a[2],A,r/GetMotivated,279,76,402,1530
+12,0,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,x6,0,x6,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p[2]/span[2]/a,A,x6,280,33,477,1530
+12,0,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2),0,x4,0,x4,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p[2]/span[2]/a[2],A,x4,281,33,510,1530
+12,0,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(3),0,x2,0,x2,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/p[2]/span[2]/a[3],A,x2,282,33,543,1530
+12,bylink comments may-blank,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > ul > li > a,0,1592 comments,0,1592 comme,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/ul/li/a,A,1592 comments,283,92,187,1545
+12,post-sharing-button,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/ul/li[2]/a,A,share,284,33,287,1545
+12,0,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/ul/li[3]/a,A,save,285,28,328,1545
+12, ,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/ul/li[4]/form/span/a,A,hide,286,26,364,1545
+12,reportbtn access-required,div#thing_t3_a74wz6 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[37]/div[2]/div/ul/li[5]/a,A,report,287,37,398,1545
+70,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a78f0g > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[39]/a,A,,288,70,84,1589
+20,title may-blank ,div#thing_t3_a78f0g > div:nth-of-type(2) > div > p > a,0,Taken at Royal University of Phnom Penh,0,Taken at R,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/p/a,A,Taken at Royal University of Phnom Penh,289,330,159,1589
+12,0,div#thing_t3_a78f0g > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/p/span/a,A,i.redd.it,290,39,505,1596
+12,author may-blank id-t2_14buhn,div#thing_t3_a78f0g > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,b2utynthebeast,0,b2utyntheb,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/p[2]/a,A,b2utynthebeast,291,79,320,1610
+12,subreddit hover may-blank,div#thing_t3_a78f0g > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/pics,0,r/pics,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/p[2]/a[2],A,r/pics,292,28,420,1610
+12,0,div#thing_t3_a78f0g > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/p[2]/span[2]/a,A,,293,22,448,1610
+12,bylink comments may-blank,div#thing_t3_a78f0g > div:nth-of-type(2) > div > ul > li > a,0,227 comments,0,227 commen,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/ul/li/a,A,227 comments,294,85,187,1625
+12,post-sharing-button,div#thing_t3_a78f0g > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/ul/li[2]/a,A,share,295,33,280,1625
+12,0,div#thing_t3_a78f0g > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/ul/li[3]/a,A,save,296,28,321,1625
+12, ,div#thing_t3_a78f0g > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/ul/li[4]/form/span/a,A,hide,297,26,357,1625
+12,reportbtn access-required,div#thing_t3_a78f0g > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[39]/div[2]/div/ul/li[5]/a,A,report,298,37,391,1625
+70,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79n9i > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[41]/a,A,,299,70,84,1669
+20,title may-blank ,div#thing_t3_a79n9i > div:nth-of-type(2) > div > p > a,0,PrequelMemes taking over reddit aus usual,0,PrequelMem,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/p/a,A,PrequelMemes taking over reddit aus usual,300,347,159,1669
+12,0,div#thing_t3_a79n9i > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/p/span/a,A,i.redd.it,301,39,523,1676
+12,author may-blank id-t2_17e454,div#thing_t3_a79n9i > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Dusselgurr,0,Dusselgurr,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/p[2]/a,A,Dusselgurr,302,54,320,1690
+12,subreddit hover may-blank,div#thing_t3_a79n9i > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/PrequelMemes,0,r/PrequelM,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/p[2]/a[2],A,r/PrequelMemes,303,82,396,1690
+12,bylink comments may-blank,div#thing_t3_a79n9i > div:nth-of-type(2) > div > ul > li > a,0,45 comments,0,45 comment,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/ul/li/a,A,45 comments,304,78,187,1705
+12,post-sharing-button,div#thing_t3_a79n9i > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/ul/li[2]/a,A,share,305,33,273,1705
+12,0,div#thing_t3_a79n9i > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/ul/li[3]/a,A,save,306,28,314,1705
+12, ,div#thing_t3_a79n9i > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/ul/li[4]/form/span/a,A,hide,307,26,350,1705
+12,reportbtn access-required,div#thing_t3_a79n9i > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[41]/div[2]/div/ul/li[5]/a,A,report,308,37,384,1705
+56,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a78j9q > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[43]/a,A,,309,70,84,1749
+20,title may-blank ,div#thing_t3_a78j9q > div:nth-of-type(2) > div > p > a,0,God left the chat,0,God left t,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/p/a,A,God left the chat,310,135,159,1749
+12,0,div#thing_t3_a78j9q > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/p/span/a,A,i.redd.it,311,39,310,1756
+12,author may-blank id-t2_2eb5fg7h,div#thing_t3_a78j9q > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,poorafricanboy,0,poorafrica,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/p[2]/a,A,poorafricanboy,312,75,320,1770
+12,subreddit hover may-blank,div#thing_t3_a78j9q > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/memes,0,r/memes,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/p[2]/a[2],A,r/memes,313,45,416,1770
+12,bylink comments may-blank,div#thing_t3_a78j9q > div:nth-of-type(2) > div > ul > li > a,0,255 comments,0,255 commen,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/ul/li/a,A,255 comments,314,85,187,1785
+12,post-sharing-button,div#thing_t3_a78j9q > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/ul/li[2]/a,A,share,315,33,280,1785
+12,0,div#thing_t3_a78j9q > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/ul/li[3]/a,A,save,316,28,321,1785
+12, ,div#thing_t3_a78j9q > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/ul/li[4]/form/span/a,A,hide,317,26,357,1785
+12,reportbtn access-required,div#thing_t3_a78j9q > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[43]/div[2]/div/ul/li[5]/a,A,report,318,37,391,1785
+70,thumbnail invisible-when-pinned may-blank ,div#thing_t3_a79d09 > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[45]/a,A,,319,70,84,1815
+20,title may-blank ,div#thing_t3_a79d09 > div:nth-of-type(2) > div > p > a,0,No title required.,0,No title r,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/p/a,A,No title required.,320,137,159,1815
+12,0,div#thing_t3_a79d09 > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/p/span/a,A,i.redd.it,321,39,312,1822
+12,author may-blank id-t2_1tv59azk,div#thing_t3_a79d09 > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,ItzChrisLegendxD,0,ItzChrisLe,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/p[2]/a,A,ItzChrisLegendxD,322,89,320,1836
+12,subreddit hover may-blank,div#thing_t3_a79d09 > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/PewdiepieSubmissions,0,r/Pewdiepi,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/p[2]/a[2],A,r/PewdiepieSubmissions,323,121,430,1836
+12,bylink comments may-blank,div#thing_t3_a79d09 > div:nth-of-type(2) > div > ul > li > a,0,161 comments,0,161 commen,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/ul/li/a,A,161 comments,324,85,187,1851
+12,post-sharing-button,div#thing_t3_a79d09 > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/ul/li[2]/a,A,share,325,33,280,1851
+12,0,div#thing_t3_a79d09 > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/ul/li[3]/a,A,save,326,28,321,1851
+12, ,div#thing_t3_a79d09 > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/ul/li[4]/form/span/a,A,hide,327,26,357,1851
+12,reportbtn access-required,div#thing_t3_a79d09 > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[45]/div[2]/div/ul/li[5]/a,A,report,328,37,391,1851
+52,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a782ww > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[47]/a,A,,329,70,84,1895
+20,title may-blank outbound,div#thing_t3_a782ww > div:nth-of-type(2) > div > p > a,0,"Pixar's ""Bao"" is free on YouTube for a week, to celebrate its Oscar shortlisting!",0,"Pixar's ""B",A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/p/a,A,"Pixar's ""Bao"" is free on YouTube for a week, to celebrate its Oscar shortlisting!",330,631,159,1895
+12,0,div#thing_t3_a782ww > div:nth-of-type(2) > div > p > span > a,0,youtube.com,0,youtube.co,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/p/span/a,A,youtube.com,331,65,806,1902
+12,author may-blank id-t2_gm16p,div#thing_t3_a782ww > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,rhodetolove,0,rhodetolov,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/p[2]/a,A,rhodetolove,332,59,320,1916
+12,subreddit hover may-blank,div#thing_t3_a782ww > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/movies,0,r/movies,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/p[2]/a[2],A,r/movies,333,44,401,1916
+12,bylink comments may-blank,div#thing_t3_a782ww > div:nth-of-type(2) > div > ul > li > a,0,840 comments,0,840 commen,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/ul/li/a,A,840 comments,334,85,187,1931
+12,post-sharing-button,div#thing_t3_a782ww > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/ul/li[2]/a,A,share,335,33,280,1931
+12,0,div#thing_t3_a782ww > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/ul/li[3]/a,A,save,336,28,321,1931
+12, ,div#thing_t3_a782ww > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/ul/li[4]/form/span/a,A,hide,337,26,357,1931
+12,reportbtn access-required,div#thing_t3_a782ww > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[47]/div[2]/div/ul/li[5]/a,A,report,338,37,391,1931
+70,thumbnail invisible-when-pinned may-blank outbound,div#thing_t3_a78bxh > a,0,,0,,A,/html/body/div[4]/div[4]/div/div[49]/a,A,,339,70,84,1957
+20,title may-blank outbound,div#thing_t3_a78bxh > div:nth-of-type(2) > div > p > a,0,Looks like I've won,0,Looks like,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/p/a,A,Looks like I've won,340,153,159,1957
+12,0,div#thing_t3_a78bxh > div:nth-of-type(2) > div > p > span > a,0,i.redd.it,0,i.redd.it,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/p/span/a,A,i.redd.it,341,39,329,1964
+12,author may-blank id-t2_vps4r,div#thing_t3_a78bxh > div:nth-of-type(2) > div > p:nth-of-type(2) > a,0,Natedog128,0,Natedog128,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/p[2]/a,A,Natedog128,342,61,320,1978
+12,subreddit hover may-blank,div#thing_t3_a78bxh > div:nth-of-type(2) > div > p:nth-of-type(2) > a:nth-of-type(2),0,r/Tinder,0,r/Tinder,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/p[2]/a[2],A,r/Tinder,343,41,403,1978
+12,bylink comments may-blank,div#thing_t3_a78bxh > div:nth-of-type(2) > div > ul > li > a,0,319 comments,0,319 commen,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/ul/li/a,A,319 comments,344,85,187,1993
+12,post-sharing-button,div#thing_t3_a78bxh > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,share,0,share,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/ul/li[2]/a,A,share,345,33,280,1993
+12,0,div#thing_t3_a78bxh > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,save,0,save,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/ul/li[3]/a,A,save,346,28,321,1993
+12, ,div#thing_t3_a78bxh > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > form > span > a,0,hide,0,hide,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/ul/li[4]/form/span/a,A,hide,347,26,357,1993
+12,reportbtn access-required,div#thing_t3_a78bxh > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a,0,report,0,report,A,/html/body/div[4]/div[4]/div/div[49]/div[2]/div/ul/li[5]/a,A,report,348,37,391,1993
+19,0,div#siteTable > div:nth-of-type(51) > span > span > a,0,next ›,0,next ›,A,/html/body/div[4]/div[4]/div/div[51]/span/span/a,A,next ›,349,51,77,2035
+15,choice,html > body > div:nth-of-type(5) > div > div > ul > li:nth-of-type(2) > a,0,blog,0,blog,A,/html/body/div[5]/div/div/ul/li[2]/a,A,blog,350,26,315,2154
+15,choice,html > body > div:nth-of-type(5) > div > div > ul > li:nth-of-type(3) > a,0,about,0,about,A,/html/body/div[5]/div/div/ul/li[3]/a,A,about,351,34,315,2168
+15,choice,html > body > div:nth-of-type(5) > div > div > ul > li:nth-of-type(4) > a,0,advertising,0,advertisin,A,/html/body/div[5]/div/div/ul/li[4]/a,A,advertising,352,67,315,2183
+15,choice,html > body > div:nth-of-type(5) > div > div > ul > li:nth-of-type(5) > a,0,careers,0,careers,A,/html/body/div[5]/div/div/ul/li[5]/a,A,careers,353,44,315,2197
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,site rules,0,site rules,A,/html/body/div[5]/div/div[2]/ul/li[2]/a,A,site rules,354,55,466,2154
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Reddit help center,0,Reddit hel,A,/html/body/div[5]/div/div[2]/ul/li[3]/a,A,Reddit help center,355,110,466,2168
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,wiki,0,wiki,A,/html/body/div[5]/div/div[2]/ul/li[4]/a,A,wiki,356,24,466,2183
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,reddiquette,0,reddiquett,A,/html/body/div[5]/div/div[2]/ul/li[5]/a,A,reddiquette,357,69,466,2197
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,mod guidelines,0,mod guidel,A,/html/body/div[5]/div/div[2]/ul/li[6]/a,A,mod guidelines,358,91,466,2212
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a,0,contact us,0,contact us,A,/html/body/div[5]/div/div[2]/ul/li[7]/a,A,contact us,359,62,466,2226
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Reddit for iPhone,0,Reddit for,A,/html/body/div[5]/div/div[3]/ul/li[2]/a,A,Reddit for iPhone,360,103,616,2154
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Reddit for Android,0,Reddit for,A,/html/body/div[5]/div/div[3]/ul/li[3]/a,A,Reddit for Android,361,110,616,2168
+15,mweb-redirect-btn choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,mobile website,0,mobile web,A,/html/body/div[5]/div/div[3]/ul/li[4]/a,A,mobile website,362,90,616,2183
+15,buygold choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,reddit premium,0,reddit pre,A,/html/body/div[5]/div/div[4]/ul/li[2]/a,A,reddit premium,363,105,766,2154
+15,buygold choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,reddit coins,0,reddit coi,A,/html/body/div[5]/div/div[4]/ul/li[3]/a,A,reddit coins,364,79,766,2168
+15,choice,html > body > div:nth-of-type(5) > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,redditgifts,0,redditgift,A,/html/body/div[5]/div/div[4]/ul/li[4]/a,A,redditgifts,365,61,766,2183
+12,0,html > body > div:nth-of-type(5) > p > a,0,User Agreement,0,User Agree,A,/html/body/div[5]/p/a,A,User Agreement,366,81,528,2272
+12,0,html > body > div:nth-of-type(5) > p > a:nth-of-type(2),0,Privacy Policy,0,Privacy Po,A,/html/body/div[5]/p/a[2],A,Privacy Policy,367,67,635,2272

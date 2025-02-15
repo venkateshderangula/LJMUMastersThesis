@@ -1,0 +1,38 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+80,skip-topnav-link,div#page-header-container > a,0,Skip main navigation,0,Skip main ,A,/html/body/div[2]/div[2]/div/a,A,Skip main navigation,1,1,-9999,0
+36,znav-topnav-logo,div#page-header-container > header > nav > div > a,0,,0,,A,/html/body/div[2]/div[2]/div/header/nav/div/a,A,,2,152,524,24
+44,znav-section-title noroute,div#page-header-container > header > nav > div:nth-of-type(2) > ul > li > a,0,Buy,0,Buy,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul/li/a,A,Buy,3,53,2,19
+44,znav-section-title noroute,div#page-header-container > header > nav > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Rent,0,Rent,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul/li[2]/a,A,Rent,4,58,55,19
+44,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,Sell,0,Sell,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul/li[3]/a,A,Sell,5,51,113,19
+44,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Home Loans,0,Home Loans,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul/li[4]/a,A,Home Loans,6,110,163,19
+44,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Agent finder,0,Agent find,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul/li[5]/a,A,Agent finder,7,109,273,19
+44,znav-section-title noroute,li#manage-rentals > a,0,Manage Rentals,0,Manage Ren,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul[2]/li/a,A,Manage Rentals,8,122,802,19
+44,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(2) > a,0,Advertise,0,Advertise,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul[2]/li[2]/a,A,Advertise,9,79,934,19
+45,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul:nth-of-type(3) > li > a,0,Sign in,0,Sign in,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul[3]/li/a,A,Sign in,10,46,1018,18
+45,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(2) > a,0,Join,0,Join,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul[3]/li[2]/a,A,Join,11,26,1089,18
+45,znav-section-title,div#page-header-container > header > nav > div:nth-of-type(2) > ul:nth-of-type(4) > li > a,0,Help,0,Help,A,/html/body/div[2]/div[2]/div/header/nav/div[2]/ul[4]/li/a,A,Help,12,32,1144,18
+70,Input-sc-4ry0fw-0 ehaNDR react-autosuggest__input,input#search-box-input,search-box-input,,0,,INPUT,/html/body/main/div/div/div[2]/div/div[2]/div/div/form/div/div/input,INPUT,,13,613,266,295
+24,ajo662-1 bDYWJC ,button#search-icon,search-icon,,0,,BUTTON,/html/body/main/div/div/div[2]/div/div[2]/div/div/form/div/div/span/button,BUTTON,,14,22,895,318
+48,TextButton-n1gfmh-0 sc-11kispe-0 dXMuHF,div#region-footer-links > ul > li > div > button,0,,0,,BUTTON,/html/body/main/div[3]/div/ul/li/div/button,BUTTON,Real Estate,15,149,93,905
+48,TextButton-n1gfmh-0 sc-11kispe-0 dXMuHF,div#region-footer-links > ul > li:nth-of-type(2) > div > button,0,,0,,BUTTON,/html/body/main/div[3]/div/ul/li[2]/div/button,BUTTON,Rentals,16,121,395,905
+48,TextButton-n1gfmh-0 sc-11kispe-0 dXMuHF,div#region-footer-links > ul > li:nth-of-type(3) > div > button,0,,0,,BUTTON,/html/body/main/div[3]/div/ul/li[3]/div/button,BUTTON,Mortgage Rates,17,185,652,905
+48,TextButton-n1gfmh-0 sc-11kispe-0 dXMuHF,div#region-footer-links > ul > li:nth-of-type(4) > div > button,0,,0,,BUTTON,/html/body/main/div[3]/div/ul/li[4]/div/button,BUTTON,Browse Homes,18,180,942,905
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li > a,0,About,0,About,A,/html/body/div[4]/div/footer/div/nav/ul/li/a,A,About,19,37,85,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(2) > a,0,Zestimates,0,Zestimates,A,/html/body/div[4]/div/footer/div/nav/ul/li[2]/a,A,Zestimates,20,66,141,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(3) > a,0,Research,0,Research,A,/html/body/div[4]/div/footer/div/nav/ul/li[3]/a,A,Research,21,56,227,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(4) > a,0,Careers,0,Careers,A,/html/body/div[4]/div/footer/div/nav/ul/li[4]/a,A,Careers,22,47,303,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(5) > a,0,Help,0,Help,A,/html/body/div[4]/div/footer/div/nav/ul/li[5]/a,A,Help,23,28,370,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(6) > a,0,Advertise,0,Advertise,A,/html/body/div[4]/div/footer/div/nav/ul/li[6]/a,A,Advertise,24,57,418,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(7) > a,0,Fair Housing Guide,0,Fair Housi,A,/html/body/div[4]/div/footer/div/nav/ul/li[7]/a,A,Fair Housing Guide,25,115,495,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(8) > a,0,Terms of use,0,Terms of u,A,/html/body/div[4]/div/footer/div/nav/ul/li[8]/a,A,Terms of use,26,79,630,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(9) > a,0,Privacy Portal,0,Privacy Po,A,/html/body/div[4]/div/footer/div/nav/ul/li[9]/a,A,Privacy Portal,27,82,728,1009
+30,cookie-preference,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(10) > a,0,Cookie Preference,0,Cookie Pre,A,/html/body/div[4]/div/footer/div/nav/ul/li[10]/a,A,Cookie Preference,28,111,831,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(11) > a,0,Blog,0,Blog,A,/html/body/div[4]/div/footer/div/nav/ul/li[11]/a,A,Blog,29,27,962,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(12) > a,0,AI,0,AI,A,/html/body/div[4]/div/footer/div/nav/ul/li[12]/a,A,AI,30,12,1008,1009
+30,0,html > body > div:nth-of-type(4) > div > footer > div > nav > ul > li:nth-of-type(13) > a,0,Mobile Apps,0,Mobile App,A,/html/body/div[4]/div/footer/div/nav/ul/li[13]/a,A,Mobile Apps,31,75,1040,1009
+18,0,a#doNotSell,doNotSell,Do Not Sell My Personal Information →,0,Do Not Sel,A,/html/body/div[4]/div/footer/div/nav/div/a,A,Do Not Sell My Personal Information →,32,237,481,1055
+14,0,html > body > div:nth-of-type(4) > div > footer > div:nth-of-type(2) > div > a,0,contact us,0,contact us,A,/html/body/div[4]/div/footer/div[2]/div/a,A,contact us,33,48,575,1158
+17,znav-topnav-logo,html > body > div:nth-of-type(4) > div > footer > div:nth-of-type(2) > ul > li > a,0,,0,,A,/html/body/div[4]/div/footer/div[2]/ul/li/a,A,,34,152,390,1220
+45,0,html > body > div:nth-of-type(4) > div > footer > div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a,0,Visit us on facebook,0,Visit us o,A,/html/body/div[4]/div/footer/div[2]/ul/li[2]/div/a,A,Visit us on facebook,35,22,613,1197
+45,0,html > body > div:nth-of-type(4) > div > footer > div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a:nth-of-type(2),0,Visit us on twitter,0,Visit us o,A,/html/body/div[4]/div/footer/div[2]/ul/li[2]/div/a[2],A,Visit us on twitter,36,22,643,1197
+41,zsg-icon-eho,a#eho-link,eho-link,,0,,A,/html/body/div[4]/div/footer/div[2]/ul/li[4]/span/a,A,,37,22,788,1198

@@ -1,0 +1,96 @@
+height,locator_class,locator_css,locator_id,locator_linkText,locator_name,locator_partialLinkText,locator_tag,locator_xpath,tag,text,widget_id,width,x,y
+43,0,a#skip,skip,Skip to main content,0,Skip to ma,A,/html/body/a,A,Skip to main content,1,186,534,-1000
+48,epb-close-banner,button#close-epb,close-epb,,0,,BUTTON,/html/body/div/span[2]/div/div/button,BUTTON,,2,48,1141,-2
+16,c-action-trigger,div#epb > div > p > span:nth-of-type(2) > a,0,,0,,A,/html/body/div/span[2]/div/div/div/p/span[2]/a,A,,3,36,1017,28
+34,epb-launch c-action-trigger,div#epb > div > p > span:nth-of-type(2) > a:nth-of-type(2),0,Get started,0,Get starte,A,/html/body/div/span[2]/div/div/div/p/span[2]/a[2],A,Get started,4,86,1053,10
+23,0,a#srv_shellHeaderMicrosoftLogo,srv_shellHeaderMicrosoftLogo,,0,,A,/html/body/div/span[2]/div/div[2]/div/div/a,A,,5,108,60,13
+48,0,a#Store-navigation,Store-navigation,Store,0,Store,A,/html/body/div/span[2]/div/div[2]/div/div[2]/ul/li[2]/div/a,A,Store,6,92,186,0
+48,0,a#Products-navigation,Products-navigation,Products,0,Products,A,/html/body/div/span[2]/div/div[2]/div/div[2]/ul/li[3]/div/a,A,Products,7,115,278,0
+48,top-level-link-text ctl_headerNavLink,li#l1_support > a,0,Support,0,Support,A,/html/body/div/span[2]/div/div[2]/div/div[2]/ul/li[4]/a,A,Support,8,98,393,0
+36,0,input#cli_shellHeaderSearchInput,cli_shellHeaderSearchInput,,q,,INPUT,/html/body/div/span[2]/div/div[2]/div/div[5]/form/div/input,INPUT,,9,244,750,7
+36,0,form#srv_shellHeaderSearchForm > div > button,0,,0,,BUTTON,/html/body/div/span[2]/div/div[2]/div/div[5]/form/div/button,BUTTON,Search,10,33,990,7
+48,0,a#shell-header-shopping-cart,shell-header-shopping-cart,items in cart,0,items in c,A,/html/body/div/span[2]/div/div[2]/div/div[5]/div/a,A,items in cart,11,40,1039,0
+125,contact-tab,button#feedback_text,feedback_text,,0,,BUTTON,/html/body/main/div/div/div/div/button,BUTTON,Site feedback,12,37,1163,268
+45,mscom-link c-call-to-action c-glyph caption-320,div#banner > div > p > a,0,12 Days of Deals. See today’s special,0,12 Days of,A,/html/body/main/section/div/div/p/a,A,12 Days of Deals. See today’s special,13,309,453,61
+10,0,button#slide1_radio,slide1_radio,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div/button,BUTTON,,14,12,588,467
+10,0,button#slide2_radio,slide2_radio,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div/button[2],BUTTON,,15,12,600,467
+48,c-flipper f-previous flDark,button#fprevious,fprevious,,0,,BUTTON,/html/body/main/div[2]/section/div/div/button,BUTTON,,16,24,60,282
+48,c-flipper f-next flDark,button#fnext,fnext,,0,,BUTTON,/html/body/main/div[2]/section/div/div/button[2],BUTTON,,17,24,1116,282
+45,0,a#slide2_headurl,slide2_headurl,Holiday fun with Xbox One,0,Holiday fu,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/h3/a,A,Holiday fun with Xbox One,18,373,140,218
+47,0,a#slide2_paraurl,slide2_paraurl,We've got just the Xbox One S console you're looking for.,0,We've got ,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/p/a,A,We've got just the Xbox One S console you're looking for.,19,334,140,267
+41,c-call-to-action c-glyph,a#slide2_CTA_1,slide2_CTA_1,Shop now,0,Shop now,A,/html/body/main/div[2]/section/div/div/div[2]/ul/li[2]/section/div/div/div/a,A,Shop now,20,138,140,346
+20,dark,button#pause,pause,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div[2]/div/div/button,BUTTON,,21,50,140,463
+20,light,button#play,play,,0,,BUTTON,/html/body/main/div[2]/section/div/div/div[2]/div/div/button[2],BUTTON,,22,50,194,463
+20,mscom-link,a#432f6704-961a-8d05-ba5e-298f7fdea95c,432f6704-961a-8d05-ba5e-298f7fdea95c,,0,,A,/html/body/main/section[2]/div/div/ul/li/a,A,,23,292,122,722
+40,mscom-link,a#a190a6f8-87cd-9eaf-ddf4-be10f1653f15,a190a6f8-87cd-9eaf-ddf4-be10f1653f15,Only $499 for the Dell Inspiron 15 with Intel Core i5 and 1TB HDD.,0,Only $499 ,A,/html/body/main/section[2]/div/div/ul/li[2]/a,A,Only $499 for the Dell Inspiron 15 with Intel Core i5 and 1TB HDD.,24,289,122,824
+20,mscom-link,a#e534970f-7b08-e461-2d64-f190fb980bbc,e534970f-7b08-e461-2d64-f190fb980bbc,,0,,A,/html/body/main/section[2]/div/div/ul[2]/li/a,A,,25,292,454,722
+20,mscom-link,a#fa84ec31-84fb-1091-cc9c-0c1db38b073c,fa84ec31-84fb-1091-cc9c-0c1db38b073c,Save up to $250 on select Surface Book.,0,Save up to,A,/html/body/main/section[2]/div/div/ul[2]/li[2]/a,A,Save up to $250 on select Surface Book.,26,264,454,824
+20,mscom-link,a#afe41e4b-e204-9787-40b5-25274f72b64b,afe41e4b-e204-9787-40b5-25274f72b64b,,0,,A,/html/body/main/section[2]/div/div/ul[3]/li/a,A,,27,292,786,722
+40,mscom-link,a#073465d7-a3d3-ba84-162b-c62f8fe05683,073465d7-a3d3-ba84-162b-c62f8fe05683,"Save big on Xbox, Surface bundles, PCs, and more, while supplies last.",0,Save big o,A,/html/body/main/section[2]/div/div/ul[3]/li[2]/a,A,"Save big on Xbox, Surface bundles, PCs, and more, while supplies last.",28,291,786,824
+20,mscom-link,a#3a719620-a54f-864f-bb1e-a76d41464377,3a719620-a54f-864f-bb1e-a76d41464377,,0,,A,/html/body/main/section[3]/div/div/ul/li/a,A,,29,292,122,968
+40,mscom-link,a#73e8dbdb-8080-f2ec-8c40-1164eba7a20b,73e8dbdb-8080-f2ec-8c40-1164eba7a20b,"Save $50 on select Xbox One S, plus get a free game.",0,Save $50 o,A,/html/body/main/section[3]/div/div/ul/li[2]/a,A,"Save $50 on select Xbox One S, plus get a free game.",30,276,122,1070
+20,mscom-link,a#e544783b-72a8-f30c-6c09-d5f4e33dea8d,e544783b-72a8-f30c-6c09-d5f4e33dea8d,,0,,A,/html/body/main/section[3]/div/div/ul[2]/li/a,A,,31,292,454,968
+40,mscom-link,a#8492f6a3-6d57-c845-2806-0cad8a823484,8492f6a3-6d57-c845-2806-0cad8a823484,12 Days of Deals: Get a sneak peek at all the deals.,0,12 Days of,A,/html/body/main/section[3]/div/div/ul[2]/li[2]/a,A,12 Days of Deals: Get a sneak peek at all the deals.,32,291,454,1070
+20,mscom-link,a#bacfcdff-d484-6564-ef1f-e456f7a33481,bacfcdff-d484-6564-ef1f-e456f7a33481,,0,,A,/html/body/main/section[3]/div/div/ul[3]/li/a,A,,33,292,786,968
+40,mscom-link,a#780b23c4-6572-2e0c-662b-cbfeb3c17352,780b23c4-6572-2e0c-662b-cbfeb3c17352,"Find out which Office is right for you, options starting from $6.99/month.",0,Find out w,A,/html/body/main/section[3]/div/div/ul[3]/li[2]/a,A,"Find out which Office is right for you, options starting from $6.99/month.",34,245,786,1070
+41,c-call-to-action c-glyph,main#content > section:nth-of-type(3) > div:nth-of-type(2) > a,0,Shop now,0,Shop now,A,/html/body/main/section[3]/div[2]/a,A,Shop now,35,142,529,1140
+45,0,a#slim_headurl,slim_headurl,TV and movies on sale,0,TV and mov,A,/html/body/main/section[4]/div/div/div/h3/a,A,TV and movies on sale,36,313,140,1363
+47,0,a#slim_paraurl,slim_paraurl,"Grab big savings on movie bundles, family titles, TV season passes, and more.",0,Grab big s,A,/html/body/main/section[4]/div/div/div/p/a,A,"Grab big savings on movie bundles, family titles, TV season passes, and more.",37,363,140,1412
+41,c-call-to-action c-glyph,a#slim_CTA,slim_CTA,Shop now,0,Shop now,A,/html/body/main/section[4]/div/div/div/div/a,A,Shop now,38,138,140,1491
+53,mscom-link c-call-to-action c-glyph,section#work1 > a,0,LEARN ABOUT OFFICE 365 ENTERPRISE E5,0,LEARN ABOU,A,/html/body/main/section[5]/div/ul/div/li/section/a,A,LEARN ABOUT OFFICE 365 ENTERPRISE E5,39,228,57,2135
+53,mscom-link c-call-to-action c-glyph,section#work2 > a,0,DOWNLOAD WINDOWS 10 ENTERPRISE,0,DOWNLOAD W,A,/html/body/main/section[5]/div/ul/div/li[2]/section/a,A,DOWNLOAD WINDOWS 10 ENTERPRISE,40,228,327,2107
+53,mscom-link c-call-to-action c-glyph,section#work3 > a,0,GET THE WINDOWS 10 DEV TOOLS,0,GET THE WI,A,/html/body/main/section[5]/div/ul/div[2]/li/div/section/a,A,GET THE WINDOWS 10 DEV TOOLS,41,228,597,2087
+37,mscom-link c-call-to-action c-glyph,section#work4 > a,0,TRY SQL SERVER 2016,0,TRY SQL SE,A,/html/body/main/section[5]/div/ul/div[2]/li[2]/div/section/a,A,TRY SQL SERVER 2016,42,160,867,2107
+10,0,button#sam_slide1_radio,sam_slide1_radio,,0,,BUTTON,/html/body/main/div[3]/section/div/div/div/button,BUTTON,,43,12,588,2613
+10,0,button#sam_slide2_radio,sam_slide2_radio,,0,,BUTTON,/html/body/main/div[3]/section/div/div/div/button[2],BUTTON,,44,12,600,2613
+48,c-flipper f-previous flLight,button#sam_fprevious,sam_fprevious,,0,,BUTTON,/html/body/main/div[3]/section/div/div/button,BUTTON,,45,24,60,2427
+48,c-flipper f-next flLight,button#sam_fnext,sam_fnext,,0,,BUTTON,/html/body/main/div[3]/section/div/div/button[2],BUTTON,,46,24,1116,2427
+45,0,a#slide2_headurl,slide2_headurl,Tech for the family firm,0,Tech for t,A,/html/body/main/div[3]/section/div/div/div[2]/ul/li[2]/section/div/div/h3/a,A,Tech for the family firm,47,321,140,2353
+67,0,a#slide2_paraurl,slide2_paraurl,A small zero-waste upcycling company uses Microsoft technology to manage its business.,0,A small ze,A,/html/body/main/div[3]/section/div/div/div[2]/ul/li[2]/section/div/div/p/a,A,A small zero-waste upcycling company uses Microsoft technology to manage its business.,48,377,140,2402
+41,c-call-to-action c-glyph,a#slide2_CTA_1,slide2_CTA_1,See how,0,See how,A,/html/body/main/div[3]/section/div/div/div[2]/ul/li[2]/section/div/div/div/a,A,See how,49,124,140,2501
+20,dark,button#pause1,pause1,,0,,BUTTON,/html/body/main/div[3]/section/div/div/div[2]/div/div/button,BUTTON,,50,50,140,2609
+20,light,button#play1,play1,,0,,BUTTON,/html/body/main/div[3]/section/div/div/div[2]/div/div/button[2],BUTTON,,51,50,194,2609
+32,0,html > body > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a,0,,0,,A,/html/body/div[2]/div/ul/li[2]/a,A,,52,32,196,2656
+32,0,html > body > div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a,0,,0,,A,/html/body/div[2]/div/ul/li[3]/a,A,,53,32,240,2656
+32,0,html > body > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a,0,,0,,A,/html/body/div[2]/div/ul/li[4]/a,A,,54,32,284,2656
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li > a,0,Windows,0,Windows,A,/html/body/div[3]/span/div/div/div/div/ul/li/a,A,Windows,55,49,60,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(2) > a,0,Office,0,Office,A,/html/body/div[3]/span/div/div/div/div/ul/li[2]/a,A,Office,56,31,60,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(3) > a,0,Skype,0,Skype,A,/html/body/div[3]/span/div/div/div/div/ul/li[3]/a,A,Skype,57,31,60,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(4) > a,0,Outlook,0,Outlook,A,/html/body/div[3]/span/div/div/div/div/ul/li[4]/a,A,Outlook,58,43,60,2830
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(5) > a,0,OneDrive,0,OneDrive,A,/html/body/div[3]/span/div/div/div/div/ul/li[5]/a,A,OneDrive,59,50,60,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div > ul > li:nth-of-type(6) > a,0,MSN,0,MSN,A,/html/body/div[3]/span/div/div/div/div/ul/li[6]/a,A,MSN,60,26,60,2878
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li > a,0,Microsoft Surface,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li/a,A,Microsoft Surface,61,93,233,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a,0,Xbox,0,Xbox,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[2]/a,A,Xbox,62,27,233,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a,0,PC and laptops,0,PC and lap,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[3]/a,A,PC and laptops,63,80,233,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a,0,Microsoft Lumia,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[4]/a,A,Microsoft Lumia,64,85,233,2830
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a,0,Microsoft Band,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[5]/a,A,Microsoft Band,65,81,233,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a,0,Microsoft HoloLens,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[2]/ul/li[6]/a,A,Microsoft HoloLens,66,103,233,2878
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li > a,0,View account,0,View accou,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li/a,A,View account,67,70,406,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a,0,Order tracking,0,Order trac,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[2]/a,A,Order tracking,68,77,406,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a,0,Retail store locations,0,Retail sto,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[3]/a,A,Retail store locations,69,110,406,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a,0,Returns,0,Returns,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[4]/a,A,Returns,70,40,406,2830
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a,0,Sales & support,0,Sales & su,A,/html/body/div[3]/span/div/div/div/div[3]/ul/li[5]/a,A,Sales & support,71,84,406,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li > a,0,Download Center,0,Download C,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li/a,A,Download Center,72,92,578,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a,0,Windows downloads,0,Windows do,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[2]/a,A,Windows downloads,73,110,578,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a,0,Windows 10 Apps,0,Windows 10,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[3]/a,A,Windows 10 Apps,74,95,578,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a,0,Office Apps,0,Office App,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[4]/a,A,Office Apps,75,62,578,2830
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a,0,Microsoft Lumia Apps,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[5]/a,A,Microsoft Lumia Apps,76,116,578,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a,0,Internet Explorer,0,Internet E,A,/html/body/div[3]/span/div/div/div/div[4]/ul/li[6]/a,A,Internet Explorer,77,88,578,2878
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li > a,0,Diversity and inclusion,0,Diversity ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li/a,A,Diversity and inclusion,78,119,751,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(2) > a,0,Accessibility,0,Accessibil,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[2]/a,A,Accessibility,79,64,751,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(3) > a,0,Microsoft in Education,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[3]/a,A,Microsoft in Education,80,119,751,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(4) > a,0,Microsoft Philanthropies,0,Microsoft ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[4]/a,A,Microsoft Philanthropies,81,129,751,2830
+34,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(5) > a,0,Corporate Social Responsibility,0,Corporate ,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[5]/a,A,Corporate Social Responsibility,82,87,751,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(5) > ul > li:nth-of-type(6) > a,0,Privacy at Microsoft,0,Privacy at,A,/html/body/div[3]/span/div/div/div/div[5]/ul/li[6]/a,A,Privacy at Microsoft,83,104,751,2896
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li > a,0,Careers,0,Careers,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li/a,A,Careers,84,40,924,2758
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(2) > a,0,About Microsoft,0,About Micr,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[2]/a,A,About Microsoft,85,86,924,2782
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(3) > a,0,Company news,0,Company ne,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[3]/a,A,Company news,86,81,924,2806
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(4) > a,0,Investors,0,Investors,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[4]/a,A,Investors,87,47,924,2830
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(5) > a,0,Research,0,Research,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[5]/a,A,Research,88,47,924,2854
+16,0,div#96ff19a3-2403-0d94-fcc9-eebb42d21e29 > span > div > div > div > div:nth-of-type(6) > ul > li:nth-of-type(6) > a,0,Site map,0,Site map,A,/html/body/div[3]/span/div/div/div/div[6]/ul/li[6]/a,A,Site map,89,46,924,2878
+16,0,a#locale-picker-link,locale-picker-link,English (United States)‎,0,English (U,A,/html/body/div[3]/span/div/div/div[2]/ul/li[2]/a,A,English (United States)‎,90,119,89,2960
+16,ctl_footerNavLink,a#shellmenu_0,shellmenu_0,Contact us,0,Contact us,A,/html/body/div[3]/span/div/div/div[3]/ul/li/a,A,Contact us,91,56,572,2960
+16,ctl_footerNavLink,a#shellmenu_1,shellmenu_1,Privacy & cookies,0,Privacy & ,A,/html/body/div[3]/span/div/div/div[3]/ul/li[2]/a,A,Privacy & cookies,92,93,653,2960
+16,ctl_footerNavLink,a#shellmenu_2,shellmenu_2,Terms of use,0,Terms of u,A,/html/body/div[3]/span/div/div/div[3]/ul/li[3]/a,A,Terms of use,93,68,770,2960
+16,ctl_footerNavLink,a#shellmenu_3,shellmenu_3,Trademarks,0,Trademarks,A,/html/body/div[3]/span/div/div/div[3]/ul/li[4]/a,A,Trademarks,94,62,861,2960
+16,ctl_footerNavLink,a#shellmenu_4,shellmenu_4,About our ads,0,About our ,A,/html/body/div[3]/span/div/div/div[3]/ul/li[5]/a,A,About our ads,95,76,947,2960
